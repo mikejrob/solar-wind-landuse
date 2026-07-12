@@ -1,0 +1,21 @@
+site_name,tmk_or_site,owner,type,acres_le15,land_value_per_ac,dist_138kv_km,viability_class,note
+Waiawa (Kamehameha Schools),196005013,B P BISHOP TRUST ESTATE,urban_parcel,597.9,42851.0,0.45,durable,largest single durable parcel; KS trust land assessed near ag rates; adjacent Waiawa solar precedent
+He'eia CDD (HCDA),146016001,HAWAII COMM DEV AUTHORITY,urban_parcel,221.9,19233.0,0.73,durable,He'eia community development district; flat but includes wetland/ag-park uses - field check needed
+Waimanalo (State of Hawaii),139011002,STATE OF HAWAII,urban_parcel,171.3,20002.0,11.83,durable,state land in Waimanalo; far from 138kV (11.8 km) - 46kV-scale projects only
+Kapolei mauka (C&C Honolulu),191182009,CITY AND COUNTY OF HONOLULU,urban_parcel,162.4,82209.0,0.01,durable,"county land mauka of Kapolei, on the 138kV corridor"
+UH West O'ahu lands,191016179,UNIVERSITY OF HAWAII,urban_parcel,152.7,71695.0,0.05,durable,"UH West O'ahu surplus lands, on the 138kV corridor; UH has solicited development here"
+Pacific Aggregate quarry (Wahiawa),way/1354424725,SPHERE LLC,quarry,149.7,6625.0,7.12,durable,"active quarry, host parcel assessed ~$7k/ac; 7 km to 138kV"
+Sand Island (DLNR),115041006,S OF H DLNR,urban_parcel,138.7,1689706.0,1.34,durable,Sand Island; high-value ($1.7M/ac) industrial/park land - weakest of the durable set
+Kalaeloa (DHHL),191013061,HAWAIIAN HOME LANDS,urban_parcel,133.2,1151463.0,0.62,durable,DHHL Kalaeloa; durable vs development depends on homestead pipeline timing
+Whitmore Village (HTDC),195002057,HAWAII TECHNOLOGY DEVELOPMENT CORP,urban_parcel,132.3,42311.0,0.01,durable,"HTDC Whitmore Village ag-tech park lands, adjacent 138kV"
+Kalaeloa/Barbers Pt (State DOA),191031001,STATE OF HAWAII (DOA),urban_parcel,110.2,45778.0,0.28,durable,"State DOA land at Kalaeloa/Barbers Point, 0.3 km to 138kV"
+East Kapolei (DHHL),191013038,HAWAIIAN HOME LANDS,urban_parcel,96.3,957026.0,0.85,durable,DHHL East Kapolei; homestead pipeline caveat as above
+Kawailoa/Haleiwa (Kamehameha Schools),162001001,B P BISHOP TRUST ESTATE,urban_parcel,92.7,44325.0,14.4,durable,KS Kawailoa/Haleiwa; 14 km from 138kV - North Shore 46kV only
+Kapaa Quarry (Kailua),way/239954711,KAPAA QUARRY HOLDINGS LLC,quarry,88.6,9235.0,0.0,durable,"active quarry complex (+2 pits, 43 ac same owner); 138kV crosses site"
+Kahuku (C&C Honolulu),156002055,CITY AND COUNTY OF HONOLULU,urban_parcel,88.3,48409.0,21.28,durable,county land at Kahuku; 21 km from 138kV grid
+UH West O'ahu lands,191016222,UNIVERSITY OF HAWAII,urban_parcel,84.9,1250531.0,0.04,durable,UH West O'ahu; higher assessed value ($1.25M/ac) than sibling parcel
+Makaiwa Hills (Kapolei mauka),192050001,MAKAIWA HILLS LLC,urban_parcel,384.3,245.0,0.0,higher_value_development,Makaiwa Hills master-planned community (entitled); assessed near zero pending subdivision
+Kalaeloa (Kapolei Properties/Hunt),191014095,KAPOLEI PROPERTIES LLC,urban_parcel,229.9,621891.0,0.0,higher_value_development,Hunt land at Kalaeloa; $622k/ac; active development area with some existing solar
+Makaiwa Hills (Kapolei mauka),192050003,MAKAIWA HILLS LLC,urban_parcel,193.8,319.0,0.0,higher_value_development,Makaiwa Hills master-planned community (entitled)
+Turtle Bay area (North Shore Bay Owner),156003062,NORTH SHORE BAY OWNER LLC,urban_parcel,157.3,75731.0,22.46,higher_value_development,Turtle Bay resort expansion lands; remote from 138kV (22 km)
+Ho'opili area (D.R. Horton),191018054,D R HORTON HAWAII LLC,urban_parcel,150.0,987.0,0.12,higher_value_development,Ho'opili (D.R. Horton) entitled residential; assessed near zero pending subdivision

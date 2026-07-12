@@ -5,3 +5,6 @@ cache/
 data/gis/*
 !data/gis/*.csv
 .DS_Store
+__pycache__/
+*.pyc
+.venv/

@@ -1,0 +1,11 @@
+row_type,name,viable_acres,notes,viable_le30_acres,viable_gt30_acres,centroid_lon,centroid_lat
+summary,agc_zoned_total,108417.0,"AG-1 + AG-2 + Country zoned land, Oahu LUO layer",,,,
+summary,ord25_2_viable_total,39386.0,1.25-mi buffer around country/res/apt/apt-MU/resort lots; 36.3% of AG/Country; slope split from 10 m raster cell counts,26023.0,13363.0,,
+summary,pre2025_200m_viable_total,91856.0,"~1x tip height (200 m) from same sensitive set, upper-bound-flavored approximation; 84.7% of AG/Country",,,,
+region,Waialua,21239.0,,12955.0,8285.0,-158.0813,21.5493
+region,Kunia,7834.0,,6940.0,894.0,-158.067,21.4406
+region,Kahuku,4136.0,,1958.0,2178.0,-157.9815,21.6573
+region,Kawailoa,4012.0,,3004.0,1008.0,-158.0472,21.6021
+region,Waianae Range mauka,1008.0,,725.0,283.0,-158.218,21.5074
+region,Waipio/Waiawa,865.0,,284.0,581.0,-157.9593,21.4583
+region,Nanakuli,204.0,,99.0,105.0,-158.1143,21.4082

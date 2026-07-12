@@ -5,9 +5,12 @@ legally confined to AG/Country zoning under Honolulu Ord. 25-2, so this is a
 solar-only screen. The state URBAN district is the live candidate;
 CONSERVATION is legally/practically unavailable (acreage noted only).
 
-Date: 2026-07-12. Script chain in scratchpad (step1_urban.py ... step7_fig.py);
-outputs: `data/oahu_nonag_solar_candidates.csv`,
-`analysis/figs/paper/f_nonag_map.png`.
+Date: 2026-07-12. Script chain in scratchpad (step1_urban.py ... step7_fig.py;
+step8_classify.py and step9_fig.py add the viability classification);
+outputs: `data/oahu_nonag_solar_candidates.csv` (now with `land_value_per_ac`
+and `viability_class` columns), `data/gis/nonag_top_parcels.csv` (largest
+durable + higher-value examples), `analysis/figs/paper/f_nonag_map.png`
+(colored by viability class).
 
 ## Method
 
@@ -95,6 +98,69 @@ OSM inventory: HCDA (391 ac flat), DHHL, Hunt/Kapolei Properties, University
 of Hawaii parcels, plus ~2,400 ac of Navy-retained flat land counted under
 military. Active solar projects already exist there (e.g., Kalaeloa
 Renewable Energy Park).
+
+## Economic viability classification (2026-07-12)
+
+Each headline-tier candidate (the 290 low-improvement, non-military,
+non-airport/harbor/golf/cemetery urban parcels) and each special site gets a
+`viability_class` in `data/oahu_nonag_solar_candidates.csv`; all other rows
+(military notes, screened-out parcels) have an empty class.
+`land_value_per_ac` = RPAD 2026 assessed land value / urban acres of the
+parcel (for special sites: host-parcel assessed value / host-parcel acres).
+
+Rules (mechanical, in priority order):
+1. durable — public owner (State/DLNR/DHHL/HCDA/UH/HTDC/HHFDC/DOA/county, by
+   govlands table or owner string), UNLESS assessed land >= $2M/ac (urban-park
+   / high-amenity guard -> uncertain; moves 24 parcels, 592 ac, e.g. beach
+   parks, Sand Island-adjacent high-value state land). Also all
+   quarry/landfill/brownfield sites not owned by a pipeline developer, and
+   private low-improvement parcels assessed < $50k/ac with no pipeline owner.
+2. higher_value_development — named entitled-pipeline owners (D.R. Horton /
+   Ho'opili, Makaiwa Hills LLC, Haseko/Hoakalei, North Shore Bay (Turtle Bay),
+   Castle & Cooke (Koa Ridge), Gentry, Ko Olina, Aina Nui) REGARDLESS of
+   assessed value — master-planned land is often assessed near ag rates
+   pre-subdivision (Makaiwa Hills: $245/ac!), so a value screen alone would
+   misclassify the entire housing pipeline as cheap. Otherwise: private
+   parcels assessed >= $500k/ac.
+3. uncertain — the remainder: private, non-pipeline, $50k-$500k/ac (includes
+   most Kamehameha Schools parcels at ~$58-76k/ac, WT Laulima, Robinson
+   Kunia), plus the high-value public parcels caught by the $2M guard.
+
+Thresholds picked from the headline-tier distribution (median $124k/ac):
+$50k/ac ~ p33, $500k/ac ~ p63; both sit in visible gaps of the value
+histogram. Assessed values are NOT market values — direction of bias is to
+understate development option value, hence the owner-list override.
+
+| class (urban parcels) | parcels | ac <=15% | ac <=30% | MW @ 7-5 ac/MW |
+|---|---|---|---|---|
+| durable | 143 | 5,124 | 6,108 | 730-1,020 |
+| uncertain | 58 | 2,446 | 2,645 | 350-490 |
+| higher_value_development | 89 | 3,749 | 4,804 | 540-750 |
+| (total headline tier) | 290 | 11,319 | 13,557 | 1,620-2,260 |
+
+| class (special sites) | sites | ac <=15% | MW @ 7-5 ac/MW |
+|---|---|---|---|
+| durable (quarries, landfills, non-pipeline brownfields) | 12 | 542 | 77-108 |
+| higher_value_development (Haseko/Hoakalei + Castle & Cooke brownfields) | 4 | 111 | 16-22 |
+
+Durable urban-parcel split: 113 public parcels (3,781 ac <=15%) + 30 private
+low-value parcels (1,343 ac, dominated by KS Waiawa 598 ac and KS
+Kawailoa/Haleiwa 93 ac). Combined durable inventory (urban + special sites,
+~8 ac overlap netted): ~5,660 ac at <=15% slope, ~810-1,130 MW. This
+formalizes—and slightly enlarges—the earlier ad-hoc "durable slice" estimate
+of 4,600-5,300 ac (the delta is KS low-value land and non-pipeline private
+parcels the ad-hoc version ignored).
+
+Largest durable candidates (full list: `data/gis/nonag_top_parcels.csv`):
+KS Waiawa 598 ac; HCDA He'eia 222; State Waimanalo 171; C&C Kapolei mauka
+162; UH West O'ahu 153 (+85); Pacific Aggregate quarry 150; DLNR Sand Island
+139; DHHL Kalaeloa 133 (+96 East Kapolei); HTDC Whitmore 132; State DOA
+Kalaeloa 110; KS Kawailoa 93; Kapaa Quarry 89; C&C Kahuku 88.
+
+Caveats specific to the classification: DHHL parcels are "public" but carry a
+homestead-development pipeline of their own; He'eia CDD includes
+wetland/ag-park uses; classification is owner+assessed-value only — no
+county-zoning, flood, or encumbrance screen.
 
 ## Totals and comparison to the ag district
 

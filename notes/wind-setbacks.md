@@ -280,6 +280,40 @@ documented organic community mobilization (contrast with the solar record).
 
 ---
 
+## 7. GIS quantification of the Ord 25-2 screen (this project, 2026-07)
+
+Computed in `analysis/wind_viable_map.py` (map: `analysis/figs/paper/f_wind_map.png`;
+tables: `data/gis/wind_viable_areas.csv`, `data/gis/wind_setback_oahu.csv`).
+Applying the enacted rule — AG-1/AG-2/Country districts only, ≥ 1.25 mi from any
+country/residential/apartment/apartment-MU/resort zoning-lot line (flat floor;
+10× tip ≈ 2,000 m for ~200 m tips) — **39,386 ac remain geometrically viable,
+36.3% of Oahu's 108,417 ac of AG/Country-zoned land**, vs ~91,856 ac (84.7%)
+under the pre-2025 ~1×-tip-height (~200 m) rule approximated against the same
+sensitive set. Because Country is itself a protected district, every C-zoned acre
+is within 1.25 mi of a C lot line: all viable land is AG-1/AG-2. Overlaying the
+10 m USGS slope raster, **26,023 ac (66%) of the viable land is ≤ 30% slope**;
+13,363 ac is steeper (buildable, if at all, only along ridge access). The viable
+land is entirely the mauka interior of the island's north-central quadrant, in
+four main blocks: (1) the **Waialua/Helemano plateau** (~21,200 ac, the largest by
+far, but 39% of it >30% slope in the Koʻolau-foothill gulches; served only by
+mapped 46 kV); (2) **Kunia/central Oahu** (~7,800 ac, 89% ≤30% slope — the
+gentlest large block, and the closest to the 138 kV spine); (3) the **Kahuku
+hills** (~4,100 ac, but majority-steep at 53% >30%) mauka of the existing
+turbines; and (4) **Kawailoa/Pupukea mauka** (~4,000 ac). Small remnants sit in
+the Waiʻanae Range above Mākua (~1,000 ac), Waipiʻo/Waiawa (~870 ac, mostly
+steep), and Nānākuli (~200 ac). The three existing farms (Kahuku Wind,
+Na Pua Makani, Kawailoa) sit at or just outside the edges of the Kahuku and
+Kawailoa viable blocks — the Kahuku-area markers fall inside the 1.25-mi
+exclusion, consistent with Civil Beat's report that 18 of 20 Kahuku turbines are
+nonconforming; the Kawailoa marker falls near the boundary of the screened-viable
+area, but the repowering clamp and waiver ban apply regardless. Caveats: geometric
+screen only (no FAA/radar, noise-at-receptor, habitat, or cultural layers);
+zoning-lot boundaries proxy for property lines; C&C Honolulu open-data LUO layer
+(2024/25 vintage); the pre-2025 figure is an upper-bound-flavored approximation
+(see `analysis/wind_setback_oahu.py` docstring).
+
+---
+
 ## Source index (primary)
 
 - Ordinance 25-2 enrolled: https://files.amlegal.com/pdffiles/Honolulu/ORD25-002.pdf
