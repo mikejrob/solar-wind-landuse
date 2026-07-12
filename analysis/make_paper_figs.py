@@ -104,8 +104,29 @@ plt.close(fig)
 # ------------------------------------------------------------- F3 ownership
 m = pd.read_csv(ROOT / "data" / "oahu_owner_class_transmission.csv", dtype={"tmk": str})
 m["bc"] = m["b_acres"] + m["c_acres"]; m["de"] = m["d_acres"] + m["e_acres"]
-top = (m.groupby("owner_resolved")[["parcel_acres", "a_acres", "bc", "de"]].sum()
-         .sort_values("parcel_acres", ascending=False).head(10))
+m["owner_resolved"] = m["owner_resolved"].fillna("UNATTRIBUTED")
+m["owner_type"] = m["owner_type"].fillna("unknown")
+byowner = (m.groupby("owner_resolved")
+             .agg(parcel_acres=("parcel_acres", "sum"), a_acres=("a_acres", "sum"),
+                  bc=("bc", "sum"), de=("de", "sum"),
+                  gov=("owner_type", lambda s: s.isin(["state", "federal", "county", "dhhl"]).any()))
+             .sort_values("parcel_acres", ascending=False))
+top = byowner.head(10)[["parcel_acres", "a_acres", "bc", "de"]]
+
+# aggregate everyone outside the top 10 into scale classes
+rest = byowner.iloc[10:]
+groups_rest = {
+    "Other government agencies": rest[rest["gov"]],
+    "Other large private (≥1,000 ac held)": rest[(~rest["gov"]) & (rest["parcel_acres"] >= 1000)],
+    "Other mid private (100–1,000 ac)": rest[(~rest["gov"]) & (rest["parcel_acres"] >= 100) & (rest["parcel_acres"] < 1000)],
+    "Small private (<100 ac held)": rest[(~rest["gov"]) & (rest["parcel_acres"] < 100)],
+}
+agg_rows = []
+for name, g in groups_rest.items():
+    agg_rows.append(pd.Series({"parcel_acres": g["parcel_acres"].sum(),
+                               "a_acres": g["a_acres"].sum(), "bc": g["bc"].sum(),
+                               "de": g["de"].sum()}, name=f"{name} · n={len(g):,}"))
+top = pd.concat([top, pd.DataFrame(agg_rows)])
 short = {
     "State of Hawaii (agency unspecified)": "State of Hawaiʻi (other)",
     "United States of America": "United States (military etc.)",
@@ -118,7 +139,7 @@ short = {
     "Dole Food Co Inc": "Dole Food Co",
     "Kualoa Ranch (Morgan family)": "Kualoa Ranch",
 }
-fig, ax = plt.subplots(figsize=(8.6, 5.0), dpi=200)
+fig, ax = plt.subplots(figsize=(8.6, 6.4), dpi=200)
 y = np.arange(len(top))[::-1]
 left = np.zeros(len(top))
 for col, color, name in [("a_acres", YELLOW, "A (banned)"), ("bc", BLUE, "B/C (capped)"), ("de", AQUA, "D/E (open)")]:
@@ -130,14 +151,16 @@ for yi, (name, row) in zip(y, top.iterrows()):
     ax.text(left[list(top.index).index(name)] + 400, yi, f"{row['parcel_acres']:,.0f} ac total",
             va="center", fontsize=9.5, color=INK2)
 ax.set_yticks(y)
-ax.set_yticklabels([short.get(i, i[:28]) for i in top.index], fontsize=10, color=INK2)
+ax.set_yticklabels([short.get(i, i if '·' in i else i[:28]) for i in top.index], fontsize=9.5, color=INK2)
+for lbl in ax.get_yticklabels():
+    if '·' in lbl.get_text(): lbl.set_style('italic')
 ax.set_xlim(0, top["parcel_acres"].max() * 1.22)
-ax.set_xlabel("Oʻahu State Agricultural District acres (stacked by LSB soil group; remainder = unrated/water)", fontsize=9.5)
+ax.set_xlabel("Oʻahu ag-district acres (stacked by LSB soil group; bar shortfall vs total = unrated/water)", fontsize=9.5)
 style(ax, xgrid=True)
 ax.legend(loc="lower right", frameon=False, fontsize=9.8, labelcolor=INK2)
 ax.set_title("Government owns half of Oʻahu's ag district;\nKamehameha Schools owns a quarter of what's private",
              loc="left", fontsize=12.5, color=INK, fontweight="bold", pad=14)
-fig.text(0.005, 0.012, "Top 10 owners of 210,130 attributed acres (99% coverage). Source: Honolulu RPAD OWNALL bulk table, entity-resolved.",
+fig.text(0.005, 0.012, "Top 10 owners plus scale-class aggregates of all remaining owners; 210,130 attributed acres (99% coverage). Source: Honolulu RPAD OWNALL, entity-resolved.",
          fontsize=8, color=MUTED)
 fig.tight_layout(rect=(0, 0.045, 1, 1))
 fig.savefig(FIGS / "f3_ownership.png", facecolor=SURF)
