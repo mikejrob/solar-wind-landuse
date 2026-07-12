@@ -387,7 +387,11 @@
   confidential) gives the capacity column of Table&nbsp;7. On the requirement side, on-site storage caps what the
   corridor must carry: with 4–6 hour batteries sized at 50–100% of plant power, the flow requirement saturates near
   (southern load share) × (evening load) — roughly 930 MW at today's ~1.2 GW peak, ~1,550 MW under a 2 GW
-  electrified-2045 peak — rather than anything near installed solar capacity.</p>
+  electrified-2045 peak — rather than anything near installed solar capacity. Distributed resources lower it
+  further: Oʻahu already carries roughly 800 MW of rooftop solar and ~250 MWh of distributed storage serving
+  southern load in place, netting perhaps 100–300 MW off the evening interface requirement (more as DER grows),
+  which puts peak transmission flows plausibly at or below ~1 GW today and makes the 1.5 GW figure an upper
+  case.</p>
 
   <div class="tablewrap">
   <table>
@@ -417,9 +421,18 @@
   options suggests common fixed costs dominate. Both numbers are reported; neither substitutes for a power-flow
   study.</p>
 
-  <p>Further investigation, in order of value: (1) the HNEI/GridSTART route — HNEI co-owns the validated GE
-  MAPS/PSLF Oʻahu network model and publishes bus-level grid-strength rankings (west strongest, Wahiawā weakest);
-  direct collaboration would replace every guessed rating in Table&nbsp;7; (2) the IGP docket's transmission analyses
+  <p>A modeling note: the HNEI/GE Oʻahu network model runs on proprietary software with confidential utility data —
+  its published results (bus-level grid-strength rankings: west strongest, Wahiawā weakest) serve as validation
+  benchmarks, not open inputs. The open-source path is a nodal or zonal extension of the Switch-Oahu planning model
+  with security-constrained dispatch: the mapped system — two west-anchored 138 kV corridors plus radial 46 kV
+  branches — supports a compact zone graph with interface limits, and the screenline structure above is that graph's
+  skeleton (a starter interface dataset is provided at data/switch_oahu_interfaces.csv). A second note on cost
+  containment: under cost-of-service principles, transmission capex enters the utility's rate base, so proposed
+  scopes carry an incentive toward the large end; the near-equality of HECO's three studied options (~$1.2–1.3 B,
+  within ~5%) is consistent with scope-driven costing and is exactly the situation where independent benchmarks —
+  like the geometric estimates here — and sharp regulatory review of scope earn their keep. A hardened, publicly
+  planned corridor sized to the storage-capped requirement remains a strong candidate investment for procurement
+  competition. Further investigation, in order of value: (1) HNEI/GridSTART published results as benchmarks; (2) the IGP docket's transmission analyses
   (2018-0165) and the 2021 REZ study appendices; (3) HECO's RFP interconnection guidance (spare 138 kV terminations
   are published: Kahe, ʻEwa Nui, Hoʻohana, CEIP — leeward/central has room, windward is full); (4) curtailment-by-
   cause data as a revealed-constraint measure; (5) a proper N-1 power-flow on a synthetic or HNEI-supplied network.
