@@ -259,3 +259,90 @@ is justified.
   (confidence flags in `oahu_ag_owners.csv`); unparceled cluster area is
   unattributed.
 - No hosting-capacity, substation, or land-use-entitlement information.
+
+## Budget-constrained expansion curve (added 2026-07-12, greedy heuristic)
+
+Question: given a budget of L km of NEW line, branching off the existing
+mapped 46 kV+ network or off previously built expansion, where should it go
+to maximize B/C/D ag-district acreage (class A excluded — solar banned;
+class E excluded per spec) brought within 1 km of a line, counting only
+land passing the ≤30% slope screen (≤15% variant also tracked)?
+
+Script: `analysis/transmission_expansion.py`. Outputs:
+`data/gis/expansion_curve.csv` (per-step log with segment WKT, EPSG:26904),
+`data/gis/expansion_segments.parquet`,
+`analysis/figs/paper/f_expansion_curve.png`,
+`analysis/figs/paper/f_expansion_map.png`.
+
+### Method (an approximation — stated plainly)
+
+- Eligibility raster: 10 m LSB class ∈ {B,C,D} within the ag district ×
+  slope band, aggregated to eligible-acres per 100 m cell. Total eligible:
+  40,870 ac at ≤30% slope; 35,042 ac at ≤15%.
+- Coverage function: 100 m cells within a 10-cell (1 km) disk of any
+  network cell. Network = mapped 46 kV+ lines (HIFLD+OSM, rasterized,
+  all_touched) ∪ built expansion. Coverage is evaluated on the 100 m
+  lattice, so acreages differ slightly (<~1%) from the 10 m
+  polygon-buffer numbers elsewhere in this file.
+- Greedy growth, ≤1 km committed per step: each iteration scores every
+  reachable cell q by [uncovered eligible acres in the 1 km disk at q] /
+  [slope-aware shortest-path length from the current network to q]
+  (multi-source Dijkstra, 8-connected; entering a cell that is >30% steep
+  over >30% of its area costs 6× its geometric length — the router avoids
+  steep ground but may cross it). The top ~15 candidates are re-scored
+  exactly (full path tube stamped against the uncovered map) and the best
+  path is committed in a ≤1.0 km increment. Budget charged = geometric km,
+  not penalized cost. Branching and spur extension are automatic (every
+  network cell is a Dijkstra source).
+- Long approach runs therefore appear as several near-zero-gain steps
+  followed by a jump when a far cluster comes into range — the marginal
+  series is mostly non-increasing with occasional local jumps (the clearest:
+  reaching the Waiawa cluster at cum ≈ 37 km, +406 ac/km).
+
+### Results
+
+Baseline (L=0): **16,328 ac** of B–D ≤30% land within 1 km of the mapped
+46 kV+ network (14,171 ac at ≤15%) — 40% of all eligible land.
+
+| L (km) | ac ≤30% | added | avg ac/km | ac ≤15% | share of eligible |
+|---|---|---|---|---|---|
+| 0 | 16,328 | — | — | 14,171 | 40% |
+| 10 | 20,185 | +3,857 | 386 | 17,833 | 49% |
+| 25 | 24,195 | +7,868 | 315 | 21,374 | 59% |
+| 50 | 29,481 | +13,153 | 263 | 26,150 | 72% |
+| 75 | 33,278 | +16,950 | 226 | 29,190 | 81% |
+| 100 | 36,103 | +19,775 | 198 | 31,507 | 88% |
+
+Knee: **≈5.7 km** (18,580 ac), the maximum of the 5-step (~3–4 km)
+centered moving average of marginal ac/km (434 ac/km); the best single
+committed segments (476–483 ac/km) also sit at km 4.7–5.2. Justification:
+marginal payoff holds a ~400 ac/km plateau from 0 to ~11 km, then declines
+— it never again sustainably exceeds the plateau (the km-37 Waiawa jump
+peaks at 406 ac/km for ~5 km). So the practical knee budget is ~6–11 km;
+**L=10 km is the round-number knee** (+3,857 ac at 386 ac/km average).
+No mid-curve jump beats the early spurs: the best opportunities are short
+spurs off the existing network, not long new corridors.
+
+Geography of the first ~6 km (see f_expansion_map.png): three short spurs —
+(1) ~2.2 km at **Waialua**, pushing mauka/south from the Waialua 46 kV
+loop (the C03 unlock from the corridor analysis above); (2) ~2.9 km down
+the **Kunia / central-plateau** spine south of Schofield; (3) ~0.6 km at
+**Kahuku**. Together +2,252 eligible ac over baseline. The 10–25 km range
+keeps thickening Waialua/Kunia and the plateau fringe toward the Waianae
+Range (C01); ~35–42 km reaches **Waiawa/Waipio** (C13); the 75–100 km tail
+buys Mokuleia and progressively worse remnants.
+
+### Caveats (prominent, repeat wherever used)
+
+- **Electrical realism: none.** Line capacities, substation headroom, and
+  interconnection engineering are unknown; these are geometric routes only.
+- **The public 46 kV map is incomplete**, so baseline coverage is
+  understated and some "expansion" km may duplicate real unmapped lines —
+  especially the urban-fringe and plateau segments. The curve is best read
+  as an upper bound on what new geometry can add.
+- **Greedy is approximate** (no look-ahead, no segment swaps); the true
+  optimum for a given L can only be (weakly) better.
+- **The 1 km service radius is a simplification** of interconnection cost;
+  results scale with that assumption.
+- Routing avoids >30%-slope cells via a 6× cost penalty rather than a hard
+  ban; committed routes may still clip steep ground.
