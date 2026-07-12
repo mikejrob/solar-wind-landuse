@@ -306,10 +306,63 @@
     Kahuku (solid), the remainder of the greedy build-out to 112 km (dashed), and the land newly served (shaded).</figcaption>
   </figure>
 
+  <h3>Cost benchmarks and an illustrative $500&nbsp;million program</h3>
+  <p>Planning-level unit costs put the expansion results in dollar terms. Cost per MW-km is not a primitive — it is
+  line cost per km divided by transfer capacity, so it varies an order of magnitude with voltage class. Table&nbsp;5
+  gives mainland benchmarks (MISO transmission cost estimation guides, 2024$) with a Hawaiʻi construction multiplier
+  of 1.5–2.5× applied <span class="tag tU">U — HECO's actual unit costs are confidential</span>. Substation work adds
+  fixed costs of several million dollars per connection point, which for spurs as short as the knee build can exceed
+  the wire itself.</p>
+
+  <div class="tablewrap">
+  <table>
+    <caption><span class="cno">Table 5.</span> Transmission unit-cost benchmarks (mainland planning values × 1.5–2.5 Hawaiʻi multiplier)</caption>
+    <tr><th>Class</th><th>Build cost, Hawaiʻi-adjusted</th><th>Typical transfer capacity</th><th>Implied $/MW-km</th></tr>
+    <tr><td>46–69 kV sub-transmission</td><td>≈ $0.6–2.5M per km</td><td>≈ 20–60 MW</td><td>≈ $15–40k</td></tr>
+    <tr><td>138 kV single circuit</td><td>≈ $1.5–4M per km</td><td>≈ 150–250 MW</td><td>≈ $8–20k</td></tr>
+    <tr><td>Substation / collector bay</td><td>≈ $10–30M per station</td><td>—</td><td>fixed per connection point</td></tr>
+  </table>
+  </div>
+
+  <p>At these rates, wire length is a second-order project cost: a 3-km spur adds roughly $30–75k/MW to a project
+  whose all-in Hawaiʻi capex is about $2–2.5M/MW — 1.5–3.5%. What a transmission budget mainly buys is
+  <i>capacity</i> and <i>interconnection points</i>, not route-miles. The greedy curve makes the same point from the
+  land side: about 50 optimally placed km already reaches ~29,500 eligible acres, roughly the ~30,000 acres a fully
+  grid-scale 5–6 GW decarbonization build would need at current densities (later builds at higher MW/acre need
+  less).</p>
+
+  <p>Table&nbsp;6 lays out an illustrative $500&nbsp;million program built on those observations. Its design
+  principles: rebuild inside existing rights-of-way where possible (new corridors are where organized opposition
+  concentrates); build spurs at 138&nbsp;kV rather than 46&nbsp;kV (headroom, not conductor, is the scarce input);
+  and site collector substations by <i>ownership cluster</i>, with published available capacity, so that
+  interconnection feasibility becomes visible information and every cluster of independent landowners can produce
+  competing PPA bids.</p>
+
+  <div class="tablewrap">
+  <table>
+    <caption><span class="cno">Table 6.</span> An illustrative $500M transmission program for Oʻahu solar (planning-level; all unit costs from Table 5)</caption>
+    <tr><th>Tranche</th><th class="num">Budget</th><th>What it buys</th><th>Rationale from this paper's screens</th></tr>
+    <tr><td>1. Rebuild the ag-belt sub-transmission at 138 kV in existing ROWs</td><td class="num">≈ $150M</td><td>50–70 km: Waialua–Wahiawā–Kunia loop + Kahuku segment</td><td>The 1–3 km ring holds ≈24,000 buildable non-A acres across 28 owners; in-ROW work minimizes permitting exposure; 138 kV moves 3–5× the power of 46 kV for modestly more cost</td></tr>
+    <tr><td>2. Collector substations with pre-built interconnection bays</td><td class="num">≈ $120M</td><td>5–6 stations: Waialua, Kunia/central plateau, Kahuku, Waiawa/Waipiʻo, ʻEwa edge</td><td>Placed by ownership cluster (Waialua alone reaches Dole, KS, an ag-CPR, and State land); published headroom converts private interconnection information into open bidding opportunities — the cheapest $/MW-of-competition in the program</td></tr>
+    <tr><td>3. The knee spurs, built at 138 kV</td><td class="num">≈ $60–80M</td><td>20–25 km: Waialua mauka, Kunia spine, Kahuku, then toward Waiawa</td><td>The optimization's highest-payoff segments (≈400–480 acres/km)</td></tr>
+    <tr><td>4. Backbone delivery reserve</td><td class="num">≈ $120M</td><td>Second circuit / rebuild on the central 138 kV path, or state cost-share into HECO's Integrated Grid Planning</td><td>Collected power must reach the Honolulu load center; backbone headroom is confidential and certainly not sized for 5–6 GW — this tranche could absorb far more, which argues for mandated public hosting-capacity disclosure at transmission level</td></tr>
+    <tr><td>5. Contingency, studies, queue support</td><td class="num">≈ $30M</td><td>Interconnection studies, hosting-capacity mapping</td><td>Study queues are a real bottleneck priced into bids</td></tr>
+  </table>
+  </div>
+
+  <p>Two complements the budget cannot substitute for. First, <b>cap reform</b>: most of the acreage this network
+  reaches is B/C soil, SUP-only above 20 acres under current law, so the transmission investment and the one-sentence
+  statutory change are strict complements. Second, <b>storage co-location at the collectors</b>: grid-forming
+  batteries shift delivery off-peak and shrink the backbone requirement, so part of tranche 4 is plausibly better
+  spent as storage than wire — a dispatch-modeling question beyond this land analysis, and one for a comprehensive
+  capacity-expansion study to settle. On sufficiency: this program removes land access and bid entry as constraints
+  and makes the remaining constraint — bulk delivery — explicit; at these unit costs $500M is transformative for
+  access and competition and only partial for 5–6 GW of deliverability, which is the right order to spend in.</p>
+
 
   <h2 id="s5"><span class="no">5</span>Terrain</h2>
   <p>A 10-meter USGS elevation model, rasterized on the same grid as the parcel, soil, and line layers, adds slope in
-  five-point bands (Figure&nbsp;7, Table&nbsp;5). Slope matters differently for the two legal categories. B/C soil is
+  five-point bands (Figure&nbsp;7, Table&nbsp;7). Slope matters differently for the two legal categories. B/C soil is
   prime agricultural land and is overwhelmingly flat: 89% of the acreage that a relaxed cap would make eligible near
   the grid sits at or below 15% slope (97% at ≤30%). D/E soil includes large areas of hillside inside the nominal
   district boundary: 45% of near-grid D/E acreage is steeper than 30%.</p>
@@ -322,7 +375,7 @@
 
   <div class="tablewrap">
   <table>
-    <caption><span class="cno">Table 5.</span> Buildability and cost by slope band (engineering literature), with Oʻahu near-grid acreage</caption>
+    <caption><span class="cno">Table 7.</span> Buildability and cost by slope band (engineering literature), with Oʻahu near-grid acreage</caption>
     <tr><th>Slope</th><th>Standard tracker</th><th>Terrain-following tracker</th><th>Indicative cost premium vs flat</th><th class="num">Near-grid D/E ac</th><th class="num">Near-grid B/C ac, 20%-no-cap rule</th></tr>
     <tr><td>0–5%</td><td>Yes</td><td>Yes</td><td>≈ 0 (NREL benchmark reference terrain)</td><td class="num">2,648</td><td class="num">6,136</td></tr>
     <tr><td>5–10%</td><td>Yes</td><td>Yes</td><td>Low single-digit % of capex <span class="tag tU">derived</span></td><td class="num">1,733</td><td class="num">2,753</td></tr>
@@ -424,7 +477,7 @@
   record, including testimony and committee reports for each act.</p>
   <div class="tablewrap">
   <table>
-    <caption><span class="cno">Table 6.</span> Sources of the current rules</caption>
+    <caption><span class="cno">Table 8.</span> Sources of the current rules</caption>
     <tr><th>Year</th><th>Instrument</th><th>Provision</th></tr>
     <tr><td>1976</td><td>Act 199 (HRS §205-4.5)</td><td>Enumerated-use regime on A/B soils; uses not listed require a §205-6 special permit</td></tr>
     <tr><td>1980</td><td>Act 24</td><td>Wind added as a permitted use on agricultural land, all soil classes, no cap; language substantively unchanged since</td></tr>
@@ -450,7 +503,7 @@
   common grid (raster/vector totals reconcile within one acre). Soil-class acreage totals match the Office of
   Planning's published LSB table to +0.2%. Legal sources: HRS current text and archived versions (statute dating by
   snapshot diff), Session Laws of Hawaiʻi scans, Honolulu ordinances and council records, complete LUC SP-docket
-  enumeration from files.hawaii.gov. Screens not applied: interconnection capacity (confidential), flood, aspect,
+  enumeration from files.hawaii.gov. Transmission unit costs: MISO Transmission Cost Estimation Guide (MTEP24/25), with an inferred Hawaiʻi construction multiplier flagged UNVERIFIED. Screens not applied: interconnection capacity (confidential), flood, aspect,
   cultural resources, and county-permit-level constraints. Parcel-level tables (<code>data/oahu_owner_class_transmission.csv</code>,
   <code>data/oahu_parcel_slope.csv</code>, <code>data/sup_census.csv</code>) are TMK-keyed and analysis-ready.</p>
   <p class="src"><b>Known gaps:</b> 46 kV line completeness; PVWatts/SAM aspect runs at 21°N; whether co-farmed solar
