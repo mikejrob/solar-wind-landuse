@@ -228,6 +228,13 @@ testimony-position matrix by interest group; boilerplate/coordination
 analysis; contrast of solar vs wind statutory treatment; report findings
 whatever they show.
 
+## Companion repository
+
+Grid/electricity-system modeling (bulk delivery, interface graph, demand and
+DER geography, Switch-Oahu nodal inputs) lives in ~/Research/oahu-grid
+(github.com/mikejrob/oahu-grid, private). This repo stays scoped to land
+availability and its documentary record.
+
 ## Data sources
 
 - Bill status/text/testimony: https://www.capitol.hawaii.gov (session

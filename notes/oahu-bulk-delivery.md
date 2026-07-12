@@ -1,3 +1,5 @@
+> **Note (2026-07-12):** grid-thread development has moved to the `oahu-grid` repository. This copy is frozen here for the paper's reproducibility; the live version may have evolved.
+
 # Oahu north→south bulk delivery: screenlines, capacity guesses, and the storage-shaped requirement
 
 Run date: 2026-07-12. Script: `analysis/screenline_analysis.py` (re-runs

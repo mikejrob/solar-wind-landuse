@@ -244,3 +244,5 @@ large landholders), and scores the three working hypotheses against the
 evidence (scarcity-rent: mechanically supported; rate-base: no support in
 testimony or campaign money; astroturf: null everywhere tested). Every line
 carries a [V]/[P]/[U] status tag pointing back to the per-thread notes.
+
+> Grid-thread notes (oahu-bulk-delivery, oahu-grid-public-record) are frozen copies as of 2026-07-12; development continues in the `oahu-grid` repository.

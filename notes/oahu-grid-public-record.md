@@ -1,3 +1,5 @@
+> **Note (2026-07-12):** grid-thread development has moved to the `oahu-grid` repository. This copy is frozen here for the paper's reproducibility; the live version may have evolved.
+
 # Oahu Transmission Network — What the Public Record Reveals
 
 Research note for the solar/wind land-use project. Question: what do public and

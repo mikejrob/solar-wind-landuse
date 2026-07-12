@@ -8,6 +8,12 @@ testimony, LUC dockets, lobbying, campaign finance, board interlocks) with a
 quantitative GIS analysis of Oahu land-use rules, ownership, grid proximity,
 and terrain.
 
+**Companion repository:** grid/electricity-system modeling (bulk delivery,
+interface graph, demand and DER geography, Switch-Oahu nodal inputs) continues
+in [`oahu-grid`](https://github.com/mikejrob/oahu-grid) (private). Grid-thread
+notes and tables here are frozen copies as of 2026-07-12, kept for the paper's
+reproducibility.
+
 ## The paper
 
 - **`paper/land-restrictions-paper-final.html`** — the assembled paper, fully
