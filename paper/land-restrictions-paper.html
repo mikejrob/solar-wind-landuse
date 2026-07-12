@@ -1,0 +1,368 @@
+<title>Land for Solar and Wind on Oʻahu: Rules, Ownership, Grid, Terrain</title>
+<style>
+  :root {
+    --paper: #fbfaf7; --card: #ffffff; --ink: #1a1a17; --ink2: #4f4e49;
+    --muted: #8a8880; --accent: #1c5cab; --accent-ink: #164a8a;
+    --rule: #e4e2d8; --shade: #f2f0e9; --flag: #9a6a00;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --paper:#161614; --card:#1e1e1b; --ink:#eceade; --ink2:#b8b6ab;
+      --muted:#8a8880; --accent:#6ba3ec; --accent-ink:#8ab8f2; --rule:#33322d;
+      --shade:#20201d; --flag:#d9a33c; }
+  }
+  :root[data-theme="dark"] { --paper:#161614; --card:#1e1e1b; --ink:#eceade; --ink2:#b8b6ab;
+      --muted:#8a8880; --accent:#6ba3ec; --accent-ink:#8ab8f2; --rule:#33322d;
+      --shade:#20201d; --flag:#d9a33c; }
+  :root[data-theme="light"] { --paper:#fbfaf7; --card:#ffffff; --ink:#1a1a17; --ink2:#4f4e49;
+      --muted:#8a8880; --accent:#1c5cab; --accent-ink:#164a8a; --rule:#e4e2d8;
+      --shade:#f2f0e9; --flag:#9a6a00; }
+
+  html { background: var(--paper); }
+  body { background: var(--paper); color: var(--ink); margin: 0;
+    font: 17px/1.62 Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif; }
+  .wrap { max-width: 880px; margin: 0 auto; padding: 48px 24px 96px; }
+  .prose { max-width: 68ch; margin: 0 auto; }
+  h1 { font-size: 2.0rem; line-height: 1.18; text-wrap: balance; margin: .2em 0 .25em; font-weight: 700; }
+  h2 { font-size: 1.42rem; line-height: 1.25; text-wrap: balance; margin: 2.6em 0 .5em; }
+  h3 { font-size: 1.12rem; margin: 1.9em 0 .4em; }
+  h2 .no, h3 .no { color: var(--accent); font-variant-numeric: tabular-nums; margin-right: .45em; }
+  p { margin: 0 0 1em; }
+  ul { margin: 0 0 1em; padding-left: 1.3em; }
+  li { margin-bottom: .4em; }
+  a { color: var(--accent-ink); text-decoration-color: color-mix(in srgb, var(--accent) 40%, transparent); }
+  .eyebrow { font: 600 .72rem/1.4 system-ui, -apple-system, "Segoe UI", sans-serif;
+    letter-spacing: .14em; text-transform: uppercase; color: var(--accent); }
+  .byline { color: var(--ink2); font-size: .95rem; margin-bottom: 2.2em; }
+  .abstract { background: var(--shade); border-left: 3px solid var(--accent);
+    padding: 18px 22px; margin: 1.6em 0 2em; font-size: .98rem; }
+  .abstract p:last-child { margin-bottom: 0; }
+  figure { margin: 2.2em 0; }
+  figure .figcard { background: #ffffff; border: 1px solid var(--rule); border-radius: 6px;
+    padding: 10px; }
+  figure img { display: block; width: 100%; height: auto; }
+  figcaption { font: 400 .84rem/1.5 system-ui, -apple-system, "Segoe UI", sans-serif;
+    color: var(--ink2); padding: 10px 4px 0; }
+  figcaption b { color: var(--ink); }
+  .tablewrap { overflow-x: auto; margin: 1.6em 0 2em; }
+  table { border-collapse: collapse; width: 100%; min-width: 640px;
+    font: 400 .85rem/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  caption { text-align: left; font: 600 .84rem/1.5 system-ui, sans-serif; color: var(--ink);
+    padding-bottom: 8px; }
+  caption .cno { color: var(--accent); }
+  th { text-align: left; font-weight: 600; color: var(--ink2); border-bottom: 1.5px solid var(--ink2);
+    padding: 6px 12px 6px 0; vertical-align: bottom; }
+  td { border-bottom: 1px solid var(--rule); padding: 7px 12px 7px 0; vertical-align: top;
+    font-variant-numeric: tabular-nums; }
+  td.num, th.num { text-align: right; padding-right: 4px; }
+  .tag { font: 600 .68rem/1.2 system-ui, sans-serif; letter-spacing: .04em; padding: 1px 6px;
+    border-radius: 3px; white-space: nowrap; }
+  .tU { background: color-mix(in srgb, var(--flag) 16%, transparent); color: var(--flag); }
+  .toc { font: 400 .9rem/1.85 system-ui, sans-serif; columns: 2; column-gap: 40px;
+    border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); padding: 14px 0; margin: 2em 0; }
+  .toc a { text-decoration: none; color: var(--ink2); }
+  .toc a:hover { color: var(--accent-ink); }
+  .toc .no { color: var(--accent); font-variant-numeric: tabular-nums; margin-right: .4em; }
+  .src { font-size: .82rem; color: var(--muted); }
+  .foot { border-top: 1px solid var(--rule); margin-top: 4em; padding-top: 1.2em;
+    font: 400 .84rem/1.6 system-ui, sans-serif; color: var(--muted); }
+  @media (max-width: 640px) { .toc { columns: 1; } body { font-size: 16px; } }
+  @media print { .figcard { border: none; padding: 0; } body { font-size: 11pt; } }
+</style>
+
+<div class="wrap">
+<div class="prose">
+  <div class="eyebrow">Background paper</div>
+  <h1>Land for Solar and Wind Development on Oʻahu: Use Rules, Ownership, Grid Proximity, and Terrain</h1>
+  <p class="byline">Prepared for Michael J. Roberts (UH Mānoa) · July 12, 2026<br>
+  Compiled by Claude from primary sources — statutes, ordinances, permit dockets, county tax rolls, and GIS layers.
+  Every figure regenerates from cached data (<code>analysis/</code>); full citations are in the repository
+  <code>notes/</code> files. Items not confirmed against a primary source are tagged <span class="tag tU">U</span>.</p>
+
+  <div class="abstract">
+    <p><b>Summary.</b> This paper documents the land available for utility-scale solar and wind development on Oʻahu:
+    the use rules that apply to each class of land, who owns it, how far it sits from mapped transmission, and how much
+    of it is flat enough to build on. The main quantitative results: about 40,600 acres of agricultural-district land
+    lie within 1 km of a mapped 46&nbsp;kV+ line; of that, roughly 6,100–11,100 acres of class D/E land (depending on
+    the slope screen) can host solar today with no acreage cap and no special permit, and a further 3,600 acres of
+    class B/C land are eligible by right under the current 10%-of-parcel/20-acre cap. Where projects exceed the cap,
+    the special-use-permit path has approved 7 of 8 applications since 2014, unanimously, with no intervenors, in a
+    median of about six months. Government owns half the agricultural district; Kamehameha Schools owns a quarter of
+    the private half. Wind faces a different constraint: Honolulu's 2025 zoning ordinance sets large-turbine setbacks
+    of at least 1.25 miles from residential-district lots, which leaves 36% of AG/Country-zoned land geometrically
+    eligible and bars repowering of the existing fleet.</p>
+  </div>
+
+  <div class="toc">
+    <div><a href="#s1"><span class="no">1</span>Use rules by land class</a></div>
+    <div><a href="#s2"><span class="no">2</span>Procedural pathways and timelines</a></div>
+    <div><a href="#s3"><span class="no">3</span>Ownership</a></div>
+    <div><a href="#s4"><span class="no">4</span>Grid proximity</a></div>
+    <div><a href="#s5"><span class="no">5</span>Terrain</a></div>
+    <div><a href="#s6"><span class="no">6</span>Combined viability estimates</a></div>
+    <div><a href="#s7"><span class="no">7</span>Agrivoltaics</a></div>
+    <div><a href="#s8"><span class="no">8</span>Wind siting</a></div>
+    <div><a href="#s9"><span class="no">9</span>State and federal land</a></div>
+    <div><a href="#s10"><span class="no">10</span>How the rules got here</a></div>
+    <div><a href="#s11"><span class="no">11</span>Data and methods</a></div>
+  </div>
+
+  <h2 id="s1"><span class="no">1</span>Use rules by land class</h2>
+  <p>Hawaiʻi's Land Use Law places every acre in one of four state districts; the agricultural district covers about
+  276,000 acres of Oʻahu (roughly 47% of the island). Within the district, solar rules key off the Land Study Bureau's
+  soil productivity ratings, A (best) through E. Four layers of law apply to a project: the state district rules
+  (HRS ch.&nbsp;205), county zoning (the Honolulu Land Use Ordinance), county real-property taxation, and — for any
+  project selling to the grid — a power-purchase agreement with Hawaiian Electric approved by the PUC. Table&nbsp;1
+  states the current state-district rules for solar; wind is covered in §8.</p>
+
+  <div class="tablewrap">
+  <table>
+    <caption><span class="cno">Table 1.</span> Current state-district rules for solar on agricultural land (HRS §§205-2(d)(6), 205-4.5(a)(20)–(21))</caption>
+    <tr><th>Soil class</th><th>Solar as a permitted use</th><th>Above the cap</th><th class="num">Oʻahu ag-district acres</th></tr>
+    <tr><td>A</td><td>Not permitted</td><td>—</td><td class="num">16,031</td></tr>
+    <tr><td>B / C</td><td>Up to min(10% of parcel, 20 acres) per parcel</td><td>County special use permit (§205-6), with conditions: the paneled area must be offered for compatible agricultural use at ≥50% below fair-market rent; decommissioning security; site restoration</td><td class="num">40,812</td></tr>
+    <tr><td>D / E</td><td>Permitted outright — no acreage cap, no special permit</td><td>n/a</td><td class="num">219,163</td></tr>
+  </table>
+  </div>
+
+  <p>Three county-level rules matter alongside the state rules:</p>
+  <ul>
+    <li><b>Zoning.</b> The Honolulu LUO permits solar in AG districts subject to ordinary development standards; solar
+    faces no county setback regime comparable to wind's (§8).</li>
+    <li><b>Property tax.</b> Land under agricultural dedication is assessed at 1–5% of fair-market value. In 2021 the
+    city assessor reclassified land under operating solar farms as industrial (full value, $12.40/$1,000), raising
+    some annual bills about 25-fold mid-contract; an 80% exemption for renewable projects was subsequently enacted.
+    Assessment treatment remains a material, county-discretionary cost item for project underwriting.</li>
+    <li><b>Procurement.</b> All grid sales run through HECO power-purchase agreements awarded in competitive RFP rounds
+    and approved by the PUC. In practice land is optioned and permits filed after an award, so procurement timing
+    governs when land actually enters development.</li>
+  </ul>
+
+  <h2 id="s2"><span class="no">2</span>Procedural pathways and timelines</h2>
+  <p>A project's permitting path depends on soil class and size. On D/E soils, and on B/C soils within the cap, solar is
+  a permitted use: county building, grading, and electrical permits apply, and no discretionary land-use approval is
+  required. Above the cap on B/C soils, the special-use-permit path runs through the county planning commission and,
+  for permits over 15 acres, the state Land Use Commission. A complete census of the LUC's special-permit series
+  (1963–2026) contains eight solar dockets, all filed since 2014:</p>
+
+  <div class="tablewrap">
+  <table>
+    <caption><span class="cno">Table 2.</span> Solar special use permits reaching the Land Use Commission, 2014–2026 (complete census)</caption>
+    <tr><th>Statistic</th><th>Value</th></tr>
+    <tr><td>Dockets</td><td>8 (SP15-405/406/407, SP17-408, SP21-411/412, SP26-416/417)</td></tr>
+    <tr><td>Outcomes</td><td>7 approved, 1 pending, 0 denied, 0 withdrawn; every LUC vote unanimous</td></tr>
+    <tr><td>Intervenors</td><td>0 of 8; organized testimony in the dockets is supportive (unions, HECO, HSEO, Ulupono)</td></tr>
+    <tr><td>Median duration</td><td>County stage 141.5 days; LUC stage 34 days; total ≈ 6 months</td></tr>
+    <tr><td>Applicants and landowners</td><td>AES on 4 of 8; land owned by Kamehameha Schools, Grove Farm, McBryde/A&amp;B, Robinson, Mahi Pono, Castle &amp; Cooke, Monsanto legacy, UH</td></tr>
+    <tr><td>Counsel</td><td>Matsubara Kotake &amp; Tabata on 5 of 8</td></tr>
+  </table>
+  </div>
+
+  <p>The SUP conditions are inexpensive in practice. The ag co-use clause requires that the paneled area be <i>made
+  available</i> for compatible agriculture at half of market rent; grazing qualifies, and grazing leases substitute for
+  vegetation management the operator would otherwise purchase. Decommissioning security and restoration are standard,
+  modest costs for PV. The observed cost of the SUP path is mainly time (≈6 months of discretionary process) and the
+  uncertainty of a case-by-case approval, which lenders price. To date every applicant has been a major developer on a
+  large landowner's parcel. Smaller landholders on B/C soil have a 20-acre by-right envelope and would need the SUP
+  process to go beyond it; navigating that process is routine for the repeat developers and law firms in the census,
+  and a developer partner would ordinarily carry it for a lessor.</p>
+
+  <h2 id="s3"><span class="no">3</span>Ownership</h2>
+  <p>Ownership of the Oʻahu agricultural district is highly concentrated (Figure&nbsp;1). Attribution covers 99% of the
+  district's acreage, from the city's bulk assessment table with entity resolution across name variants.</p>
+  <ul>
+    <li>Government owns 50.1%: State of Hawaiʻi 25.8% (including DLNR and ADC), the United States 19.6% (largely
+    military), the city 2.7%, DHHL 2.0%.</li>
+    <li>Kamehameha Schools owns 12.8% of the district — 26.1% of the private half. The twenty largest private owners
+    hold 71.2% of private acreage.</li>
+    <li>The 20-acre cap term binds only on parcels above 200 acres with B/C soil: 118 parcels on Oʻahu, led by the
+    United States, Kamehameha Schools, Dole, and the State. Changing the cap therefore changes eligibility mostly on
+    large institutional holdings.</li>
+  </ul>
+
+  <figure>
+    <div class="figcard"><img src="__F3__" alt="Stacked horizontal bars of top ten Oahu ag district owners by soil group"></div>
+    <figcaption><b>Figure 1.</b> Top-10 owners of the Oʻahu agricultural district, stacked by soil group. Source:
+    Honolulu RPAD OWNALL bulk table joined to parcel–soil intersections; 99% of acreage attributed.</figcaption>
+  </figure>
+
+  <h2 id="s4"><span class="no">4</span>Grid proximity</h2>
+  <p>Public line data (HIFLD and OpenStreetMap, cross-validated) maps Oʻahu's 138&nbsp;kV network well (~325 km, both
+  sources agree) and the 46&nbsp;kV network poorly (~80 km mapped of several hundred km built), so all distances below
+  are upper bounds — true distances are shorter. Line capacity and substation headroom are confidential and are not
+  screened here; to the extent upgrades can ride existing rights-of-way, distance to an existing corridor is the
+  relevant siting variable.</p>
+
+  <figure>
+    <div class="figcard"><img src="__F2__" alt="Grouped bars of acres by distance band and soil group"></div>
+    <figcaption><b>Figure 2.</b> Agricultural-district acreage by distance to the nearest mapped 46 kV+ line and soil
+    group. Within 1 km: 20,359 D/E acres (no cap, no SUP), 13,944 B/C acres (capped), 8,497 class-A acres (solar not
+    permitted). 75% of all B/C acreage lies within 3 km.</figcaption>
+  </figure>
+
+  <figure>
+    <div class="figcard"><img src="__F4__" alt="Map of Oahu ag land by soil class and transmission proximity with far clusters marked"></div>
+    <figcaption><b>Figure 3.</b> Soil class, mapped lines, and the largest land clusters more than 3 km from any mapped
+    line. The far clusters are Waiʻanae-range hillside (mostly class E), Lualualei valley (largely federal), and
+    Koʻolauloa mauka. Ranked by acreage unlocked per kilometer of new right-of-way, no candidate corridor extension
+    approaches the value of land already near the grid.</figcaption>
+  </figure>
+
+  <h2 id="s5"><span class="no">5</span>Terrain</h2>
+  <p>A 10-meter USGS elevation model, rasterized on the same grid as the parcel, soil, and line layers, adds slope in
+  five-point bands (Figure&nbsp;4, Table&nbsp;3). Slope matters differently for the two legal categories. B/C soil is
+  prime agricultural land and is overwhelmingly flat: 89% of the acreage that a relaxed cap would make eligible near
+  the grid sits at or below 15% slope (97% at ≤30%). D/E soil includes large areas of hillside inside the nominal
+  district boundary: 45% of near-grid D/E acreage is steeper than 30%.</p>
+
+  <figure>
+    <div class="figcard"><img src="__F5__" alt="Stacked bars of near-grid acres by slope band and soil group, with slope map inset"></div>
+    <figcaption><b>Figure 4.</b> Ag-district land within 1 km of a mapped 46 kV+ line, by percent-slope band and soil
+    group, with the island-wide slope raster inset.</figcaption>
+  </figure>
+
+  <div class="tablewrap">
+  <table>
+    <caption><span class="cno">Table 3.</span> Buildability and cost by slope band (engineering literature), with Oʻahu near-grid acreage</caption>
+    <tr><th>Slope</th><th>Standard tracker</th><th>Terrain-following tracker</th><th>Indicative cost premium vs flat</th><th class="num">Near-grid D/E ac</th><th class="num">Near-grid B/C ac, 20%-no-cap rule</th></tr>
+    <tr><td>0–5%</td><td>Yes</td><td>Yes</td><td>≈ 0 (NREL benchmark reference terrain)</td><td class="num">2,648</td><td class="num">6,136</td></tr>
+    <tr><td>5–10%</td><td>Yes</td><td>Yes</td><td>Low single-digit % of capex <span class="tag tU">derived</span></td><td class="num">1,733</td><td class="num">2,753</td></tr>
+    <tr><td>10–15%</td><td>At spec limit (≈15% N–S)</td><td>Yes</td><td>Mid single-digit % <span class="tag tU">derived</span>; Honolulu grading code requires an engineer's soils report above 15%</td><td class="num">1,702</td><td class="num">1,132</td></tr>
+    <tr><td>15–20%</td><td>No</td><td>Yes (built precedent ~20%)</td><td>Unpublished; erosion/stormwater costs intensify</td><td class="num">1,752</td><td class="num">504</td></tr>
+    <tr><td>20–25%</td><td>No</td><td>Vendor-reported projects planned</td><td>Unpublished; anecdotal only</td><td class="num">1,706</td><td class="num">246</td></tr>
+    <tr><td>25–30%</td><td>No</td><td>Within one vendor's 37% spec; no completed project above 25% found</td><td>Unpublished; civil, erosion, and O&amp;M dominated</td><td class="num">1,568</td><td class="num">136</td></tr>
+    <tr><td>&gt;30%</td><td>No</td><td>No</td><td>Treat as infeasible</td><td class="num">9,250</td><td class="num">317</td></tr>
+  </table>
+  </div>
+
+  <p>The engineering literature contains no published continuous cost-versus-slope curve: NREL's cost benchmarks assume
+  flat sites and its supply curves apply slope as a binary screen (10% reference, 5% restrictive); mainstream
+  terrain-following trackers top out near 15% grade; feasibility claims above 20% rest on a single vendor's
+  specification. A workable modeling convention: ≤15% as the mainstream envelope, 15–30% as a specialized
+  premium-cost margin, &gt;30% infeasible. Aspect effects at 21°N (north- versus south-facing slopes) remain to be
+  quantified with PVWatts/SAM runs.</p>
+
+  <h2 id="s6"><span class="no">6</span>Combined viability estimates</h2>
+  <p>Putting the screens together for land within 1 km of a mapped line (all figures at 5 acres/MW; 7 acres/MW scales
+  them by 5/7):</p>
+  <ul>
+    <li><b>Available today, no discretionary approvals:</b> D/E soil at ≤15% slope, 6,083 acres (~1,217 MW); at ≤30%
+    slope, 11,110 acres (~2,222 MW). Plus 3,601 acres of by-right B/C eligibility under the current cap (~720 MW,
+    island-wide; spread in ≤20-acre pieces across many parcels).</li>
+    <li><b>Available via the SUP path:</b> B/C acreage above the cap, in practice limited by procurement awards rather
+    than by the permit process (Table&nbsp;2).</li>
+    <li><b>Under alternative cap rules</b> (Figure&nbsp;5): raising the parcel share to 20% while keeping the 20-acre
+    term adds little (4,743 acres); removing the 20-acre term at 10% yields 9,410 acres; 20% with no acreage term
+    yields 15,657 acres (~3,131 MW), of which 72% is within 1 km of a line and ~90% is at ≤15% slope. The 20-acre term,
+    which binds only on parcels over 200 acres, accounts for most of the difference between scenarios.</li>
+  </ul>
+  <p>Combining cap-reformed B/C with buildable D/E gives a land-side envelope for near-grid utility solar on Oʻahu of
+  roughly 16,000–21,000 acres — order 3–4 GW — before flood, aspect, cultural-resource, and interconnection-capacity
+  screens.</p>
+
+  <figure>
+    <div class="figcard"><img src="__F1__" alt="Bar chart of Oahu eligible acres under cap scenarios S0 through S3"></div>
+    <figcaption><b>Figure 5.</b> By-right eligible acreage on Oʻahu B/C soils under the current cap and three
+    alternatives. Statewide, the same scenarios run 33,978 → 157,213 acres.</figcaption>
+  </figure>
+
+  <h2 id="s7"><span class="no">7</span>Agrivoltaics</h2>
+  <p>Chapter 205 accommodates solar-plus-agriculture at every tier. Within the by-right cap, solar and farming can share
+  a parcel with no further approvals. On the SUP path, ag co-use of the paneled area is a permit <i>condition</i> — the
+  statute requires the area be offered for compatible agricultural activities at half of market rent, and grazing,
+  cropping, and apiary uses all qualify. On D/E soils there is no co-use requirement at all. Working examples exist
+  (HARC's 230-acre Mililani agrisolar site has cultivated crops under panels since 2022), and no statutory provision
+  distinguishes agrivoltaic from conventional PV design. The practical constraints on agrivoltaics are economic —
+  racking height, row spacing, and operations coordination — plus the county assessment question in §1: whether
+  co-farmed solar land retains agricultural dedication for the non-paneled area is an administrative practice worth
+  confirming parcel by parcel.</p>
+
+  <h2 id="s8"><span class="no">8</span>Wind siting</h2>
+  <p>The state-district rules for wind are permissive: wind energy facilities have been a permitted use on agricultural
+  land of every soil class since 1980, with no acreage cap, subject to a compatibility proviso. The operative
+  constraint is county zoning. Honolulu's Ordinance 25-2 (effective January 2025) sets these standards for turbines of
+  100 kW and larger:</p>
+  <ul>
+    <li>Setback of 1× tip height from all property lines, plus the greater of 10× tip height or 1.25 miles from any lot
+    in a country, residential, apartment, apartment mixed-use, or resort district;</li>
+    <li>No director's waivers for wind facilities;</li>
+    <li>Repowering limited to a 7% height increase (575 ft maximum), and only within the term of the facility's current
+    power-purchase agreement;</li>
+    <li>Shadow-flicker (≤10 hr/yr) and noise (≤10 dBA over ambient) limits at pre-existing occupied buildings.</li>
+  </ul>
+  <p>Geometrically, the 1.25-mile rule leaves 36% of Oʻahu's AG/Country-zoned land eligible, versus 85% under the prior
+  1×-tip-height standard. Eighteen of Kahuku's twenty turbines are nonconforming under the new rule; because
+  nonconforming turbines cannot repower beyond their current PPAs, the island's ~155 MW of existing wind is expected
+  to retire as contracts end between 2031 and 2040. For land-screening purposes, large-scale wind on Oʻahu should be
+  treated as foreclosed under current county law; the eligible remainder is concentrated in mauka areas away from
+  residential-district boundaries, where slope and access impose their own limits.</p>
+
+  <h2 id="s9"><span class="no">9</span>State and federal land</h2>
+  <p>Because government owns half the district, public-land disposition is a large share of the siting question. The
+  state's leasing authority is broad: HRS §171-95 (2002) authorizes non-auction leases of up to 65 years to renewable
+  energy producers; §171-95.3 (2009) adds a direct-negotiation process; Act 53 (2024) removed the requirement that
+  output be sold to a utility; and ADC is exempt from public-auction requirements. Use to date, Oʻahu:</p>
+  <ul>
+    <li>DHHL: the most active state-side lessor (Kalaeloa Solar Two, 2013; subsequent leases at Barbers Point and on
+    Kauaʻi).</li>
+    <li>University of Hawaiʻi: 12.5 MW at West Oʻahu (AES, 2024).</li>
+    <li>DLNR: its first Oʻahu solar disposition under §171-95.3 (Eurus, 20 MW at Olai) reached Board of Land and
+    Natural Resources hearings in January 2026.</li>
+    <li>ADC: hosts solar on Kauaʻi; its Oʻahu holdings (1,700+ idle acres per State Audit 21-01, in the Wahiawā/
+    Whitmore area) have no solar dispositions on record.</li>
+    <li>Federal: the military hosts projects under enhanced-use leases (Kupono Solar, ~42 MW on Navy land at Pearl
+    Harbor; HECO's Schofield plant on Army land). Federal parcels also hold the largest block of flat, near-grid D/E
+    land in the screen (Lualualei).</li>
+  </ul>
+  <p>Frictions on state-land leasing are administrative rather than statutory: revenues on ceded-land parcels carry an
+  OHA share; DHHL dispositions answer to beneficiary priorities; ADC's mission is agricultural; and no agency is
+  tasked with a renewable-siting program. Two current processes bear on this: the legislature commissioned a
+  state-lands renewable study in 2025 (HB 778), and HECO is holding renewable-energy-zone workshops on government
+  lands in July 2026.</p>
+
+  <h2 id="s10"><span class="no">10</span>How the rules got here</h2>
+  <p>A short chronology of the operative provisions, for reference; the repository notes contain the full legislative
+  record, including testimony and committee reports for each act.</p>
+  <div class="tablewrap">
+  <table>
+    <caption><span class="cno">Table 4.</span> Sources of the current rules</caption>
+    <tr><th>Year</th><th>Instrument</th><th>Provision</th></tr>
+    <tr><td>1976</td><td>Act 199 (HRS §205-4.5)</td><td>Enumerated-use regime on A/B soils; uses not listed require a §205-6 special permit</td></tr>
+    <tr><td>1980</td><td>Act 24</td><td>Wind added as a permitted use on agricultural land, all soil classes, no cap; language substantively unchanged since</td></tr>
+    <tr><td>2008</td><td>Act 31</td><td>Solar added as a permitted use on D/E soils</td></tr>
+    <tr><td>2011</td><td>Act 217 (SB 631)</td><td>Solar extended to B/C soils with the min(10% of parcel, 20 acre) cap; class A excluded. The 10% term originated in Senate committee, the 20-acre term in House committee (sized to 5 MW, the then-threshold for utility competitive-bid waivers)</td></tr>
+    <tr><td>2014</td><td>Acts 52, 55</td><td>SUP path above the cap on B/C soils, with the ag co-use lease, decommissioning security, and restoration conditions</td></tr>
+    <tr><td>2015–2025</td><td>Seven amendments</td><td>Other uses added to the district (hydro, wireless, composting, camps, landfills); solar provisions unchanged since 2014</td></tr>
+    <tr><td>2021</td><td>Honolulu assessment practice; Bill 39</td><td>Industrial reclassification of solar-farm land; 80% renewable exemption</td></tr>
+    <tr><td>2025</td><td>Honolulu Ordinance 25-2</td><td>Current wind setback, waiver, and repowering standards</td></tr>
+  </table>
+  </div>
+  <p>The testimony record for the solar acts shows the caps were requested by agricultural and planning agencies and the
+  Farm Bureau, with landowners and the solar industry testifying for wider permissions; the wind setback ordinance
+  responded to sustained community opposition at Kahuku. That history is documented in the repository
+  (<code>notes/sb631-2011.md</code>, <code>notes/acts-2014-2022.md</code>, <code>notes/wind-setbacks.md</code>, and
+  related files) and is not developed further here.</p>
+
+  <h2 id="s11"><span class="no">11</span>Data and methods</h2>
+  <p class="src">GIS: Land Study Bureau soil polygons, State Land Use Districts, and county parcels from the state
+  geoportal; ownership from the Honolulu RPAD OWNALL bulk table (99% acreage coverage, entity-resolved); transmission
+  lines from HIFLD and OpenStreetMap, cross-validated (the 46 kV network is under-mapped, so distances are upper
+  bounds); slope from the USGS 3DEP 1/3-arc-second DEM, computed at 10 m in EPSG:26904 with all layers rasterized to a
+  common grid (raster/vector totals reconcile within one acre). Soil-class acreage totals match the Office of
+  Planning's published LSB table to +0.2%. Legal sources: HRS current text and archived versions (statute dating by
+  snapshot diff), Session Laws of Hawaiʻi scans, Honolulu ordinances and council records, complete LUC SP-docket
+  enumeration from files.hawaii.gov. Screens not applied: interconnection capacity (confidential), flood, aspect,
+  cultural resources, and county-permit-level constraints. Parcel-level tables (<code>data/oahu_owner_class_transmission.csv</code>,
+  <code>data/oahu_parcel_slope.csv</code>, <code>data/sup_census.csv</code>) are TMK-keyed and analysis-ready.</p>
+  <p class="src"><b>Known gaps:</b> 46 kV line completeness; PVWatts/SAM aspect runs at 21°N; whether co-farmed solar
+  land retains agricultural dedication for tax purposes; Maui County permit archives (manual pull); the pending
+  SP26-417 decision (~Aug 2026).</p>
+
+  <div class="foot">
+    Background paper assembled 2026-07-12 by Claude (research agent) for M. Roberts. Every factual claim traces to a
+    primary source cached in the repository; claims that do not are tagged UNVERIFIED in the notes files and flagged or
+    excluded here. Repository notes: sb631-2011 · wind-statutory-entry · wind-setbacks · pre2011-solar-bills ·
+    acts-2014-2022 · sup-census · property-tax-wedge · cap-quantification · oahu-transmission-screen · oahu-ownership ·
+    oahu-slope-screen · slope-cost-literature · state-land-solar · synthesis-2026-07-11.
+  </div>
+</div>
+</div>

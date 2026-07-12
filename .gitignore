@@ -1,0 +1,7 @@
+# Large local caches (regenerable via analysis/ scripts and Wayback recipes in notes/)
+data/raw/
+cache/
+# Big GIS layers stay local; keep the derived CSV tables
+data/gis/*
+!data/gis/*.csv
+.DS_Store
