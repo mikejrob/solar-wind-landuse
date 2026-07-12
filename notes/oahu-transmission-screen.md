@@ -175,9 +175,11 @@ Script: `analysis/corridor_candidates.py`. Outputs:
 `data/gis/oahu_corridor_candidates.csv`, `oahu_ring_1_3km_summary.csv`,
 map `analysis/figs/paper/f_corridors.png`.
 
-Method: buildable = slope ≤30% (≤15% also reported); "unserved" = ag-district
-land >1 km from any mapped 46 kV+ line; clusters = 8-connected components on
-the 10 m grid, kept if ≥250 buildable ac (16 clusters). Because every
+Method: buildable = slope ≤30% (≤15% also reported), **excluding LSB class
+A** (banned for solar with no SUP path — revised 2026-07-12 per Mike;
+class-A land can never be unlocked); "unserved" = ag-district land >1 km
+from any mapped 46 kV+ line; clusters = 8-connected components on the 10 m
+grid, kept if ≥250 buildable ac (16 clusters). Because every
 cluster's edge sits ~1 km from the network by construction, ranking uses the
 **mean buildable-cell distance to the network** (`km_new_row_46kv`) as the
 new-ROW denominator — a spur to the cluster edge does not serve its far
@@ -189,30 +191,38 @@ PPA-bid competition more than one serving a single estate.
 
 ### Top candidates, acres per km of new ROW (buildable ≤30%)
 
+(Class-A exclusion trimmed the big candidates: C01 lost ~3,570 ac (A on its
+Schofield/Waialua fringe), C03 Waialua lost ~1,610 ac — 22% of its
+previously counted resource was A — and the old Kunia/Bayer cluster shrank
+from 963 to 303 buildable ac (mostly A) and fell to the bottom of the
+table. C04 Kahuku was essentially unaffected (~12 A ac). Cluster IDs below
+are the re-ranked, post-exclusion IDs in the current CSV.)
+
 | Rank | ID | Locality (approx) | Buildable ac ≤15/≤30 | MW@5 | %D/E | mean ROW km | ac/km | owners ≥100ac | Top owners |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | C01 | Waianae Range mauka + central plateau fringe | 13,255/17,776 | 3,555 | 44 | 3.8 | 4,735 | 21 | US Govt 26%, Island Palm (Army PPP) 12%, Corteva 10% |
-| 2 | C03 | Waialua | 6,400/7,306 | 1,461 | 20 | 2.0 | 3,677 | 5 | Laukiha'a ag CPR 34%, Dole 26%, Kamehameha Schools 19% |
-| 3 | C02 | Lualualei | 6,782/9,059 | 1,812 | 90 | 3.6 | 2,524 | 5 | **US 55% (majority federal)**, State 10%, DHHL 5% |
-| 4 | C04 | Kahuku | 3,137/5,630 | 1,126 | 48 | 2.5 | 2,238 | 4 | US 36%, Property Reserve (LDS) 33%, State 15% |
-| 5 | C06 | Pupukea/Waimea | 1,377/1,759 | 352 | 43 | 2.1 | 838 | 1 | Kamehameha Schools 99% |
+| 1 | C01 | Waianae Range mauka + central plateau fringe | 9,742/14,210 | 2,842 | 55 | 3.9 | 3,644 | 18 | US Govt 26%, Island Palm (Army PPP) 12%, Corteva 10% |
+| 2 | C03 | Waialua | 4,835/5,697 | 1,139 | 26 | 2.0 | 2,781 | 5 | Laukiha'a ag CPR 34%, Dole 26%, Kamehameha Schools 19% |
+| 3 | C02 | Lualualei | 6,479/8,749 | 1,750 | 94 | 3.6 | 2,423 | 5 | **US 55% (majority federal)**, State 10%, DHHL 5% |
+| 4 | C04 | Kahuku | 3,132/5,618 | 1,124 | 48 | 2.5 | 2,237 | 4 | US 36%, Property Reserve (LDS) 33%, State 15% |
+| 5 | C06 | Pupukea/Waimea | 1,318/1,700 | 340 | 45 | 2.1 | 797 | 1 | Kamehameha Schools 99% |
 
 ### Top candidates, distinct-owners-unlocked per km (competition metric)
 
-C01 (5.6 owners/km), C03 (2.5), C04 (1.6), C14 Waipio/Waiawa (1.5),
-C02/C11 (1.4). **C03 (Waialua) is the standout commercially competitive
-unlock**: ~2 km of new/upgraded ROW from the Waialua 46 kV corridor reaches
-7,300 buildable ac split across five substantial owners (Dole, Kamehameha
-Schools, an ag-CPR community, plus state parcels) with 58% B/C — i.e. it is
-also the cluster whose value most depends on cap reform (S3). C01's
-owner count (21) overstates commercial competition: it merges
-Schofield-plateau fringe land where the owner list is heavily
-military/federal-adjacent and where unmapped 46 kV likely already exists.
+C01 (4.6 owners/km), C03 (2.4), C04 (1.6), C13 Waipio/Waiawa (1.5),
+C02/C10 (1.4). **C03 (Waialua) remains the standout commercially
+competitive unlock**: ~2 km of new/upgraded ROW from the Waialua 46 kV
+corridor reaches ~5,700 buildable ac split across five substantial owners
+(Dole, Kamehameha Schools, an ag-CPR community, plus state parcels), now
+74% B/C after removing its class-A core — i.e. it is even more clearly the
+cluster whose value depends on cap reform (S3). C01's owner count (18)
+overstates commercial competition: it merges Schofield-plateau fringe land
+where the owner list is heavily military/federal-adjacent and where
+unmapped 46 kV likely already exists.
 
 Majority-federal clusters (flagged in CSV, not commercially leasable in
-practice): C02 Lualualei (Navy), C07 Ewa/Puuloa (Navy 63%), C08
-Pearl City/Waiau mauka (US 93%), C11 Kahuku point (FWS 61%), C16
-Helemano (US 99%).
+practice): C02 Lualualei (Navy), C07 Ewa/Puuloa (Navy), C08
+Pearl City/Waiau mauka (US 93%), C10 Kahuku point (FWS), C15
+Helemano (US).
 
 ### The cheap upgrades: buildable land in the 1–3 km ring
 
@@ -221,24 +231,29 @@ premise), by soil group:
 
 | Group | Buildable ac ≤15% | Buildable ac ≤30% |
 |---|---|---|
-| A (banned) | 4,762 | 4,866 |
 | B/C (capped; S3-relevant) | 10,686 | 11,842 |
 | D/E (uncapped) | 7,341 | 12,177 |
 
-**31 distinct resolved owners** hold ≥100 buildable (≤30%) ac in the ring.
-The ring alone contains ~24,000 buildable non-A acres (~4,800 MW @5 ac/MW
-envelope) — more than any single new-corridor cluster except C01 — and it
-is dispersed across many owners, supporting the view that incremental
-46 kV work dominates greenfield corridors on both cost and competition
-before any big new ROW is justified.
+(Class A — 4,762/4,866 ac in the ring — is excluded from "buildable"
+throughout; it can host no solar under any path. The B/C and D/E rows were
+already A-free and are unchanged by the revision.)
+
+**28 distinct resolved owners** hold ≥100 buildable (≤30%) ac in the ring
+(was 31 before excluding class-A acreage from the ≥100 ac test).
+The ring contains ~24,000 buildable acres (~4,800 MW @5 ac/MW envelope) —
+more than any single new-corridor cluster — and it is dispersed across
+many owners, supporting the view that incremental 46 kV work dominates
+greenfield corridors on both cost and competition before any big new ROW
+is justified.
 
 ### Caveats specific to this section
 
 - 46 kV under-mapping cuts BOTH ways here: it inflates "unserved" clusters
-  (parts of C01's plateau fringe, C07, C08, C15 are probably already within
-  1 km of a real line) AND understates the 1–3 km ring. Treat C07/C08/C15
-  as likely artifacts; C02/C03/C04/C05/C06/C09/C12 are robust (far even
-  from the reliable 138 kV network).
+  (parts of C01's plateau fringe and the Ewa/Pearl City-fringe clusters are
+  probably already within 1 km of a real line) AND understates the 1–3 km
+  ring. Treat the urban-fringe clusters (C07, C08, C14) as likely
+  artifacts; C02/C03/C04/C05/C06/C09/C11 are robust (far even from the
+  reliable 138 kV network).
 - "km of new ROW" is straight-line; real routes follow roads/terrain.
 - Owner shares are of buildable ≤30% acres, from the RPAD owner file
   (confidence flags in `oahu_ag_owners.csv`); unparceled cluster area is

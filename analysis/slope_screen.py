@@ -214,8 +214,10 @@ def make_figure(band, cls, buf1, buf3, island):
 
     labels = ["0-5", "5-10", "10-15", "15-20", "20-25", "25-30", ">30"]
     # categorical slots 1-2 from the validated reference palette
-    c_abc, c_de = "#2a78d6", "#1baf7a"
-    abc = np.isin(cls, [1, 2, 3])
+    c_bc, c_de = "#2a78d6", "#1baf7a"
+    # class A dropped from this figure: banned for solar, no SUP path
+    bc_sel = np.isin(cls, [2, 3])
+    de_sel = np.isin(cls, [4, 5])
 
     fig, (ax1, ax3, ax2) = plt.subplots(
         1, 3, figsize=(14, 4.6), dpi=160,
@@ -224,28 +226,26 @@ def make_figure(band, cls, buf1, buf3, island):
     ymax = 0.0
     for ax, lab, buf in [(ax1, "within 1 km", buf1),
                          (ax3, "within 3 km", buf3)]:
-        m = (cls > 0) & (band > 0) & buf
+        m = (band > 0) & buf
         acres = {g: [((band == b) & m & sel).sum() * CELL_AC
                      for b in range(1, 8)]
-                 for g, sel in [("A/B/C (cap or ban applies)", abc),
-                                ("D/E (uncapped)", ~abc)]}
+                 for g, sel in [("B/C (capped)", bc_sel),
+                                ("D/E (uncapped)", de_sel)]}
         ax.bar(x, acres["D/E (uncapped)"], 0.62, color=c_de,
                label="D/E (uncapped)", edgecolor="white", linewidth=2)
-        ax.bar(x, acres["A/B/C (cap or ban applies)"], 0.62,
-               bottom=acres["D/E (uncapped)"], color=c_abc,
-               label="A/B/C (cap or ban applies)",
-               edgecolor="white", linewidth=2)
+        ax.bar(x, acres["B/C (capped)"], 0.62,
+               bottom=acres["D/E (uncapped)"], color=c_bc,
+               label="B/C (capped)", edgecolor="white", linewidth=2)
         tots = (np.array(acres["D/E (uncapped)"])
-                + np.array(acres["A/B/C (cap or ban applies)"]))
+                + np.array(acres["B/C (capped)"]))
         ymax = max(ymax, tots.max())
         for i in (0, 1, 2):  # direct labels on the flattest three bands
             ax.annotate(f"{tots[i]:,.0f}", (i, tots[i]), ha="center",
                         va="bottom", fontsize=8.5, color="#0b0b0b")
         ax.set_xticks(x, labels)
         ax.set_xlabel("slope band (percent)", fontsize=9, color="#52514e")
-        ax.set_title(f"Ag-district land {lab} of a mapped 46 kV+ line "
-                     "(cumulative)", fontsize=9.5, color="#0b0b0b",
-                     loc="left")
+        ax.set_title(f"{lab} of a mapped 46 kV+ line (cumulative)",
+                     fontsize=9.5, color="#0b0b0b", loc="left")
         ax.spines[["top", "right"]].set_visible(False)
         ax.tick_params(colors="#52514e", labelsize=8.5)
         ax.grid(axis="y", color="#eceae6", linewidth=0.8)
@@ -267,7 +267,10 @@ def make_figure(band, cls, buf1, buf3, island):
     ax2.set_title("percent slope (light 0-5% ... dark >30%)",
                   fontsize=9, color="#52514e", loc="left")
     ax2.set_axis_off()
-    fig.tight_layout()
+    fig.suptitle("Oahu ag-district B-E land by slope band "
+                 "(class A excluded: banned for solar, no SUP path)",
+                 fontsize=11, color="#0b0b0b", x=0.01, ha="left")
+    fig.tight_layout(rect=(0, 0, 1, 0.94))
     out = FIGS / "oahu_slope_bands.png"
     fig.savefig(out, bbox_inches="tight")
     paper = FIGS / "paper"

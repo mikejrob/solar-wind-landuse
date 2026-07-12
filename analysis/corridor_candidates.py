@@ -17,7 +17,8 @@ Inputs (all cached by earlier scripts):
   data/oahu_land_transmission.csv     ag-parcel list (TMK-keyed)
   data/oahu_ag_owners.csv             resolved owners (TMK-keyed)
 
-Buildable = percent slope <= 30 (headline; <=15 also reported).
+Buildable = percent slope <= 30 (headline; <=15 also reported), EXCLUDING
+LSB class A land (banned for solar with no SUP path, so never unlockable).
 Clusters = 8-connected components of (ag-district & >1 km from 46 kV+)
 on the 10 m grid, reported if buildable_le30 >= 250 ac.
 
@@ -108,8 +109,10 @@ def main():
     cells = pd.DataFrame({
         "lab": lab[m], "cls": cls[m], "band": band[m], "pid": pid[m],
         "d46": dist46[m], "d138": dist138[m]})
-    cells["le15"] = cells.band <= 3
-    cells["le30"] = cells.band <= 6
+    # buildable excludes LSB class A: no solar on A under any path
+    # ((a)(20) proviso bans it outright; no SUP route exists for A soils)
+    cells["le15"] = (cells.band <= 3) & (cells.cls > 1)
+    cells["le30"] = (cells.band <= 6) & (cells.cls > 1)
 
     g = cells.groupby("lab")
     tab = pd.DataFrame({
@@ -222,8 +225,8 @@ def main():
     ring = (cls > 0) & (band > 0) & buf3 & ~buf1
     rc = pd.DataFrame({"cls": cls[ring], "band": band[ring],
                        "pid": pid[ring]})
-    rc["le15"] = rc.band <= 3
-    rc["le30"] = rc.band <= 6
+    rc["le15"] = (rc.band <= 3) & (rc.cls > 1)   # class A excluded
+    rc["le30"] = (rc.band <= 6) & (rc.cls > 1)
     grp = np.select([rc.cls.isin([2, 3]), rc.cls.isin([4, 5])],
                     ["BC", "DE"], default="A")
     ring_tab = pd.DataFrame({
@@ -294,9 +297,9 @@ def make_figure(out, lines, lsb_ag, spurs):
                          label="shortest new-ROW spur")])
     ax.legend(handles=handles, loc="lower left", fontsize=8, frameon=True,
               framealpha=0.95, edgecolor="#d8d6d0")
-    ax.set_title("Candidate transmission unlocks: buildable (slope<=30%) "
-                 "ag land >1 km from a mapped line", fontsize=11.5,
-                 color="#0b0b0b")
+    ax.set_title("Candidate transmission unlocks: buildable (slope<=30%, "
+                 "class A excluded) ag land >1 km from a mapped line",
+                 fontsize=11.5, color="#0b0b0b")
     ax.set_axis_off()
     fig.tight_layout()
     paper = FIGS / "paper"
