@@ -1,0 +1,4 @@
+screenline,description,n_corridors_138,n_circuits_138_geo,n_circuits_138_net,n_corridors_46,n_circuits_46_geo,n_circuits_46_net,cap_low_mva,cap_central_mva,cap_high_mva,corridor_detail_138,corridor_detail_46
+SL-A,Waipahu-Pearl City-Aiea band: central plateau vs Pearl Harbor load pocket (Waianae crest to Koolau crest),5,8,2,0,0,0,300.0,1600.0,2000.0,[4x KAHE 2 - HAIAWA; KAHE 2 - TAP173459; KAHE 2 - WAIAU 1] [1x KAHE 2 - WAIAU 1] [1x WAHIAWA - WAIAU 1] [1x KAHE 2 - HAIAWA] [1x KAHE 2 - HAIAWA],
+SL-B,Mid-plateau cut between Wahiawa and Waipio,2,2,2,1,1,1,330.0,445.0,560.0,[1x WAHIAWA - UNKNOWN173461] [1x WAHIAWA - WAIAU 1],[1x TAP161454 - UNKNOWN161455; UNKNOWN161455 - RISER161456]
+SL-C,North Shore neck: Waialua/Kahuku vs Wahiawa (leeward coast to windward coast),0,0,0,2,2,2,60.0,90.0,120.0,,[1x UNKNOWN161473 - TAP161474] [1x TAP161467 - DEADEND167119]

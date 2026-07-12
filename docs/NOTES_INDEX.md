@@ -142,6 +142,23 @@ ranking, and the greedy expansion heuristic (short spurs dominate long
 corridors). Feeds `data/oahu_land_transmission.csv` and the `data/gis/`
 summary CSVs. Verification: good; data-quality caveats emphatic.
 
+### oahu-bulk-delivery.md
+North→south bulk-delivery screenlines (2026-07-12): mapped circuit crossings
+at three east–west cuts. SL-A (plateau vs Pearl Harbor load): 8 geometric
+138 kV crossings / 5 corridors (parity-net 2 — the Kahe–Halawa/Waiau loops
+through the Kunia bench are tappable, so the central ~1,600 MVA reading is
+preferred). SL-B (Wahiawa–Waipio): only **2 138 kV circuits** (~445 MVA
+central). SL-C (North Shore neck): **zero 138 kV**, 2 mapped 46 kV
+(~90 MVA). With 4–6 h co-located storage, required N→S transfer saturates
+at σ×evening load (~0.9–1.7 GW), not installed solar MW; SL-C and SL-B bind
+from ~0.2 and ~2 GW of northern solar respectively. Closing the gap ≈
+$0.1–0.25B (2 GW) / $0.2–0.5B (4 GW) — ~2–5% of solar capex — via parallel
+138 kV in existing ROWs (230 kV not needed at 10–25 km). ALL ratings/costs
+are flagged planning guesses (HECO data confidential). Feeds
+`data/gis/screenline_analysis.csv`, `screenline_requirements.csv`, and
+`analysis/figs/paper/f_screenlines.png`. Verification: crossing counts
+solid (138 kV mapping reliable); everything else assumption-flagged.
+
 ### oahu-slope-screen.md
 Slope banding on the 10 m 3DEP DEM. LSB class and slope are highly collinear
 (85% of class B under 10% slope; class E 46% over 30%). The money table:

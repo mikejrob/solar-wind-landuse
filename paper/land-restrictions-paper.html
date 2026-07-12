@@ -354,7 +354,7 @@
     <tr><td>1. Rebuild the ag-belt sub-transmission at 138 kV in existing ROWs</td><td class="num">≈ $150M</td><td>50–70 km: Waialua–Wahiawā–Kunia loop + Kahuku segment</td><td>The 1–3 km ring holds ≈24,000 buildable non-A acres across 28 owners; in-ROW work minimizes permitting exposure; 138 kV moves 3–5× the power of 46 kV for modestly more cost</td></tr>
     <tr><td>2. Collector substations with pre-built interconnection bays</td><td class="num">≈ $120M</td><td>5–6 stations: Waialua, Kunia/central plateau, Kahuku, Waiawa/Waipiʻo, ʻEwa edge</td><td>Placed by ownership cluster (Waialua alone reaches Dole, KS, an ag-CPR, and State land); published headroom converts private interconnection information into open bidding opportunities — the cheapest $/MW-of-competition in the program</td></tr>
     <tr><td>3. The first spurs, built at 138 kV</td><td class="num">≈ $60–80M</td><td>20–25 km: Waialua mauka, Kunia spine, Kahuku, then toward Waiawa</td><td>The optimization's highest-payoff segments (≈400–480 acres/km)</td></tr>
-    <tr><td>4. Backbone delivery reserve</td><td class="num">≈ $120M</td><td>Second circuit / rebuild on the central 138 kV path, or state cost-share into HECO's Integrated Grid Planning</td><td>Collected power must reach the Honolulu load center; backbone headroom is confidential and certainly not sized for 5–6 GW — this tranche could absorb far more, which argues for mandated public hosting-capacity disclosure at transmission level</td></tr>
+    <tr><td>4. Backbone delivery reserve</td><td class="num">≈ $120M</td><td>Second circuit / rebuild on the central 138 kV path, or state cost-share into HECO's Integrated Grid Planning</td><td>Collected power must reach the Honolulu load center; the existing network has no 138 kV north of the central spine, and HECO's own studies price full north-to-south delivery solutions at ≈$1.2–1.3 B — this tranche is a down payment (see the bulk-delivery analysis below)</td></tr>
     <tr><td>5. Contingency, studies, queue support</td><td class="num">≈ $30M</td><td>Interconnection studies, hosting-capacity mapping</td><td>Study queues are a real bottleneck priced into bids</td></tr>
   </table>
   </div>
@@ -369,22 +369,78 @@
   access and competition and only partial for 5–6 GW of deliverability, which is the right order to spend in.</p>
 
 
+
+  <h3>Bulk delivery to the southern load center</h3>
+  <p>Most Oʻahu demand sits in the southern corridor (Pearl Harbor–downtown–east), and the 138 kV backbone was built
+  to serve it from southwest generation: FERC Form&nbsp;1 lists 31 circuits over ~200 route-miles at 138&nbsp;kV —
+  Oʻahu's maximum operating voltage — arranged as two west-anchored corridors from Kahe (one northern via
+  Hālawa–Koʻolau–Pukele, one southern via Waiau and downtown). <b>There is no 138 kV north of the central spine.</b>
+  Wahiawā, Waialua, and Kahuku connect only through 46 kV feeders off the Wahiawā and Koʻolau substations, publicly
+  described as at capacity; Wahiawā is a single-bay station not built to export. Published system-level limits bound
+  today's northern deliverability at a couple hundred megawatts: the 2021 renewable-energy-zone study's 135 MW
+  single-point-of-failure limit, and the 2023 IGP finding that full build-out of the northern zone overloads the
+  Wahiawā-area 138 kV system unless injection is cut by 220 MW.</p>
+
+  <p>A screenline count of the mapped geometry (Figure&nbsp;7) makes the same point: two 138 kV circuits and one
+  mapped 46 kV feeder cross the Wahiawā–Waipiʻo band; zero 138 kV circuits cross the North Shore neck. Applying
+  planning-typical thermal ratings (150–250 MVA per 138 kV circuit, 30–60 MVA at 46 kV — guesses; HECO's ratings are
+  confidential) gives the capacity column of Table&nbsp;7. On the requirement side, on-site storage caps what the
+  corridor must carry: with 4–6 hour batteries sized at 50–100% of plant power, the flow requirement saturates near
+  (southern load share) × (evening load) — roughly 930 MW at today's ~1.2 GW peak, ~1,550 MW under a 2 GW
+  electrified-2045 peak — rather than anything near installed solar capacity.</p>
+
+  <div class="tablewrap">
+  <table>
+    <caption><span class="cno">Table 7.</span> North→south transfer: guessed existing capability vs requirement (details and full scenario grid: notes/oahu-bulk-delivery.md, data/gis/screenline_requirements.csv)</caption>
+    <tr><th>Screenline</th><th>Mapped crossings</th><th>Guessed capability</th><th>Required at 2 GW northern solar</th><th>Required at 4 GW</th></tr>
+    <tr><td>Central plateau → Pearl Harbor (SL-A)</td><td>8 geometric 138 kV crossings in 5 corridors (the Kahe circuits loop through the Kunia bench)</td><td>≈1,600 MVA central reading (300 conservative)</td><td>roughly adequate</td><td>≈ −50 (N-0) to +200 MW gap (N-1)</td></tr>
+    <tr><td>Wahiawā → Waipiʻo (SL-B)</td><td>2 × 138 kV + 1 mapped 46 kV</td><td>≈ 330–560 MVA</td><td>500–1,000 MW → gap up to ≈ +800 MW (N-1)</td><td>gap up to ≈ +1,350 MW</td></tr>
+    <tr><td>North Shore neck (SL-C)</td><td>0 × 138 kV; 2 mapped 46 kV</td><td>≈ 60–120 MVA</td><td>250–500 MW → gap +160 to +470 MW</td><td>gap up to ≈ +970 MW</td></tr>
+  </table>
+  </div>
+
+  <figure>
+    <div class="figcard"><img src="__F11S__" alt="Map of screenlines across Oahu transmission with circuit crossing counts"></div>
+    <figcaption><b>Figure 7.</b> Screenlines and mapped circuit crossings. The backbone runs west→east along the
+    southern corridors; northern land connects over 46 kV only. Ratings are planning-typical guesses; the mapped
+    46 kV network is incomplete.</figcaption>
+  </figure>
+
+  <p>Closing the gap does not require a new voltage class. At 10–25 km, thermal limits govern rather than stability,
+  so parallel 138 kV circuits in existing rights-of-way suffice: HTLS reconductoring plus second circuits on the
+  Waialua–Wahiawā, Kahuku–Wahiawā, and Wahiawā–Waiau corridors prices at roughly <b>$90–250M for a 2 GW northern
+  build and $190–460M cumulative for 4 GW</b> on this paper's unit costs — about 2–5% of the corresponding solar
+  capex. HECO's own studied options for full north-to-south delivery — new Kahe–Wahiawā 138 kV lines, reconductoring,
+  or a 345 kV Kahe–Wahiawā–Waiau loop — cluster at <b>≈$1.21–1.28 B</b>, all within ~5% of each other; the gap
+  between that figure and this paper's geometric estimate reflects scope (substation depth, land, contingency
+  standards, and system-wide rework) that the geometric model does not price, and the near-equality of HECO's three
+  options suggests common fixed costs dominate. Both numbers are reported; neither substitutes for a power-flow
+  study.</p>
+
+  <p>Further investigation, in order of value: (1) the HNEI/GridSTART route — HNEI co-owns the validated GE
+  MAPS/PSLF Oʻahu network model and publishes bus-level grid-strength rankings (west strongest, Wahiawā weakest);
+  direct collaboration would replace every guessed rating in Table&nbsp;7; (2) the IGP docket's transmission analyses
+  (2018-0165) and the 2021 REZ study appendices; (3) HECO's RFP interconnection guidance (spare 138 kV terminations
+  are published: Kahe, ʻEwa Nui, Hoʻohana, CEIP — leeward/central has room, windward is full); (4) curtailment-by-
+  cause data as a revealed-constraint measure; (5) a proper N-1 power-flow on a synthetic or HNEI-supplied network.
+  Sources and vintage caveats: notes/oahu-grid-public-record.md and notes/oahu-bulk-delivery.md.</p>
+
   <h2 id="s5"><span class="no">5</span>Terrain</h2>
   <p>A 10-meter USGS elevation model, rasterized on the same grid as the parcel, soil, and line layers, adds slope in
-  five-point bands (Figure&nbsp;7, Table&nbsp;7). Slope matters differently for the two legal categories. B/C soil is
+  five-point bands (Figure&nbsp;8, Table&nbsp;8). Slope matters differently for the two legal categories. B/C soil is
   prime agricultural land and is overwhelmingly flat: 89% of the acreage that a relaxed cap would make eligible near
   the grid sits at or below 15% slope (97% at ≤30%). D/E soil includes large areas of hillside inside the nominal
   district boundary: 45% of near-grid D/E acreage is steeper than 30%.</p>
 
   <figure>
     <div class="figcard"><img src="__F5__" alt="Stacked bars of near-grid acres by slope band and soil group, with slope map inset"></div>
-    <figcaption><b>Figure 7.</b> Ag-district land within 1 km and within 3 km of a mapped 46 kV+ line, by percent-slope band and soil
+    <figcaption><b>Figure 8.</b> Ag-district land within 1 km and within 3 km of a mapped 46 kV+ line, by percent-slope band and soil
     group (cumulative panels), with the island-wide slope raster inset. Class A land is excluded.</figcaption>
   </figure>
 
   <div class="tablewrap">
   <table>
-    <caption><span class="cno">Table 7.</span> Buildability and cost by slope band (engineering literature), with Oʻahu near-grid acreage</caption>
+    <caption><span class="cno">Table 8.</span> Buildability and cost by slope band (engineering literature), with Oʻahu near-grid acreage</caption>
     <tr><th>Slope</th><th>Standard tracker</th><th>Terrain-following tracker</th><th>Indicative cost premium vs flat</th><th class="num">Near-grid D/E ac</th><th class="num">Near-grid B/C ac, 20%-no-cap rule</th></tr>
     <tr><td>0–5%</td><td>Yes</td><td>Yes</td><td>≈ 0 (NREL benchmark reference terrain)</td><td class="num">2,648</td><td class="num">6,136</td></tr>
     <tr><td>5–10%</td><td>Yes</td><td>Yes</td><td>Low single-digit % of capex <span class="tag tU">derived</span></td><td class="num">1,733</td><td class="num">2,753</td></tr>
@@ -412,7 +468,7 @@
     island-wide; spread in ≤20-acre pieces across many parcels).</li>
     <li><b>Available via the SUP path:</b> B/C acreage above the cap, in practice limited by procurement awards rather
     than by the permit process (Table&nbsp;2).</li>
-    <li><b>Under alternative cap rules</b> (Figure&nbsp;8): raising the parcel share to 20% while keeping the 20-acre
+    <li><b>Under alternative cap rules</b> (Figure&nbsp;9): raising the parcel share to 20% while keeping the 20-acre
     term adds little (4,743 acres); removing the 20-acre term at 10% yields 9,410 acres; 20% with no acreage term
     yields 15,657 acres (~3,131 MW), of which 72% is within 1 km of a line and ~90% is at ≤15% slope. The 20-acre term,
     which binds only on parcels over 200 acres, accounts for most of the difference between scenarios.</li>
@@ -423,7 +479,7 @@
 
   <figure>
     <div class="figcard"><img src="__F1__" alt="Bar chart of Oahu eligible acres under cap scenarios S0 through S3"></div>
-    <figcaption><b>Figure 8.</b> By-right eligible acreage on Oʻahu B/C soils under the current cap and three
+    <figcaption><b>Figure 9.</b> By-right eligible acreage on Oʻahu B/C soils under the current cap and three
     alternatives. Statewide, the same scenarios run 33,978 → 157,213 acres.</figcaption>
   </figure>
 
@@ -449,7 +505,7 @@
   airports, harbors, and golf courses, and keeping parcels whose assessed building value is under 10% of land value
   (a vacancy proxy from the county assessment roll) — yields <b>290 parcels totaling 11,319 acres</b> (13,557 at
   ≤30% slope), plus roughly 600 net acres of landfills, quarries, and brownfields: about 11,900 acres, or
-  1,700–2,400 MW at 5–7 acres/MW (Figure&nbsp;9). The largest concentrations: Kamehameha Schools’ Waiawa block
+  1,700–2,400 MW at 5–7 acres/MW (Figure&nbsp;10). The largest concentrations: Kamehameha Schools’ Waiawa block
   (~1,080 flat acres on the 138 kV spine), the Kapolei/Makaiwa Hills area (~740), the Kalaeloa cluster (HCDA, DHHL,
   Hunt, UH — 900+ non-Navy acres), the Hoʻopili-area D.R. Horton holdings (~780), and Turtle Bay (~450). The special
   sites are led by the Pacific Aggregate quarry at Wahiawā (150 flat acres), Kapaʻa and Hālawa quarries (89 and 80),
@@ -489,7 +545,7 @@
 
   <figure>
     <div class="figcard"><img src="__F9__" alt="Map of Oahu urban-district solar candidate parcels and special sites"></div>
-    <figcaption><b>Figure 9.</b> Non-agricultural solar candidates: low-improvement urban-district parcels (≥10 ac at
+    <figcaption><b>Figure 10.</b> Non-agricultural solar candidates: low-improvement urban-district parcels (≥10 ac at
     ≤15% slope, non-military), screened-out flat urban parcels, military land (noted, excluded), and landfill/quarry/
     brownfield sites, with mapped transmission. Improvement-value proxy and OSM site inventory carry the caveats in
     the notes file.</figcaption>
@@ -510,7 +566,7 @@
   </ul>
   <figure>
     <div class="figcard"><img src="__F10__" alt="Map of wind-viable areas on Oahu under Ordinance 25-2"></div>
-    <figcaption><b>Figure 10.</b> Wind-viable land under Ordinance 25-2: AG/Country zoning beyond 1.25 miles of any
+    <figcaption><b>Figure 11.</b> Wind-viable land under Ordinance 25-2: AG/Country zoning beyond 1.25 miles of any
     country/residential/apartment/resort-district lot, toned by slope, with the three existing (non-repowerable) wind
     turbines marked individually. Geometric screen only — no FAA/radar, noise-at-receptor, habitat, or cultural
     screens. <b>Note on existing turbines inside the viable area:</b> conformity attaches per turbine, not per farm.
@@ -524,7 +580,7 @@
   </figure>
 
   <p>Geometrically, the 1.25-mile rule leaves <b>39,386 acres — 36% of Oʻahu's 108,417 AG/Country-zoned acres</b> —
-  eligible, versus 85% under the prior 1×-tip-height standard (Figure&nbsp;10). Because the Country district is itself
+  eligible, versus 85% under the prior 1×-tip-height standard (Figure&nbsp;11). Because the Country district is itself
   protected, every viable acre is AG-zoned, and all of it lies in the mauka north-central interior: the
   Waialua/Helemano plateau (~21,200 acres, 39% steeper than 30% slope, served only by 46 kV), Kunia (~7,800 acres,
   mostly gentle, nearest the 138 kV spine), the Kahuku hills (~4,100 acres, majority steep), and Kawailoa/Pūpūkea (~4,000 acres, mostly ≤30% slope). Of the
@@ -566,7 +622,7 @@
   record, including testimony and committee reports for each act.</p>
   <div class="tablewrap">
   <table>
-    <caption><span class="cno">Table 8.</span> Sources of the current rules</caption>
+    <caption><span class="cno">Table 10.</span> Sources of the current rules</caption>
     <tr><th>Year</th><th>Instrument</th><th>Provision</th></tr>
     <tr><td>1976</td><td>Act 199 (HRS §205-4.5)</td><td>Enumerated-use regime on A/B soils; uses not listed require a §205-6 special permit</td></tr>
     <tr><td>1980</td><td>Act 24</td><td>Wind added as a permitted use on agricultural land, all soil classes, no cap; language substantively unchanged since</td></tr>

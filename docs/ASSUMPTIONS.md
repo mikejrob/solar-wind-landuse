@@ -115,3 +115,15 @@ only where the analysis adds an interpretive reading.
 6. **F1 — RPAD taxyr 2027 vintage and fee-owner-only basis**: docs only; the paper's ownership section (§3) never states the tax year or the leasehold caveat.
 7. **B7 — SUP selection caveat**: the paper infers the SUP path is cheap from 8 self-selected applications; deterred non-applicants are unobservable. Worth one sentence in §2.
 8. **H2 — pre-2025 wind approximation caveat** absent from the §9 body text (figure annotation only).
+
+## Addendum: bulk-delivery analysis (added post-audit)
+
+| Assumption | Value | Used in | Justification | Disclosed |
+|---|---|---|---|---|
+| 138 kV circuit thermal rating | 150–250 MVA | screenline_analysis.py, Table 7 | Planning-typical ACSR range, ambient-derated; HECO ratings confidential | Paper §4 + notes |
+| 46 kV feeder rating | 30–60 MVA | same | Planning-typical | Paper §4 + notes |
+| Southern share of Oahu load | 70–85% | requirement model | Population/load geography; no public feeder-level split | Notes (range swept) |
+| Oahu peak load | 1.2 GW today; 1.5–2.0 GW 2045 | requirement model | HECO reported peaks; electrification scenarios | Notes (range swept) |
+| Storage duration / power ratio | 4–6 h at 50–100% of plant MW | requirement model | Matches recent HECO RFP awards | Paper §4 + notes |
+| HTLS reconductor gain | 1.5–2× thermal | upgrade costing | Vendor/industry typical | Notes |
+| Upgrade unit costs | reconductor $0.5–1.5M/km; 2nd circuit $1–2.5M/km; new DC 138 kV $2–4M/km (HI-adj) | upgrade costing | MISO benchmarks × HI multiplier (U) | Paper Table 5 conventions |
