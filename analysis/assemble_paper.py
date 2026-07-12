@@ -12,6 +12,7 @@ FIGS = {
     "__F3__": ROOT / "analysis/figs/paper/f3_ownership.png",
     "__F4__": ROOT / "analysis/figs/oahu_transmission_screen.png",
     "__F5__": ROOT / "analysis/figs/oahu_slope_bands.png",
+    "__F6__": ROOT / "analysis/figs/paper/f_corridors.png",
 }
 
 html = SRC.read_text()

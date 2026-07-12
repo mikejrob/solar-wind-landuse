@@ -204,49 +204,57 @@ def main():
     island = rasterize(slud[slud.island == "Oahu"].geometry,
                        np.ones(int((slud.island == "Oahu").sum())),
                        shape, tr, "uint8") == 1
-    make_figure(band, cls, buf1, island)
+    make_figure(band, cls, buf1, buf3, island)
 
 
-def make_figure(band, cls, buf1, island):
+def make_figure(band, cls, buf1, buf3, island):
     import matplotlib
     matplotlib.use("Agg")
     import matplotlib.pyplot as plt
 
-    # near-grid (<1 km) ag-district acres by slope band x soil group
-    m = (cls > 0) & (band > 0) & buf1
-    abc = np.isin(cls, [1, 2, 3])
-    acres = {g: [((band == b) & m & sel).sum() * CELL_AC
-                 for b in range(1, 8)]
-             for g, sel in [("A/B/C (cap or ban applies)", abc),
-                            ("D/E (uncapped)", ~abc)]}
     labels = ["0-5", "5-10", "10-15", "15-20", "20-25", "25-30", ">30"]
     # categorical slots 1-2 from the validated reference palette
     c_abc, c_de = "#2a78d6", "#1baf7a"
+    abc = np.isin(cls, [1, 2, 3])
 
-    fig, (ax, ax2) = plt.subplots(
-        1, 2, figsize=(11, 4.6), dpi=160,
-        gridspec_kw={"width_ratios": [1.45, 1]})
+    fig, (ax1, ax3, ax2) = plt.subplots(
+        1, 3, figsize=(14, 4.6), dpi=160,
+        gridspec_kw={"width_ratios": [1.2, 1.2, 1]})
     x = np.arange(7)
-    b1 = ax.bar(x, acres["D/E (uncapped)"], 0.62, color=c_de,
-                label="D/E (uncapped)", edgecolor="white", linewidth=2)
-    b2 = ax.bar(x, acres["A/B/C (cap or ban applies)"], 0.62,
-                bottom=acres["D/E (uncapped)"], color=c_abc,
-                label="A/B/C (cap or ban applies)",
-                edgecolor="white", linewidth=2)
-    for i in (0, 1, 2):  # direct labels on the flattest three bands
-        tot = acres["D/E (uncapped)"][i] + acres["A/B/C (cap or ban applies)"][i]
-        ax.annotate(f"{tot:,.0f}", (i, tot), ha="center", va="bottom",
-                    fontsize=8.5, color="#0b0b0b")
-    ax.set_xticks(x, labels)
-    ax.set_xlabel("slope band (percent)", fontsize=9, color="#52514e")
-    ax.set_ylabel("acres", fontsize=9, color="#52514e")
-    ax.set_title("Oahu ag-district land within 1 km of a mapped 46 kV+ line",
-                 fontsize=10.5, color="#0b0b0b", loc="left")
-    ax.legend(fontsize=8.5, frameon=False)
-    ax.spines[["top", "right"]].set_visible(False)
-    ax.tick_params(colors="#52514e", labelsize=8.5)
-    ax.grid(axis="y", color="#eceae6", linewidth=0.8)
-    ax.set_axisbelow(True)
+    ymax = 0.0
+    for ax, lab, buf in [(ax1, "within 1 km", buf1),
+                         (ax3, "within 3 km", buf3)]:
+        m = (cls > 0) & (band > 0) & buf
+        acres = {g: [((band == b) & m & sel).sum() * CELL_AC
+                     for b in range(1, 8)]
+                 for g, sel in [("A/B/C (cap or ban applies)", abc),
+                                ("D/E (uncapped)", ~abc)]}
+        ax.bar(x, acres["D/E (uncapped)"], 0.62, color=c_de,
+               label="D/E (uncapped)", edgecolor="white", linewidth=2)
+        ax.bar(x, acres["A/B/C (cap or ban applies)"], 0.62,
+               bottom=acres["D/E (uncapped)"], color=c_abc,
+               label="A/B/C (cap or ban applies)",
+               edgecolor="white", linewidth=2)
+        tots = (np.array(acres["D/E (uncapped)"])
+                + np.array(acres["A/B/C (cap or ban applies)"]))
+        ymax = max(ymax, tots.max())
+        for i in (0, 1, 2):  # direct labels on the flattest three bands
+            ax.annotate(f"{tots[i]:,.0f}", (i, tots[i]), ha="center",
+                        va="bottom", fontsize=8.5, color="#0b0b0b")
+        ax.set_xticks(x, labels)
+        ax.set_xlabel("slope band (percent)", fontsize=9, color="#52514e")
+        ax.set_title(f"Ag-district land {lab} of a mapped 46 kV+ line "
+                     "(cumulative)", fontsize=9.5, color="#0b0b0b",
+                     loc="left")
+        ax.spines[["top", "right"]].set_visible(False)
+        ax.tick_params(colors="#52514e", labelsize=8.5)
+        ax.grid(axis="y", color="#eceae6", linewidth=0.8)
+        ax.set_axisbelow(True)
+    for ax in (ax1, ax3):  # shared y scale
+        ax.set_ylim(0, ymax * 1.1)
+    ax1.set_ylabel("acres", fontsize=9, color="#52514e")
+    ax3.tick_params(labelleft=False)
+    ax1.legend(fontsize=8.5, frameon=False)
 
     # inset: slope-band map (sequential single hue)
     ramp = ["#ffffff", "#f2f8fd", "#d8eafa", "#b3d6f2", "#84bce7",
@@ -262,7 +270,10 @@ def make_figure(band, cls, buf1, island):
     fig.tight_layout()
     out = FIGS / "oahu_slope_bands.png"
     fig.savefig(out, bbox_inches="tight")
-    print(f"wrote {out}")
+    paper = FIGS / "paper"
+    paper.mkdir(exist_ok=True)
+    fig.savefig(paper / "f4_slope_bands_2panel.png", bbox_inches="tight")
+    print(f"wrote {out} and paper/f4_slope_bands_2panel.png")
 
 
 if __name__ == "__main__":

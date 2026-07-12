@@ -168,3 +168,79 @@ Interpretation, with the data-quality caveat applied:
 - `data/gis/oahu_lines_classified.parquet`, `hifld_lines_oahu.geojson`,
   `osm_power_oahu.json` — line data cache
 - `analysis/figs/oahu_transmission_screen.png` — map
+
+## Strategic corridor analysis (added 2026-07-12, slope- and owner-aware)
+
+Script: `analysis/corridor_candidates.py`. Outputs:
+`data/gis/oahu_corridor_candidates.csv`, `oahu_ring_1_3km_summary.csv`,
+map `analysis/figs/paper/f_corridors.png`.
+
+Method: buildable = slope ≤30% (≤15% also reported); "unserved" = ag-district
+land >1 km from any mapped 46 kV+ line; clusters = 8-connected components on
+the 10 m grid, kept if ≥250 buildable ac (16 clusters). Because every
+cluster's edge sits ~1 km from the network by construction, ranking uses the
+**mean buildable-cell distance to the network** (`km_new_row_46kv`) as the
+new-ROW denominator — a spur to the cluster edge does not serve its far
+side; the edge (min) distance is also in the CSV. Owner mix joins
+`data/oahu_ag_owners.csv` (RPAD-resolved); `n_owners_100ac` counts distinct
+resolved owners with ≥100 buildable ac (excluding "Various owners"
+aggregates). Rationale: a corridor that unlocks many owners' land increases
+PPA-bid competition more than one serving a single estate.
+
+### Top candidates, acres per km of new ROW (buildable ≤30%)
+
+| Rank | ID | Locality (approx) | Buildable ac ≤15/≤30 | MW@5 | %D/E | mean ROW km | ac/km | owners ≥100ac | Top owners |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | C01 | Waianae Range mauka + central plateau fringe | 13,255/17,776 | 3,555 | 44 | 3.8 | 4,735 | 21 | US Govt 26%, Island Palm (Army PPP) 12%, Corteva 10% |
+| 2 | C03 | Waialua | 6,400/7,306 | 1,461 | 20 | 2.0 | 3,677 | 5 | Laukiha'a ag CPR 34%, Dole 26%, Kamehameha Schools 19% |
+| 3 | C02 | Lualualei | 6,782/9,059 | 1,812 | 90 | 3.6 | 2,524 | 5 | **US 55% (majority federal)**, State 10%, DHHL 5% |
+| 4 | C04 | Kahuku | 3,137/5,630 | 1,126 | 48 | 2.5 | 2,238 | 4 | US 36%, Property Reserve (LDS) 33%, State 15% |
+| 5 | C06 | Pupukea/Waimea | 1,377/1,759 | 352 | 43 | 2.1 | 838 | 1 | Kamehameha Schools 99% |
+
+### Top candidates, distinct-owners-unlocked per km (competition metric)
+
+C01 (5.6 owners/km), C03 (2.5), C04 (1.6), C14 Waipio/Waiawa (1.5),
+C02/C11 (1.4). **C03 (Waialua) is the standout commercially competitive
+unlock**: ~2 km of new/upgraded ROW from the Waialua 46 kV corridor reaches
+7,300 buildable ac split across five substantial owners (Dole, Kamehameha
+Schools, an ag-CPR community, plus state parcels) with 58% B/C — i.e. it is
+also the cluster whose value most depends on cap reform (S3). C01's
+owner count (21) overstates commercial competition: it merges
+Schofield-plateau fringe land where the owner list is heavily
+military/federal-adjacent and where unmapped 46 kV likely already exists.
+
+Majority-federal clusters (flagged in CSV, not commercially leasable in
+practice): C02 Lualualei (Navy), C07 Ewa/Puuloa (Navy 63%), C08
+Pearl City/Waiau mauka (US 93%), C11 Kahuku point (FWS 61%), C16
+Helemano (US 99%).
+
+### The cheap upgrades: buildable land in the 1–3 km ring
+
+Land servable by short 46 kV spurs / in-ROW reconductoring (Mike's
+premise), by soil group:
+
+| Group | Buildable ac ≤15% | Buildable ac ≤30% |
+|---|---|---|
+| A (banned) | 4,762 | 4,866 |
+| B/C (capped; S3-relevant) | 10,686 | 11,842 |
+| D/E (uncapped) | 7,341 | 12,177 |
+
+**31 distinct resolved owners** hold ≥100 buildable (≤30%) ac in the ring.
+The ring alone contains ~24,000 buildable non-A acres (~4,800 MW @5 ac/MW
+envelope) — more than any single new-corridor cluster except C01 — and it
+is dispersed across many owners, supporting the view that incremental
+46 kV work dominates greenfield corridors on both cost and competition
+before any big new ROW is justified.
+
+### Caveats specific to this section
+
+- 46 kV under-mapping cuts BOTH ways here: it inflates "unserved" clusters
+  (parts of C01's plateau fringe, C07, C08, C15 are probably already within
+  1 km of a real line) AND understates the 1–3 km ring. Treat C07/C08/C15
+  as likely artifacts; C02/C03/C04/C05/C06/C09/C12 are robust (far even
+  from the reliable 138 kV network).
+- "km of new ROW" is straight-line; real routes follow roads/terrain.
+- Owner shares are of buildable ≤30% acres, from the RPAD owner file
+  (confidence flags in `oahu_ag_owners.csv`); unparceled cluster area is
+  unattributed.
+- No hosting-capacity, substation, or land-use-entitlement information.
