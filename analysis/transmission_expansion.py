@@ -483,18 +483,18 @@ def fig_map(curve, segs, knee, elig30, net0, tr100):
         Line2D([], [], color=C_46, lw=0.9,
                label="46 kV / sub-transmission (mapped)"),
         Line2D([], [], color=C_EXP, lw=2.8,
-               label=f"greedy expansion, first {knee_km:.0f} km (knee)"),
+               label=f"greedy expansion, first {knee_km:.0f} km"),
         Line2D([], [], color=C_EXP, lw=1.1, alpha=0.5, ls=(0, (3, 2)),
                label=f"remainder of greedy build-out (to "
                      f"{curve.cum_km.iloc[-1]:.0f} km)"),
         Patch(fc=C_NEW, alpha=0.75,
-              label="B–D land ≤30% slope newly within 1 km at the knee"),
+              label="B–D land ≤30% slope newly within 1 km"),
         Patch(fc="#e7f2e9", label="ag district"),
     ]
     ax.legend(handles=handles, loc="lower left", fontsize=8.5, frameon=True,
               framealpha=0.95, edgecolor="#d8d6d0")
-    ax.set_title(f"Greedy transmission expansion at the knee budget "
-                 f"(≈{knee_km:.0f} km): +"
+    ax.set_title(f"First {knee_km:.0f} km of the greedy transmission build-out"
+                 f": +"
                  f"{knee_ac - curve.cum_acres_le30.iloc[0]:,.0f} eligible "
                  f"acres", fontsize=12, color=INK)
     ax.text(0.01, 0.985,

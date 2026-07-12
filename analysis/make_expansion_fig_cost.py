@@ -62,13 +62,6 @@ for L in [10, 25, 50, 75, 100]:
     ax.annotate(f"L={L}\n{y:,.0f} ac", (L, y), xytext=(6, -34),
                 textcoords="offset points", fontsize=8.8, color=INK2)
 
-# knee
-kx = 5.7; ky = np.interp(kx, d["cum_km"], d["cum_acres_le30"])
-ax.plot([kx], [ky], marker="D", ms=8, color=PINK, zorder=6)
-ax.annotate("knee ≈ 6 km (≈$15M): 18,580 ac\npeak smoothed marginal 434 ac/km",
-            (kx, ky), xytext=(-14, 118), textcoords="offset points",
-            fontsize=9.6, color=PINK,
-            arrowprops=dict(arrowstyle="-", color=PINK, lw=1.1))
 
 ax.set_xlim(-2, 132)
 ax.set_xlabel("km of new line (greedy build-out)", fontsize=10.5, color=INK2)
