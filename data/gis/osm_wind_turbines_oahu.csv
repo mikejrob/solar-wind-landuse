@@ -1,0 +1,51 @@
+osm_id,osm_type,farm,manufacturer,output,lon,lat,dist_sens_mi,beyond_setback,in_target_zone,conforming_location
+5428000028,node,Kawailoa Wind,Siemens,2300 kW,-158.0293391,21.6016503,2.494,True,True,True
+5428000029,node,Kawailoa Wind,Siemens,2300 kW,-158.0237713,21.5998719,2.694,True,True,True
+5428000030,node,Kawailoa Wind,Siemens,2300 kW,-158.0231425,21.5981666,2.818,True,True,True
+5428000031,node,Kawailoa Wind,Siemens,2300 kW,-158.0372519,21.5905047,3.227,True,True,True
+5428000032,node,Kawailoa Wind,Siemens,2300 kW,-158.0382344,21.5921004,3.12,True,True,True
+5428000049,node,Kawailoa Wind,Siemens,2300 kW,-158.0505229,21.5943661,2.621,True,True,True
+5428000050,node,Kawailoa Wind,Siemens,2300 kW,-158.0504312,21.5970825,2.465,True,True,True
+5428000051,node,Kawailoa Wind,Siemens,2300 kW,-158.0514268,21.5986782,2.338,True,True,True
+5428000052,node,Kawailoa Wind,Siemens,2300 kW,-158.0523701,21.6002617,2.213,True,True,True
+5428000053,node,Kawailoa Wind,Siemens,2300 kW,-158.0486315,21.5922626,2.808,True,True,True
+5543882389,node,Kawailoa Wind,Siemens,2300 kW,-158.0549061,21.610056,1.575,True,True,True
+5543882390,node,Kawailoa Wind,Siemens,2300 kW,-158.0530822,21.6078715,1.765,True,True,True
+5543882391,node,Kawailoa Wind,Siemens,2300 kW,-158.0520845,21.6062955,1.89,True,True,True
+5543882392,node,Kawailoa Wind,Siemens,2300 kW,-158.0510867,21.6047194,2.014,True,True,True
+5543882393,node,Kawailoa Wind,Siemens,2300 kW,-158.0409828,21.6104874,1.881,True,True,True
+5543882400,node,Kawailoa Wind,Siemens,2300 kW,-158.0584037,21.6194968,0.972,False,True,False
+5543882401,node,Kawailoa Wind,Siemens,2300 kW,-158.0571646,21.6175219,1.116,False,True,False
+5543882402,node,Kawailoa Wind,Siemens,2300 kW,-158.0561775,21.615926,1.234,False,True,False
+5543882403,node,Kawailoa Wind,Siemens,2300 kW,-158.0552065,21.6143451,1.352,True,True,True
+5543882404,node,Kawailoa Wind,Siemens,2300 kW,-158.0289316,21.6130684,1.731,True,True,True
+5543882405,node,Kawailoa Wind,Siemens,2300 kW,-158.0271184,21.6115073,1.866,True,False,False
+5543882406,node,Kawailoa Wind,Siemens,2300 kW,-158.0262655,21.6098765,1.99,True,True,True
+5543882407,node,Kawailoa Wind,Siemens,2300 kW,-158.0254877,21.6081808,2.116,True,True,True
+5543882408,node,Kawailoa Wind,Siemens,2300 kW,-158.0246991,21.6065199,2.241,True,True,True
+5543882409,node,Kawailoa Wind,Siemens,2300 kW,-158.0307984,21.616729,1.458,True,False,False
+5543882410,node,Kawailoa Wind,Siemens,2300 kW,-158.0330408,21.6185044,1.312,True,False,False
+5543882411,node,Kawailoa Wind,Siemens,2300 kW,-158.0371338,21.6209829,1.132,False,True,False
+5543882412,node,Kawailoa Wind,Siemens,2300 kW,-158.0437213,21.6238155,0.977,False,True,False
+5543882413,node,Kawailoa Wind,Siemens,2300 kW,-158.0457866,21.6257504,0.858,False,True,False
+5543882414,node,Kawailoa Wind,Siemens,2300 kW,-158.0502176,21.6276952,0.817,False,True,False
+8067307599,node,Kahuku Wind (2011),Clipper,2.5 MW,-157.9737304,21.6875501,0.718,False,True,False
+8067307600,node,Kahuku Wind (2011),Clipper,2.5 MW,-157.9738645,21.6860634,0.817,False,True,False
+8067307601,node,Kahuku Wind (2011),Clipper,2.5 MW,-157.9721949,21.6844807,0.945,False,True,False
+8067307602,node,Kahuku Wind (2011),Clipper,2.5 MW,-157.9691479,21.6827884,0.912,False,True,False
+8067307603,node,Kahuku Wind (2011),Clipper,2.5 MW,-157.9700652,21.6810162,0.892,False,True,False
+8067307604,node,Kahuku Wind (2011),Clipper,2.5 MW,-157.9703468,21.6793239,0.857,False,True,False
+8067307605,node,Kahuku Wind (2011),Clipper,2.5 MW,-157.9719213,21.674957,0.894,False,True,False
+8067307606,node,Kahuku Wind (2011),Clipper,2.5 MW,-157.9735172,21.6761908,1.003,False,True,False
+8067307607,node,Kahuku Wind (2011),Clipper,2.5 MW,-157.9741609,21.6778608,1.062,False,True,False
+8067307608,node,Kahuku Wind (2011),Clipper,2.5 MW,-157.9811615,21.6790248,1.331,True,True,True
+8067307609,node,Kahuku Wind (2011),Clipper,2.5 MW,-157.982343,21.6804168,1.261,True,True,True
+8067307610,node,Kahuku Wind (2011),Clipper,2.5 MW,-157.9839698,21.6820456,1.197,False,True,False
+8415756166,node,Na Pua Makani,Vestas,3.45 MW,-157.951116,21.6618168,0.789,False,True,False
+8415756175,node,Na Pua Makani,Vestas,3.45 MW,-157.9497474,21.6646594,0.619,False,True,False
+8415756176,node,Na Pua Makani,Vestas,3.45 MW,-157.9499593,21.6670192,0.458,False,True,False
+8415756177,node,Na Pua Makani,Vestas,3.45 MW,-157.9500416,21.6692182,0.312,False,True,False
+8415756178,node,Na Pua Makani,Vestas,3.45 MW,-157.9697411,21.6720272,0.774,False,True,False
+8415756179,node,Na Pua Makani,Vestas,3.45 MW,-157.9698128,21.6695678,0.815,False,True,False
+8415756180,node,Na Pua Makani,Vestas,3.45 MW,-157.9702887,21.6671749,0.902,False,True,False
+8415756181,node,Na Pua Makani,Vestas,3.45 MW,-157.9687633,21.6650667,0.891,False,True,False

@@ -11,7 +11,7 @@ and terrain.
 ## The paper
 
 - **`paper/land-restrictions-paper-final.html`** — the assembled paper, fully
-  self-contained (all nine figures embedded as base64 data-URIs). This is the
+  self-contained (all ten figures embedded as base64 data-URIs). This is the
   file to read or share.
 - **`paper/land-restrictions-paper.pdf`** — PDF render of the same.
 - `paper/land-restrictions-paper.html` is the *template* (figure placeholders
@@ -59,6 +59,9 @@ python analysis/slope_screen.py                    # DEM slope banding
 python analysis/transmission_expansion.py          # greedy expansion frontier
 python analysis/make_paper_figs.py                 # figures F1–F3
 python analysis/make_expansion_fig_cost.py         # expansion curve w/ cost lines
+python analysis/join_owner_transmission.py         # ownership x transmission join (Fig 1/Table 3 input)
+python analysis/nonag_classify.py && python analysis/nonag_fig.py   # non-ag viability classes + Figure 9
+python analysis/wind_viable_map.py                 # wind viability map (Figure 10)
 python analysis/assemble_paper.py                  # embed figures -> final HTML
 ```
 
@@ -72,7 +75,9 @@ All scripts are **resume-safe and re-run offline** from the local cache in
 `data/gis/` layers are **gitignored**; on a fresh clone, re-download them via
 the scripts themselves (`python analysis/cap_scenarios.py download statewide`
 fetches the LSB/SLUD/parcel layers; `transmission_screen.py` and
-`slope_screen.py` fetch lines and DEM tiles on first run). Scripts hardcode
+`slope_screen.py` read cached line and DEM layers from `data/gis/`; the caches
+were downloaded by the original sessions — sources and re-download endpoints are
+documented in `docs/METHODS.md`). Scripts hardcode
 the project root path — edit `ROOT`/`PROJECT` at the top of each script if
 the repo lives elsewhere.
 

@@ -89,18 +89,18 @@ Primary documents (cached in `data/raw/lurf/`):
   Grove Farm, Maui Land & Pineapple, Queen Emma Foundation, Robinson Trust
   (William Paty), W.H. Shipman, Molokai Properties, The Mills Group (whose
   chairman Bill D. Mills was then an HEI director).
-  URL: web.archive.org/web/20080719174816/http://www.lurf.org/docs/exec.pdf
+  URL: https://web.archive.org/web/20080719174816/http://www.lurf.org/docs/exec.pdf
 - FY2008–09 officers (rev. 2008-09-18, via Wayback 2017-03-08): Vice-President
   = Darcy Endo-Omoto, HAWAIIAN ELECTRIC COMPANY, INC. President = Carleton
   Ching (Castle & Cooke); President-elect = Giorgio Caldarone (Kamehameha
   Schools).
-  URL: web.archive.org/web/20170308041447/http://www.lurf.org/docs/exec.pdf
+  URL: https://web.archive.org/web/20170308041447/http://www.lurf.org/docs/exec.pdf
 - Membership directory captured 2011-01-24 — DURING the SB 631 session:
   "Hawaiian Electric Company, Inc." listed as member alongside Kamehameha
   Schools, A&B, Castle & Cooke, Grove Farm, Kapolei Property Development
   (Campbell), Queen Emma Land, Robinson Trusts, ML&P, W.H. Shipman, Dowling,
   Gentry, Haseko, D.R. Horton, Hawaii Reserves, Ko Olina, Stanford Carr.
-  URL: web.archive.org/web/20110124001755/http://www.lurf.org:80/members.htm
+  URL: https://web.archive.org/web/20110124001755/http://www.lurf.org:80/members.htm
 - FY2021–22 and FY2023–24 officer lists (lurf.org via Wayback 2025-01-18):
   Vice-presidents include Darcy Endo-Omoto (HAWAIIAN ELECTRIC INDUSTRIES) and
   Jim Alberts (HAWAIIAN ELECTRIC COMPANY) — two concurrent utility officer

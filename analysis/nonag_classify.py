@@ -22,7 +22,7 @@ import geopandas as gpd
 import numpy as np
 import pandas as pd
 
-SCRATCH = Path("/private/tmp/claude-503/-Users-michaelroberts-Research-solar-wind-landuse/d73405a1-d30d-4ac4-8a47-d64b30b982a9/scratchpad")
+SCRATCH = Path(__file__).resolve().parents[1] / "data/intermediates"  # session intermediates, committed
 PROJECT = Path("/Users/michaelroberts/Research/solar-wind-landuse")
 
 LOW_VAL, HIGH_VAL, PUB_GUARD = 50_000, 500_000, 2_000_000

@@ -2,7 +2,8 @@
 import re
 import pandas as pd
 
-SP = "/private/tmp/claude-503/-Users-michaelroberts-Research-solar-wind-landuse/d73405a1-d30d-4ac4-8a47-d64b30b982a9/scratchpad"
+import os
+SP = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data/intermediates")
 PROJ = "/Users/michaelroberts/Research/solar-wind-landuse"
 OWNALL_URL = "https://services.arcgis.com/tNJpAOha4mODLkXz/arcgis/rest/services/CadastralTables/FeatureServer/5 (City & County of Honolulu RPAD OWNALL table, taxyr 2027)"
 GOV_URL = "https://geodata.hawaii.gov/arcgis/rest/services/ParcelsZoning/MapServer/19 (Government Lands - Detailed)"

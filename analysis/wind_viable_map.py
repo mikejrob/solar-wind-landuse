@@ -22,17 +22,21 @@ Viable area is split by slope using data/gis/dem/oahu_slope_bands.tif
 
 Inputs (cached): data/gis/pages_zoning_oahu/ (Honolulu LUO zoning),
 data/gis/slud.parquet (island silhouette), data/gis/oahu_lines_classified
-.parquet (HIFLD+OSM 138/46kV lines), slope raster above. CRS EPSG:26904.
+.parquet (HIFLD+OSM 138/46kV lines), slope raster above,
+data/gis/osm_wind_turbines_oahu.json (OSM Overpass, power=generator +
+generator:source=wind; fetched 2026-07; 50 turbines). CRS EPSG:26904.
 
 Outputs:
   analysis/figs/paper/f_wind_map.png
   data/gis/wind_viable_areas.csv   (summary + named-region rows)
+  data/gis/osm_wind_turbines_oahu.csv  (per-turbine location conformity)
 
 Geometric screen only: no FAA/radar, noise-at-receptor, habitat, or
 cultural screens; zoning layer as cached from the C&C Honolulu open-data
 LUO layer (2024/25 vintage).
 """
 
+import json
 from pathlib import Path
 
 import geopandas as gpd
@@ -57,12 +61,17 @@ SENSITIVE = {"C", "Resort", "Apart", "ApartMix", "ResMix",
              "A-1", "A-2", "A-3", "AMX-1", "AMX-2", "AMX-3",
              "R-3.5", "R-5", "R-7.5", "R-10", "R-20"}
 
-# existing farms (approx coordinates; all nonconforming under Ord 25-2)
+# existing farms: label anchors (lon, lat); turbine points come from OSM.
+# OSM manufacturer tag identifies the farm: Vestas 3.45 MW = Na Pua Makani
+# (8), Clipper 2.5 MW = Kahuku Wind 2011 (12), Siemens 2.3 MW = Kawailoa (30).
 WIND_FARMS = [
     ("Na Pua Makani", -157.943, 21.674),
     ("Kahuku Wind (2011)", -157.956, 21.683),
     ("Kawailoa Wind", -158.041, 21.611),
 ]
+FARM_BY_MANUFACTURER = {"Vestas": "Na Pua Makani",
+                        "Clipper": "Kahuku Wind (2011)",
+                        "Siemens": "Kawailoa Wind"}
 
 # locality anchors (lon, lat) for naming viable-area components
 ANCHORS = {
@@ -87,6 +96,48 @@ PAPER = "#fcfcfb"
 def locality(lon, lat):
     return min(ANCHORS, key=lambda k: (ANCHORS[k][0] - lon) ** 2
                + (ANCHORS[k][1] - lat) ** 2)
+
+
+def load_turbines(target_u, sens_u, viable):
+    """OSM turbine points classified against the Ord 25-2 geometry.
+
+    conforming_location = >= 1.25 mi from every protected-district lot AND
+    inside AG-1/AG-2/Country zoning (i.e., inside the mapped viable area).
+    Location only: the repowering clamp (<= 7% height increase / 575 ft,
+    within current PPA) applies to ALL existing turbines regardless.
+    """
+    d = json.load(open(GIS / "osm_wind_turbines_oahu.json"))
+    rows = []
+    for e in d["elements"]:
+        t = e.get("tags", {})
+        rows.append({"osm_id": e["id"], "osm_type": e["type"],
+                     "farm": FARM_BY_MANUFACTURER.get(
+                         t.get("manufacturer", ""), "unknown"),
+                     "manufacturer": t.get("manufacturer", ""),
+                     "output": t.get("generator:output:electricity", ""),
+                     "lon": e.get("lon") or e["center"]["lon"],
+                     "lat": e.get("lat") or e["center"]["lat"]})
+    tb = gpd.GeoDataFrame(
+        pd.DataFrame(rows),
+        geometry=gpd.points_from_xy([r["lon"] for r in rows],
+                                    [r["lat"] for r in rows]),
+        crs=4326).to_crs(CRS)
+    tb["dist_sens_mi"] = tb.geometry.apply(
+        lambda p: p.distance(sens_u)) / MILE
+    tb["beyond_setback"] = tb["dist_sens_mi"] >= 1.25
+    tb["in_target_zone"] = tb.geometry.apply(target_u.contains)
+    tb["conforming_location"] = tb.geometry.apply(viable.contains)
+    summ = tb.groupby("farm").agg(
+        n=("osm_id", "size"), beyond_setback=("beyond_setback", "sum"),
+        conforming_location=("conforming_location", "sum"),
+        min_dist_mi=("dist_sens_mi", "min"),
+        max_dist_mi=("dist_sens_mi", "max"))
+    print(summ.round(2).to_string())
+    tb.drop(columns="geometry").round(
+        {"dist_sens_mi": 3}).to_csv(
+        GIS / "osm_wind_turbines_oahu.csv", index=False)
+    print(f"wrote {GIS / 'osm_wind_turbines_oahu.csv'}")
+    return tb
 
 
 def main():
@@ -175,12 +226,14 @@ def main():
     out.to_csv(GIS / "wind_viable_areas.csv", index=False)
     print(f"wrote {GIS / 'wind_viable_areas.csv'}")
 
+    tb = load_turbines(target_u, sens_u, viable)
+
     make_figure(z, target_u, le30, gt30, bounds, viable_ac, le30_ac, gt30_ac,
-                agc_ac, old_ac)
+                agc_ac, old_ac, tb)
 
 
 def make_figure(z, target_u, le30, gt30, bounds, viable_ac, le30_ac, gt30_ac,
-                agc_ac, old_ac):
+                agc_ac, old_ac, tb):
     import matplotlib
     matplotlib.use("Agg")
     import matplotlib.pyplot as plt
@@ -211,12 +264,18 @@ def make_figure(z, target_u, le30, gt30, bounds, viable_ac, le30_ac, gt30_ac,
     lines[lines.kv != "138"].plot(ax=ax, color=C_46, linewidth=0.6, zorder=4)
     lines[lines.kv == "138"].plot(ax=ax, color=C_138, linewidth=1.2, zorder=4)
 
-    # existing wind farms
+    # existing turbines (OSM points), colored by location conformity
+    non = tb[~tb.conforming_location]
+    con = tb[tb.conforming_location]
+    ax.scatter(non.geometry.x, non.geometry.y, marker="o", s=22,
+               facecolor="#0b0b0b", edgecolor="white", linewidth=0.7,
+               zorder=6)
+    ax.scatter(con.geometry.x, con.geometry.y, marker="o", s=22,
+               facecolor="white", edgecolor="#0b0b0b", linewidth=0.9,
+               zorder=6)
     wf = gpd.GeoSeries(gpd.points_from_xy(
         [lon for _, lon, _ in WIND_FARMS],
         [lat for _, _, lat in WIND_FARMS]), crs=4326).to_crs(CRS)
-    ax.scatter(wf.x, wf.y, marker="*", s=210, facecolor="#0b0b0b",
-               edgecolor="white", linewidth=0.8, zorder=6)
     lab_off = {"Na Pua Makani": (8500, -1200), "Kahuku Wind (2011)":
                (-8500, 2600), "Kawailoa Wind": (-11500, 2200)}
     for (name, _, _), x, y in zip(WIND_FARMS, wf.x, wf.y):
@@ -233,9 +292,13 @@ def make_figure(z, target_u, le30, gt30, bounds, viable_ac, le30_ac, gt30_ac,
                              "1.25-mi exclusion"),
         Line2D([], [], color=C_138, lw=1.2, label="138 kV"),
         Line2D([], [], color=C_46, lw=0.6, label="46 kV+ (mapped)"),
-        Line2D([], [], marker="*", markersize=13, mfc="#0b0b0b", mec="white",
-               lw=0, label="existing wind farm (nonconforming -- "
-                           "cannot repower)"),
+        Line2D([], [], marker="o", markersize=6, mfc="#0b0b0b", mec="white",
+               lw=0, label=f"existing turbine, nonconforming location "
+                           f"(n={len(non)})"),
+        Line2D([], [], marker="o", markersize=6, mfc="white", mec="#0b0b0b",
+               lw=0, label=f"existing turbine, conforming location "
+                           f"(n={len(con)}; repowering still capped at "
+                           f"+7% height)"),
     ]
     ax.legend(handles=handles, loc="lower left", fontsize=8, frameon=True,
               framealpha=0.95, edgecolor="#d8d6d0", facecolor=PAPER)
@@ -258,7 +321,8 @@ def make_figure(z, target_u, le30, gt30, bounds, viable_ac, le30_ac, gt30_ac,
             " or cultural screens. Zoning: C&C Honolulu open-data LUO layer"
             " (2024/25 vintage);\n1.25-mi flat floor assumed to bind (10x tip"
             " height ~= 2,000 m for ~200 m tips). Slope: USGS 10 m DEM."
-            " Lines: HIFLD + OSM; 46 kV network under-mapped.",
+            " Lines: HIFLD + OSM; 46 kV network under-mapped."
+            " Turbine points: OpenStreetMap (2026-07).",
             transform=ax.transAxes, fontsize=7, color="#52514e",
             ha="center", va="top")
     # 10 km scale bar, lower right above footnote

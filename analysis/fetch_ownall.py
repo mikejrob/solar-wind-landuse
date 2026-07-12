@@ -3,7 +3,8 @@ import json, time, urllib.parse, urllib.request, sys
 import pandas as pd
 
 BASE = "https://services.arcgis.com/tNJpAOha4mODLkXz/arcgis/rest/services/CadastralTables/FeatureServer/5/query"
-OUT = "/private/tmp/claude-503/-Users-michaelroberts-Research-solar-wind-landuse/d73405a1-d30d-4ac4-8a47-d64b30b982a9/scratchpad/ownall_rows.csv"
+import os
+OUT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data/intermediates/ownall_rows.csv")
 
 df = pd.read_csv("/Users/michaelroberts/Research/solar-wind-landuse/data/cap_scenarios_by_parcel.csv", dtype={"tmk": str})
 oa = df[df.island == "Oahu"].copy()

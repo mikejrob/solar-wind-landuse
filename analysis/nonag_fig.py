@@ -9,7 +9,7 @@ from matplotlib.lines import Line2D
 from matplotlib.patches import Patch
 from shapely.geometry import MultiPolygon, Polygon
 
-SCRATCH = Path("/private/tmp/claude-503/-Users-michaelroberts-Research-solar-wind-landuse/d73405a1-d30d-4ac4-8a47-d64b30b982a9/scratchpad")
+SCRATCH = Path(__file__).resolve().parents[1] / "data/intermediates"  # session intermediates, committed
 PROJECT = Path("/Users/michaelroberts/Research/solar-wind-landuse")
 GIS = PROJECT / "data" / "gis"
 CRS = "EPSG:26904"
