@@ -7,9 +7,10 @@ economy** of Hawaiʻi's land-use restrictions on renewables: who wrote the
 rules, who defends them, and how much land they actually put in or out of
 reach. Solar's binding restriction is the state agricultural-district statute
 (HRS § 205-4.5 and § 205-2); wind's is county setback zoning (Honolulu
-Ordinance 25-2, amending the Revised Ordinances of Honolulu land use
-ordinance), because the state statute permits wind on agricultural land
-without a cap. The project pairs the full legislative and documentary record
+Ordinance 25-2 / Bill 64 (2023), the comprehensive revision of the city's Land
+Use Ordinance, Revised Ordinances of Honolulu Chapter 21 — the first LUO
+overhaul since 1990), because the state statute permits wind on agricultural
+land without a cap. The project pairs the full legislative and documentary record
 (bills, testimony, LUC dockets, lobbying, campaign finance, board interlocks)
 with a quantitative GIS analysis of land-use rules, ownership, grid proximity,
 and terrain.

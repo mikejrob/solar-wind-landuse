@@ -19,8 +19,12 @@ reported: "more than 160 arrests" ([Civil Beat 2021-06](https://www.civilbeat.or
 **Ordinance 25-2** (= **Bill 64 (2023), CD2, FD2**, "Relating to Use Regulations" —
 the wholesale LUO replacement) is the current law.
 
-Legislative record (primary: [hnldoc measure 2784](https://hnldoc.ehawaii.gov/hnldoc/measure/2784);
-enrolled ordinance PDF: [ORD25-002.pdf](https://files.amlegal.com/pdffiles/Honolulu/ORD25-002.pdf)):
+Legislative record (official ordinance PDF, verified 2026-07-17:
+[Ordinance 25-002 / Bill 64 / LUO](https://www4.honolulu.gov/docushare/dsweb/Get/Document-354710/Ordinance%2025-002_Bill%2064_LUO.pdf),
+City & County of Honolulu docushare; mirror: [ORD25-002.pdf](https://files.amlegal.com/pdffiles/Honolulu/ORD25-002.pdf);
+hnldoc measure 2784 is now login-gated). Confirmed: Bill 64 (2023) is the
+comprehensive revision of the Land Use Ordinance (ROH ch. 21) — the first since
+1990 — not a targeted amendment:
 - Introduced 11/28/2023 by **Esther Kiaʻāina** (chair, Planning & the Economy).
 - Passed third reading 12/11/2024, **8 ayes – 1 no (Calvin Say)**. HPR reported
   Say's stated reason was disagreement with the added wind-turbine restrictions
