@@ -84,10 +84,10 @@ living substrate it draws on.
 
 Grid and electricity-system modeling — bulk-delivery/transfer analysis, the
 interface graph, demand and DER geography, and Switch-Oahu nodal inputs —
-continues in [`oahu-grid`](https://github.com/mikejrob/oahu-grid). A few
-grid-thread notes and tables are mirrored here (they are cited by the paper's
-transmission section); those copies are periodic snapshots and may lag the
-live versions in `oahu-grid`.
+continues in [`oahu-grid`](https://github.com/mikejrob/oahu-grid)(currently 
+private). A few grid-thread notes and tables are mirrored here (they are cited 
+by the paper's transmission section); those copies are periodic snapshots and 
+may lag the live versions in `oahu-grid`.
 
 ## Repository map
 
