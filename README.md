@@ -1,8 +1,9 @@
 # Land for Solar and Wind Development on Oahu
 
-Research compilation on the political economy of Hawaii's agricultural-land
-restrictions on utility-scale solar (HRS § 205-4.5 and § 205-2): who wrote the
-rules, who defends them, and how much land they actually put in or out of
+Research compilation on (1) physical availability of land use available for 
+solar and wind development and (2) the political economy of Hawaii's land use
+restrictions on utility-scale solar (HRS § 205-4.5 and § 205-2) and wind (ADD REF): who 
+wrote the rules, who defends them, and how much land they actually put in or out of
 reach. The project pairs the full legislative/documentary record (bills,
 testimony, LUC dockets, lobbying, campaign finance, board interlocks) with a
 quantitative GIS analysis of Oahu land-use rules, ownership, grid proximity,
