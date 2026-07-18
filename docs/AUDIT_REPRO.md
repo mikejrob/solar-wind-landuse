@@ -1,3 +1,14 @@
+> **STATUS (updated 2026-07-17):** Two findings here are now RESOLVED:
+> (1) the four scratchpad-dependent scripts (`nonag_classify.py`, `nonag_fig.py`,
+> `fetch_ownall.py`, `resolve_owners.py`) were repointed to committed
+> `data/intermediates/`, and `join_owner_transmission.py` was added — the non-ag
+> and ownership builds now re-run from committed inputs (not from the ephemeral
+> tmp scratchpad, which has since been purged). (2) The certified final-HTML md5
+> below (`70543cd1…`) is STALE: the paper was regenerated after the accuracy
+> corrections; current md5 differs. The byte-identical-on-rerun property still
+> holds for a *given* paper state, but the specific hash predates the fixes.
+> See `docs/ACCURACY_REVIEW.md`.
+
 # Reproducibility Audit — 2026-07-12
 
 Adversarial audit of `analysis/` against what is committed, gitignored-but-

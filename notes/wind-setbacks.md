@@ -66,7 +66,7 @@ Consequence reported by Civil Beat: under the 1.25-mile standard **18 of Kahuku'
 20 turbines become nonconforming** ([Civil Beat 2024-06](https://www.civilbeat.org/2024/06/tweaks-to-honolulus-land-use-law-could-jeopardize-kahukus-controversial-wind-farms/));
 because nonconforming turbines cannot repower past their current PPAs, Oahu's
 existing wind fleet is expected to come down as PPAs expire — first batch 2031,
-last ~2040; the ~69 MW Kawailoa/Pupukea-area facility is also affected
+last ~2040; the ~69 MW Kawailoa/Pupukea-area facility is also affected (three-farm fleet ≈127 MW, not 155)
 ([Civil Beat 2024-12](https://civilbeat.org/2024/12/wind-turbines-down-threatening-renewable-energy-goals/)).
 
 ---
@@ -263,8 +263,8 @@ Geometry: the enacted rule excludes a ~2 km (1.25 mi) buffer — ~12.7 km² — 
 *every* country/residential/apartment/resort-zoned lot line. For comparison, Oahu
 is ~1,545 km². Enacted-rule bite, per reporting: **18 of 20 existing Kahuku
 turbines nonconforming** (Civil Beat 2024-06); all three Oahu wind farms
-(Kahuku Wind ~30 MW, Na Pua Makani up to ~55 MW nameplate potential/8 turbines,
-Kawailoa ~69 MW) expected off by ~2031–2040 with repowering foreclosed
+(Kahuku Wind ~30 MW/12 turbines, Na Pua Makani ~27.6 MW/8 turbines (8×3.45),
+Kawailoa ~69 MW/30 turbines; fleet total ≈127 MW) expected off by ~2031–2040 with repowering foreclosed
 (Civil Beat 2024-12). **No published GIS analysis quantifying remaining
 wind-developable Oahu land under the 1.25-mi rule was located** (HSEO/DPP made
 qualitative statements only; Civil Beat 2022-09 noted future proposals would

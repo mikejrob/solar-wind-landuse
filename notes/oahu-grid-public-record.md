@@ -1,4 +1,4 @@
-> **Note (2026-07-12):** grid-thread development has moved to the `oahu-grid` repository. This copy is frozen here for the paper's reproducibility; the live version may have evolved.
+> **Snapshot note:** grid-thread work lives in the `oahu-grid` repository; this is a periodic copy kept here because the paper's transmission section cites it, and it may lag the live version.
 
 # Oahu Transmission Network — What the Public Record Reveals
 

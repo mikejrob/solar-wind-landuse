@@ -1,3 +1,10 @@
+> **STATUS (superseded 2026-07-17):** This report was written 2026-07-12 and
+> lists paper errors that have SINCE BEEN FIXED. All B1/B2/B3/B5/B6/B7/B8
+> corrections were applied to `paper/land-restrictions-paper.html` and
+> `-final.html`. See `docs/ACCURACY_REVIEW.md` (2026-07-17) for the current
+> state — the fixes are confirmed propagated there. Retained as a record of
+> what was found and changed.
+
 # Source & Number Audit — paper/land-restrictions-paper.html
 
 Audit date: 2026-07-12. Auditor: Claude (adversarial source audit; no paper or

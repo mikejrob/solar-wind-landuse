@@ -106,9 +106,12 @@ Reading:
   vs current-law 3,601 ac ≈ 720 MW — a 4.3× increase, +2,411 MW at
   5 ac/MW. For scale, HECO's entire Oahu Stage 1+2 procurement footprint
   was ~3,000 ac (Civil Beat 2020).
-- The 20-ac hard cap binds on only **85 Oahu parcels**, all ≥ ~204 ac
-  (10% > 20 ac ⇔ parcel > 200 ac). Those 176 parcels above 200 ac capture
-  **88.6% of the S0→S3 gain**. The top parcel-size decile (>17 ac) holds
+- The 20-ac hard cap actively binds (S0 below the uncapped S1) on **85
+  Oahu parcels**, all > ~204 ac. Oahu has **176 parcels above 200 ac** in
+  total, **118 of them carrying B/C soil** (the count used in the paper's
+  Table 3). Parcels above 200 ac capture **88.6% of the S0→S3 gain** (the
+  same 88.6% whether measured over the 85 binding, 118 B/C-bearing, or 176
+  total large parcels, since the extra parcels add ~no gain). The top parcel-size decile (>17 ac) holds
   91% of all ag-district B/C acreage. Any relaxation of the hard cap is,
   mechanically, a transfer of development option value to large landowners
   — which is exactly the scarcity-rent structure hypothesized.
