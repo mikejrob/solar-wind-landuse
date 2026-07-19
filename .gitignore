@@ -6,3 +6,4 @@ __pycache__/
 # data/gis layers are regenerable via analysis/ scripts; large binaries kept out of git (see README / data deposit).
 data/gis/*
 !data/gis/*.csv
+data/raw/procurement/
