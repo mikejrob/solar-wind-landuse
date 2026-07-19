@@ -18,6 +18,18 @@ listed as link-only (open in a browser to quote verbatim).
 | koolau_close_2020.html | staradvertiser.com 2020-09-25 | Ko'olau Golf Club closed 9/30/2020 |
 | koolau_reuse_civilbeat.html | civilbeat.org 2022-05 | Ko'olau owner (First Presbyterian), farming/conservation reuse, no housing |
 | makaha_sale_2022.html | golfincmagazine.com | Makaha resort 664 ac sold Aug 2022 $20.7M to KH Group; ~494 homes+152 condos planned |
+| navy_kupono_dvids.html | dvidshub.net/news/431866 (Navy Region Hawaii, 2022; public domain) | Kupono stated purpose verbatim: full-base resilience, "island" JBPHH from HECO grid, provide power for HECO to purchase/deliver to installation AND community, island-wide reliability (§6b) |
+| army_schofield_generating_station.html | home.army.mil/hawaii/.../schofield-plant | Schofield Generating Station 50 MW biofuel-capable, Army land leased to HECO (§6b) |
+
+Note: §6 (energy-security driver) also cites statutes/policy quoted live via
+WebFetch/WebSearch, not cached as files: 10 U.S.C. §101(f)(6)-(7) (energy
+resilience/security definitions), §2920 (99.9% critical-load availability by
+FY2030; on-site emphasis; black-start exercises), §2911(g)-(h) (25% renewable
+FY2025; microgrid/islanding demo projects), §2913 (ESPC/utility-agreement
+authority), DoDI 4170.11 (esd.whs.mil/.../417011p.pdf), NDAA FY2020 §2801
+(PL 116-92, govinfo). Schofield black-start/three-installation islanding:
+army.mil/article/281189 and /273205; hawaiinewsnow.com 2021-06-19 (all 403 to
+fetcher — verify in browser).
 
 ## Link-only (fetch blocked or not attempted; verify in browser)
 

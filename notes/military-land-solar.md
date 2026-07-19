@@ -233,6 +233,144 @@ ordnance/airfield/training/developed), documents the one proven site (Kupono,
 ~200 flat near-grid acres of genuinely state-decidable land, since the flat
 grid-adjacent Kahuku parcel is the piece the Army keeps.
 
+## 6. Energy security as a driver — what it does and does not produce
+
+The military wants on-site solar-plus-storage on Oahu, and federal law directs
+it to build it. This is a driver for MORE generation on military land. It is a
+weak driver for military land supplying the civilian grid. Both hold, for the
+reason in §6c.
+
+### 6a. The mandate and the authorities
+
+DoD energy resilience is a statutory requirement, not a preference. "Energy
+resilience" is defined at 10 U.S.C. §101(f)(6) as "the ability to avoid,
+prepare for, minimize, adapt to, and recover from ... energy disruptions ...
+sufficient to provide for mission assurance and readiness"; "energy security"
+at §101(f)(7) as "assured access to reliable supplies of energy and the ability
+to protect and deliver sufficient energy to meet mission essential
+requirements" ([10 U.S.C. §101](https://www.law.cornell.edu/uscode/text/10/101)).
+
+- **10 U.S.C. §2920** (energy resilience and energy security policy) requires
+  that by FY2030, 100% of the energy load for each installation's critical
+  missions carry "a minimum level of availability of 99.9 percent per fiscal
+  year," directs installation planning to "promote the use of ... energy
+  resources originating on the installation," to "promote installing microgrids
+  to ensure the energy security and energy resilience of critical missions,"
+  and to run "black start exercises" testing operation "without access to
+  off-installation energy resources"
+  ([10 U.S.C. §2920, uscode.house.gov](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2920&num=0&edition=prelim)).
+- **10 U.S.C. §2911** sets a facility-energy renewable goal of ≥25% by FY2025
+  (§2911(g)) and authorizes energy-security demonstration projects featuring
+  on-installation production and "microgrids, to ensure that energy remains
+  available to the installation even when the installation is not connected to
+  energy sources located off the installation" (§2911(h))
+  ([10 U.S.C. §2911](https://www.law.cornell.edu/uscode/text/10/2911)).
+- **DoD Instruction 4170.11** (Installation Energy Management) requires DoD
+  Components to identify critical energy requirements and ensure primary and
+  emergency generation serve those critical loads
+  ([DoDI 4170.11, ESD/WHS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/417011p.pdf)).
+- **NDAA FY2020 §2801** and the installation-resilience-planning regime require
+  each department to plan for energy resilience and security, favoring
+  installed on-site sources and microgrids over emergency generation
+  ([PL 116-92, govinfo](https://www.govinfo.gov/content/pkg/PLAW-116publ92/html/PLAW-116publ92.htm)).
+
+Financing/land mechanisms that let installations build without appropriations:
+enhanced-use lease, **10 U.S.C. §2667** (lease of non-excess land; the Kupono
+mechanism, §3); energy savings performance contracts / utility agreements,
+**10 U.S.C. §2913** (Secretary "shall permit and encourage" participation in
+utility demand/conservation programs and may accept utility incentives, with
+title to installed devices vesting in the United States)
+([10 U.S.C. §2913](https://www.law.cornell.edu/uscode/text/10/2913)).
+Taken together these direct installations toward on-site generation plus storage
+plus islanding for critical loads.
+
+### 6b. What the Oahu projects are for (stated purpose)
+
+Every built Oahu military energy project is described by its sponsor as
+resilience/islanding first. Grid export is a byproduct of two of them.
+
+- **Kupono Solar** (42 MW PV + 42 MW/168 MWh, Navy West Loch EUL, COD Jun 2024).
+  The Navy states the project will "ensure full-base resilience in the event of
+  a grid outage, maintain Navy operational capability in the event of widespread
+  power outages, provide the Navy with the ability to 'island' the JBPHH grid
+  from the larger HECO grid, provide power for HECO to purchase and deliver to
+  both the installation and the community, and improve island wide power
+  reliability"
+  ([DVIDS / Navy Region Hawaii, 2022](https://www.dvidshub.net/news/431866/solar-project-breaks-ground-west-loch);
+  cached `data/raw/military-golf/navy_kupono_dvids.html`). Kupono both islands
+  the base AND sells to HECO under a 20-yr PPA — the one Oahu project that does
+  both.
+- **Pu'uloa / JBPHH microgrid** (Ameresco, 99 MW firm renewable + 46 kV
+  backbone, DOE GRIP 2024). A resilience microgrid for JBPHH, not a
+  grid-export solar farm
+  ([Ameresco IR](https://ir.ameresco.com/); cached
+  `ameresco_puuloa_grip.html`; §3).
+- **Schofield Generating Station** (50 MW biofuel/diesel, HECO-owned, on an
+  8-ac Army EUL, online 2018). Built to power Army critical missions and to
+  provide **black-start** and microgrid service to Oahu: it can isolate and
+  power Schofield Barracks, Wheeler Army Airfield, and Field Station Kunia
+  during an island-wide outage, and provides black-start to restart the HECO
+  grid ([U.S. Army, "Garrison Hawaii and HECO showcase energy security"](https://www.army.mil/article/281189/garrison_hawaii_and_heco_showcase_energy_security_and_sustainability);
+  [Army EIS page](https://home.army.mil/hawaii/index.php/garrison/dpw/schofield-plant),
+  cached `army_schofield_generating_station.html`). Firm generation, not solar,
+  but the clearest islanding/black-start case on Oahu.
+- **Earlier West Loch array** (~20 MW-AC, HECO-owned, ~100 ac, ~2019). A
+  HECO rate-base grid-supply array on Navy land — the one Oahu military site
+  built primarily for civilian supply rather than base resilience (§3).
+
+### 6c. What determines whether the land supplies the civilian grid
+
+Distinguish two outcomes. They are governed by different facts.
+
+**(a) Military solar+storage for the military's own energy security.** This is
+happening, is DoD policy, and is not prevented. Kupono islands JBPHH; Schofield
+black-starts three installations; Pu'uloa is a resilience microgrid. Resilience
+solar sized to base critical load, behind the fence, is exactly what §2920 and
+§2911 direct, and no ordnance/airspace/ceded-land constraint stops a base from
+building it on its own developed ground. The energy-security motive cuts toward
+more of this.
+
+**(b) Military LAND as a source of solar for the civilian (HECO) grid.** This is
+governed by four gates, all of which can block scale supply even while (a)
+proceeds:
+
+1. **EUL discretion (§2667).** A civilian developer reaches the land only
+   through a lease the Secretary "may" grant when it promotes national defense
+   or the public interest. One Oahu solar EUL exists to date (Kupono). The land
+   is not on the private or state lease market (§5a).
+2. **Mission-compatibility certification.** Energy leases require a
+   mission-compatibility determination; DoD's Sustainable Ranges program lists
+   "renewable energy effects" as an encroachment factor (§2). Land held for
+   training, ordnance buffer, or airspace does not clear it.
+3. **Project configuration: base load vs export.** A resilience project supplies
+   the civilian grid only to the extent it is oversized beyond base critical
+   load and PPA'd to HECO. Kupono was configured that way (islands the base and
+   exports ~10,000 homes' worth to HECO); Pu'uloa was not. The default for a
+   resilience microgrid is to serve the base, not to wholesale power.
+4. **Physical constraints already documented (§§1–2, 5).** The large flat
+   military acreage is dominated by ordnance/ESQD, active training/UXO,
+   airfield/airspace, or developed uses. The returning 2029 state-lease land is
+   mostly steep Conservation range; the one flat grid-adjacent parcel (Kahuku
+   158002002) is retained by the Army.
+
+What **prevents** scale civilian supply from military land: gates 1–4 above —
+discretionary and rarely exercised lease access, mission certification, the
+base-load default, and the physical constraints. What does **not** prevent
+on-base resilience solar: none of those, because behind-the-fence generation
+for the base's own critical load needs no EUL to a third party, exports nothing
+the grid depends on, and sits on the base's own cleared ground.
+
+**The tension, resolved.** The energy-security mandate expands generation ON
+military land for the military's benefit (islanding, black-start, 99.9%
+critical-load availability). The same land stays mostly closed to civilian IPPs
+because the mandate attaches to serving the base, not to opening the land
+market. The EUL is the hinge between the two: the identical §2667 instrument
+that DoD exercises for a mission purpose can incidentally yield civilian supply
+when the project is oversized and sold to HECO — as Kupono was, and as the
+default resilience microgrid is not. Civilian grid supply from military land is
+therefore a discretionary byproduct of a mission decision, not a supply source a
+developer or the State can count on.
+
 ## Viable-acreage estimate (heavy caveats)
 
 - **Built today:** ~131 ac (Kupono) + ~100 ac (earlier HECO West Loch) of
