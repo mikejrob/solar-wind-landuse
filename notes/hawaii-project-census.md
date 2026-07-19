@@ -181,7 +181,10 @@ legislative testimony, **2020-02-04** (opposing HB 1864/SB 2317):
 > "We see growing issues concerning alignment of key energy, land use, and other policies,
 > especially as communities have voiced concerns about siting of certain renewable energy
 > projects."
-> — Chris Lau, Hawaiian Electric (Civil Beat, 2020-02-04)
+> — Chris Lau, Hawaiian Electric (written legislative testimony, quoted in Civil Beat,
+> 2020-02: "Hawaii's Push For Renewable Energy Could Stall Over Public Opposition To
+> Facilities," https://www.civilbeat.org/2020/02/hawaiis-push-for-renewable-energy-could-stall-over-public-opposition-to-facilities/
+> — quote verbatim VERIFIED 2026-07-19)
 
 Contemporary observers put this more sharply. Sen. **Glenn Wakai** (2020-02-04): "If you
 don't want it in your backyard, and you don't want it offshore, then we're not going to get

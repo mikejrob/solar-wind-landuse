@@ -169,8 +169,22 @@ Readings:
 ## Upgrade options and planning-level costs (ASSUMPTIONS)
 
 Unit costs are Hawaii-adjusted planning guesses consistent with
-`docs/ASSUMPTIONS.md` C5–C8 (mainland benchmarks × 1.5–2.5 HI multiplier,
-flagged [U] there); no repo citation to utility actuals.
+`docs/ASSUMPTIONS.md` C5–C8: MISO mainland benchmarks × 1.5–2.5 HI multiplier
+(the multiplier flagged [U]; no repo citation to HECO actuals). Mainland base,
+MISO Transmission Cost Estimation Guide for MTEP24 (2024$; incl. 30%
+contingency + 7.5% AFUDC), verified 2026-07-19:
+- new single-circuit line: 138 kV **$1.9–2.3M/mile ≈ $1.2–1.4M/km**;
+  69 kV $1.6–2.0M/mile ≈ $1.0–1.2M/km (Table 4.1-1)
+- new double-circuit line: 138 kV $2.8–3.3M/mile ≈ $1.7–2.1M/km;
+  69 kV $2.3–2.8M/mile (Table 4.1-2)
+- rebuild single-circuit 138 kV $1.8M/mile; reconductor per circuit 138 kV
+  $0.39M/mile ≈ $0.24M/km, 69 kV $0.33M/mile (Table 4.1-3)
+The note's HI-adjusted ranges ($0.5–1.5M/km reconductor; $2–4M/km new
+double-circuit 138 kV) are these base values × the 1.5–2.5 multiplier. MISO's
+lowest AC class is 69 kV; the 46 kV figures below are extrapolated below MISO's
+range. Source:
+cdn.misoenergy.org/20240501%20PSC%20Item%2004%20MISO%20Transmission%20Cost%20Estimation%20Guide%20for%20MTEP24632680.pdf
+pp.38–39.
 
 | Option | Thermal gain | Unit cost | Notes |
 |---|---|---|---|
@@ -227,7 +241,8 @@ outage windows), which is where siting friction and transmission interact.
   are invented for transparency, not derived from our parcel screens.
 - Storage dispatch is stylized (full-power evening discharge); duration
   (4–6 h) enters only through the "charging absorbs midday surplus" logic.
-- Costs: mainland planning benchmarks × an UNVERIFIED Hawaii multiplier;
+- Costs: mainland line benchmarks now sourced (MISO MTEP24 Table 4.1,
+  verified 2026-07-19); the Hawaii multiplier (1.5–2.5×) remains UNVERIFIED;
   no HECO actuals; substation costs dominate short runs and are the
   loosest numbers here.
 

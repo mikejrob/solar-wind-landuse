@@ -266,10 +266,124 @@ Fixes applied in the repositioning-to-living-reference pass:
 
 **Still open (needs external verification — surfaced, not resolved):**
 
-- Bill 39 (2021) exact renewable-exemption percentage and ROH section (tagged
-  in paper + note, not yet confirmed against ordinance text).
-- MISO per-km base cost values (the MTEP guides are now cited; the specific
-  values remain "planning-typical," inherently approximate).
+- Bill 39 (2021) exact renewable-exemption percentage and ROH section —
+  **RESOLVED 2026-07-19, see §G.1** (Ordinance 21-32; ROH § 8-10.12; 80%).
+- MISO per-km base cost values — **RESOLVED 2026-07-19, see §G.2** (MTEP24
+  Table 4.1; 138 kV single-circuit $1.2–1.4M/km base). HI multiplier still open.
 - 1980 wind act (HB 2418-80) sponsors/testimony — paper archives only.
 - The broader legislative/documentary UNVERIFIED items catalogued in §D
   (7–16), which are the standing research to-do list for this living reference.
+
+---
+
+## G. Verification pass (2026-07-19)
+
+External-source verification of the §D queue. Method: primary-source search
+(ordinance/statute text, agency PDFs, MISO guide, utility fact sheet). Editable
+files updated in place with citations. Paper `-final.html` and PDF are generated
+artifacts and were NOT regenerated — the two source edits to
+`paper/land-restrictions-paper.html` (§5 prose + Table 8) need a reassembly run
+to propagate.
+
+**Load-bearing (§D 1–6):**
+
+1. **Bill 39 (2021) property-tax exemption — VERIFIED.** = **Ordinance 21-32**
+   (Bill 39 (2021), CD2; Mayor Blangiardi), applying to tax years from
+   2022-07-01. Amended ROH § 8-10.15 and retitled it "Exemption — Renewable
+   energy"; now codified/renumbered as **ROH § 8-10.12**. Land "actually used
+   for the active production or storage of renewable energy shall be exempt from
+   **80 percent** of its value"; "actually used" = area "in physical contact
+   with renewable energy structures"; exemption "shall continue for the period
+   of the power purchase agreements." Sources: enacted ordinance
+   files.amlegal.com/pdffiles/Honolulu/ORD21-032.pdf; codified text amlegal
+   codelibrary 0-0-0-6349 (§ 8-10.12). NOTE: an earlier LLM-sourced guess of
+   "Ordinance 21-33" is wrong — 21-33 is a transient-accommodations-tax
+   ordinance. Fixed `notes/property-tax-wedge.md` and both spots in
+   `paper/land-restrictions-paper.html`.
+
+2. **MISO transmission unit costs (Table 5) — VERIFIED (mainland base).** MISO
+   Transmission Cost Estimation Guide for MTEP24 (2024$; each figure includes 30%
+   contingency + 7.5% AFUDC), Table 4.1-1/-2/-3, pp.38–39: new single-circuit
+   138 kV **$1.9–2.3M/mile ≈ $1.2–1.4M/km**, 69 kV $1.6–2.0M/mile ≈ $1.0–1.2M/km;
+   new double-circuit 138 kV $2.8–3.3M/mile ≈ $1.7–2.1M/km; reconductor/circuit
+   138 kV $0.39M/mile, 69 kV $0.33M/mile; rebuild single-circuit 138 kV
+   $1.8M/mile. The repo's C5/upgrade ranges are these bases × the 1.5–2.5 HI
+   multiplier — consistent. Source: cdn.misoenergy.org/20240501 PSC Item 04 MISO
+   Transmission Cost Estimation Guide for MTEP24632680.pdf. Caveats STILL OPEN:
+   the Hawaii multiplier (C6) remains UNVERIFIED; MISO's lowest AC class is
+   69 kV, so the 46 kV figures are extrapolated below MISO's range; substation
+   costs (C8) not yet traced to the MISO substation tables. Updated
+   `docs/ASSUMPTIONS.md` C5 and `notes/oahu-bulk-delivery.md`.
+
+3. **HB 778 (2025) characterization — VERIFIED.** = **Act 187, SLH 2025**
+   (HD2 SD1 CD1, CCR 238; "RELATING TO INTEGRATED LAND USE"). Requires OPSD to
+   conduct an **integrated land use study of the agricultural districts**
+   (classified under §205-2); interim report ≤20 days before the 2026 session,
+   final report to the legislature and LUC ≤20 days before the 2027 session;
+   appropriates 1.0 FTE planner. The note's "integrated ag-district land-use
+   study" is correct; AUDIT_SOURCES §B9's "state-lands renewable study" is
+   **wrong**. Sources: LRB 2025 Acts list lrb.hawaii.gov/wp-content/uploads/
+   2025_Acts.pdf (line: "187 HB0778 … RELATING TO INTEGRATED LAND USE"); LegiScan
+   HB778. Updated `notes/state-land-solar.md`.
+
+4. **Existing Oʻahu wind nameplate — VERIFIED (and the fleet total sharpened).**
+   HECO Power Facts sheet lists **Kawailoa Wind 69 MW, Kahuku Wind 30 MW, Nā Pua
+   Makani 24 MW → fleet ≈ 123 MW**. The 27.6 MW figure the paper used for Nā Pua
+   Makani (8×3.45 turbine-rating nameplate) is NOT what the utility publishes;
+   HECO's own sheet says 24 MW, giving ≈123 MW, not 127. Source:
+   hawaiianelectric.com/documents/about_us/company_facts/power_facts.pdf. Updated
+   `notes/wind-setbacks.md`; `notes/oahu-bulk-delivery.md` already used 54 MW for
+   the Kahuku pair (30+24), consistent. **Recommend the paper's "~127 MW" be
+   reconciled to ~123 MW (HECO) or the 27.6 source documented.**
+
+5. **Chris Lau / HECO 2020 testimony quote — VERIFIED verbatim.** "We see growing
+   issues concerning alignment of key energy, land use, and other policies,
+   especially as communities have voiced concerns about siting of certain
+   renewable energy projects." Quoted in Civil Beat, 2020-02, "Hawaii's Push For
+   Renewable Energy Could Stall Over Public Opposition To Facilities":
+   civilbeat.org/2020/02/hawaiis-push-for-renewable-energy-could-stall-over-public-opposition-to-facilities/.
+   Added URL to `notes/hawaii-project-census.md`.
+
+6. (= HB 778, verified above.) The §D items 3 (5–6 GW build) and 5 (Table 3
+   exposed-set cross-tab) are internal-derivation gaps, not external-source
+   verifiable — they need script/documentation, not a primary-source lookup.
+   NOT addressed in this pass.
+
+**Note-level (§D 7–16) and dead links:**
+
+- **Act 278 study URL — FOUND.** Act 278, SLH **2019** (not 2016), OPSD study of
+  subdivision/CPR on Oʻahu ag lands; final report to the legislature 2020-12-30:
+  files.hawaii.gov/dbedt/op/lud/20201221 Act 278 SLH 2019 Project/
+  Act278FinalReporttoLeg20201230.pdf (public draft …Act278PublicDraft12-18-20rev4final.pdf).
+- **hei-interlocks scheme-less URLs — FIXED.** Added `https://` to the A&B 8-K
+  (sec.gov) and Star-Bulletin archive URLs in `notes/hei-interlocks.md`.
+- **§171-95.3 origin — Act confirmed, bill number STILL UNVERIFIED.** HRS source
+  note is "[L 2009, 2nd Sp, c 19]"; the underlying HB/SB number was not located
+  (searched: web/LegiScan/Justia; data.capitol SLH2009SS Act-19 PDF paths 404/403;
+  capitol full-text Cloudflare-blocked). Leave flag in `notes/state-land-solar.md`.
+- **§171-95 origin (Act 102, SLH 2002) — consistent** with the note; not
+  independently re-pulled this pass.
+- **Wind-setbacks former ROH section number (believed §21-5.720-series) — STILL
+  UNVERIFIED.** amlegal is Cloudflare-blocked; the pre-2025 LUO wind section was
+  not located in a fetchable primary. AG-1/AG-2 "50 vs 51 percent" OCR ambiguity
+  also STILL UNVERIFIED (needs the ORD25-002 clean text).
+
+**REQUIRES NON-PUBLIC ACCESS (not attempted — paper archives / interviews /
+confidential data):**
+
+- 1980 wind act (HB 2418-80) sponsors/testimony — 1980 House/Senate Journals,
+  paper only (State Archives, LRB, UH law library).
+- 2011 SB 631 off-record cap-number negotiation — interview candidates only.
+- Per-project interconnection/smart-meter timelines — confidential HECO/CDMS
+  2021-0024 filings.
+- §D 8 (pre-2011 failed-bill testimony), 11 (Sierra Club personnel/founding),
+  12 (slope-cost single-source premiums), 14 (SUP neighbor-island soil-class
+  basis; Maui CUP archives blocked to scripts), 15 (firm/lobbyist-registry
+  attributions) — mixed archival/testimony pulls, not resolved in a web pass.
+
+**Tally:** load-bearing 1–6 → 5 VERIFIED (Bill 39 80%/§ 8-10.12; MISO MTEP24
+line costs; HB 778 = Act 187 ag-district study; wind fleet ≈123 MW; Lau quote),
+1 partial/internal (5–6 GW + Table 3 = internal derivation). Plus Act 278 URL
+found, HB 778 Act number pinned, hei-interlocks URLs fixed. Still open:
+§171-95.3 bill number, wind former-section number, and the archival/interview
+items above.

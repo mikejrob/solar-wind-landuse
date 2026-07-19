@@ -1,7 +1,7 @@
 # The county property-tax layer (Oahu) — stub, 2026-07-11
 
-Status: partially verified; needs Bill 39 (2021?) ordinance text, current RPAD
-practice, and per-project assessment records.
+Status: Bill 39 (2021) ordinance text and section VERIFIED (2026-07-19); still
+needs current RPAD practice and per-project assessment records.
 
 ## Mechanics [V]
 
@@ -20,10 +20,18 @@ practice, and per-project assessment records.
   ~$800,000/yr** (~25x), mid-PPA. Affected: Waipio 45 MW, Mililani 39 MW,
   Kawailoa 49 MW, others.
   https://www.staradvertiser.com/2021/11/16/hawaii-news/property-tax-assessments-jepoardize-oahus-clean-energy-projects/
-- Council response: Bill 39 — 80% exemption for renewable projects; BFS
-  intent: industrial class limited to the footprint in physical contact with
-  equipment, balance stays agricultural. [ordinance number/current status
-  UNVERIFIED — follow up; also Council testimony doc
+- Council response: Bill 39 (2021), CD2 = **Ordinance 21-32** (Mayor
+  Blangiardi, 2021), applying to tax years beginning July 1, 2022. It amended
+  ROH § 8-10.15 and retitled it "Exemption — Renewable energy"; the section is
+  now codified/renumbered as **ROH § 8-10.12**. The land "actually used for the
+  active production or storage of renewable energy shall be exempt from **80
+  percent** of its value from the measure of the taxes imposed"; "actually
+  used" = "the land area in physical contact with renewable energy structures";
+  the exemption "once allowed, shall continue for the period of the power
+  purchase agreements or contract with the utility." [V — enacted ordinance:
+  https://files.amlegal.com/pdffiles/Honolulu/ORD21-032.pdf ; codified text:
+  https://codelibrary.amlegal.com/codes/honolulu/latest/honolulu/0-0-0-6349
+  (§ 8-10.12); Council testimony doc
   https://hnldoc.ehawaii.gov/hnldoc/document-download?id=12482]
 
 ## Analytical significance
@@ -44,7 +52,8 @@ practice, and per-project assessment records.
 
 ## Follow-ups
 
-- Pull Bill 39 (2021) enacted text + current ROH renewable exemption section.
+- DONE (2026-07-19): Bill 39 (2021) = Ordinance 21-32; renewable exemption now
+  at ROH § 8-10.12, 80% of value, footprint-only, PPA-term duration.
 - RPAD assessment records for Kawailoa/Waipio/Mililani parcels (before/after).
 - Neighbor-island treatment (Hawaii County solar classification; Kauai).
 - Whether solar land loses ag DEDICATION only on footprint or whole parcel.

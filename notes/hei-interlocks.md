@@ -62,7 +62,7 @@ Verified shared directors (from HEI's own proxies):
 - Shelee Kimura (HECO President & CEO): A&B director 2023–2026.
 - Eric Yeaman (former HEI CFO): A&B director since June 2012 (A&B 8-K,
   sec.gov/Archives/edgar/data/3453/000104746912006542/a2209861zex-99_1.htm);
-  named KS trustee 2026.
+  named KS trustee 2026. (URL: https://www.sec.gov/Archives/edgar/data/3453/000104746912006542/a2209861zex-99_1.htm)
 
 During the 2011 legislative session (SB 631), THREE sitting HEI directors —
 including the CEO and the board chairman — simultaneously sat on the board of
@@ -73,7 +73,7 @@ acres). After the 2012 A&B/Matson split, Lau and Fargo followed Matson
 "Historically intertwined" (pre-2000): the one pre-2000 anchor verified so far
 is C. Dudley Pratt Jr., HECO president & CEO 1981–1990, who served as a
 trustee of the ESTATE OF JAMES CAMPBELL until year-end 1997 (Star-Bulletin
-1997-08-26, archives.starbulletin.com/97/08/26/news/story3.html). Broader Big
+1997-08-26, https://archives.starbulletin.com/97/08/26/news/story3.html). Broader Big
 Five–HECO directorate history NOT yet checked against pre-2001 proxies —
 treat any stronger "historically intertwined" phrasing as UNVERIFIED pending
 that check.

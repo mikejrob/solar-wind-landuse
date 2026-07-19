@@ -342,10 +342,16 @@ program or directing DLNR/ADC to offer fallow ag land for solar (caveat:
 capitol full-text search was inaccessible; re-check when Phase-1 scraping
 resumes). Edge cases: Act 53 (2024, HB 2020) quietly widened §171-95
 eligibility; **SB 91 (2023–24)** (OPSD statewide agrivoltaics study) died in
-WAM; **HB 778 (2025), enacted** — OPSD integrated land use study of the ag
-districts reconciling housing/food/RPS targets, interim report due before the
-2026 session, final before 2027 — is the first official state screen that
-could put state parcels on the solar map. 2026: SB 2169 gave ADC eminent
+WAM; **HB 778 (2025) = Act 187, SLH 2025** (HD2 SD1 CD1, CCR 238; "RELATING TO
+INTEGRATED LAND USE"; VERIFIED 2026-07-19 via LRB 2025 Acts list
+lrb.hawaii.gov/wp-content/uploads/2025_Acts.pdf and LegiScan HB778) — OPSD
+integrated land use study of the ag districts (classified under §205-2)
+reconciling housing/food/climate targets, interim report ≤20 days before the
+2026 session, final report to the legislature and the LUC ≤20 days before the
+2027 session (appropriates 1.0 FTE planner) — is the first official state
+screen that could put state parcels on the solar map. This is an integrated
+ag-district land-use study, NOT a state-lands renewable study (corrects
+AUDIT_SOURCES §B9). 2026: SB 2169 gave ADC eminent
 domain for ag purposes (passed May 2026, 11 House noes); SB 2595 (ADC
 market-rent mandate) went to conference, disposition UNVERIFIED. A 2026
 Hawaii agrivoltaics bill is referenced in national coverage (Pluribus News
