@@ -384,9 +384,67 @@ developer or the State can count on.
   ceded land, competing with conservation/homestead/cultural uses; the flat
   grid-adjacent Kahuku parcel is retained by the Army.
 - **Bottom line:** military land is a large PHYSICAL footprint. As an
-  ACTIONABLE solar resource it is small. Scaling beyond the West Loch/Kupono
-  precedent is unproven, and the category adds ~0 new near-grid flat acreage to
-  the paper's tallies.
+  ACTIONABLE solar resource for the civilian grid it is small. Scaling beyond
+  the West Loch/Kupono precedent is unproven, and the category adds ~0 new
+  near-grid flat acreage to the paper's tallies. The energy-security buildout
+  for DoD's own load is a separate question (§6d).
+
+### 6d. Scale — DoD load versus DoD generation
+
+DoD electricity load on Oahu exceeds DoD on-site generation by a wide margin.
+Public data does not state DoD's share of island demand. The military is "among
+the largest consumers" of Oahu electricity and controls ~20% of the land
+([The Diplomat, 2025-01](https://thediplomat.com/2025/01/hawaiis-role-in-the-us-indo-pacific-energy-security-dilemma/)).
+Army Garrison Hawaii runs 85 MW of on-site DER and 45 GWh/yr of renewable
+generation
+([DOE FEMP](https://energy.gov/femp/us-army-garrison-hawaii-energy-resiliency-program-wins-femp-award)).
+An estimate of 20–35% of island demand for total DoD load is **UNVERIFIED and
+likely confidential**; no public source confirms it.
+
+Arithmetic bounds the point regardless of the exact share. Oahu net energy for
+system is ~6,495 GWh/yr and peak ~1,074 MW (FERC Form 1 CY2022,
+`notes/oahu-node-profiles.md`). At a 20–35% share, DoD load is ~1,300–2,270
+GWh/yr and ~215–375 MW of coincident peak. DoD-associated generation on Oahu is
+~110 MW nameplate: Kupono 42 MW PV, ~20 MW West Loch PV, 50 MW Schofield firm
+biofuel, plus 45 GWh/yr Army renewable (§3, §6b). Generation supplies a small
+fraction of that load.
+
+Self-supplying DoD load with solar would require several hundred MW of PV plus
+storage. At a ~21% Oahu solar capacity factor, 1,300–2,270 GWh/yr implies
+~700–1,235 MW of PV, before storage for night and resilience. The FY2030
+mandate (§6a) sets a floor below this: it requires 99.9% availability for
+critical-mission load, which islanding microgrids meet with a mix of solar,
+storage, and firm backup (Schofield). The energy-security buildout the mandate
+could drive ranges from the critical-load floor to a full-self-supply ceiling
+near ~1 GW. Both bounds are estimates; the exact DoD load is UNVERIFIED.
+
+### 6e. The DS tariff and the rate-base question (open — no conclusion drawn)
+
+The military buys power under HECO Schedule DS (Large Power Directly Served
+Service), a large-power tariff requiring a contract of at least five years
+([HECO Schedule DS](https://www.hawaiianelectric.com/Documents/my_account/rates/hawaiian_electric_rates/heco_rates_sch_ds.pdf);
+HECO Docket 2016-0328, Order 35721, 2018). DoD is a large HECO ratepayer.
+
+Whether HECO's rate-base interest shapes military generation outcomes is an open
+question. No conclusion is drawn here. This requires careful scrutiny that the
+public record may not support. Revealed conduct on the record:
+
+- HECO owns two military-serving generation assets in its rate base: the ~20 MW
+  West Loch PV array and the 50 MW Schofield Generating Station on an Army lease
+  (§3). Utility ownership adds these to HECO's rate base. An IPP military
+  self-build would not.
+- HECO holds a 50-year, $638.5M Defense Logistics Agency contract to distribute
+  power at 12 Army installations
+  ([Army Technology](https://www.army-technology.com/news/dla-hawaiian-electric-us-army-system/)).
+- Kupono is a Navy enhanced-use lease with an IPP developer (Ameresco / Bright
+  Canyon) and a HECO PPA; HECO does not own it (§3).
+
+These facts are consistent with a HECO interest in keeping military load and
+generation within its rate base. They do not establish it. HECO's motive is not
+observable from these documents. Whether HECO has opposed or constrained
+military self-generation in any proceeding is **UNVERIFIED** and would require
+review of PUC dockets and EUL/interconnection records. Draw no conclusion until
+that review is done.
 
 ## Caveats
 
