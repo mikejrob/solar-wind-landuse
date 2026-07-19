@@ -339,10 +339,19 @@ The gen-tie holdout hazard is a direct function of how many *distinct* owners a 
   **overhead transmission line in Oct 2017** (Civil Beat 2019/2024 reporting). This shows the
   gen-tie as a real, separately-permitted, contested element (shortening it drew the turbines
   nearer the community) — but it is a *permitting/variance* record, **not** a documented
-  easement-holdout or condemnation. **No PUC/court filing documenting a gen-tie easement
-  holdout dispute in Hawaii was located** this session — the clearest honest statement is that
-  the mechanism is real and tariff-assigned to developers, but Hawaii examples of it actually
-  *biting* are undocumented in the public record searched.
+  easement-holdout or condemnation.
+
+  **UPDATE (2026, from the project census, `notes/hawaii-project-census.md`): a documented
+  instance now exists.** **Puʻu Hao Solar** (Maui, AES, HECO Stage 3) was withdrawn
+  **2024-05-31** because the developer, per the record, *"could not secure the land to
+  interconnect"* — the gen-tie easement anticommons biting in the open, exactly as the theory
+  above predicts. It is a project *death* attributed to interconnection-land access, and the
+  first Hawaii example located of this mechanism actually *biting*. (Island note: Maui, not
+  Oʻahu — consistent with Oʻahu's near-grid ag land being concentrated enough that site+route
+  often sit with one owner; the fragmented-ownership holdout risk showed up where the theory
+  said it would.) The earlier "no documented Hawaii instance" statement is superseded by this
+  case; the condemnation question (whether an IPP could have forced the easement — no, per
+  §101-4) is unchanged and is precisely why AES had to walk.
 
 ## B5. Documented vs. inferred (Part B honesty ledger)
 
