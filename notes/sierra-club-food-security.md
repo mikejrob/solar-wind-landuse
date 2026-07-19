@@ -39,8 +39,8 @@ head DLNR; appointed to the HART board 2021. In a Feb 2015 profile he argued: "W
 50 percent of our farm land since statehood" and "we only grow now — what? — 8 to 10
 percent of the food we eat here."
 Sources: [Star-Advertiser profile 2015-02-20](https://www.staradvertiser.com/2015/02/20/editorial/name-in-the-news/anthony-aalto/); [Green Island Films](https://greenislandfilms.com/team-1); [Sierra Club O'ahu Group blog](https://www.sierracluboahu.org/blog/hard-science-and-hashtags-chair-anthony-aalto-discusses-climate-change-on-think-tech-hawaii); [Civil Beat 2021-08](https://www.civilbeat.org/2021/08/narrow-council-vote-propels-anthony-aalto-onto-the-hart-board/).
-Implication: his "near-identical" SB 631 testimony was intra-organizational, not
-independent corroboration — and not astroturf by an outside interest.
+Implication: his "near-identical" SB 631 testimony was intra-organizational. It was
+not independent corroboration and not astroturf by an outside interest.
 
 **Chapter Executive Committee / committee chairs, Dec 2011** (Wayback, about-us.php;
 chapter Chair position listed *blank* at capture date):
@@ -126,9 +126,9 @@ farmland in the state – the place where an incredible **20% of our local produ
 grown... Over the last 50 years... we paved 50 percent of our prime farmland."
 ([archived Civil Beat URL](http://www.civilbeat.com/posts/2011/07/27/12273-hoopili-koa-ridge-just-arent-pono/), via Wayback.)
 
-Related conduct: chapter support for Honolulu rail was explicitly land-use-driven
-(anti-sprawl, not transit merits) per Aalto's 2015 Star-Advertiser profile; and the 2015
-Carleton Ching/DLNR fight put the Club directly against a Castle & Cooke lobbyist.
+Related conduct: chapter support for Honolulu rail was explicitly anti-sprawl land-use
+advocacy per Aalto's 2015 Star-Advertiser profile; transit merits were not the driver. The
+2015 Carleton Ching/DLNR fight put the Club directly against a Castle & Cooke lobbyist.
 
 ## 3. The SB 631 position in that context
 
@@ -163,7 +163,7 @@ Harris blog post, 2010-12-01 ("A Food Marshall Plan for Hawaii," posted by Scott
 Wayback): the State "is developing prime agricultural land... Economically, **food
 production loses to both alternative agricultural uses, such as biofuels, and cheap
 imports**... A plan with teeth and sweets will help Hawaii to reduce its vulnerability."
-Notable: months before SB 631, the chapter was already classing *energy uses of ag land*
+Months before SB 631, the chapter was already classing *energy uses of ag land*
 (biofuels) with development as competitors to food production.
 
 ## 4. Food-security frame genealogy (who supplied the vocabulary)
@@ -193,7 +193,7 @@ The Club adopted an ambient, state-sanctioned frame; it did not invent it:
   Council (founded ~2012, Ashley Lukens a founding member — founding year UNVERIFIED);
   Ulupono Initiative (Omidyar, est. 2009) with local-food production metrics; Hawai'i
   Farm Bureau. George Kent (UH) "Food Security in Hawai'i" as academic backdrop.
-- **Economist pushback in-window: essentially null.** The serious methodological critique
+- **Economist pushback in-window: null.** The serious methodological critique
   came from UH economists Loke & Leung themselves ("Hawai'i's food consumption and supply
   sources: benchmark estimates and measurement issues," *Agricultural and Food Economics*
   2013 — noting the ubiquitous 85–90% figures rest on questionable methodology), and later
@@ -254,7 +254,7 @@ litigation needed to defend (ag district as a legally low-rent, farming-dedicate
 category under HAR §15-15-77(b)(6) and art. XI §3). Their simultaneous pro-solar record
 (rooftop, RPS, financing, "we love solar energy facilities") rules out anti-renewables
 animus and marks the position as *venue-specific*: it is about what the ag district is
-for, not about solar. The food-security vocabulary was off-the-shelf state discourse
+for. Solar itself is not the target. The food-security vocabulary was off-the-shelf state discourse
 (CTAHR 2007–08, Act 183/233, 2012 OP strategy) adopted at least by Dec 2010 (Harris's
 "Food Marshall Plan" post — which tellingly already grouped *energy* uses, biofuels, with
 imports as threats to food production).

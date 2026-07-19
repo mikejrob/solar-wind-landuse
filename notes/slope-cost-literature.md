@@ -52,15 +52,15 @@ interpolating; flagged below.
 
 **Implication for the paper:** the standard *screening* envelope (≤5–10%) is
 much tighter than the *engineering* envelope (≤15% standard trackers, ≤37%
-specialty; §1.2–1.4). The gap between the two is exactly where a cost
-gradient, not a feasibility cliff, lives.
+specialty; §1.2–1.4). In the gap between the two, cost rises as a gradient.
+There is no feasibility cliff.
 
 ### 1.2 Standard single-axis trackers (SAT)
 
 Rows run N–S and rotate E–W. Two distinct slope directions matter:
 - **Axis (N–S) slope** — tilts the torque tube; limited by drive/bearing spec.
 - **Cross-axis (E–W) slope** — rows step down the hill independently; more
-  forgiving structurally but complicates backtracking/shading (§3).
+  forgiving on structure but complicates backtracking/shading (§3).
 
 Specs (manufacturer claims, not independent tests):
 - **Array Technologies DuraTrack HZ v3**: up to **15% slope in the N–S
@@ -130,8 +130,8 @@ Specs (manufacturer claims, not independent tests):
   with Swiss federal subsidies of up to 60% of investment cost
   (https://www.swissinfo.ch/eng/sci-tech/mountaintop-solar-farms-spark-tensions-in-switzerland/47968044 ).
   Useful rhetorical bound: panels can be mounted on near-vertical faces —
-  slope is a *cost* variable, not a hard feasibility wall, until machinery
-  access and geotechnical limits bind.
+  slope is a *cost* variable until machinery access and geotechnical limits
+  bind; it is not a hard feasibility wall.
 
 ---
 
@@ -150,9 +150,9 @@ benchmark or ATB structure** — the benchmark is a flat-reference-site number.
 (https://docs.nrel.gov/docs/fy22osti/83586.pdf , verified against PDF text;
 ATB: https://atb.nrel.gov/electricity/2024/utility-scale_pv ).
 Likewise, NREL's supply-curve work handles slope as a binary *exclusion*
-(§1.1), not a cost adder. **Consequence: the flagship U.S. public cost models
-are silent on the cost-vs-slope gradient** — a genuine gap worth stating in
-the paper.
+(§1.1) and adds no cost term. **Consequence: the flagship U.S. public cost
+models are silent on the cost-vs-slope gradient** — a genuine gap for the
+paper to state.
 
 ### 2.2 Site-work and grading cost magnitudes (fragmentary, mostly gray literature)
 
@@ -221,10 +221,11 @@ the paper.
   (https://korea.nabo.go.kr/naboEng/cmmn/file/fileDown.do?atchFileId=6526604f2d194900b93f00cfee651fbb&fileSn=1 )
   but the 25°→15° figure itself is UNVERIFIED (not confirmed in an
   English-language primary source in this sweep).
-- Japan: the July 2021 Atami debris flow (27 dead) — caused by an improper
-  fill mound upslope of, not by, an adjacent hillside solar site — triggered
-  national re-regulation of slope-sited solar and ≥175 municipal ordinances
-  restricting "mega-solar," many keyed to landslide-warning zones.
+- Japan: the July 2021 Atami debris flow (27 dead) triggered national
+  re-regulation of slope-sited solar and ≥175 municipal ordinances
+  restricting "mega-solar," many keyed to landslide-warning zones. The
+  debris flow came from an improper fill mound upslope of an adjacent
+  hillside solar site; the solar site itself was not the cause.
   (EnergyTrend 2021-08: https://m.energytrend.com/news/20210810-22918.html ;
   Japan Times 2024-05-26:
   https://www.japantimes.co.jp/environment/2024/05/26/energy/megasolar-opposition-solutions/ ;
@@ -276,9 +277,9 @@ the paper.
   pre-drilling adopted. Waikoloa (300 ac): rock-laden terrain.
   (https://solarbuildermag.com/mounting-solutions-guide/constructing-solar-farms-in-hawaii-is-not-easy-heres-how-goodfellow-bros-gets-it-done/ ;
   https://www.ecmweb.com/renewables/article/21139333/high-profile-green-projects-power-america-kawailoa-solar-waipio-solar-and-mililani-solar-ii-projects )
-  Note: these are *benign-slope* sites; Hawaii's cost premium there is rock
-  and labor, not slope. No Hawaii utility-scale project on >15% average
-  slope surfaced in this sweep.
+  Note: these are *benign-slope* sites; Hawaii's cost premium there comes from
+  rock and labor; slope is not the driver. No Hawaii utility-scale project on
+  >15% average slope surfaced in this sweep.
 - **Kauai SP26-416 (Ka'awanui Solar, 2026 special-permit application)**
   states design "focus on minimizing the extent of grading" given site
   topography — an example of slope shaping Hawaii project design within the
@@ -314,7 +315,7 @@ tracker (XTR/OmniTrack at the mild end, Nevados at the steep end); "FT" =
 fixed tilt (driven pile; ballasted is stricter, ≤~15%).
 Cost premiums are vs. an equivalent flat site, **capex basis**; the
 literature does not support precise increments — entries marked (D) are my
-derived order-of-magnitude readings of §2, not published numbers.
+derived order-of-magnitude readings of §2 and are not published numbers.
 
 | Slope band | Std SAT | TF SAT | FT | Indicative capex premium vs. flat | Binding constraints / notes |
 |---|---|---|---|---|---|

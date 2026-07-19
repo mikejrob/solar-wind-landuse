@@ -7,8 +7,8 @@ not land-use permitting — is where Oahu solar dies). This note documents the
 procurement *mechanism* itself.
 
 **Evidentiary discipline.** Every claim is primary-sourced or flagged
-**UNVERIFIED**. I report **revealed conduct** (who filed, who terminated, what
-the record states), not intent. The process-machinery quotes below are verified
+**UNVERIFIED**. I report **revealed conduct** — who filed, who terminated, what
+the record states. I do not report intent. The process-machinery quotes below are verified
 against the cached HECO Final Stage 2 Oahu Variable RFP
 (`stage2_oahu_variable_rfp.pdf`, extracted `.txt`) and the two cached PA
 Consulting Act 201 interconnection studies.
@@ -187,7 +187,7 @@ interconnection cost of the self-build projects separately … so that … can b
 compared with the IPP-built projects" (verified `pa_consulting_act201_phase2.txt`
 lines 156–159). Per that study only **one qualifying self-build** (reported as
 West Loch Solar) existed in the 2015–2022 interconnection window — UNVERIFIED
-detail worth a clean read. The structural point stands: the single offtaker also
+detail worth a clean read. The single offtaker also
 competes in, and scores, the auction, and its own cost reporting is not on the
 same footing as the IPPs it evaluates.
 
@@ -308,12 +308,12 @@ cost shocks in §4.
 
 **The IDRP and what actually diagnosed the delays.** The PUC established the
 **Interconnection Dispute Resolution Process, Order 39163 (2023-04-18)** "in
-light of delays that Stage 1 and 2 projects encountered." **Important
-correction:** Order 39163 is *procedural* — it sets up a three-level dispute
+light of delays that Stage 1 and 2 projects encountered." Order 39163 is
+*procedural* — it sets up a three-level dispute
 process (Level 1 Independent-Engineer-facilitated negotiation ~30 business days;
 Level 2 IE mediation; Level 3 escalation to the PUC by Order), and the IE
-**cannot overrule** the utility (grid-safety liability stays with HECO). The
-order does **not** itself contain an evidentiary "why were they late" findings
+**cannot overrule** the utility (grid-safety liability stays with HECO). Order
+39163 does **not** itself contain an evidentiary "why were they late" findings
 section — **do not cite Order 39163 for a serialization finding.** The actual
 diagnosis lives in the **PA Consulting "State of Hawaii Interconnection Process
 Study,"** commissioned under **Act 201 (SLH 2022)**, whose §1(d)(9) expressly
@@ -384,7 +384,7 @@ on-site cultural resources in one (Kupehau); opposition-by-delay in one (Paeahu,
 Maui). **Two distinct "Puakō" projects** exist (ENGIE Stage 2, 2021; Clearway
 Stage 3, 2024) — do not conflate.
 
-**Termination-type pattern (the key revealed-conduct finding).** HECO used its
+**Termination-type pattern (the revealed-conduct finding).** HECO used its
 **own unilateral termination lever at scale exactly once — the 2016 SunEdison
 trio** (112 MW; PUC staff called it "premature," "summarily issued"; SunEdison
 had sunk **>$42M** in site work and **$31.4M** in interconnection payments to
@@ -445,7 +445,7 @@ rarely has to terminate them itself).
 
 ---
 
-## Honest evidence-quality caveats & follow-ups
+## Evidence-quality caveats & follow-ups
 - **IO reports (all stages) are Tier 2** here — the Bates White reports are on
   CDMS docket 2017-0352; the Stage-3 findings come via Life of the Land/Ililani.
   Pull the PDFs for verbatim fairness/self-build/delay findings.

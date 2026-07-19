@@ -73,10 +73,10 @@ The two closed courses each fail on a different axis:
 - **Makaha** is leeward/sunny and flat — the one closed course with good solar
   physics — but it is **6.7 km from the nearest mapped 46 kV+ line** (grid-cost
   prohibitive) AND is in an active **housing-redevelopment pipeline** (~646
-  planned units). It is contested by housing, not idle.
+  planned units). Housing contests it; it is not idle land.
 
-This is the key dynamic: **closed courses on Oahu churn toward HOUSING (or
-conservation), not toward idle land a solar developer could take.** Kalakaua
+**Closed courses on Oahu churn toward housing (or conservation). They do not
+become idle land a solar developer could take.** Kalakaua
 (Army, 2004) and Ford Island (Navy) both became housing; Makaha is following;
 Ko'olau went to conservation. A closed AG-zoned course would be legally fallow
 ag land, but no such case exists on Oahu today (the closed courses are
@@ -96,12 +96,12 @@ Conservation- and Urban/P-2-zoned).
   the only closed leeward-flat course (Makaha) is grid-distant and
   housing-bound.
 
-## Honest viable-acreage estimate
+## Viable-acreage estimate
 
-**~0 acres** of golf land are a clean utility-scale solar candidate on Oahu
+**~0 acres** of golf land are a utility-scale solar candidate on Oahu
 today. If Makaha's grid distance and housing plan are both set aside — a strong
 counterfactual — it offers ~131 flat leeward acres (~20-25 MW), but that
-competes directly with ~646 planned homes. The honest finding is that golf
+competes directly with ~646 planned homes. Golf
 courses, closed or open, do not add meaningful new solar supply and are
 contested by housing where the solar physics is good.
 

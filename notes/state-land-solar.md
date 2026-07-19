@@ -22,7 +22,7 @@ ag land for utility solar. The binding constraints are political (the 2011–13
 PLDC destruction of the state's land-monetization vehicle), institutional
 (ADC's ag-only mission, capacity, and conservation-purchase conditions on its
 Oahu lands), and procedural (trust obligations and disposition-process
-scruples), not statutory prohibition.
+scruples). Statutory prohibition is not among them.
 
 ---
 
@@ -99,8 +99,8 @@ scruples), not statutory prohibition.
   No primary document was found showing ceded-lands status has chilled
   *leasing* for renewables; observed conduct cuts the other way (DHHL
   solicits, BLNR leases under §171-95.3). Report as negative finding unless
-  docket evidence emerges. (Act 176 (2009) is the land-sale moratorium act,
-  NOT a renewable-siting act — corrects our prior.)
+  docket evidence emerges. (Act 176 (2009) is the land-sale moratorium act;
+  it is not a renewable-siting act — corrects our prior.)
 
 ### 1.4 DHHL (Hawaiian Homes Commission Act)
 
@@ -123,7 +123,7 @@ scruples), not statutory prohibition.
 - §163D-4(a)(7),(8),(14): ADC may lease/dispose of real property and develop
   projects with "qualified persons"; **no term limit and no auction
   requirement** in the section.
-- **Structurally outside ch. 171:** §163D-16(a) ("Notwithstanding chapter 171
+- **Outside ch. 171:** §163D-16(a) ("Notwithstanding chapter 171
   to the contrary...") and §171-2(11), which excludes ADC-held/set-aside/
   leased lands from the definition of "public lands." So the auction default
   never attaches to ADC dispositions.
@@ -132,8 +132,8 @@ scruples), not statutory prohibition.
   §163D-15.6 directs ADC to secure commitments that central/leeward Oahu ag
   leases "shall not be amended or revoked to allow for a nonagricultural use"
   (55-yr cap on Act 234 (2008) central-Oahu acquisition leases). Whether ADC
-  may lease for stand-alone solar is a contested interpretive question, not a
-  settled ban — no AG opinion or case found (UNVERIFIED either way). In
+  may lease for stand-alone solar is a contested interpretive question. It is not
+  a settled ban — no AG opinion or case found (UNVERIFIED either way). In
   practice ADC land **is** hosting solar on Kauai (§3.3, §5.4).
 
 ### 1.6 University of Hawaii
@@ -157,7 +157,7 @@ scruples), not statutory prohibition.
 - Consequence: IAL adds no extra solar friction on state land today (its
   frictions — §205-50(b) DOA/OP referral on SUPs, 2/3 LUC vote to reclassify
   — bind only designated land, which is private). Galbraith's protection
-  operates through ownership/deed structure, not IAL.
+  operates through ownership/deed structure; IAL plays no part.
 
 ## 2. The PLDC episode (2011–2013): the state tried to become a land-supplier and politics destroyed the vehicle
 
@@ -177,7 +177,7 @@ scruples), not statutory prohibition.
 - **Renewable energy was NOT in the enabling act** — zero occurrences of
   "renewable" or "geothermal" in SB1555 CD1 (only "seawater air conditioning
   plants"). A 2012 Dela Cruz proposal would have added geothermal oversight
-  and condemnation power (Civil Beat 2012-01) — proposed, not enacted. Acts
+  and condemnation power (Civil Beat 2012-01); it was proposed but never enacted. Acts
   282 and 309 (SLH 2012) gave PLDC revenue roles tied to Aloha Stadium and
   school lands.
 - **It never completed a project** (Star-Advertiser Abercrombie
@@ -310,7 +310,7 @@ is **in-kind** (HECO electrical-infrastructure upgrades for the Navy); the
 2018). **Puuloa Solar** (Ameresco, 6 MW + 30 MWh at JBPHH) selected by HECO
 Dec 2023, ops target 2027. On Kauai, **AES PMRF/Kekaha** (14 MW + 70 MWh)
 sits on Navy Barking Sands land under an EUL-type arrangement with base
-microgrid capability (NREL 2021). Pattern worth flagging for the rate-base
+microgrid capability (NREL 2021). Pattern for the rate-base
 hypothesis: the two **utility-owned** generation assets (West Loch, Schofield)
 are both on federal land — federal landlords deal directly with the utility,
 bypassing both ch. 205 and state disposition law entirely. [Sources: Ameresco
@@ -412,7 +412,7 @@ HB 1590 checked out as unrelated bills.)
 
 ## 6. Assessment: what binds state-land solar leasing
 
-1. **Not the statute.** Since 2002/2009 the law affirmatively *enables*
+1. **The statute does not bind.** Since 2002/2009 the law affirmatively *enables*
    direct-negotiated 65-year renewable leases (§171-95, §171-95.3), and Act
    53 (2024) loosened it further. ADC is exempt from auction rules entirely.
    Ch. 205's ag-land solar cap still applies to state ag-district land that
@@ -421,8 +421,8 @@ HB 1590 checked out as unrelated bills.)
    Campbell Industrial Park) — the ch. 205 regime channels state-land solar
    toward the small urban-district stock exactly as it does private land.
 2. **Trust politics, but subtler than "ceded lands block it."** The
-   documented ceded-lands chill is on *sales* (2008–09 litigation, Act 176
-   (2009) 2/3-vote requirement), not leases — a null finding. The live trust
+   documented ceded-lands chill applies to *sales* (2008–09 litigation, Act 176
+   (2009) 2/3-vote requirement) — a null finding for leases. The live trust
    frictions are distributional: the OHA 20%/interim-sum fight (Act 226
    (2022), SB 903 (2026)) makes every new revenue stream contested
    accounting, and DHHL leasing is disciplined by beneficiary politics
@@ -430,7 +430,7 @@ HB 1590 checked out as unrelated bills.)
 3. **The PLDC scar.** The one entity built to monetize idle state land was
    destroyed within two years by a broad coalition (Sierra Club, OHA,
    Hawaiian organizations, Local 5, counties) — over its regulatory
-   exemptions and process, not over renewables (which weren't in the act).
+   exemptions and process; renewables weren't in the act.
    No document explicitly ties the episode to later solar reluctance
    (UNVERIFIED as causation), but no successor vehicle has been attempted,
    and post-PLDC land development migrated into low-profile

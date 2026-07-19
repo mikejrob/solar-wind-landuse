@@ -23,7 +23,7 @@ inferred intent.
 ## The cross-island pattern (read this first)
 
 **Organized resistance to utility-scale renewables in Hawaii is overwhelmingly a WIND and a
-NEIGHBOR-ISLAND story, not a solar or an Oahu-generation story.**
+NEIGHBOR-ISLAND story. It is not a solar or an Oahu-generation story.**
 
 1. **The solar/wind split.** The mass-mobilization, street-protest, and multi-year litigation energy
    attaches to **wind** (Kahuku/Na Pua Makani on Oahu; "Big Wind" on Lanai and Molokai) and to
@@ -112,7 +112,7 @@ NEIGHBOR-ISLAND story, not a solar or an Oahu-generation story.**
 - Kunia, Central Oahu; 60 MW solar+storage; **174 Power Global / Hanwha**. Developer **terminated the
   PPA 2021-12-06** after **on-site cultural/archaeological sites** were found and downsizing failed.
   **No organized group** was involved — this is the one Oahu solar project ever stopped by anything
-  permit/land-like, and the cause was on-site resources, not community mobilization.
+  permit/land-like, and the cause was on-site resources. The community did not mobilize.
 - **Blocked** (by on-site cultural resources). VERIFIED (Star-Advertiser retained).
   Source: https://www.staradvertiser.com/2022/01/11/hawaii-news/oahu-renewable-energy-suffers-setback/
 
@@ -226,7 +226,7 @@ NEIGHBOR-ISLAND story, not a solar or an Oahu-generation story.**
   county-identified pre-1980 nonconforming residential subdivisions.
 - **Outcome / status:** **HB 2665 died in House Finance without a hearing** (last action 2018-02-16);
   no Senate action. PUC-complaint outcome **UNVERIFIED**; project status **UNVERIFIED**.
-- **Delayed/blocked/killed:** **delayed (UNVERIFIED).** Structurally different from
+- **Delayed/blocked/killed:** **delayed (UNVERIFIED).** Different from
   utility-scale-on-farmland — residents wanted *more* regulation of solar in *their own* subdivision.
   All testifiers were identifiable local residents; **zero** utility/landholder/LURF presence — a
   clean counterexample to the astroturf hypothesis.
@@ -335,7 +335,7 @@ NEIGHBOR-ISLAND story, not a solar or an Oahu-generation story.**
 - **Groups:** Dept of Agriculture; Office of Planning; **Hawaii Farm Bureau**; **Sierra Club**;
   **Life of the Land**. **Forum:** State Legislature testimony. **Mechanism:** coalition opposition
   to putting solar on A-rated prime ag land. **Outcome:** stiff opposition; the bill did not become
-  law — an ag-policy fight, not a neighborhood one. Parallels the Hoʻohana boundary-amendment ag-land
+  law — an ag-policy fight. It was not a neighborhood one. Parallels the Hoʻohana boundary-amendment ag-land
   fight (2019, same coalition). VERIFIED (Star-Advertiser).
   Source: https://www.staradvertiser.com/2019/03/25/hawaii-news/bill-to-put-solar-farms-on-prime-ag-land-elicits-stiff-opposition/
 

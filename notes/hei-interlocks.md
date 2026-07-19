@@ -24,7 +24,7 @@ Proxy URLs (all sec.gov/Archives/edgar/data/354707/...):
 
 ## 1. Status of the inherited "HEI board / KS trustee interlock" claim: CONFIRMED
 
-The claim is not only confirmed; it is a recurring structural pattern with at
+The claim is confirmed. It is a recurring structural pattern with at
 least four person-level instances plus two pipeline cases:
 
 | Person | Utility-side role | KS role | Overlap? |

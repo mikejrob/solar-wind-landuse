@@ -27,9 +27,9 @@ neighbor can fight:
    commission" from the intervention right, and **HAR §15-15-95(d)** directs that the SUP
    petitioner "shall comply with all of the rules of practice and procedure of the county
    planning commission" (cached `luc_har.txt`). The LUC's own 45-day review (§205-6(e)) is a
-   record-based ratification, not a trial. **This is why the LUC solar-SUP census shows
-   0 intervenors in 8 dockets** (`sup-census.md`) — not because no one could object, but
-   because the LUC is the wrong venue by rule. The contested case happens at the **county
+   record-based ratification. It is not a trial. **This is why the LUC solar-SUP census shows
+   0 intervenors in 8 dockets** (`sup-census.md`): the LUC is the wrong venue by rule. No
+   one is barred from objecting. The contested case happens at the **county
    planning commission**.
 2. **A grant is not expressly appealable; only a denial or LUC modification is** (§205-6(e)).
    So a neighbor who wants to stop an *approved* project cannot simply appeal the grant — the
@@ -189,8 +189,8 @@ neighbor can fight:
   are ministerial engineering permits with narrow discretion — low blocking power.
 - **Property-value / "diminution" claims**: not an independent cause of action; folded into
   nuisance or offered as testimony. No standing to *block* on this basis.
-- **Blocking power: low across the board; delay: low-moderate.** These are supplements to
-  Mechanisms 2–4, not standalone stoppers.
+- **Blocking power: low across the board; delay: low-moderate.** These supplement
+  Mechanisms 2–4. They are not standalone stoppers.
 
 ## Ranked synthesis (Part A)
 
@@ -204,7 +204,7 @@ neighbor can fight:
 | 6 | Nuisance / grading / property-value | Common law; ROH grading; — | Neighbor (tort) | Low | Low | 0 |
 
 **The single mechanism with real blocking power is #2, the county planning-commission
-contested-case intervention — and it works by *delay*, not by winning on the merits.** Paeahu
+contested-case intervention — and it works by *delay*. It does not win on the merits.** Paeahu
 proves the model: the developer won the PUC approval and the Supreme Court appeal yet the
 project still died, because the wrongly-denied-then-granted intervention + remand ran long
 enough to collide with a cost shock. #4 (appeal) is #2's amplifier; #3 (HEPA) is a parallel
@@ -227,7 +227,7 @@ explanation**, on the SUP-census + ownership evidence:
   KS + a handful of corporate-ag owners hold the near-grid B/C ag land; ~50% of Oahu's ag
   district is government-owned. Where one large owner controls the site (and often the
   surroundings), the set of adjacent private owners who could intervene is thin. The largest
-  private landholders are **lessors monetizing siting rights, not opponents**
+  private landholders are **lessors monetizing siting rights**. They are not opponents
   (`legal-representation-map.md` nulls).
 - **The projects that could face neighbors instead route *around* the whole state process:**
   Kupono on federal Navy land (no ch. 205), Hoʻohana via urban-district boundary amendment,
@@ -236,9 +236,9 @@ explanation**, on the SUP-census + ownership evidence:
 
 Net: on Oahu the neighbor-opposition mechanisms exist and are potent (Paeahu shows what they
 do) but the **precondition — a proximate, non-lessor adjacent owner with distinguishable
-injury — is essentially absent** because Oahu utility-scale solar sits on large interior
+injury — is absent** because Oahu utility-scale solar sits on large interior
 parcels held/surrounded by institutional owners. Oahu solar dies upstream in HECO's
-procurement economics (`project-pipeline-mortality.md`), not at a neighbor's hand.
+procurement economics (`project-pipeline-mortality.md`). No neighbor kills it.
 
 ---
 
@@ -309,7 +309,7 @@ legally possible but undocumented and cost-uncertain (UNVERIFIED).**
   generator. **Ownership:** facilities the Company builds/installs remain Company property
   (Rule 14 §D, `heco_rule14.txt`), even though the interconnecting customer funds them; the
   gen-tie up to the POI is the developer's to build, own (or convey), and — critically — to
-  **secure land rights for** (Rule 14 §F; Rule 15). So: **developer funds essentially the
+  **secure land rights for** (Rule 14 §F; Rule 15). So: **developer funds the
   whole interconnection (its gen-tie + HECO's interconnection facilities + upgrades); HECO
   owns the utility-side facilities; the developer bears the easement-assembly risk.**
 - **Rule 2 / Rule 15 line-extension mechanics** (Rule 15 cached; Rule 2 not retrieved this
@@ -378,11 +378,11 @@ The gen-tie holdout hazard is a direct function of how many *distinct* owners a 
   planning-commission contested-case intervention** (HRS §91-9/§91-14 + county PC rules), and
   it works by **injecting delay** that becomes fatal when it meets a cost shock — the Paeahu
   model. Its precondition is an **abutting/proximate private owner with injury "distinguishable
-  from the general public"** (*Mahuiki*). On Oahu that precondition is essentially unmet:
+  from the general public"** (*Mahuiki*). On Oahu that precondition is unmet:
   utility-scale solar sits on **large interior parcels held or surrounded by institutional
-  owners** (government, KS, Dole, C&C, Mahi Pono) who are lessors, not neighbors — so **zero**
-  Oahu solar projects have ever drawn an intervention, appeal, HEPA suit, or PUC contested
-  case. Organized solar opposition is a **Maui** phenomenon; Oahu solar dies of HECO
+  owners** (government, KS, Dole, C&C, Mahi Pono). These owners are lessors. None is an
+  abutting neighbor — so **zero** Oahu solar projects have ever drawn an intervention, appeal,
+  HEPA suit, or PUC contested case. Organized solar opposition is a **Maui** phenomenon; Oahu solar dies of HECO
   procurement economics upstream.
 - **Interconnection.** The gen-tie is the developer's to build, fund, and **acquire land
   rights for** (HECO Rule 14/15; interconnecting generator pays HECO's interconnection-facility

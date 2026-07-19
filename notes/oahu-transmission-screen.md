@@ -74,8 +74,8 @@ To the **138 kV network only**:
 Readings:
 
 - **B/C (the capped resource)**: 13,944 ac within 1 km of a mapped 46 kV+
-  line; 26,222 ac (75%) within 3 km. Grid access is not the binding
-  constraint for most B/C land — the statutory cap is.
+  line; 26,222 ac (75%) within 3 km. The statutory cap is the binding
+  constraint for most B/C land. Grid access is not.
 - **D/E near grid — the zero-legal-friction resource**: 20,359 ac of D/E
   ag-district land lies within 1 km of a mapped 46 kV+ line (40,562 ac
   within 3 km). At 5–7 ac/MW that is ~4,100–2,900 MW of siting envelope
@@ -152,7 +152,7 @@ Interpretation, with the data-quality caveat applied:
 - **Slope screen added 2026-07-12** (`notes/oahu-slope-screen.md`): the
   20,359 ac of near-grid D/E falls to 6,083 ac at ≤15% slope and 11,110 ac
   at ≤30%; S3-eligible B/C land is ~90% ≤15% slope, so the cap-reform
-  result is essentially slope-robust.
+  result is slope-robust.
 - Eligible-by-band table assigns whole parcels to their nearest band
   (near-grid bias for very large parcels); the class × band cross-tab is
   polygon-accurate and does not have this issue.
@@ -195,7 +195,7 @@ PPA-bid competition more than one serving a single estate.
 Schofield/Waialua fringe), C03 Waialua lost ~1,610 ac — 22% of its
 previously counted resource was A — and the old Kunia/Bayer cluster shrank
 from 963 to 303 buildable ac (mostly A) and fell to the bottom of the
-table. C04 Kahuku was essentially unaffected (~12 A ac). Cluster IDs below
+table. C04 Kahuku was barely affected (~12 A ac). Cluster IDs below
 are the re-ranked, post-exclusion IDs in the current CSV.)
 
 | Rank | ID | Locality (approx) | Buildable ac ≤15/≤30 | MW@5 | %D/E | mean ROW km | ac/km | owners ≥100ac | Top owners |
@@ -321,7 +321,7 @@ marginal payoff holds a ~400 ac/km plateau from 0 to ~11 km, then declines
 peaks at 406 ac/km for ~5 km). So the practical knee budget is ~6–11 km;
 **L=10 km is the round-number knee** (+3,857 ac at 386 ac/km average).
 No mid-curve jump beats the early spurs: the best opportunities are short
-spurs off the existing network, not long new corridors.
+spurs off the existing network. Long new corridors do not compete.
 
 Geography of the first ~6 km (see f_expansion_map.png): three short spurs —
 (1) ~2.2 km at **Waialua**, pushing mauka/south from the Waialua 46 kV

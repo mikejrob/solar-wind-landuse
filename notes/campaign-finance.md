@@ -106,7 +106,7 @@ geothermal — not solar/wind).
 
 (Per-cycle breakdown in data/campaign_contrib_summary.csv.)
 
-Reading, with denominators: classified interests are a SMALL share of most
+Classified interests are a SMALL share of most
 war chests (typically 2–10%; construction unions are the largest classified
 block for nearly everyone).
 

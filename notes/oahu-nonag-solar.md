@@ -175,8 +175,8 @@ county-zoning, flood, or encumbrance screen.
   urban supply is of the same order as - indeed larger than - the by-right ag
   supply. Physical scarcity of non-ag land is NOT what confines utility-scale
   solar to ag land on Oahu.
-- The binding constraint on urban land is ECONOMIC, not physical, and this
-  screen does not measure it: median assessed land value in the headline tier
+- The binding constraint on urban land is ECONOMIC. It is not physical. This
+  screen does not measure the economic constraint: median assessed land value in the headline tier
   is ~$124k/ac (p25 $29k, p75 $1.2M) vs low-five-figures for ag land; PPA-level
   solar rents (~$3-5k/ac/yr gross revenue equivalent land rent share) cannot
   compete with urban development values on most of these parcels.

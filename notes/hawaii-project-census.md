@@ -4,7 +4,7 @@ Compiled 2026-07-19. Master data: `data/hawaii_solar_project_census.csv` (60 pro
 one row each). This note is the authoritative empirical record that adjudicates a specific
 dispute: **HECO and some observers cite community resistance / permitting as the obstacle to
 Hawaii solar; our prior work found that for OAHU utility-scale SOLAR the mortality is in
-procurement + interconnection, not community resistance, while community resistance is real
+procurement + interconnection, while community resistance is real
 for WIND (Oahu/Lanai/Molokai) and for SOLAR on MAUI.** The census below makes that precise
 across every island and technology and reports what the full record shows.
 
@@ -116,7 +116,7 @@ interconnection) — all later revived and built by Clearway.
   (Ord 25-2), a future island-wide wind block.
 - Why solar draws none: Oahu utility-scale solar sits on **large interior parcels held by
   institutional owners** (KS, Castle & Cooke, UH, Monsanto/Hartung/Fat Law's, Robinson Kunia)
-  who are **lessors monetizing siting rights, not neighbors** — so no abutting owner with the
+  who **monetize siting rights as lessors**. None is a neighbor, so no abutting owner with the
   proximity injury that confers HRS §91-14 standing (contrast Paeahu, directly mauka of Maui
   Meadows). Several projects route *around* Chapter 205 entirely: Kupono on federal Navy land,
   Hoohana via urban-district boundary amendment. (`neighbor-opposition-and-interconnection.md`)
@@ -131,7 +131,7 @@ secure the gen-tie land to interconnect** — a clean interconnection/land-right
 Kuihelani Ph2 (Stage 3, SP26-417) is advancing. Maui is the one island where **organized,
 professionalized community-legal opposition** (Pono Power Coalition, West Maui Preservation
 Assn; attorneys Collins/Isaki/Lizzi/Hurley) actually bites — via county-PC contested-case
-intervention working as a **delay weapon**, not a merits defeat (Paeahu).
+intervention working as a **delay weapon**. It does not win on the merits (Paeahu).
 
 ### Hawaii Island (12; 7 solar / 3 wind / 1 biomass / self-build storage)
 
@@ -143,7 +143,7 @@ negotiation. The island's marquee opposition case is **biomass**: Hu Honua/Honua
 outright by Life of the Land litigation (PPA denied on remand, affirmed 2023) — the biggest
 NGO-opposition win against any HI utility-scale renewable, but not solar/wind. The organic
 solar fight here is the D/E-land Ocean View residential-subdivision matter (residents wanting
-*more* regulation — structurally different from utility-scale-on-farmland).
+*more* regulation — different in kind from utility-scale-on-farmland).
 
 ### Kauai (8 solar; KIUC member-owned coop)
 
@@ -164,8 +164,8 @@ terminated on default 2020). The salient records are the **Big Wind** cable proj
 (~200 MW Lanai, ~100 MW Molokai), both dead. Molokai's died on **community opposition +
 Molokai Ranch's refusal to host**; Lanai's on the **interisland-cable-law repeal + economics
 + opposition** (Friends of Lanai; Lanaians for Sensible Growth). These are the neighbor-island
-"shoulder the burden for Oahu" equity fights — genuine, sustained community resistance, but
-against **wind-for-export**, not solar.
+"shoulder the burden for Oahu" equity fights — genuine, sustained community resistance
+against **wind-for-export**. It did not target solar.
 
 ---
 
@@ -291,5 +291,5 @@ interconnection + finance account for every Oahu solar loss and ~14 solar deaths
 statewide.** HECO's own operational explanations (supply chain, interconnection process,
 developer models) fit the census; its "communities voice siting concerns" framing fits Maui
 solar and wind but **not** Oahu solar. The prior finding stands and is now bounded: the
-"community blocks solar" story is a **Maui** (and **wind**/**biomass**) story, not an Oahu
+"community blocks solar" story is a **Maui** (and **wind**/**biomass**) story. It is not an Oahu
 utility-scale-solar story.

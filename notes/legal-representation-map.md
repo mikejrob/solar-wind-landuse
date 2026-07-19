@@ -23,8 +23,8 @@ clients and no lobbyist registrations for such principals**. The mirror finding 
 stronger one: the traditional large-landowner land-use bar (Matsubara Kotake & Tabata,
 Carlsmith Ball, McCorriston, Belles Graham) appears **FOR** renewable applicants, and legacy
 landholders (Ulupalakua Ranch, Maui Land & Pineapple, Robinson Family Partners/Gay &
-Robinson, Monsanto/Hartung as lessors, Kamehameha Schools) appear as project **lessors**,
-not opponents — consistent with the scarcity-rent framing (landholders monetize siting
+Robinson, Monsanto/Hartung as lessors, Kamehameha Schools) appear as project **lessors**. None
+appears in opposition — consistent with the scarcity-rent framing (landholders monetize siting
 rights) and inconsistent with landholder-funded opposition.
 
 ---
@@ -150,7 +150,7 @@ Notes:
    SP26-416, SP26-417) and long-time counsel for **Castle & Cooke** in LUC urban
    reclassification (Koa Ridge, A07-775; Sierra Club v. Castle & Cooke, ICA 2012: Benjamin
    M. Matsubara, Curtis T. Tabata of record). The large-landholder land-use bar works FOR
-   utility-scale solar — never for its opponents in anything found.
+   utility-scale solar. It never appeared for its opponents in anything found.
 2. **Kobayashi Sugita & Goda** — HECO companies in both contested PPA appeals (Paeahu,
    Hu Honua × 2). Utility-side only. (Joseph Stewart had one unrelated lobbyist
    registration: Airbnb, 2019-20.)
@@ -165,7 +165,7 @@ Notes:
    solar (Paeahu), wind (KNSC ×2), and biomass (LOL): the *same two lawyers*, plus Hurley
    (Kahana/WMPA), Lizzi (Paeahu county track), Livingston (LOL 2023). Collins and Isaki
    also co-author the West Maui social-history book series (UH-affiliated) — an
-   intellectual/activist network, not a commercial client network.
+   intellectual/activist network. It is not a commercial client network.
 
 ## Lobbyist-registry cross-reference (Ethics Commission via opendata.hawaii.gov, 2013-2020 snapshot)
 
@@ -208,7 +208,7 @@ Notes:
    record; whatever siting friction exists here was not lawyer-supplied by HECO.
 5. One community fight (Kahana/WMPA) ended in a **mediated community-benefits agreement**,
    and the Paeahu record shows Innergex made design changes — consistent with organic,
-   negotiable local opposition, not scripted obstruction.
+   negotiable local opposition. It was not scripted obstruction.
 
 ## Follow-ups
 

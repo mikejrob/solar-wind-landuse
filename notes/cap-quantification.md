@@ -62,8 +62,7 @@ Computed LSB acreage (full LSB coverage, this analysis) vs OP 2011:
 | D | 10,560 | 10,561 |
 | E | 208,594 | 208,602 |
 
-Statewide B+C: 419,716 ac vs OP's ≈418,701 (+0.2%). Essentially exact —
-same source layer.
+Statewide B+C: 419,716 ac vs OP's ≈418,701 (+0.2%) — same source layer.
 
 ## LSB class acreage WITHIN the State Ag District (context)
 
@@ -98,8 +97,8 @@ intersect LSB coverage (2,155 with any B/C area):
 
 Reading:
 
-- The hard 20-acre cap, not the percentage, does most of the constraining:
-  keeping 10% but dropping the 20-ac cap (S1) already adds +5,809 ac
+- The hard 20-acre cap does most of the constraining; the percentage does
+  little. Keeping 10% but dropping the 20-ac cap (S1) already adds +5,809 ac
   (+1,162 MW @5 ac/MW). Raising to 20% while keeping the 20-ac cap (S2)
   adds only +1,142 ac.
 - Mike's counterfactual (S3, 20% no hard cap) yields **15,657 ac ≈ 3,131 MW**

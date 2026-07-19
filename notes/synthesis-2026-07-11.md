@@ -88,7 +88,7 @@ cap-quantification).
   SUPs draw ZERO intervenors and clear in ~6 weeks) while the permitted-use
   route rations everyone else; ag dedication makes holding land nearly free.
   H1 survives as an INCIDENCE claim (who collects the rents the regime
-  creates) rather than an AUTHORSHIP claim.
+  creates). It is not an AUTHORSHIP claim.
 
 **H2 Rate-base/utility interest: NO DIRECT SUPPORT; INDIRECT STRUCTURE
 CONFIRMED; MECHANISM UNPROVEN.**
@@ -101,7 +101,7 @@ CONFIRMED; MECHANISM UNPROVEN.**
   three sitting HEI directors simultaneously on A&B's board during SB 631;
   Parker Ranch/Grove Farm/Campbell ties today; a retired HECO SVP chairing
   the LUC in 2025.
-- Honest statement: the utility never needed land-use law — its levers are
+- The utility never needed land-use law — its levers are
   procurement, interconnection, and PPA terms (PUC-supervised). Land
   restrictions were the ag coalition's project. Whether elite integration
   translated into quiet acquiescence is not observable in documents we have.
@@ -128,9 +128,10 @@ CAPACITY.** The connective tissue between economic forces and grassroots:
   vocabulary — CTAHR studies, IAL acts, OP/DOA strategy — wrapped around an
   anti-sprawl commitment strategy); North Shore wind opposition inherits the
   Keep-the-Country-Country/Turtle Bay lineage. Prediction: opposition
-  intensity tracks pre-existing organization, not project externalities.
+  intensity tracks pre-existing organization; project externalities do not
+  drive it.
 - The ag-preservation coalition (agencies + farm lobby + enviro) supplies
-  restriction as a JOINT PRODUCT of fights that are fundamentally about
+  restriction as a JOINT PRODUCT of fights about
   housing, sprawl, land prices, and tenancy — solar and wind are collateral.
 
 ## 4. What this does to the paper
@@ -140,7 +141,8 @@ CAPACITY.** The connective tissue between economic forces and grassroots:
    story for solar's caps, (b) an incidence story for landholder rents,
    (c) an elite-integration story (LURF officership, interlocks) as the
    channel by which utility and landholder interests could coordinate
-   without public conduct — reported as structure, not motive, and
+   without public conduct — reported as structure, with motive not
+   asserted, and
    (d) chokepoint-supply as the unifying mechanism.
 2. The Ord 25-2 wind story is the cleanest case of restriction overshoot:
    grievance at 1,700 ft, remedy at 6,600 ft + waiver ban + repowering
@@ -151,7 +153,7 @@ CAPACITY.** The connective tissue between economic forces and grassroots:
    the politics of why it hasn't happened — and suggest pairings (e.g.,
    cap-removal + ag-tenant protections or tax-recapture) that could split
    the blocking coalition.
-4. Null results to report honestly: astroturf (4 traces), HEI campaign
+4. Null results to report: astroturf (4 traces), HEI campaign
    money, landholder authorship of caps, LUC-as-bottleneck for solar
    (SUPs are fast and uncontested; the binding frictions are the statute
    itself, PUC/PPA contestation, county permits, and tax risk).

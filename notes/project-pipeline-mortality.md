@@ -21,8 +21,8 @@ unanimously, in ≤45 days, with no intervenors ever. If you only looked at the 
 would conclude Hawaii solar sails through. It does not. **The mortality is almost
 entirely UPSTREAM of the LUC, at HECO's competitive procurement, and the delay that
 occasionally becomes fatal is at the COUNTY permit / community-opposition tier — but the
-latter is a NEIGHBOR-ISLAND (Maui) phenomenon, essentially absent on Oahu.** On Oahu,
-solar dies of economics inside HECO's contracting funnel, not of opposition.
+latter is a NEIGHBOR-ISLAND (Maui) phenomenon, nearly absent on Oahu.** On Oahu,
+solar dies of economics inside HECO's contracting funnel. Opposition does not kill it.
 
 ---
 
@@ -243,7 +243,7 @@ to a reader comment — cite the Star-Advertiser body text, which names the four
 
 Other islands: Hawaiʻi Island's one organic solar fight is the **Ocean View / Hawaiian
 Ranchos** FIT-subdivision case (self-represented residents Ann & Peter Bosted, ~600-sig
-petition, PUC complaint) — a D/E-land residential-subdivision matter, structurally
+petition, PUC complaint) — a D/E-land residential-subdivision matter,
 different from utility-scale-on-farmland. Kauaʻi's **West Kauai Energy Project** litigation
 (Pōʻai Wai Ola/Nā Kiaʻi Kai, Earthjustice) targeted the **hydro/water-diversion**
 component, **not** the PV.
@@ -282,7 +282,7 @@ projects at Stage 1.
 
 ---
 
-## Stage 5 — Land / lease control (essentially a NULL)
+## Stage 5 — Land / lease control (a NULL)
 
 No Oahu (or Hawaii) utility-scale solar project in the record died over land control or a
 lease dispute. Consistent with the project's scarcity-rent framing: large legacy
@@ -321,12 +321,12 @@ boundary-amendment A92-683) bypass Chapter 205 friction entirely. Land is where 
    cancellation (Puakō), and the amplifier that pushes marginal projects over the Stage-1
    economic cliff. Largely invisible because ratings are confidential.
 3. **PUC PPA approval and county/community opposition are, ON OAHU, near-zero mortality.**
-   The PUC essentially never denies a solar PPA, and no organized community group has
+   The PUC almost never denies a solar PPA, and no organized community group has
    contested an Oahu solar project at any venue. This is the honest, and somewhat
    surprising, finding: **the "community blocks solar" story is a MAUI story, not an Oahu
    story.** The one Oahu project ever stopped by anything permit-like (Kupehau) was halted
    by on-site cultural resources, not by an organized group.
-4. **Land/lease: not a mortality stage at all** — landholders enable, not block.
+4. **Land/lease: not a mortality stage at all** — landholders enable projects; they do not block them.
 
 ### The hardest / most-blocking stage, stated plainly
 
@@ -336,7 +336,7 @@ boundary-amendment A92-683) bypass Chapter 205 friction entirely. Land is where 
 - **In practice (what actually removes projects): HECO procurement**, via cancellation for
   economic/credit reasons. This is the binding mortality stage for Oahu.
 - **The one place opposition genuinely kills a project — Maui's county-permit tier — works
-  not by winning but by DELAY**, which becomes fatal only when it coincides with a cost
+  by DELAY**, not by winning on the merits; the delay becomes fatal only when it coincides with a cost
   shock (Paeahu). That mechanism has **no Oahu instance.**
 
 ### Oahu vs. neighbor islands

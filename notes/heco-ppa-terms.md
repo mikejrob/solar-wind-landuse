@@ -119,12 +119,12 @@ KIUC's utility-scale solar is **third-party-owned** (AES, SolarCity/Tesla) under
 **negotiated bilateral** PPAs — 20–25 yr, **fixed-price** ($127–133.40/MWh on
 Māná/Kaahanui; ~11¢ Lāwaʻi; ~14¢ Kapaia). Crucially, **KIUC also takes full dispatch
 control of the battery** (the Lāwaʻi "PV Peaker" is load-following under KIUC direction)
-— so *utility dispatch control is not a HECO peculiarity*; it is what an isolated island
-grid does, which **corroborates the island-justified label** on that term. KIUC's
+— so *utility dispatch control is what an isolated island
+grid does*, not a HECO peculiarity — which **corroborates the island-justified label** on that term. KIUC's
 detailed **security, availability, LD, and change-in-law terms are not public
 (UNVERIFIED)**, so a term-by-term security comparison can't be made. The defensible
 contrast is *process*, not clause text: KIUC **renegotiated bilaterally when a
-competitive RFP failed** (Kapaia 2014) rather than locking a rigid auction price — the
+competitive RFP failed** (Kapaia 2014); it did not lock in a rigid auction price — the
 exact pressure-relief valve HECO's structure lacks. (Scale caveat from
 `procurement-comparison-kiuc-ercot.md` applies: KIUC is ~1/10–1/15 of Oahu.)
 

@@ -13,7 +13,7 @@ R), map `analysis/figs/paper/f_screenlines.png`.
 types, and contingency limits are confidential; the public HIFLD/OSM line
 maps carry no ampacity fields; and a line drawn once may be a double-circuit
 tower. Follows `docs/ASSUMPTIONS.md` conventions; treat everything below the
-crossing counts as an educated screen, not engineering.
+crossing counts as an educated screen. It is not engineering.
 
 ## Question
 
@@ -25,8 +25,8 @@ coast**. Utility-scale solar under our siting screens sits **central/north**
 (Kunia, Waialua, Wahiawa, Kahuku). How much north→south transfer capacity
 exists across the necks in between, what do 1–4 GW of northern solar (with
 co-located storage) require, and what would closing the gap cost? Distances
-are modest (~10–25 km), so the question is thermal capacity of existing
-corridors, not new voltage classes.
+are modest (~10–25 km), so the question is the thermal capacity of existing
+corridors. It is not a question of new voltage classes.
 
 ## Method
 
@@ -130,8 +130,8 @@ Transparent scenario arithmetic, no power flow (grid in
 **Storage changes everything.** With 4–6 h co-located storage at 50–100% of
 solar power, midday export need collapses (charging soaks up the surplus)
 and the binding hour moves to the evening — so the island-level requirement
-**saturates at σ × evening load (≈ 0.84–1.7 GW across the σ and L ranges),
-not at installed solar MW (up to 4 GW)**. The corridor problem is an
+**saturates at σ × evening load (≈ 0.84–1.7 GW across the σ and L ranges)**. It
+does not scale with installed solar MW (up to 4 GW). The corridor problem is an
 evening-peak delivery problem roughly the size of southern load, whatever
 the solar build. (Six-hour storage discharged across the whole evening
 rather than at full power would cut the required MW further; the table's

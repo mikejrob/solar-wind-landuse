@@ -19,8 +19,8 @@ Production Facilities in Agriculture Districts." Approved April 17, 1980**
 Source: Session Laws of Hawaii 1980 (scan):
 https://archive.org/download/hawaii-session-laws/1980-regular.pdf (pp. 33–36).
 
-The act's own purpose section is explicit — this is the cleanest possible statement
-that wind's entry was deliberate and permissive:
+The act's purpose section is explicit that wind's entry was deliberate and
+permissive:
 
 > "SECTION 1. The purpose of this Act is to allow the establishment of wind energy
 > facilities as a permitted use in agriculture districts."
@@ -37,8 +37,8 @@ agricultural-districts paragraph (new material underscored in the original):
 > parks; and open area recreational facilities."
 
 **Section 3** amended § 205-4.5(a) (permitted uses on A/B soils), appending new
-paragraph (12) — note the bracket edit converting old "(11) Agricultural parks[.];
-or", proof (12) was appended to a list that previously ended at (11):
+paragraph (12). The bracket edit converts old "(11) Agricultural parks[.];
+or" — proof (12) was appended to a list that previously ended at (11):
 
 > "(11) Agricultural parks[.]; or
 > (12) Wind energy facilities, including the appurtenances associated with the
@@ -53,7 +53,7 @@ Agricultural Lands," approved May 31, 1977, SLH 1977 p. 243), ends at
 accessory uses. Source: https://archive.org/download/hawaii-session-laws/1977-regular.pdf.
 The original enactment was L 1976, c 199, §1 (the Act 199 enumerated-use regime).
 
-Key economic-history point: **wind entered both statutes with no acreage cap, no
+**Wind entered both statutes with no acreage cap, no
 soil-class exclusion, and no lease/decommissioning conditions — in 1980, before any
 utility-scale wind farm existed in Hawaii** (Kahuku MOD-0A/MOD-5B and Kamaoa came
 mid-1980s). The only condition ever imposed on wind is the "compatible with
@@ -142,7 +142,7 @@ c 228, §3; am L 2016, c 173, §3; am L 2017, c 12, §1; am L 2018, c 49, §4; a
 > For the purposes of this paragraph, "agricultural activities" means the
 > activities described in paragraphs (1) to (3);"
 
-Also note the chapeau of § 205-4.5(a) itself singles out solar for a soil-class
+The chapeau of § 205-4.5(a) itself singles out solar for a soil-class
 carve-up: "...all lands with soil classified ... as overall (master) productivity
 rating class A or B **and for solar energy facilities, class B or C**, shall be
 restricted to the following permitted uses:".

@@ -14,14 +14,14 @@ no utility-procurement monopsony. The payoff is a ranked list of speed drivers a
 honest split of which Hawaii could adopt vs. which the island physics forbid.
 
 **Evidentiary discipline.** Every figure carries a source URL or an UNVERIFIED flag.
-Revealed conduct (dates, PPA prices, filings, completion rates), not motive. Two caveats
+Revealed conduct: dates, PPA prices, filings, completion rates. Motive stays out of scope. Two caveats
 run through the whole note and are stated up front so no claim overreaches:
 1. **Scale vs. structure.** KIUC is roughly one-tenth to one-fifteenth of HECO's Oahu
    system. A skeptic will say KIUC is just small. That objection is partly right and is
    engaged directly in §A.4 — the honest finding is that scale and structure are
    *entangled* and both real, and the clean citable contrast is a *timing* fact (KIUC
    contracted the first U.S. dispatchable solar+storage five years before HECO's first
-   Oahu equivalent), not a claim that structure alone explains speed.
+   Oahu equivalent). Structure alone does not explain speed.
 2. **Island non-transferables.** ERCOT's pure-merchant model cannot be transplanted onto
    an isolated island grid (§B.3). Only specific *process* elements transfer.
 
@@ -62,7 +62,7 @@ long-term PPAs. The revealing episode: for the Kapaia/KRS-1 project KIUC **issue
 March 2014 and got 40+ responses, but "none of them met the co-op's requirements in a cost
 effective way"; SolarCity then negotiated bilaterally** until the terms worked (a
 first-of-its-kind dispatchable design). For Lāwaʻi, AES and KIUC **co-designed** a custom
-DC-coupled, load-following "PV Peaker" rather than KIUC buying an off-the-shelf bid. KIUC
+DC-coupled, load-following "PV Peaker." KIUC did not buy an off-the-shelf bid. KIUC
 runs a recurring, multi-project relationship with AES (Lāwaʻi → West Kauai → Mānā,
 Kaahanui). This is the structural opposite of HECO's serial, formalized, multi-year RFP
 rounds with PUC-approved bid frameworks and an independent observer.
@@ -130,20 +130,20 @@ KIUC **solar PV** plant in the record was cancelled. The only material retrenchm
 flow-through** component after an Earthjustice-backed lawsuit over water diversion (settled
 2024) and cost increases, **replacing it with the Mānā + Kaahanui solar+storage PPAs**. So
 the one KIUC "setback" was (i) the *hydro/water* piece, not the PV, and (ii) resolved by
-re-contracting more solar — structurally the opposite of HECO's Oahu/Maui solar
+re-contracting more solar — the opposite of HECO's Oahu/Maui solar
 cancellations. (Note the parallel to `project-pipeline-mortality.md`: on Kauai, as on Maui,
 the litigation targeted **water/hydro**, not the panels.) Sources:
 https://earthjustice.org/press/2023/community-leaders-support-kiucs-decision-to-scale-down-the-west-kauai-energy-project ;
 https://www.civilbeat.org/2024/04/opponents-of-kauai-hydro-plan-drop-lawsuit-but-project-is-still-in-limbo/
 
-### A.4 Why faster — structure vs. scale, split honestly
+### A.4 Why faster — structure vs. scale
 
 **Structure (documented):**
-- **No shareholder profit motive / no dividends**; a locally **elected member board** rather
-  than a firm balancing decarbonization against quarterly investor returns (Canary Media
+- **No shareholder profit motive / no dividends**; a locally **elected member board**. No firm
+  balances decarbonization against quarterly investor returns (Canary Media
   frames it exactly this way). No rate-base incentive to prefer utility-owned capex over an
   IPP PPA — the Averch-Johnson channel central to this project's rate-base hypothesis is
-  **structurally absent** at a coop.
+  **absent** at a coop.
 - **Negotiated bilateral dealmaking:** when a competitive RFP failed to yield a
   cost-effective bid (Kapaia 2014), KIUC negotiated directly to workable terms — faster than
   HECO's staged, framework-bound, multi-year RFP rounds.
@@ -153,7 +153,7 @@ https://www.civilbeat.org/2024/04/opponents-of-kauai-hydro-plan-drop-lawsuit-but
   Oahu's at 2002 formation; today Kauai has among the **lowest rates statewide** and its high
   renewable share buffered members through the 2022 oil-price spike.
 
-**Scale (must be weighted honestly):** KIUC serves one small island (~38,700 members; system
+**Scale (must be weighted):** KIUC serves one small island (~38,700 members; system
 peak on the order of **~80 MW**) vs. HECO's Oahu (**~1,100–1,200 MW** peak) — very roughly
 **1/10 to 1/15**. Small scale means (i) a single small project moves the renewable % a lot;
 (ii) one balancing area simplifies integration; (iii) 100% instantaneous penetration is far
@@ -244,7 +244,7 @@ with no acreage caps; standardized intrastate process outside FERC's cluster-stu
   lost power at some point Feb 14–20; the grid came minutes from uncontrolled collapse.
   Freezing (44.2%) + fuel issues (31.4%) drove 75.6% of unplanned outages; post-2011 NERC
   winterization advice went unimplemented on cost grounds. Prices held at the **$9,000/MWh
-  cap for ~2 days** (~$16B in arguably unnecessary charges per the market monitor). The
+  cap for ~2 days** (~$16B in unnecessary charges per the market monitor). The
   energy-only / no-capacity-market design plus weak weatherization is the core critique.
   Sources: https://en.wikipedia.org/wiki/2021_Texas_power_crisis ;
   https://www.ferc.gov/news-events/news/final-report-february-2021-freeze-underscores-winterization-recommendations
@@ -279,19 +279,19 @@ with no acreage caps; standardized intrastate process outside FERC's cluster-stu
 ### B.4 Third comparator — separating "market vs. monopsony" from "fast process vs. slow RFP"
 
 A **regulated, vertically integrated monopoly with no merchant market** can still procure
-solar fast **when it self-builds on a standardized program** rather than running serial
-RFPs. **Florida Power & Light** — regulated, no retail competition — launched "30-by-30"
+solar fast **when it self-builds on a standardized program**. Serial RFPs are the slow path.
+**Florida Power & Light** — regulated, no retail competition — launched "30-by-30"
 (30 million panels by 2030) and is building toward **>11,700 MW of utility-owned solar by
 2030**, self-constructing (e.g., the ~1,490 MW SolarTogether tranche). Implication: speed is
 **not** purely "merchant vs. regulated." The binding difference is **standardized/
 programmatic procurement vs. Hawaii's slow serial RFP-plus-PPA-plus-study**. Combined with
 CAISO/SPP being slow *despite* ISO membership, this pins the causal variable to **process
-design**, not market structure per se. Sources:
+design**. Market structure per se is not the driver. Sources:
 https://www.prnewswire.com/news-releases/fpl-announces-groundbreaking-30-by-30-plan-to-install-more-than-30-million-solar-panels-by-2030-make-florida-a-world-leader-in-solar-energy-300779381.html ;
 https://www.utilitydive.com/news/florida-signs-off-on-fpls-15-gw-community-solar-program-despite-lack-of-c/573428/
 (Caveat: FPL is also under a supportive state regulator and self-builds into its own
 rate base — a channel Hawaii's rate-base hypothesis would flag; the transferable lesson is
-the *standardized program*, not FPL's specific incentive.)
+the *standardized program*. FPL's specific incentive is not the lesson.)
 
 ---
 
@@ -312,7 +312,7 @@ The three cases vary the same handful of levers. Ranking by how much each moves
 
 **Ranked transferable reforms for Hawaii (what the record says would actually help):**
 1. **Faster, standardized interconnection** — published queue, standard study timelines,
-   connect-and-manage-style curtailment terms instead of gold-plated upfront network
+   connect-and-manage-style curtailment terms replacing gold-plated upfront network
    upgrades. Highest-value, already the subject of the PUC's IDRP (Order 39163, 2023).
 2. **Standard-offer / feed-in contracts** — a standing open procurement door that mimics
    "many buyers" without needing a merchant market (the only piece of the ERCOT advantage an
@@ -320,7 +320,7 @@ The three cases vary the same handful of levers. Ranking by how much each moves
 3. **A self-build / competition check** — KIUC and FPL show that *someone other than a
    framework-bound serial RFP* building to standard terms moves fast; ensure the utility is
    not the sole gatekeeper of pace (PBR should reward throughput, not just capex).
-4. **Rolling procurement cadence** instead of years-apart staged RFP rounds.
+4. **Rolling procurement cadence** replacing years-apart staged RFP rounds.
 
 **What Hawaii cannot adopt:** a genuine merchant market (no wholesale/retail market on an
 isolated ~1.2 GW island); ERCOT-scale geographic diversity and imports; or KIUC's small
@@ -332,8 +332,8 @@ The land-restriction story (HRS §205 10%/20-acre cap) is **necessary but not su
 Even with unlimited eligible acreage, Oahu solar would still bottleneck at **HECO's
 monopsony RFP and the interconnection queue** — the stages where `project-pipeline-mortality.md`
 shows projects actually die. KIUC (same land law, same PUC) built fast anyway via negotiated
-bilateral deals; ERCOT built ~30 GW largely because **interconnection and offtake, not land,
-are frictionless there**. So **procurement/interconnection design is a co-binding
+bilateral deals; ERCOT built ~30 GW largely because **interconnection and offtake are
+frictionless there** — land is not the constraint. So **procurement/interconnection design is a co-binding
 constraint** sitting alongside land reform. The policy implication is joint: liberalizing
 §205 raises the *ceiling* on where solar can go, but **standardized interconnection + a
 standing contract path** is what determines whether projects actually get built at speed.

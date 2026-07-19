@@ -110,7 +110,7 @@ expansion → figures → paper) re-runs offline from cache and reproduces
 byte-identically at the figure/paper stage; documentation row counts are
 exact. The non-reproducible perimeter is: the non-ag screen's build steps
 1–7, the ownership merge inputs, the owner×transmission join, and the
-zoning-layer download — all session artifacts. Each is honestly flagged in
+zoning-layer download — all session artifacts. Each is flagged in
 the data dictionary, but four of them currently live only in a deletable
 `/private/tmp` scratchpad, which is the single most fragile thing in the
 repository.

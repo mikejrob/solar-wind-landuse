@@ -128,7 +128,7 @@ two places, neither a propagation failure:
   purge, and steps 1–7 of the non-ag screen + the owner×transmission join have
   no committed producer. The non-ag CSV, `oahu_owner_class_transmission.csv`,
   and the ownership build are therefore **not** end-to-end reproducible. This
-  is honestly documented in AUDIT_REPRO and DATA_DICTIONARY, but the README
+  is documented in AUDIT_REPRO and DATA_DICTIONARY, but the README
   quick-start does not carry the caveat.
 - **C7. AUDIT_REPRO §5's "README claims transmission_screen/slope_screen fetch
   on first run" no longer applies** — the current README makes no such claim

@@ -55,7 +55,7 @@ nonprofit). Full mapping = `MAP` dict in `analysis/resolve_owners.py`; every
 row keeps `owner_raw` verbatim. Key merges:
 
 - "B P BISHOP TRUST ESTATE" + "ESTATE OF BERNICE PAUAHI BISHOP" → **Kamehameha
-  Schools**. ("BISHOP TRUST CO LTD" is a corporate trustee, NOT KS.)
+  Schools**. ("BISHOP TRUST CO LTD" is a corporate trustee; it is not KS.)
 - Kualoa Ranch Inc/Incorporated/Incorport ed (3 RPAD spellings) → Kualoa Ranch.
 - 7 ADC spelling variants → State of Hawaii – ADC; DLNR divisions → DLNR.
 - Castle & Cooke Homes/Inc/Properties → Castle & Cooke Hawaii (kept distinct
@@ -131,7 +131,7 @@ S0 (current law, 10%/20 ac): State of Hawaii 440 (12.2%), USA 279 (7.7%),
 Kamehameha Schools 273 (7.6%), Property Reserve 138, C&C Honolulu 128,
 ADC 119, Dole 111, (unattributed 108), Kualoa Ranch 103, Castle & Cooke 88.
 Under the binding cap, eligible acreage is nearly proportional to *parcel
-count*, not to acreage — the cap flattens the distribution.
+count*. It does not track acreage — the cap flattens the distribution.
 
 S3 (20%, no acreage cap): USA 3,618 (23.1%), Kamehameha Schools 2,293
 (14.6%), State of Hawaii 1,136 (7.3%), Laukiha'a CPR 811, Dole 719, Property
@@ -198,8 +198,8 @@ hardest on federal/state land (not developable for IPP solar in practice) and
 then on **Kamehameha Schools and Dole** — KS alone forgoes ~1,180 eligible
 acres (S1−S0) on its cap-bound parcels. Consistent with the verified finding
 that KS hosts ~40% of commercial renewable capacity: KS is the largest
-private *loser* from the per-parcel cap on Oahu ag land, not a beneficiary —
-the cap's private beneficiaries are owners of mid-size (≤200 ac) B/C parcels
+private *loser* from the per-parcel cap on Oahu ag land. KS is not a
+beneficiary. The cap's private beneficiaries are owners of mid-size (≤200 ac) B/C parcels
 whose eligibility is unaffected while big-parcel supply is suppressed.
 
 ## Provenance / verification flags

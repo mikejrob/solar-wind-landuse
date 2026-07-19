@@ -23,8 +23,8 @@ Legislative record (official ordinance PDF, verified 2026-07-17:
 [Ordinance 25-002 / Bill 64 / LUO](https://www4.honolulu.gov/docushare/dsweb/Get/Document-354710/Ordinance%2025-002_Bill%2064_LUO.pdf),
 City & County of Honolulu docushare; mirror: [ORD25-002.pdf](https://files.amlegal.com/pdffiles/Honolulu/ORD25-002.pdf);
 hnldoc measure 2784 is now login-gated). Confirmed: Bill 64 (2023) is the
-comprehensive revision of the Land Use Ordinance (ROH ch. 21) — the first since
-1990 — not a targeted amendment:
+comprehensive revision of the Land Use Ordinance (ROH ch. 21), the first since
+1990. It is not a targeted amendment:
 - Introduced 11/28/2023 by **Esther Kiaʻāina** (chair, Planning & the Economy).
 - Passed third reading 12/11/2024, **8 ayes – 1 no (Calvin Say)**. HPR reported
   Say's stated reason was disagreement with the added wind-turbine restrictions
@@ -150,8 +150,8 @@ Chronological chain (all primary-source-verified via hnldoc unless noted):
   Defective effective date 7/1/2050 in HD1/SD1.
 
 - **SB 2805 (2020)** — Riviere, Harimoto, Ihara, Kim, Moriwaki, Ruderman,
-  L. Thielen. Not a setback bill: required Office of Planning to prepare a
-  comprehensive renewable-energy siting plan (findings cited Kahuku/Na Pua Makani
+  L. Thielen. Required Office of Planning to prepare a comprehensive
+  renewable-energy siting plan; not a setback bill (findings cited Kahuku/Na Pua Makani
   and turbines "as close as 1,645 feet" from residences, per
   [LegiScan text](https://legiscan.com/HI/text/SB2805/id/2131745)). SD1 passed
   two committees; **deferred (died) in CPH 2/20/2020**

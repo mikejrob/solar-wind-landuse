@@ -29,8 +29,7 @@ The **6,288 ac** of 2029-expiring state leases validate the well-documented
 ~6,322-ac Army figure within 0.5%. These are the analytically important
 parcels: they are STATE land (public land trust) leased to the U.S. under
 1964 65-year leases at $1 total, and on expiry could return to State control,
-making any future use a **state-land siting decision** rather than a federal
-one.
+making any future use a **state-land siting decision**.
 
 "Fee / other" is NOT deed-resolved here (flagged): much of it is federal fee,
 but a large share is **ceded Government/Crown land** the U.S. controls under
@@ -49,8 +48,8 @@ is UNVERIFIED and would require a title/BOC review.
 | Kaena Pt Satellite Tracking (169003005) | Air Force | 77 | 14 | 13.0 | Conservation | remote NW point |
 | Kaala Air Station (167003023) | Air Force | 2 | 1 | 6.4 | Conservation | summit site |
 
-**Key finding (honest, and it cuts against a simple "return unlocks solar"
-story):** the one 2029-lease parcel that is flat, grid-adjacent (0.07 km), and
+**Key finding, cutting against a simple "return unlocks solar"
+story:** the one 2029-lease parcel that is flat, grid-adjacent (0.07 km), and
 in the Ag district — Kahuku TA 158002002, ~230 flat acres — is exactly the
 ~450 acres the Army **RETAINS** under the Aug-2025 Record of Decision. The
 land that actually returns (Kawailoa-Poamoho and Makua, ~5,800 ac) is
@@ -98,7 +97,7 @@ Applying these (viability tier x flat acres, fee land):
 *The 3,273 "flat" acres are the whole West Loch Annex footprint; only **~131
 ac** actually host built solar (Kupono). Do not read 3,273 ac as available.
 
-**Essentially unavailable:** Lualualei, West Loch magazine areas, Kipapa,
+**Unavailable:** Lualualei, West Loch magazine areas, Kipapa,
 Puuloa Range, Red Hill, Waikane (ordnance/UXO); Makua, Schofield East Range,
 Kahuku TA, Kawailoa-Poamoho, Dillingham, Helemano (training/UXO); Wheeler,
 JBPHH runway, MCBH, Kalaeloa CG (airfield/airspace). **Plausibly usable
@@ -125,7 +124,7 @@ Waipio Peninsula, Pearl City Peninsula. Even here, scalability is UNPROVEN.
   land under DHHL/HCDA/Hunt jurisdiction — cite separately, not as active
   military land (already partly in the non-ag screen).
 
-**Scalability honestly stated:** the built precedent is ONE ~131-ac solar site
+**Scalability:** the built precedent is ONE ~131-ac solar site
 (Kupono) plus one HECO array and one biofuel plant, all on flat, cleared,
 grid-adjacent federal fee land outside HRS Ch. 205 districting. Asserting that
 utility-scale solar scales to thousands of military acres beyond West Loch is
@@ -178,13 +177,53 @@ State Land Use Districts:
 | lease x Conservation (returning) | 5,834 | 354 | 19 |
 
 - The **fee x Ag** land (14,335 flat ac) is already inside the paper's ag
-  universe as "United States 38,563 ac" (`notes/oahu-ownership.md`) — **not
-  new**, and largely undevelopable for IPP solar in practice.
+  universe as "United States 38,563 ac" (`notes/oahu-ownership.md`). It is
+  excluded as new solar supply for the reasons in §5a below.
 - The **fee x Urban** flat land (16,045 ac) is the ~16,155-ac flat urban
-  military figure the non-ag screen **already noted and excluded** — **not new
-  supply**, just re-characterized by constraint.
+  military figure the non-ag screen **already noted and excluded** —
+  re-characterized by constraint, not new supply.
 - The only not-previously-enumerated flat land is **Conservation-district**
   (~2,100 fee + 354 lease flat ac), which is legally unavailable anyway.
+
+### 5a. Why federal agricultural-district land is excluded
+
+Federal land is exempt from state agricultural-district rules, and a private
+developer cannot lease it on the open market. Four facts govern the 14,335 flat
+"fee x Ag" acres:
+
+1. State agricultural rules do not apply. The state map labels this land
+   "Ag district," but HRS ch. 205 does not govern federal land. The Supremacy
+   Clause and the Property Clause (U.S. Const. art. IV, §3) exempt federal
+   installations from state and county land-use regulation
+   ([LII, Supremacy Clause](https://www.law.cornell.edu/wex/supremacy_clause);
+   [Justia, preempted state/local laws](https://law.justia.com/constitution/us/state-local-laws-held-preempted.html)).
+   Hawaii's 1959 Admission Act reserves to Congress exclusive legislation over
+   land the United States holds for defense. The ag-district label carries no
+   legal force over the land's use.
+2. Access runs through a discretionary DoD lease. A developer can reach this
+   land only via an enhanced-use lease under 10 U.S.C. §2667, which the
+   Secretary "may" grant when it promotes national defense or the public
+   interest — discretionary, not a right
+   ([10 U.S.C. §2667, LII](https://www.law.cornell.edu/uscode/text/10/2667);
+   [CRS IF11309, DoD outleasing/EUL](https://www.congress.gov/crs_external_products/IF/PDF/IF11309/IF11309.2.pdf)).
+   The land is not on the private or state lease market that the paper's
+   ownership screen measures.
+3. Mission use constrains it. This acreage sits inside active installations
+   (Schofield, Wheeler, Lualualei, Waianae). Training areas, flight corridors,
+   and buffer zones limit development
+   ([Hawaii military presence overview](https://hawaiistateauthority.com/hawaii-military-presence/)).
+   Much "fee x Ag" federal ground is training-range buffer or agricultural
+   grazing lease inside a base, held for defense purposes.
+4. Counting it would double-count. These 14,335 acres are already inside the
+   paper's ownership tally as "United States 38,563 ac"
+   (`notes/oahu-ownership.md`). Adding them as new solar supply would count the
+   same acres twice and would assume a DoD availability the lease record does
+   not support: one Oahu solar enhanced-use lease exists to date (Kupono,
+   ~131 ac; §3).
+
+Exclusion reason, stated plainly: the ag classification is not the barrier.
+Federal control, discretionary EUL access, and mission use are. The soil rating
+is irrelevant to whether a developer can build there.
 
 **Net NEW near-grid flat acreage beyond what the paper counts: ~0.** The
 military category's contribution is analytic, not additive: it re-characterizes
@@ -194,7 +233,7 @@ ordnance/airfield/training/developed), documents the one proven site (Kupono,
 ~200 flat near-grid acres of genuinely state-decidable land, since the flat
 grid-adjacent Kahuku parcel is the piece the Army keeps.
 
-## Honest viable-acreage estimate (heavy caveats)
+## Viable-acreage estimate (heavy caveats)
 
 - **Built today:** ~131 ac (Kupono) + ~100 ac (earlier HECO West Loch) of
   solar; ~50 MW biofuel (Schofield); ~99 MW microgrid (Pu'uloa).
@@ -206,10 +245,10 @@ grid-adjacent Kahuku parcel is the piece the Army keeps.
 - **Post-return state land (2029):** ~200 flat near-grid acres (Poamoho), on
   ceded land, competing with conservation/homestead/cultural uses; the flat
   grid-adjacent Kahuku parcel is retained by the Army.
-- **Bottom line:** military land is a large PHYSICAL footprint but a small
-  ACTIONABLE solar resource; scaling beyond the West Loch/Kupono precedent is
-  unproven, and the category adds ~0 new near-grid flat acreage to the paper's
-  tallies.
+- **Bottom line:** military land is a large PHYSICAL footprint. As an
+  ACTIONABLE solar resource it is small. Scaling beyond the West Loch/Kupono
+  precedent is unproven, and the category adds ~0 new near-grid flat acreage to
+  the paper's tallies.
 
 ## Caveats
 

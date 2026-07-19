@@ -49,7 +49,7 @@ File: `hnei_oahu_grid_study_validation.pdf`. DOE Award DE-FC26-06NT42847.
   historical generation/fuel data via a HECO Technical Review Committee. This is
   the ancestor model reused by every later GE/HNEI Oahu study. (p.1–7.)
 - Does **not** publish a bus/branch table or one-line; it documents model
-  fidelity, not network parameters. Value: establishes that a full validated
+  fidelity. Value: establishes that a full validated
   Oahu network model exists and has been shared HNEI↔GE↔HECO since 2009.
 
 ### 1b. Oahu Wind Integration Study — final report (HNEI/HECO/GE, Feb 2011)
@@ -87,7 +87,7 @@ Files: `owits_energy_hawaii_2011-02.pdf` = `owits_summary...` (NREL/SR-5500-5041
 
 ### 1d. Hawaii Solar Integration Study — Oahu final technical report (GE/HNEI, 2012–13)
 File: `hsis_oahu_final.pdf` (NREL fy13osti/56311 = summary; HNEI hosts full).
-- Continues the GE PSLF/MAPS Oahu model. Rich on reserves, thermal-unit
+- Continues the GE PSLF/MAPS Oahu model. Covers reserves, thermal-unit
   minimums, PV ramp — **not** a transmission-ratings document. Named plant buses
   (Kahe, Waiau) and 46 kV distribution circuits (Kahe–Standard Oil #2,
   Koolau–Kailua) modeled. (lines 3292–3722.) Useful mainly to confirm the
@@ -100,7 +100,7 @@ File: `hnei_interconnection_maui_oahu.pdf`.
   starting database, merged with Maui. (lines 800–810.) Full security-constrained
   economic dispatch model but transmission *outage contingencies were out of
   scope* — so it optimizes dispatch on the network but does not publish thermal
-  limits. Rich curtailment-by-scenario tables (source of curtailment framing).
+  limits. Detailed curtailment-by-scenario tables (source of curtailment framing).
 
 ---
 
@@ -147,7 +147,7 @@ Distribution-hosting, not transmission ratings. Pull if hosting-capacity detail
 is needed.
 
 ### 2c. Transmission REZ Study (HECO, Nov 2021) — docket 2018-0165 IGP working group
-File: `heco_rez_study_2021.pdf`. **The richest public transmission-capacity doc.**
+File: `heco_rez_study_2021.pdf`. **The most detailed public transmission-capacity doc.**
 Steady-state power-flow study (HECO planning criteria, normal + N-1 + N-2) of how
 much renewable each area can host and what it costs. All Oahu grid-scale REZ
 except Group 7 interconnect at **138 kV substations**; Group 7 at 46 kV.
@@ -229,7 +229,7 @@ File: `heco_igp_report_2023.pdf` (hawaiipowered.com), ~250 pp.
 
 ### 3a. FERC Form 1 (HECO 2022 Annual Financial Report, filed w/ PUC 2023)
 File: `heco_afr_2022_ferc_form1.pdf`, "Transmission Line Statistics" p.422 (PDF
-pp.168–171). **The single most concrete public circuit inventory.** Lists every
+pp.168–171). **The most concrete public circuit inventory.** Lists every
 line ≥132 kV individually. All 35 listed segments **operate and are designed at
 138 kV**, **31 circuits total**, **158.51 pole-miles on own structures +
 42.90 on shared** ≈ 201 route-miles of 138 kV. Named 138 kV segments (From–To):
@@ -257,7 +257,7 @@ line ≥132 kV individually. All 35 listed segments **operate and are designed a
   — [UNVERIFIED — not pulled].
 
 ### 3b. East Oahu Transmission Project — PUC D&O 23747 (docket 03-0417, 2004)
-File: `puc_23747_east_oahu.pdf`. Gold for corridor topology + the emergency-
+File: `puc_23747_east_oahu.pdf`. Documents corridor topology + the emergency-
 rating criterion (all vintage ~2002–2005 load forecasts):
 - Defines the two corridors verbatim (see headline facts). Southern Corridor was
   "recently extended to Kamoku via **two 138 kV lines Archer→Kewalo + one 138 kV
@@ -335,7 +335,7 @@ snapshot of **which Oahu 138 kV substations have spare termination capacity:**
 ## Source family 5 — HNEI (UH Mānoa — Mike's own institution) [PRIORITY LEAD]
 
 HNEI (Hawai'i Natural Energy Institute, SOEST) is a **partner/co-owner of the
-GE Oahu grid models**, not just a citation. This is likely the single best route
+GE Oahu grid models**. This is likely the single best route
 to non-confidential Oahu network detail *as a UH colleague*.
 
 - **HNEI co-commissioned and co-owns the validated GE Oahu model.** The 2009
@@ -379,7 +379,7 @@ to non-confidential Oahu network detail *as a UH colleague*.
   [UNVERIFIED — pull the HNEI demonstration report].
 
 **→ Best actionable lead:** Mike can approach **Leon Roose / GridSTART at HNEI**
-directly. They hold (or can legitimately access) the validated PSS/E-equivalent
+directly. They hold (or can access) the validated PSS/E-equivalent
 Oahu network model with buses, branches, and — internally — thermal ratings.
 As a UH Mānoa colleague this is almost certainly the fastest path to concrete
 N→S transfer numbers that HECO redacts publicly.
@@ -426,7 +426,8 @@ N→S transfer numbers that HECO redacts publicly.
    three price within ~5% of each other, ~$1.21–1.28 B). 600 MW off-shore wind
    (only feasible at Koolau) adds ~$0.58 B. These are the concrete cost anchors
    for the paper's "who pays / who benefits from siting friction" argument: the
-   transmission wall, not just land-use law, gates north-shore development.
+   transmission wall gates north-shore development. Land-use law is not the only
+   barrier.
 
 5. **Where headroom exists now:** leeward/central 138 kV substations (Kahe 5-8,
    Ewa Nui, Hoohana) have spare terminations and host REZ Groups 1–7 with **no

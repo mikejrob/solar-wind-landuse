@@ -16,7 +16,7 @@ Companion to `notes/oahu-transmission-screen.md` (same grid, same caveats).
 - LSB-class polygons (ag district), parcels, and 1/3 km buffers of the
   mapped 46 kV+ network were rasterized onto the same 10 m grid; all
   cross-tabs are cell counts (1 cell = 100 m² = 0.0247 ac). The class ×
-  slope tabs are therefore polygon-accurate at 10 m resolution — NOT
+  slope tabs are therefore polygon-accurate at 10 m resolution. They are not
   allocated from parcel-level shares.
 - Raster/vector agreement: the D/E-within-1-km total is 20,360 ac raster vs
   20,359 ac vector. Per-parcel rasterized area vs vector area: median
@@ -24,7 +24,7 @@ Companion to `notes/oahu-transmission-screen.md` (same grid, same caveats).
   boundaries are a large share of their area — negligible in acreage
   aggregates).
 - **S3-eligible by slope** requires an allocation rule, because the cap is a
-  per-parcel quota, not a mapped footprint. Two rules reported in
+  per-parcel quota; it is not a mapped footprint. Two rules reported in
   `data/gis/oahu_s3_by_slope.csv`: `flattest_first` (fill the parcel's
   quota from its flattest B/C cells up — how a developer would site;
   headline) and `proportional` (uniform over the parcel's B/C cells;
@@ -87,7 +87,7 @@ envelope loses roughly half its area to a 30% slope screen.
   hydrology, no geotechnical screen.
 - Slope bands are terrain, not buildability: drainage, access roads, and
   grading economics vary within a band; Mike's "costs rising in slope"
-  premise is the reason for banding rather than a cutoff.
+  premise motivates slope banding. The analysis does not impose a single cutoff.
 - Inherits all transmission-screen caveats (46 kV network under-mapped →
   near-grid D/E figures are conservative/understated; no capacity data).
 - S3-by-slope depends on the stated allocation rule; both rules bracket it.

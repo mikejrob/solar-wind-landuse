@@ -205,9 +205,9 @@ explicitly marked "do not cite."
 Census of LUC solar Special Use Permits: the population 1963–present is
 **exactly 8, all post-Act 55 (2014)** — 7 approved unanimously, 1 pending,
 0 denied, **0 intervenors in 8 dockets**. LUC stage is fast (median 34 days);
-county stage carries the variance. The SUP is not an opposition venue but a
-*compliance tax* (below-market ag co-use, decommissioning security) whose
-incidence favors host landowners. Selection: the LUC tier is reached only by
+county stage carries the variance. The SUP operates as a *compliance tax*
+(below-market ag co-use, decommissioning security) whose incidence favors host
+landowners; opposition does not surface there. Selection: the LUC tier is reached only by
 projects wanting >20 ac of B/C soils — typically on large legacy-landholder
 land. Feeds `data/sup_census.csv`. Verification: LUC tier complete
 (docket sequence enumerated, gap #410 documented); Maui county-tier records

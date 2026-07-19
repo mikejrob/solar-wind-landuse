@@ -55,7 +55,7 @@ snapshot diff of § 205-2 confirms: no solar in Sept 2007 snapshot, present by O
   (Wayback 20220617044808; cached `SLH2005_Act205.pdf`).
 - "Relating to Land Use Commission." Amended § 205-2(c),(d) and § 205-4.5. The wind item in
   205-2(d) appears as plain (pre-existing) text. Act 205's changes concerned rural-district
-  uses, golf-related provisions, and clarifications — not renewable siting. Sponsors not
+  uses, golf-related provisions, and clarifications. They did not touch renewable siting. Sponsors not
   pulled.
 
 ## 2. 2003–2007 — failed solar-on-ag-land bills: NONE FOUND
@@ -133,8 +133,8 @@ Tsutsui, Bunda, Hee, Taniguchi (Senate Majority package).
   criticized as restrictive — ag-energy facilities permitted in ag districts only if the
   "primary activity" is agricultural, defined as **≥90% of enterprise acreage devoted to
   agricultural activity**, facility limited to lands of the entity conducting the ag
-  activity, energy must come "from products of agricultural activities." **The 90% rule was
-  not a committee insertion; it was the bill's premise.**
+  activity, energy must come "from products of agricultural activities." **The 90% rule was the bill's premise. It was not a committee
+  insertion.**
 - SSCR 2700 (Wayback 20201029190335): SUPPORT — **Hawaii Farm Bureau Federation, Maui County
   Farm Bureau, Hawaiian Electric Co.**; intent — DOA; HARC sought Del Monte
   plantation-village amendment (taken; added plantation-subdivision provisions).
@@ -218,7 +218,7 @@ rejected; farm-bureau opposition to stand-alone solar on any ag soil documented 
 
 ## 10. Pattern summary
 
-1. Solar-on-ag-land liberalization begins in 2008 (HCEI year), not earlier. Before that,
+1. Solar-on-ag-land liberalization begins in 2008 (HCEI year); nothing earlier was found. Before that,
    wind was permitted uncapped (pre-1997 entry; proviso added 2006), biofuels 2007.
 2. Both 2008 openings were **born narrow**: HB 2502 was D/E-only from introduction;
    SB 2849's 90% ag-primacy rule was in the introduced draft. The drafting compromise

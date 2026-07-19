@@ -89,8 +89,8 @@ is sheep used only for weed control."
 Contrast (for the wind/solar asymmetry file): in the same period the LUC solar
 dockets drew zero intervenors, Na Pua Makani wind drew ~200 arrests, and the
 only successful organized opposition to a solar land-use permit anywhere in the
-state was **Paeahu Solar** — in a *county* forum (Maui PC permit vacated by the
-2nd Circuit, Jan 2022, Pono Power Coalition), not at the LUC.
+state was **Paeahu Solar**, in a *county* forum (Maui PC permit vacated by the
+2nd Circuit, Jan 2022, Pono Power Coalition). It did not occur at the LUC.
 
 ### Repeat players
 
@@ -107,7 +107,7 @@ state was **Paeahu Solar** — in a *county* forum (Maui PC permit vacated by th
   Monsanto/Hartung/Fat Law's (Kunia corridor), and UH (public). No small
   landowner has ever obtained (or sought) a solar special permit. Median
   host parcel among stated values: ~2,950 acres.
-- Governance conduct worth noting: SP26-416 — LUC commissioner **recused as a
+- Governance conduct: SP26-416 — LUC commissioner **recused as a
   sitting KIUC director** (the off-taker); SP21-412/SP15-406 — Chair Scheuer
   disclosures (spouse's firm; prior work for KS), participated without objection.
 
@@ -149,7 +149,7 @@ Consequences, all visible in the data:
    only ones counties decide alone. We found **no verified county-only §205-6
    solar SUP** in any county (Hawaii County's searchable Laserfiche archive:
    none; the only real candidate is pre-2011 La Ola on Lanai, unresolved
-   because Maui archives are script-blocked). Essentially all §205-6 solar
+   because Maui archives are script-blocked). Nearly all §205-6 solar
    flows through the LUC.
 2. **The Maui/Big Island "county-only" utility-scale projects are not §205-6
    SUPs.** Kūihelani Ph1 (60 MW, ~450 ac, county CUP 2021/0003), Paeahu,
@@ -188,7 +188,7 @@ Pattern: on Oahu, big ag-land solar goes through the LUC SUP or an urban DBA;
 on the neighbor islands 2019–2023, everything cleared at county level. The one
 documented organized-opposition episode against solar land-use permits
 (Farm Bureau/Sierra Club/OP/HDOA vs Hoʻohana, 2019) happened in a *boundary
-amendment* docket, not an SUP docket — and the one successful legal challenge
+amendment* docket. It was not an SUP docket. The one successful legal challenge
 (Paeahu) happened in a county forum. The LUC SUP track itself has never been
 contested.
 
@@ -222,18 +222,18 @@ contested.
 
 ## What the selection pattern shows (for the paper)
 
-The 10%/20-acre cap does not operate as a project-size screen at the LUC — it
-operates upstream as a *soil-class and landowner* screen. Every above-cap
+The 10%/20-acre cap operates upstream as a *soil-class and landowner* screen. It
+does not operate as a project-size screen at the LUC. Every above-cap
 project that reached the LUC sat on B/C soils held by a large legacy
 landholder or institution, arrived lawyered (usually by the same firm), faced
 no intervenors, and passed unanimously in ≤45 days with boilerplate
 (a)(21) conditions. Meanwhile comparable projects on D/E soils (or Urban/
 federal land) skipped the state process entirely. The permitting friction the
-statute creates is therefore not "opposition venue" friction — it is a
-compliance tax (ag co-use at ≥50% below FMR, decommissioning security, term
-limits, annual reporting) whose incidence favors host landowners (security
-runs to the landowner on Oahu; ag co-use is typically a zero-rent license to
-a landowner-affiliated grazier). A null on the astroturf hypothesis at the
+statute creates is therefore a compliance tax (ag co-use at ≥50% below FMR,
+decommissioning security, term limits, annual reporting) whose incidence
+favors host landowners (security runs to the landowner on Oahu; ag co-use is
+typically a zero-rent license to a landowner-affiliated grazier). It is not
+"opposition venue" friction. A null on the astroturf hypothesis at the
 LUC: the only coordinated activity in these dockets is *pro*-solar (unions,
 HECO, HSEO). The scarcity-rent hypothesis, by contrast, gets mechanical
 support: the cap binds only on prime-soil land, and the SUP relief valve has
