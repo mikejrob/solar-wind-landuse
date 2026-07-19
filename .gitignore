@@ -1,9 +1,9 @@
-# Large local caches (regenerable via analysis/ scripts and Wayback recipes in notes/)
-data/raw/
+# Only scratch is ignored — primary sources (data/raw), GIS layers (data/gis),
+# and the curated archive (sources/) are all tracked so the public repo is
+# self-contained. Largest file is a 59 MB DEM tile (under GitHub's 100 MB limit).
+# If the ~1 GB weight becomes a problem, migrate big binaries to Git LFS or a
+# Zenodo deposit (see README).
 cache/
-# Big GIS layers stay local; keep the derived CSV tables
-data/gis/*
-!data/gis/*.csv
 .DS_Store
 __pycache__/
 *.pyc
