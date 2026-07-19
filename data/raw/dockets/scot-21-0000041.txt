@@ -1,0 +1,1330 @@
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+Electronically Filed
+Supreme Court
+SCOT-21-0000041
+02-MAR-2022
+02:35 PM
+Dkt. 195 OP
+
+IN THE SUPREME COURT OF THE STATE OF HAWAI‘I
+---o0o--In the Matter of the Application of
+MAUI ELECTRIC COMPANY, LIMITED
+For Approval of Power Purchase Agreement for Renewable
+Dispatchable Generation with Paeahu Solar LLC.
+SCOT-21-0000041
+APPEAL FROM THE PUBLIC UTILITIES COMMISSION
+(Agency Docket No. 2018-0433)
+MARCH 2, 2022
+RECKTENWALD, C.J., NAKAYAMA, McKENNA, AND EDDINS, JJ.;
+AND WILSON, J., DISSENTING
+OPINION OF THE COURT BY EDDINS, J.
+After a contested case proceeding, the Public Utilities
+Commission (PUC) approved a power purchase agreement (PPA)
+between Maui Electric Company, Limited (MECO) and Paeahu Solar
+LLC (Paeahu).
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+The PPA followed competitive bidding that MECO and other
+electric utility companies collectively conducted in 2018.
+Paeahu was one of eight projects selected through this
+competitive procurement process.
+
+Under the PPA, MECO would
+
+purchase renewable energy from Paeahu’s solar-plus-battery plant
+located within Ulupalakua Ranch on Maui (the Project).
+Appellant Pono Power Coalition (Pono Power), a Maui
+community group, asks this court to vacate the PUC’s approval of
+the PPA for two reasons. 1
+First, Pono Power points to the winning bidders’ postselection use of the same counsel to negotiate non-price PPA
+terms.
+
+It argues the PUC failed to evaluate the common
+
+counsel’s involvement under the “rule of reason,” a burdenshifting standard created for Sherman Antitrust Act cases.
+Second, Pono Power asserts that the PUC failed to fulfill
+its public trust duties.
+
+It claims the PUC merely catalogued
+
+the Project’s anticipated permits and left decision-making about
+trust resources to the agencies with jurisdiction over those
+permits.
+
+Instead, Pono Power contends, the PUC should have made
+
+1
+As a third point of error, Pono Power contests the PUC’s conclusion
+that Paeahu satisfied its community outreach obligations. This argument
+lacks merit. The PUC reviewed evidence about Paeahu’s community engagement
+activities. And it credited Paeahu’s responses to community concerns; Paeahu
+made design changes and explored an alternative location. The PUC then found
+that Paeahu fulfilled its community outreach requirements. We do not find
+clear error in the PUC’s findings.
+
+2
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+explicit findings that identified the affected trust resources
+and how they would be protected.
+We reject both arguments.
+We decline to inject antitrust standards into PPA approval
+proceedings.
+
+Hawai‘i Revised Statutes (HRS) 2 chapter 269 already
+
+requires the PUC to examine potential anticompetitive practices.
+And those statutes equip the PUC with a framework for that
+analysis: they prescribe “the public interest” as the
+controlling principle.
+We hold that the PUC appropriately evaluated the
+allegations of anticompetitive conduct.
+
+The PUC considered the
+
+circumstances relating to the winning bidders’ shared counsel,
+balanced other statutory factors, and found the PPA terms
+reasonable and in the public interest.
+
+The PUC was not required
+
+to apply antitrust standards in this analysis.
+Next, we hold that the statutes governing the PUC’s PPA
+review – HRS §§ 269-6(b) and 269-145.5(b) - reflect the core
+public trust principles: the State and its agencies must protect
+and promote the justified use of Hawaiʻi’s natural beauty and
+natural resources.
+
+Thus, when there is no reasonable threat to
+
+a trust resource, satisfying those statutory provisions fulfills
+the PUC’s obligations as trustee.
+
+But when a project poses a
+
+All references to HRS provisions reflect their latest published version
+as of the PUC’s Decision and Order 37340 approving the PPA.
+2
+
+3
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+reasonable threat, the public trust principles require more from
+the PUC: the commission must assess that threat and make
+specific findings about the affected trust resource.
+Here, the record shows that the PUC conducted the statutory
+balancing.
+
+Under HRS § 269-6(b), the PUC considered the need to
+
+mitigate the risks associated with fossil fuel-based energy; it
+also weighed other “technical, economic, environmental, and
+cultural considerations” under HRS § 269-145.5(b).
+found the PPA “in the public interest.”
+
+The PUC then
+
+Because the record
+
+lacks a reasonable threat to a trust resource, this public
+interest-minded balancing satisfied the PUC’s public trust
+duties.
+We affirm the PUC’s approval of the PPA.
+I.
+The Hawai‘i legislature has committed to protect the climate
+and mitigate climate change by reducing reliance on fossil fuels
+and converting to renewable energy sources.
+In 2015, the legislature took a decisive step: it set a
+goal to reach 100% renewable energy by 2045.
+
+2015 Haw. Sess.
+
+Laws Act 97, § 2 at 245-46; HRS § 269-92(a)(6).
+To meet this target, the Hawaiian Electric Companies MECO, Hawaiian Electric Company, Inc., and Hawaii Electric Light
+Company, Inc. – developed a plan to competitively procure grid-
+
+4
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+scale renewable power supplies.
+
+The PUC accepted this plan in
+
+2017.
+The first phase of competitive bidding began in early 2018.
+The Hawaiian Electric Companies issued requests for proposals
+(RFPs) for O‘ahu, Maui, and Hawai‘i Island.
+comments from interested stakeholders.
+
+The RFPs reflected
+
+They also incorporated
+
+guidance from the PUC and PUC-appointed Independent Observers.
+The Hawaiian Electric Companies conducted multi-step bid
+evaluations.
+process.
+
+The bidders’ pricing terms were set during this
+
+The utility companies ultimately selected eight
+
+projects: four on Oʻahu, two on Maui, and two on Hawai‘i Island. 3
+Paeahu was one of the Maui projects.
+The Hawaiian Electric Companies negotiated PPAs for the
+winning projects.
+
+Only non-price terms were discussed since the
+
+projects’ prices had already been fixed.
+
+During this PPA
+
+negotiation phase, one law firm represented the developers for
+the selected projects (the Finalists).
+MECO and Paeahu agreed on the PPA terms.
+
+The Independent
+
+Observer overseeing MECO’s RFP process (the IO) concluded that
+MECO conducted bid evaluations and PPA negotiations on a “fair
+and consistent basis.”
+
+3
+
+Four developers submitted these eight projects.
+
+5
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+MECO submitted the PPA for the PUC’s approval. 4
+
+Besides
+
+MECO, the Division of Consumer Advocacy (Consumer Advocate or
+CA) became a party to the PPA approval proceeding. 5
+Pono Power then moved to intervene or participate in the
+PPA approval proceeding.
+
+Recognizing Pono Power members’ right
+
+to a clean and healthful environment, the PUC granted Pono Power
+participant status.
+
+After considering Paeahu’s motion, the PUC
+
+also made it a participant.
+The PUC held a two-day evidentiary hearing in December
+2019.
+
+Witnesses testified and were cross-examined; they
+
+discussed the RFP process, PPA negotiations, pricing, greenhouse
+gas (GHG) analysis, community outreach, and Paeahu’s studies
+relating to the Project’s impact on cultural and natural
+resources.
+
+Both before and after the hearing, the parties and
+
+participants submitted and responded to information requests
+related to these issues.
+In October 2020, the PUC approved the PPA.
+
+It issued
+
+Decision and Order No. 37340 (the Approval Order).
+
+After
+
+MECO asked the PUC to review its requests in two stages: (1) addressing
+its PPA-related requests (including the recovery of costs associated with the
+PPA) first and (2) considering its request to construct an above-ground line
+extension later. The PUC granted the request. This appeal concerns the
+first stage.
+4
+
+The CA participated as an ex officio party per HRS § 269-51 and Hawaiʻi
+Administrative Rules (HAR) § 16-601-62(a). HRS § 269-51(a) requires the CA
+to “represent, protect, and advance the interests of all consumers . . . of
+utility services.”
+5
+
+6
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+investigating concerns about the Finalists’ common counsel and
+weighing environmental and other statutory considerations, the
+PUC found the PPA “in the public interest.”
+Pono Power moved for reconsideration of the approval.
+
+The
+
+PUC denied that motion in Order No. 37553 (the Recon Order).
+Pono Power appeals both the Approval and Recon Orders.
+It asks this court to vacate the PPA approval, alleging two
+primary deficiencies in the PUC’s findings: (1) the PUC did not
+apply the rule of reason to evaluate the Finalists’ postselection choice of counsel; and (2) the PUC did not make
+affirmative findings about trust resources affected by the
+Project.
+Both arguments fail.
+II.
+Pono Power’s first argument targets the Finalists’ use of
+the same counsel to negotiate non-price PPA terms.
+invokes the Sherman Act.
+
+Pono Power
+
+It contends the PUC failed to apply
+
+the “rule of reason” - a burden-shifting standard for assessing
+antitrust claims - to evaluate anticompetitive concerns
+surrounding the Finalists’ common counsel.
+The rule of reason involves “a fact-specific assessment of
+market power and market structure . . . to assess the
+[challenged conduct’s] actual effect on competition.”
+
+Ohio v.
+
+Am. Express Co., __ U.S. __, 138 S. Ct. 2274, 2284 (2018)
+7
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+(emphasis added) (citation and internal quotation marks
+omitted).
+Under this rule, the plaintiff has the initial burden to
+show the challenged activity’s “substantial anticompetitive
+effect.”
+
+NCAA v. Alston, __ U.S. __, 141 S. Ct. 2141, 2160
+
+(2021) (citation omitted).
+
+If the plaintiff does this, the
+
+burden shifts to the defendant to show a “procompetitive
+rationale” for the activity. 6
+
+Id. (citation omitted).
+
+Pono Power says it produced evidence showing “how bidders’
+collusion . . . harmed competition.”
+
+It highlights two facts to
+
+support this accusation: (1) after the bid selection, all
+Finalists hired the same legal counsel to negotiate non-price
+PPA terms; and (2) some of those terms were similar or identical
+across the projects.
+
+So, Pono Power claims, the PUC should have
+
+shifted the burden to the PPA proponents and required them to
+prove that the sharing of counsel was “not a restraint of
+trade.”
+
+The PUC did not engage in this burden shifting.
+
+This
+
+failure to apply the rule of reason, Pono Power argues, was
+reversible error. 7
+If the defendant satisfies this second step, the plaintiff must then
+show “less anticompetitive means” to achieve the “procompetitive
+efficiencies.” Alston, __ U.S. at __, 141 S. Ct. at 2160 (citation omitted).
+
+6
+
+Pono Power also invokes the Sherman Act’s “per se” and “quick look”
+standards. Courts use these analytical shortcuts in limited circumstances
+where the challenged activities’ anticompetitive effects are immediately
+apparent. See Alston, __ U.S. at __, 141 S. Ct. at 2156 (“[S]ome agreements
+among competitors so obviously threaten to reduce output and raise prices
+that they might be condemned as unlawful per se or rejected after only a
+7
+
+8
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+We reject Pono Power’s attempt to inject antitrust
+standards into PPA approval proceedings.
+First, Pono Power cites no authority for that position.
+
+It
+
+fails to provide, and we have not found, any cases that applied
+antitrust standards in public utility PPA approval proceedings.
+Second, the PUC has no power to adjudicate alleged
+violations of federal or state antitrust laws.
+
+The PUC is not
+
+the right forum to litigate antitrust claims; courts are.
+
+See
+
+15 U.S.C. § 4 (granting jurisdiction to “prevent and restrain”
+violations of the Sherman Act (§§ 1-7) to federal district
+courts); HRS § 480-21 (designating appropriate courts where
+actions or proceedings authorized by HRS chapter 480’s antitrust
+statutes are to be initiated).
+Third, the PUC’s governing laws already require the
+commission to assess allegations of collusion or anticompetitive
+practices; they also provide the framework for that assessment.
+The PUC must always act in the public interest.
+
+This
+
+principle is incorporated throughout HRS chapter 269.
+
+See,
+
+quick look.”). Pono Power fails to meaningfully explain why these tests are
+applicable here.
+Further, in its reply briefs, Pono Power raises new arguments alleging
+violations of HRS § 480-2 (prohibiting unfair or deceptive trade practices)
+and HRS § 480-4 (forbidding restraints of trade). Pono Power waived these
+arguments. See Hawaiʻi Rules of Appellate Procedure (HRAP) Rule 28(b)(4)
+(requiring “[a] concise statement of the points of error” in opening briefs);
+HRAP Rule 28(b)(7)(“Points not argued [in opening briefs] may be deemed
+waived.”).
+
+9
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+e.g., HRS § 269-16.22 (disallowing a utility’s recovery of power
+purchase costs if the PUC finds them to have been incurred “in
+bad faith” or “in violation of law”); HRS § 269-27.2(c)
+(providing the PUC authority to determine as appropriate “the
+just and reasonable rate” for non-fossil fuel-generated
+electricity supplied to a utility company); HRS § 269-145.5(b)
+(“In advancing the public interest, the commission shall balance
+technical, economic, environmental, and cultural considerations
+associated with modernization of the electric grid . . . .”).
+This “public interest” analysis will be incomplete unless
+the PUC examines potentially anticompetitive conduct.
+
+Cf. Cent.
+
+Iowa Power Coop. v. FERC, 606 F.2d 1156, 1162 (D.C. Cir. 1979)
+(“Although the [Federal Power Commission] lacks authority to
+adjudicate violations of the antitrust laws, it must consider
+competitive factors when acting under the public interest
+mandate of the [Federal Power Act].”).
+
+The PUC’s 2006 adoption
+
+of the Framework for Competitive Bidding reflects this view;
+this framework generally requires electric utilities to use a
+competitive bidding process to acquire “a future generation
+resource or block of generation resources.”
+Thus, when anticompetitive concerns arise, the PUC must
+assess them within the statutory “public interest” analysis.
+But the PUC is not required to use antitrust standards to do
+that.
+10
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+A question remains: did the PUC properly discharge its duty
+to assess potential anticompetitive issues in approving the PPA?
+It did.
+The PUC did not dodge the concerns about the Finalists’
+shared counsel.
+
+It investigated; it made specific findings.
+
+The Approval Order reflects that the PUC considered the vetting
+mechanisms built into the procurement process; they included the
+IO’s oversight throughout the bidding and PPA negotiation
+phases.
+
+The PUC then concluded it had sufficient assurance that
+
+the PPA was negotiated “in good faith and without collusion.”
+It determined that Paeahu’s choice of counsel did not have “any
+adverse impact on the pricing and terms of the PPA.”
+
+The PUC in
+
+the end found the PPA terms “prudent and in the public
+interest.”
+The record supports the PUC’s findings.
+
+The Independent
+
+Observer and the State Consumer Advocate found no evidence of
+collusion.
+
+As the IO reported to the PUC, the RFP and PPA
+
+negotiation processes were “performed on a fair and consistent
+basis.”
+Further, the IO and the CA did not find any adverse impact
+caused by the Finalists’ post-selection sharing of counsel.
+
+The
+
+IO concluded the negotiated PPA terms were “not unfair” to
+losing bidders; it also determined that those terms “[did] not
+materially alter the risk balance” between MECO and Paeahu as
+11
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+originally contemplated.
+
+The CA similarly did not believe the
+
+Finalists’ sharing of counsel resulted in direct harm to
+customers. 8
+Pono Power does not question the IO and the CA’s neutrality
+or credibility.
+
+It instead raises cryptic concerns about the
+
+common counsel’s involvement in the PPA negotiations.
+
+Pono
+
+Power claims that shared representation was “a red flag” and
+“inherently suspect.”
+
+Beyond that, it points to some
+
+similarities in the negotiated terms across the Finalists’ PPAs.
+Yet, Pono Power doesn’t identify the problematic terms.
+
+It
+
+provides no concrete explanation as to how any PPA term reflects
+collusion, anticompetitive injury, or harm to ratepayers in
+general. 9
+
+Pono Power’s own antitrust expert belies its claim of
+
+anticompetitive harm; the expert testified that shared
+representation and contract standardization can have procompetitive benefits.
+
+Pono Power’s vague, conclusory
+
+allegations do not undermine the PUC’s contrary findings.
+
+8
+The PUC also relied on the nondisclosure agreements (NDAs) signed by
+the Finalists. As Pono Power’s antitrust expert acknowledged, NDAs are
+“certainly a step in the right direction.” But we share Pono Power’s concern
+about NDAs’ effectiveness in preventing improper information sharing or
+collusion through common counsel. This concern, however, is mitigated by the
+PUC’s duty to examine potentially anticompetitive actions.
+
+Pono Power also relies on the PPA’s unit price (which is slightly
+higher than the other selected projects’ prices) as evidence of adverse
+impact flowing from the Finalists’ use of the same counsel. This claim
+astounds. The Project’s price was a done deal before the alleged collusion
+happened; Pono Power should know it cannot be the basis for proving the
+challenged conduct’s anticompetitive harm.
+9
+
+12
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+Besides the anticompetitive issue, the PUC considered the
+undisputed evidence that the Project would reduce GHG emissions,
+mitigate risks associated with fossil fuel, and contribute to
+the State’s 100% renewable energy goal.
+
+After examining these
+
+factors, the Project’s price, and other statutory
+considerations, see infra section III.B., the PUC found the PPA
+“in the public interest.”
+We do not find clear error in these findings.
+III.
+Pono Power next invokes Hawai‘i’s public trust doctrine
+expressed in article XI, section 1 of our constitution. 10
+Pono Power maintains the PUC should have made explicit
+findings identifying the affected trust resources and assessing
+how they would be protected.
+
+Instead, Pono Power asserts, the
+
+PUC abandoned its trust responsibilities by concluding that
+other permitting agencies would review Paeahu’s studies relating
+to cultural and natural resources before they approve or deny
+the requested permits.
+10
+
+Article XI, section 1 of the Hawaiʻi Constitution reads:
+For the benefit of present and future generations, the
+State and its political subdivisions shall conserve and
+protect Hawaii’s natural beauty and all natural resources,
+including land, water, air, minerals and energy sources,
+and shall promote the development and utilization of these
+resources in a manner consistent with their conservation
+and in furtherance of the self-sufficiency of the State.
+All public natural resources are held in trust by the State
+for the benefit of the people.
+
+13
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+The PUC and the PPA proponents believe that the PUC
+fulfilled its trustee duties by carrying out its statutory
+mandates; namely, to consider fossil fuel-related harms under
+HRS § 269-6(b) 11 and to balance “technical, economic,
+environmental and cultural” factors in advancing the public
+interest under HRS § 269-145.5(b). 12
+The PUC has public trust obligations.
+
+See In re Gas Co.,
+
+147 Hawaiʻi 186, 207, 465 P.3d 633, 654 (2020) (directing the PUC
+HRS § 269-6(b) requires the PUC to weigh several fossil fuel-related
+factors:
+
+11
+
+(b) The public utilities commission shall consider the need
+to reduce the State’s reliance on fossil fuels through
+energy efficiency and increased renewable energy generation
+in exercising its authority and duties under this chapter.
+In making determinations of the reasonableness of the costs
+of utility system capital improvements and operations, the
+commission shall explicitly consider, quantitatively or
+qualitatively, the effect of the State’s reliance on fossil
+fuels on price volatility, export of funds for fuel
+imports, fuel supply reliability risk, and greenhouse gas
+emissions. . . .
+(Emphases added.)
+12
+
+HRS § 269-145.5(b) commands:
+(b) In advancing the public interest, the commission shall
+balance technical, economic, environmental, and cultural
+considerations associated with modernization of the
+electric grid, based on principles that include but are not
+limited to:
+(1) Enabling a diverse portfolio of renewable energy
+resources;
+(2) Expanding options for customers to manage their
+energy use;
+(3) Maximizing interconnection of distributed
+generation to the State’s electric grids on a costeffective basis at non-discriminatory terms and at
+just and reasonable rates, while maintaining the
+reliability of the State’s electric grids, and
+allowing such access and rates through applicable
+
+14
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+to consider its constitutional trust obligations on remand).
+Though we signaled in In re Gas Co. that the PUC must hew to
+public trust principles, we have not explored the dimensions of
+its trustee duties.
+Pono Power’s second argument asks us to determine what
+public trust duties are occasioned by the PUC’s PPA approval
+process.
+
+We first examine the contours of those duties.
+
+We
+
+then consider whether the PUC’s approval of the PPA complied
+with those constitutional obligations.
+
+We hold it did.
+
+A.
+The Hawaiʻi Constitution offers vast and versatile public
+trust protections.
+
+Article XI, section 1 of our constitution
+
+declares: “[a]ll public natural resources are held in trust by
+the State for the benefit of the people.”
+§ 1.
+
+Haw. Const. art. XI,
+
+Article XI, section 1 protections apply to present and
+
+future generations.
+
+Id.
+
+“[T]he State and its political
+
+subdivisions” must “conserve and protect Hawaii’s natural beauty
+rules, orders, and tariffs as reviewed and approved
+by the commission;
+(4) Determining fair compensation for electric grid
+services and other benefits provided to customers and
+for electric grid services and other benefits
+provided by distributed generation customers and
+other non-utility service providers; and
+(5) Maintaining or enhancing grid reliability and
+safety through modernization of the State’s electric
+grids.
+(Emphasis added.)
+
+15
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+and natural resources.”
+
+Id. (emphasis added).
+
+In parallel, the
+
+State and its agencies must “promote the development and
+utilization of these resources in a manner consistent with their
+conservation and in furtherance of the self-sufficiency of the
+State.”
+
+Id. (emphasis added).
+
+In essence, article XI, section 1 directs the State and its
+agencies to assess and balance “protection” and “utilization” of
+public trust resources.
+
+In re Conservation Dist. Use
+
+Application (CDUA) HA-3568, 143 Hawai‘i 379, 400, 431 P.3d 752,
+773 (2018) (Mauna Kea II).
+Beyond these core principles, the public trust doctrine’s
+dimensions adapt to the circumstances.
+
+See Lānaʻians for
+
+Sensible Growth v. Land Use Comm’n, 146 Hawaiʻi 496, 507, 463
+P.3d 1153, 1164 (2020) (“The public trust, by its very nature,
+does not remain fixed for all time, but must conform to changing
+needs and circumstances.” (Citation omitted.)); Mauna Kea II,
+143 Hawaiʻi at 401 n.24, 431 P.3d at 774 n.24 (declining to
+“wholesale adopt” our water trust precedent in the land trust
+context because different constitutional and statutory
+provisions may “play a part” in defining the trust principles
+governing the land at issue).
+Here, the PUC’s PPA review implicates unique policy goals
+and practical considerations.
+
+16
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+The PUC’s regulatory mission is broad.
+the reliability of Hawaiʻi’s electric system.
+Part IX.
+
+The PUC must ensure
+HRS chapter 269,
+
+It must also safeguard energy affordability; all rates
+
+charged by electric utilities must be “just and reasonable.”
+HRS § 269-16(a).
+
+Alongside these technical and economic duties,
+
+the PUC must consider the State’s dependence on fossil fuels and
+the fast-approaching 100% renewable energy goal.
+269-92.
+
+HRS §§ 269-6,
+
+These considerations are intended to mitigate the
+
+unhealthy effects of climate change.
+
+See infra n.15.
+
+Given the PUC’s distinctive mission to fortify the State’s
+power system while focusing on climate change mitigation, we
+decline to superimpose the water or land trust jurisprudence
+into the PPA approval context.
+Rather, the core public trust principles articulated in
+article XI, section 1 should guide the PUC: it must assess and
+balance “protect[ion]” and “utilization” of public trust
+resources when it reviews a PPA.
+
+Haw. Const. art. XI, § 1.
+
+This duty heightens when the proposed project poses a
+reasonable threat to a trust resource.
+
+In that situation, the
+
+PUC as a trustee must further assess that threat; and to approve
+the project’s PPA, it must affirmatively find that there is no
+harm to the trust resource or that potential harm is justified.
+See Kauai Springs, Inc. v. Planning Comm’n of Kauaʻi, 133 Hawai‘i
+141, 173, 324 P.3d 951, 983 (2014) (“If there is a reasonable
+17
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+allegation of harm to one of the uses protected by the public
+trust, then the [permit] applicant must demonstrate that there
+is no harm in fact or that any potential harm does not preclude
+a finding that the requested use is nevertheless reasonable and
+beneficial.” (Emphases added.)); cf. Ching v. Case, 145 Hawai‘i
+148, 177, 449 P.3d 1146, 1175 (2019) (recognizing “a duty to
+investigate upon being made aware of evidence of possible
+damage” to trust property as “a necessary component of [a
+trustee’s] general duty”). 13
+A “reasonable” threat does not mean that there must be
+conclusive evidence of harm.
+
+But it means something more than
+
+vague and tenuous concerns about a project’s surrounding
+environment; there must be tangible evidence that reasonably
+connects the threatened harm to the proposed project.
+B.
+We now examine whether the PUC satisfied its public trust
+obligations.
+The dissent relies on Ching to assert that the PUC must independently
+investigate evidence of “possible” damage to specific public trust resources
+when it reviews a PPA. We are unpersuaded by this argument. Ching
+recognized an agency’s duty to investigate potential harm in the context of
+examining that agency’s continuing duty to monitor the relevant trust
+property after it authorized the use of that property. Ching, 145 Hawaiʻi at
+152, 176-78, 449 P.3d at 1150, 1174-76. In such “monitoring” situations,
+where a party has permission to use trust resources and may even already be
+using them, the risk of “impending damage” is concrete. Id. at 152, 449 P.3d
+at 1150. Evidence of “possible” harm can quickly turn into real, irreparable
+damage. But in the PPA review context, the range of “possible” harm is more
+open-ended; to require the PUC to pursue every hint of “possible” harm would
+cause goose chases that we cannot endorse. We conclude Kauai Spring’s
+“reasonable[ness]” standard is more appropriate here.
+13
+
+18
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+We hold that the PUC’s PPA review aligned with its public
+trust duties.
+
+The PUC balanced various statutory factors to
+
+support its “public interest” findings.
+
+Because the record
+
+lacks credible evidence that the Project posed a reasonable
+threat to a trust resource, the PUC’s weighing of environmental
+and other public interest factors within its statutory framework
+satisfied its trustee obligations.
+An agency’s constitutional public trust obligations are
+independent of its statutory mandates.
+
+Kauai Springs, 133
+
+Hawai‘i at 172, 324 P.3d at 982.
+But they operate in tandem.
+
+An agency “must perform its
+
+statutory function in a manner that fulfills the State’s
+affirmative constitutional obligations.”
+
+Lānaʻians for Sensible
+
+Growth, 146 Hawai‘i at 506, 463 P.3d at 1163 (citation omitted).
+At the same time, an agency’s governing statutes and regulatory
+provisions provide “the context for applying the broad
+principles of the public trust doctrine to the specific task
+faced by the agency.”
+
+Kauai Springs, 133 Hawai‘i at 184, 324
+
+P.3d at 994 (Recktenwald, C.J., concurring and dissenting).
+That is because an agency “can only wield powers expressly or
+implicitly granted to it by statute.”
+
+Morgan v. Planning Dep’t,
+
+Cnty. of Kauai, 104 Hawai‘i 173, 184, 86 P.3d 982, 993 (2004)
+(citation omitted).
+
+19
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+An agency’s public trust and statutory mandates can be coextensive.
+
+See In re Water Use Permit Applications, 94 Hawaiʻi
+
+97, 145, 9 P.3d 409, 457 (2000) (acknowledging that the State
+Water Code’s policy provisions “mirror[] the public trust
+principles”).
+
+They were here.
+
+In approving the PPA, the PUC followed HRS §§ 269-6 and
+269-145.5.
+Under HRS § 269-6(b), the PUC must consider “the need to
+reduce the State’s reliance on fossil fuels through energy
+efficiency and increased renewable energy generation.”
+
+It must
+
+explicitly assess “the effect of the State’s reliance on fossil
+fuels on price volatility, export of funds for fuel imports,
+fuel supply reliability risk, and greenhouse gas emissions.”
+HRS § 269-6(b) (emphasis added).
+A primary purpose of this provision is to combat “air
+pollution” and “potentially harmful climate change” stemming
+from “the release of harmful greenhouse gases.”
+
+In re Maui
+
+Elec. Co., 141 Hawaiʻi 249, 263, 408 P.3d 1, 15 (2017) (In re
+MECO) (emphases added) (quoting H. Stand. Comm. Rep. No. 1004,
+in 2011 House Journal, at 1332).
+So public trust considerations – namely, those related to
+protection of air and other trust resources affected by climate
+change - are built into HRS § 269-6(b).
+Further, under HRS § 269-145.5(a), the PUC must consider
+20
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+the value of improving the State’s electrical system by using
+“advanced grid modernization technology.”
+
+HRS § 269-145.5(b)
+
+provides further guidance: “In advancing the public interest,
+the commission shall balance technical, economic, environmental,
+and cultural considerations associated with modernization of the
+electric grid . . . .”
+
+(Emphasis added.)
+
+These “environmental”
+
+and “cultural” considerations implicate public trust resources.
+The PUC must balance those considerations against other
+technical and economic factors to promote “the public
+interest.” 14
+We hold that the “public interest”-minded balancing
+requirement under HRS §§ 269-6(b) and 269-145.5(b) aligns with
+the core public trust principles weighing protection and
+utilization. 15
+
+HRS § 269-145.5(b) provides five principles that the PUC should use
+when conducting this public interest balancing. They include “[e]nabling a
+diverse portfolio of renewable energy resources.” HRS § 269-145.5(b)(1).
+This subsection complements HRS § 269-6(b)’s focus on moving away from fossil
+fuel-generated power and curbing climate change, while requiring the PUC to
+assess other statutory factors.
+14
+
+HRS chapter 269 also intersects with article XI, section 9 of the
+Hawai‘i Constitution. In Hawaiʻi, a person enjoys a substantive right to “a
+clean and healthful environment.” Haw. Const. art. XI, § 9; In re MECO, 141
+Hawai‘i at 260-61, 408 P.3d at 12-13. Though this right is constitutionally
+vested, its parameters are defined by “laws relating to environmental
+quality.” Haw. Const. art. XI, § 9. “HRS Chapter 269 is a law relating to
+environmental quality that defines the right to a clean and healthful
+environment.” In re MECO, 141 Hawai‘i at 264, 408 P.3d at 16. Recognizing
+Pono Power members’ right to a clean and healthful environment, the PUC
+granted Pono Power participant status.
+15
+
+Article XI, section 9’s “clean and healthful environment” right as
+defined by HRS chapter 269 subsumes a right to a life-sustaining climate
+system. The need to mitigate the catastrophic effects of anthropogenic
+
+21
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+climate change underlies HRS chapter 269; it in turn shapes and defines the
+right to a clean and healthful environment.
+HRS chapter 269 imposes an obligation on the PUC to consider fossil
+fuel-related harms and promote climate change mitigation. HRS § 269-6(b)
+reflects this overarching mission. This statute applies to “all of the
+[PUC’s] duties”; it requires the commission “to reduce reliance on fossil
+fuels and to consider [GHG] emissions.” In re MECO, 141 Hawai‘i at 263, 408
+P.3d at 15. The legislative history reveals an intent to require the PUC to
+consider “the hidden and long-term costs of reliance on fossil fuels.” Id.
+The legislature believed those costs included “potentially harmful climate
+change due to the release of harmful [GHG].” Id. (quoting H. Stand. Comm.
+Rep. No. 1004, in 2011 House Journal, at 1332). Besides HRS § 269-6(b), HRS
+chapter 269 contains additional provisions reflecting the legislature’s
+concerns about climate change and the resulting push toward renewable energy.
+See, e.g., HRS § 269-27.2 (providing guidance on utilization of non-fossil
+fuel-generated power supply); HRS § 269-92(a) (imposing renewable portfolio
+standards).
+In 2020, the Hawai‘i legislature passed a law preventing the PUC from
+approving any new or renewed coal power-based PPAs. 2020 Haw. Sess. Law Act
+23, § 2 at 287; HRS § 269-48. The legislature recognized that coal-powered
+electricity poses a “clear threat . . . to health and the climate.” 2020
+Haw. Sess. Law Act 23, § 1 at 287. It referenced the United Nations
+Intergovernmental Panel on Climate Change’s (IPCC) 2018 “Special Report on
+1.5 Degrees Celsius.” Id. The legislature explained the special report
+found that limiting global warming to 1.5 degrees Celsius to “avoid
+devastating climate change” would mean “a complete phase-out” of coalgenerated electricity. Id. (emphasis added).
+There is scientific consensus: anthropogenic global warming threatens
+the world’s climate system. It raises the seas; it sickens the planet. It
+harms present and future generations. See generally Summary for Policymakers
+in Climate Change 2021: The Physical Science Basis, IPCC (Valérie MassonDelmotte et al. eds., 2021),
+https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM_final.pd
+f [https://perma.cc/U6KB-ZAAD] (summarizing the key findings of the IPCC’s
+sixth assessment report on “the physical science basis of climate change”
+(which builds upon the IPCC’s previous assessment report and special reports)
+and discussing the current state of the climate system and possible climate
+change scenarios); Summary for Policymakers in Climate Change 2022: Impacts,
+Adaptation and Vulnerability at SPM-7-8, IPCC (Hans-O Pörtner et al., 2022),
+https://report.ipcc.ch/ar6wg2/pdf/IPCC_AR6_WGII_SummaryForPolicymakers.pdf
+[https://perma.cc/FM6K-H7KH] (“The rise in weather and climate extremes has
+led to some irreversible impacts as natural and human systems are pushed
+beyond their ability to adapt.”).
+Hawaiʻi’s space on Earth makes us vulnerable to the ecological damage
+caused by an unhealthy climate system. Recognizing this threat, the Hawaiʻi
+legislature recently declared “a climate emergency.” S.C.R. 44, S.D. 1, H.D.
+1, 31st Leg., Reg. Sess. (2021). It warned that “Hawaii remains particularly
+vulnerable to the dangers of disaster occurrences as a result of the effects
+of global warming.” Id. The resolution calls for “statewide collaboration
+toward an immediate just transition and emergency mobilization effort to
+restore a safe climate.” Id.
+
+22
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+Here, the record shows that the PUC complied with HRS
+§§ 269-6(b) and 269-145.5(b).
+
+In the Approval Order, the PUC
+
+made detailed findings to satisfy these provisions.
+First, the PUC reviewed MECO’s GHG analysis, methodology,
+and data.
+
+The PUC found that the Project would result in “a
+
+significant reduction in Lifecycle and Operational GHG emissions
+relative to the baseline of no Project.”
+
+This finding implies
+
+that the Project would help protect air and other trust
+resources affected by anthropogenic global warming.
+Second, the PUC evaluated Hawai‘i’s energy policy and the
+Project’s anticipated bill savings.
+
+It found that the PPA
+
+represented “a significant step not only towards Hawaii’s
+renewable energy goals . . . but also towards lower energy
+prices.”
+Third, the PUC considered the benefits of having
+dispatchable renewable energy, including the increased
+flexibility and reliability of Hawai‘i’s electric grids.
+Fourth, the PUC identified (1) the permits that Paeahu
+would have to obtain to construct and operate its solar plant;
+(2) the impact studies 16 related to those permits; (3) which
+These legislative actions reflect the urgent need to curb greenhouse
+gas emissions and protect the right to a life-sustaining climate system.
+In the Approval Order, the PUC explained that Paeahu filed several
+studies covering topics including: “traffic, noise, land uses (soils,
+topography, geology, vegetation), water quality, archaeological impacts,
+cultural impacts, wildlife, electric and magnetic fields (‘EMF’), ‘heat
+island’ effects, and glint and glare issues.” For each topic, the PUC
+
+16
+
+23
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+agency would review them; and (4) under what statutes,
+regulations, or ordinances.
+The PUC referred to Paeahu’s explanation that the studies’
+intended audience was the permit-issuing agencies with the
+relevant subject matter expertise.
+
+The PUC concluded that those
+
+agencies with jurisdiction over the necessary permits would
+review the impact studies and make permitting decisions.
+Contrary to Pono Power’s claim, the PUC did not merely
+“catalog[ue]” the requisite permits.
+Fifth, the PUC considered Paeahu’s efforts to explore an
+alternative site.
+
+Relocating the Project to this alternative
+
+site, the PUC found, was not feasible due to archaeological,
+cultural, and topographical concerns.
+
+It “conclude[d] that
+
+Paeahu ha[d] made a good-faith effort to minimize the
+environmental, cultural, and archeological impacts of the
+Project”; the PUC qualified its conclusion by noting that other
+permitting agencies would “further review” the Project.
+“[U]pon balance of the technical, economic, environmental,
+and cultural considerations,” the PUC found the PPA “in the
+public interest.”
+identified record-citations where the topic was discussed. Though the PUC
+omitted the words, “public trust resources,” its findings evince meaningful
+and diligent efforts to appraise the range of trust resources potentially
+affected by the Project. By doing so, the PUC implicitly identified the
+scope of the affected public trust resources. The PUC’s efforts are
+consistent with its trustee duties given that the record lacks a reasonable
+threat to a trust resource.
+
+24
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+The PUC did not make explicit findings about its public
+trust duties in the Approval Order.
+
+But its Recon Order
+
+concluded that it had fulfilled its public trust duties by
+satisfying its obligations under HRS §§ 269-6(b) and 269145.5(b). 17
+Pono Power challenges this conclusion.
+
+It claims the
+
+public trust doctrine required more: it says the PUC needed to
+make specific findings about each affected public trust
+resource.
+
+We disagree.
+
+In the Recon Order, the PUC concluded that Pono Power’s
+allegations about the Project’s adverse impact on various trust
+resources were “speculative or unsupported.”
+
+This determination
+
+was not clearly erroneous.
+Pono Power participated in the PPA proceedings.
+
+It raised
+
+concerns about the Project’s impacts on the surrounding
+environment.
+
+Those concerns included potential water runoff and
+
+damages to native flora.
+Pono Power had the chance to boost its claims of harm to
+trust resources.
+scant.
+
+Yet, Pono Power’s support for its position is
+
+Pono Power backs up its water runoff allegation with its
+
+president’s testimony: she saw surface runoff near the Project
+We read the Approval and Recon Orders together. Cf. Alaska Dep’t of
+Env’t Conservation v. EPA, 540 U.S. 461, 497 (2004) (recognizing that an
+agency’s “skeletal” orders could be “properly read together with accompanying
+explanatory correspondence” from that agency).
+17
+
+25
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+area during moderate storms.
+
+She submitted two after-rain
+
+photographs and one dry-day photograph of a nearby gulch.
+The testimony and photographs showed that water runoff
+happens in the neighborhood, not whether and how the Project
+would exacerbate any water runoff issue.
+
+Pono Power does not
+
+meaningfully explain the connection between the Project and the
+alleged harm to water resources.
+Regarding the potential impact to native flora, Pono Power
+submitted a four-sentence “Anonymous Note”: the note mentioned
+that wiliwili trees and other native plants grow in unidentified
+gulches near the Project. 18
+
+It also submitted a general article
+
+about wiliwili forest habitat in the nearby area. 19
+
+The
+
+Anonymous Note and the article do not reasonably establish a
+link between the Project and the alleged harm to those trees and
+plants. 20
+
+18
+Our discussion of Pono Power’s president’s testimony and the Anonymous
+Note is not meant to “discredit” or “devalue” testimony based on personal
+observation. Rather, it is to point out that the personal observations
+relied on by Pono Power (the observations that water runoff happens and
+native vegetation exists in or near the Project area) do not adequately
+explain how the Project would harm the relevant resources.
+19
+The dissent refers to this article as the “Altenberg report.” This
+report was drafted in 2007 for an unrelated project known as “Wailea 670.”
+That project is “adjacent” to the Paeahu site. So it appears that the report
+doesn’t cover Paeahu’s location. Further, even within the Wailea 670 area,
+the report observed, “the northern 5/6 of [the land was] devoid of endemic
+Hawaiian plants.” This suggests that native flora can vary significantly
+throughout the Wailea region; and that the existence of wiliwili trees in
+some areas within the proposed project boundaries doesn’t necessarily mean
+they would be harmed.
+
+Beyond its limited support for the purported harm to trust resources,
+Pono Power generally questioned Paeahu’s impact assessments and best
+
+20
+
+26
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+Pono Power responded to the PUC’s conclusion that its
+allegations were “speculative or unsupported” with an
+unsupported, conclusory statement: “[t]he harm is presumed
+because the resources are part of a public trust.”
+
+This
+
+sweeping assertion flops.
+We conclude that the PUC properly evaluated Pono Power’s
+allegations of harm.
+
+It did not clearly err.
+
+Hand-waving
+
+without meaningful support cannot establish a “reasonable”
+threat.
+
+The heightened duty to assess and make specific
+
+findings about the affected trust resources was not triggered
+here.
+
+And the PUC’s statutory balancing sufficiently satisfied
+
+its public trust duties.
+Pono Power also questions the PUC’s recognition of other
+permitting agencies’ “overlapping jurisdiction” regarding the
+Project.
+
+It challenges the PUC’s conclusion that those agencies
+
+would review Paeahu’s impact studies and make permitting
+decisions based on their expertise and respective statutory and
+constitutional mandates.
+
+By taking this position, Pono Power
+
+says, the PUC improperly delegated its public trust obligations.
+We disagree. 21
+management practices. Pono Power’s skepticism does not defeat the PUC’s
+factual finding that its allegations of harm were unsupported or speculative.
+Pono Power further claims that the PUC improperly delegated its public
+trust duties by “accept[ing] Paeahu’s representations regarding government
+approvals.” Pono Power is correct that an agency cannot delegate its trust
+duty to a private party. Lānaʻians for Sensible Growth, 146 Hawaiʻi at 507,
+463 P.3d at 1164. But that did not happen here. Though the PUC “accept[ed]”
+21
+
+27
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+An agency can recognize other agencies’ overlapping
+jurisdiction and their expertise in specific subject matters.
+See Alaloa v. Planning Comm’n of Maui, 68 Haw. 135, 137, 705
+P.2d 1042, 1044 (1985) (opining that the planning commission’s
+permit conditions requiring the applicant to obtain approvals
+from other agencies (including the State Department of Health)
+were not an unlawful delegation of duty partly because those
+agencies “have the expertise and objective criteria” for
+granting or denying approvals needed for the project’s
+construction).
+Further, the PUC’s acknowledgement of other agencies’
+jurisdiction and expertise does not equate to abandoning its own
+duties.
+
+Here the PUC fulfilled its public trust obligations by
+
+complying with its statutory duties.
+
+Its comment about further
+
+oversight mechanisms over the Project’s construction and
+operation was “outside and in addition to” its public trust
+responsibilities; it does not amount to an improper delegation.
+Mauna Kea II, 143 Hawai‘i at 397-98, 431 P.3d at 770-71.
+
+Paeahu’s representations about the requisite governmental approvals, it did
+not take Paeahu’s words at face value. The PUC exercised its due diligence
+by (1) directing Paeahu to file additional studies and (2) reviewed the
+statutes and other governing laws under which the relevant permitting
+agencies would examine those studies. The record does not show that the PUC
+put the ultimate responsibility to protect trust resources on Paeahu.
+
+28
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+IV.
+The PUC lawfully approved the PPA.
+
+We affirm the Approval
+
+Order and the Recon Order.
+Lance D. Collins,
+(Bianca K. Isaki on the briefs)
+for Pono Power Coalition
+
+/s/ Mark E. Recktenwald
+/s/ Paula A. Nakayama
+
+/s/ Sabrina S. McKenna
+
+Joseph A. Stewart,
+(Bruce Nakamura and Aaron R.
+Mun on the briefs)
+for Maui Electric Company,
+Limited
+
+/s/ Todd W. Eddins
+
+Douglas A. Codiga,
+(Mark F. Ito on the briefs)
+for Paeahu Solar LLC
+Ashley K.L. Agcaoili,
+(Caroline C. Ishida and Mark J.
+Kaetsu on the briefs)
+for Public Utilities Commission
+
+29
+
+

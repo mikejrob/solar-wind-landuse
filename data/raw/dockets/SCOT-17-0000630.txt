@@ -1,0 +1,3293 @@
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+Electronically Filed
+Supreme Court
+SCOT-17-0000630
+10-MAY-2019
+08:02 AM
+
+IN THE SUPREME COURT OF THE STATE OF HAWAII
+---o0o--In the Matter of the Application of
+HAWAII ELECTRIC LIGHT COMPANY, INC.
+For Approval of a Power Purchase Agreement for Renewable
+Dispatchable Firm Energy and Capacity.
+SCOT-17-0000630
+APPEAL FROM THE PUBLIC UTILITIES COMMISSION
+(Docket No. 2017-0122)
+MAY 10, 2019
+RECKTENWALD, C.J., NAKAYAMA, McKENNA, POLLACK, AND WILSON, JJ.
+OPINION OF THE COURT BY RECKTENWALD, C.J.
+This case arises from the Public Utilities Commission’s
+approval of an amended power purchase agreement (Amended PPA)
+between Hawaii Electric Light Company, Inc. (HELCO) and Hu Honua
+Bioenergy, LLC.
+
+Pursuant to the Amended PPA, Hu Honua would
+
+construct and operate a biomass-fueled energy production
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+facility, and HELCO would purchase energy from the facility.
+Life of the Land (LOL), an environmental nonprofit
+organization, sought to intervene as a party in the PUC’s
+proceeding in order to address the environmental impacts of the
+proposed biomass facility.
+
+The PUC denied LOL full party status,
+
+but granted LOL limited participation in the proceeding.
+
+The PUC
+
+ultimately approved the Amended PPA without holding a hearing.
+LOL directly appealed the PUC’s order granting it
+limited participation in the proceeding, as well as the Decision
+and Order approving the Amended PPA (2017 D&O), to this court.
+LOL argues that the PUC:
+
+(1) failed to explicitly consider
+
+greenhouse gas (GHG) emissions in determining whether to approve
+the Amended PPA, as required by state law; (2) denied LOL due
+process to protect its interest in a clean and healthful
+environment by restricting its participation in the proceeding;
+and (3) abused its discretion and violated due process by denying
+LOL full party status in the proceeding.
+
+In addition to
+
+disputing these allegations, the PUC, HELCO, and Hu Honua contest
+this court’s jurisdiction over the matter.
+As a threshold matter, we hold that this court has
+jurisdiction to consider LOL’s appeal.
+
+We further hold that the
+
+PUC erred by failing to explicitly consider the reduction of GHG
+emissions in approving the Amended PPA, as required by statute,
+and that the PUC denied LOL due process with respect to the
+opportunity to be heard regarding the impacts that the Amended
+2
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+PPA would have on LOL’s right to a clean and healthful
+environment.
+
+Finally, we need not resolve whether the PUC abused
+
+its discretion or deprived LOL of due process by denying it full
+party status in the proceeding.
+Accordingly, we vacate the 2017 D&O and remand this
+matter to the PUC for further proceedings.
+I.
+A.
+
+BACKGROUND
+
+PUC Proceedings
+1.
+
+2012 Docket
+In 2012, HELCO submitted an application to the PUC
+
+seeking approval of a power purchase agreement (Original PPA)
+with Hu Honua.
+
+Pursuant to the Original PPA, Hu Honua agreed to
+
+refurbish an existing biomass power plant located on the Hāmākua
+Coast in Pepeekeo, Hawaii, to allow it to utilize harvested
+timber and other “woody biomass” as a fuel source.
+
+HELCO agreed
+
+to purchase energy from the facility over the Original PPA’s 20year term.
+LOL filed a Motion to Intervene as a party-intervenor
+in the PUC proceeding (2012 Docket), pursuant to Hawaii
+Administrative Rules (HAR) § 6-61-55 (effective 1992-2018).1
+
+1
+
+In
+
+We note that HAR title 6, chapter 61 - Rules of Practice and
+Procedure Before the Public Utilities Commission (effective 1992-2018) - was
+repealed on January 1, 2019. It was replaced by HAR title 16, chapter 601
+(effective Jan. 1, 2019). All of the repealed administrative rules referenced
+in this opinion have been replaced by identical rules that remain in effect.
+HAR § 6-61-55 (effective 1992-2018) has been replaced by HAR § 16-601-55
+(effective Jan. 1, 2019). See infra note 22.
+
+3
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+its motion, LOL explained that it is a Hawaii-based nonprofit
+organization comprised of members who live, work, and recreate in
+Hawaii.
+
+LOL highlighted its environmental interests and
+
+explained that the externalities associated with the use of
+biofuels for energy production “[can] be very harmful to [its]
+interests.”
+
+LOL also stated it “has developed great expertise in
+
+biofuels” and has demonstrated its expertise in several
+regulatory proceedings regarding biofuels.
+More specifically, with regard to the proposed Hu Honua
+facility, LOL stated it had “several concerns, including the fuel
+source, the comparative cost, . . . [and whether] this proposed
+facility will cut into the utilities[’] purchase of energy from
+existing and/or planned wind and solar farms.”
+
+Finally, LOL
+
+stated it had “unique environmental interests different from the
+general public,” and assured the PUC that its intent was “not to
+disrupt the process[,] but . . . to insure that [LOL’s] members
+and our local environmental communities have a voice in this
+process.”
+The PUC found that the “concerns raised in [LOL’s]
+Motion to Intervene provide[d] insufficient basis to justify full
+intervention[.]”
+
+However, it also found that “LOL’s concerns
+
+regarding the proposed project’s impact on existing renewable
+projects on the Big Island, and the supply and pricing analysis
+between the biomass resources delineated in the [Original] PPA
+[were] sufficient to justify LOL having limited participant
+4
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+status in [the 2012 Docket], pursuant to HAR § 6-61-56.”
+Accordingly, the PUC denied LOL’s motion, but granted it “limited
+participant status” sua sponte, allowing it to participate with
+respect to:
+
+(1) whether the energy price components properly
+
+reflect the cost of biomass fuel supply; and (2) whether HELCO’s
+purchase power arrangements under the Original PPA are prudent
+and in the public interest.
+The PUC ultimately approved the Original PPA, but HELCO
+subsequently terminated the agreement.
+
+HELCO and Hu Honua agreed
+
+to amend the Original PPA, giving rise to the Amended PPA at
+issue in the instant case.
+2.
+
+2017 Docket
+In 2017, HELCO filed an application with the PUC,
+
+seeking approval of the Amended PPA.
+
+The PUC entered Order No.
+
+34554, opening Docket No. 2017-0122 (2017 Docket) to address
+HELCO’s request.
+
+The order also granted LOL “conditional
+
+participant status” in the proceeding and stated it would
+reevaluate LOL’s status and establish the scope of LOL’s
+participation following its final determination of the issues
+governing the 2017 Docket.
+LOL filed exhibits in response to Order No. 34554,
+which included an overview of the “agricultural expertise” of
+Henry Curtis, LOL’s Vice President of Consumer Issues.
+
+Curtis
+
+explained that he had “stayed with friends living in Hamakua,
+stayed at vacation sites in Hamakua, explored Hamakua, and made
+5
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+several trips to the Hu Honua site, driving around three sides of
+the site.”2
+
+In support of his agricultural expertise, Curtis
+
+also cited to a chapter that he authored in “The Value of
+Hawaii:
+
+Knowing the Past, Shaping the Future,” which cites
+
+runoff into the ocean as one of the primary adverse environmental
+impacts associated with the use of biofuels for energy
+production.
+The PUC entered Order No. 34597, establishing a
+procedural schedule, statement of the issues, and scope of
+participation for participants.
+
+The PUC permitted LOL to
+
+participate in the proceeding, but limited the scope of its
+participation to the same two issues that it participated on in
+the 2012 Docket:
+2.a.i. Whether the energy price components in the
+Amended and Restated PPA properly reflect the cost of
+biomass fuel supply.
+2.b. Whether HELCO’s purchase power arrangements under
+the Amended and Restated PPA are prudent and in the
+public interest.
+
+Specifically, the PUC found that:
+Because the question of whether HELCO’s purchase power
+arrangements under the Amended and Restated PPA are
+prudent and in the public interest continues to be an
+issue in this proceeding, as it was in Docket No.
+2012-0212, the commission finds it appropriate to
+maintain LOL, Tawhiri, and HEP’s participant status on
+
+It appears Curtis was referring to the Big Island’s Hāmākua Coast,
+of which Pepeekeo is a part.
+2
+
+6
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+this issue (Issue 2.b., above).3 Further, while not
+explicitly stated, the question of whether the energy
+price components properly reflect the cost of biomass
+fuel supply is a consideration when determining
+whether the purchased power costs to be paid by HELCO
+pursuant to the Amended and Restated PPA are
+reasonable (Issue 2.a., above). Accordingly, the
+commission finds it appropriate to maintain LOL's
+participant status on the specific sub-issue of
+whether the energy price components properly reflect
+the cost of biomass fuel supply (Issue 2.a.i., above).
+
+(Emphasis added).
+a.
+
+Motion to Upgrade Status
+
+LOL filed a Motion to Upgrade Status, requesting that
+the PUC allow it to intervene in the 2017 Docket as a party.4
+
+In
+
+support of its Motion to Upgrade Status, LOL stressed the fact
+that the PUC had already “grant[ed] LOL participant status based
+on [its] interests in the pending matter.”
+
+LOL also cited
+
+previous PUC proceedings in which it was admitted as a party, and
+stated that: (1) its Board of Directors “approved continuing to
+intervene in energy dockets as a means of promoting sustainable
+policies”; (2) LOL’s members “are very deeply concerned about
+climate change, biodiversity, and the spread of invasive
+species”; (3) the only way to protect LOL’s interest is by
+
+3
+Tawhiri Power, LLC (Tawhiri) and Hamakua Energy Partners (HEP)
+were granted participant status in the 2017 Docket only with regard to Issue
+2.b. LOL, Tawhiri, and HEP all filed motions to intervene in the 2012 Docket,
+which were denied. They were instead granted limited participant status.
+4
+
+Although LOL did not cite HAR § 6-61-55 as the relevant authority
+for its Motion to Upgrade Status, the motion nevertheless touches upon each of
+the nine requirements for motions for intervention under HAR § 6-61-55(b)
+(effective 1992 to 2018). HAR § 16-601-55(b) (effective Jan. 1, 2019)
+contains the same nine requirements. See infra, note 22.
+
+7
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+accessing “classified documents dealing with externalities”; (4)
+there are no other means available to protect LOL’s interests;
+(5) the Consumer Advocate does not represent LOL’s interests
+because it lacks the expertise to understand externalities;5 (6)
+the agricultural expertise of LOL’s vice president will assist in
+developing an evidentiary record; and (7) while the Consumer
+Advocate represents the interests of the general public, “LOL is
+concerned with a wider lens that encompasses externalities
+including social justice, environmental justice, climate justice,
+and [GHG] impacts.”
+
+In addition, LOL specifically expressed
+
+5
+Pursuant to Hawaii Revised Statutes (HRS) § 269–51 (Supp. 2018)
+and HAR § 16–601–62 (effective Jan. 1, 2019), the Consumer Advocate represents
+the consumer and may participate as an ex officio party in Commission
+proceedings.
+
+HRS § 269–51 provides:
+The executive director of the division of consumer
+advocacy shall be the consumer advocate in hearings
+before the public utilities commission. The consumer
+advocate shall represent, protect, and advance the
+interests of all consumers, including small
+businesses, of utility services.
+The responsibility of the consumer advocate for
+advocating the interests of the consumer of utility
+services shall be separate and distinct from the
+responsibilities of the public utilities commission
+and those assistants employed by the commission. The
+consumer advocate shall have full rights to
+participate as a party in interest in all proceedings
+before the public utilities commission.
+HAR § 16–601–62 provides, in pertinent part:
+(a)
+
+The consumer advocate is, ex officio, a party to
+any proceeding before the commission. . . .
+
+(b)
+
+The consumer advocate shall further apprise the
+commission and the parties of record of any
+facts which relate to the protection or
+advancement of the consumer interest.
+
+8
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+concern regarding the externalities associated with “acquiring
+bioenergy crops” from a specific area of the Big Island that
+already serves as a source for another biofuel facility.
+The PUC issued Order No. 34651, denying LOL’s motion.
+The PUC cited HAR § 6-61-55, specifically noting subsection (d),6
+and stated that “intervention is not a guaranteed right of a
+movant, but is a matter resting within the sound discretion of
+the commission, so long as that discretion is not exercised
+arbitrarily or capriciously.”
+
+It also cited HAR § 6-61-56
+
+(effective 1992-2018),7 which sets forth the requirements for
+
+6
+HAR § 6-61-55(d) (effective 1992-2018) provided that “Intervention
+shall not be granted except on allegations which are reasonably pertinent to
+and do not unreasonably broaden the issues already presented.” HAR § 16-60155(d) (effective Jan. 1, 2019) contains identical language. See infra note
+22.
+7
+
+HAR § 6-61-56 provided:
+(a)
+
+The commission may permit participation without
+intervention. A person or entity in whose
+behalf an appearance is entered in this manner
+is not a party to the proceeding and may
+participate in the proceeding only to the degree
+ordered by the commission. The extent to which
+a participant may be involved in the proceeding
+shall be determined in the order granting
+participation or in the prehearing order.
+
+(b)
+
+A person who has a limited interest in a
+proceeding may make an application to
+participate without intervention by filing a
+timely written motion in accordance with
+sections 6-61-15 to 6-61-24, section 6-61-41,
+and section 6-61-57.
+
+(c)
+
+The motion shall provide:
+(1)
+
+A clear and concise statement of the
+direct and substantial interest of the
+applicant;
+(continued...)
+
+9
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+participation without intervention.
+
+It stated:
+
+As was the case in [the 2012 Docket], upon review of
+the record, the commission continues to find that the
+concerns raised in LOL’s Motion, which are identical
+to or mirror the concerns raised by LOL in its Motion
+to Intervene in [the 2012 Docket], provide
+insufficient basis to justify full intervention in
+this proceeding. The commission finds that LOL has
+failed to demonstrate any additional interest or
+expertise sufficient to justify a change in its
+limited participant status granted on a conditional
+basis in Order No. 34554, and permanently established
+pursuant to Order No. 34597.
+
+b.
+
+Information Requests
+
+LOL filed several Information Requests (IRs), seeking
+information from HELCO, Hu Honua, and the Consumer Advocate
+regarding GHG emissions and other potential adverse environmental
+impacts of the Hu Honua facility.
+
+In its response to LOL’s IRs,
+
+HELCO acknowledged that GHGs would be emitted by equipment used
+7
+
+(...continued)
+(2)
+
+The applicant's position regarding the
+matter in controversy;
+
+(3)
+
+The extent to which the participation will
+not broaden the issues or delay the
+proceeding;
+
+(4)
+
+The extent to which the applicant's
+interest will not be represented by
+existing parties;
+
+(5)
+
+A statement of the expertise, knowledge or
+experience the applicant possesses with
+regard to the matter in controversy;
+
+(6)
+
+Whether the applicant can aid the
+commission by submitting an affirmative
+case; and
+
+(7)
+
+A statement of the relief desired.
+
+(Emphasis added). Other than the HAR section numbers it references, HAR 16601-56 (effective Jan. 1, 2019) is identical to HAR 6-61-56 (effective 19922018).
+
+10
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+to raze and transport trees, but stated that it had not
+quantified the amount of emissions.
+
+HELCO asserted that although
+
+carbon would be released into the atmosphere upon the combustion
+of trees in the facility, it would be recaptured upon the
+regrowth of the trees.
+
+In response to at least one of the IRs
+
+that LOL submitted to HELCO, HELCO objected and refused to
+respond, arguing that the information sought was “not relevant to
+and [was] outside the scope of LOL’s authorized scope of limited
+participation[.]”
+One of the IRs that LOL submitted to Hu Honua posed
+several questions regarding the quantity of wastewater that would
+be produced by the facility, the means by which it would be
+produced and managed, and the steps that would be taken to
+monitor and prevent ocean contamination.
+
+Hu Honua objected to
+
+this IR, as well as those focused on GHG emissions and climate
+change, stating that they were “not relevant or material to Issue
+Nos. 2.a.i or 2.b, which [were] the only issues for which the
+Commission authorized LOL’s participation.”
+The Consumer Advocate responded to LOL that it had not
+completed an analysis of the impact the project would have on GHG
+emissions, and that any analysis should be comprehensive,
+including GHGs resulting from harvesting and transporting the
+feedstock.
+
+The Consumer Advocate further stated that it had not
+
+evaluated the need for a consultant to review GHGs and climate
+change in the instant proceeding.
+11
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+c.
+
+Statements of Position
+
+In its Statement of Position, LOL argued that Hu
+Honua’s proposed facility was not in the public interest.
+
+LOL
+
+further argued that Hu Honua’s proposal failed to fully address
+climate change and the environmental impacts of the proposed
+operations.
+
+LOL stated:
+
+Hu Honua plans to chop down existing trees for seven
+years, and then to rely on a rotational system of
+growing new trees and then chopping them down.
+Omitting any discussion of the fossil fuels used in
+the mechanization of growing, chopping, chipping, and
+transport, Hu Honua alleges that this operation is
+carbon neutral.
+
+LOL also argued that the pricing of Hu Honua’s proposal
+was not in the public interest when compared to lower-priced
+solar-based electricity proposals previously approved by the PUC.
+In its Reply Statement of Position, Hu Honua argued
+that its facility “will make a significant contribution to the
+State’s [Renewable Portfolio Standards (RPS),]” noting that
+“HELCO estimates that Hu Honua will increase RPS levels by 11%
+over the life of the PPA, and avoid the emission of hundreds of
+thousands of tons of CO2.”
+
+Hu Honua asserted that “the estimated
+
+emissions due to transportation of fuel to the plant pale in
+comparison to the emissions reductions that will result from the
+displacement of fossil fuel[.]”
+
+Hu Honua further stated that
+
+“biomass plants, like wind and solar plants, are renewable and
+carbon neutral to a reasonable approximation, and are therefore
+deemed fully renewable by applicable state law.”
+12
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+d.
+
+2017 Decision and Order
+
+Without holding a hearing, the PUC entered the 2017 D&O
+approving the Amended PPA.
+
+The PUC noted that comments in
+
+support of the Project focused on issues including the
+fulfillment of the RPS targets and energy resource self-reliance,
+while comments in opposition focused on issues including
+potential adverse environmental impacts, an expected rise in GHG
+emissions, and general objections to biomass as a fuel resource.
+The PUC then summarized each party’s position, citing
+HELCO’s claims that approval of the Amended PPA would be
+reasonable due to, inter alia, the project’s contribution to the
+State’s RPS goals, the fact that the contract price for the
+Amended PPA is de-linked from fossil fuel pricing, and the
+assertion that “renewable energy provided by the Project could
+potentially save approximately 15,700 barrels of fuel per year,
+which over the term of the [Amended] PPA amounts to approximately
+329,000 barrels of fuel oil saved.”
+
+The PUC also noted the
+
+following:
+HELCO asserted that the totality of circumstances
+should be considered when reviewing whether the
+purchased power costs are reasonable, . . . including
+governmental policies and objectives, contributions
+towards RPS, reducing dependency on fossil fuels,
+decreased price volatility, de-linking energy costs
+from fossil fuel pricing, realization of tax
+incentives, and community benefits.
+. . . .
+LOL asserted that “[t]he cost of biofuel includes both
+financial and non-financial components, which Hu Honua
+has failed to adequately address.” LOL asserted that
+
+13
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+the “non-financial components” include impacts on
+climate change and endangered species that were not
+explicitly quantified or monetized in HELCO’s
+benefit/cost ratio.
+. . . .
+LOL is not in favor of commission approval of the
+[Amended] PPA, but focused its rationale on concerns
+outside of the scope of its limited participation,
+namely climate change and comparative pricing with
+other forms of energy.
+
+(Emphases added).
+It appears the PUC adopted HELCO’s analysis of the
+biomass facility’s economic and customer bill impact under the
+Amended PPA, stating, “[p]er HELCO, . . . the Project provides
+significant renewable energy-related benefits, primarily through
+its firm capacity and contribution to the State’s RPS goals.
+the island of Hawaii, with the Project, the RPS goal levels
+increase by approximately 11% over the 30-year life of the
+Project.”
+
+The PUC also made the following findings and
+
+conclusions:
+[T]he commission finds that the Project will . . . add
+to the diversity of HELCO’s existing portfolio of
+renewable energy resources.
+. . . .
+Consistent with [Hawaii Revised Statutes (HRS)] §
+269-27.2(c)[(Supp. 2016)], the proposed pricing
+structure is delinked from fossil fuel pricing.
+. . . .
+[I]t appears that the addition of the Project may
+primarily displace fossil fuel generation resources.
+Accordingly, the commission anticipates that, based on
+the representations made in HELCO’s [Power Supply
+Improvement Plan], this Project will accelerate the
+
+14
+
+For
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+retirement of fossil fuel plants[.]
+
+(Emphases added).
+The PUC addressed, inter alia, the following two
+issues:
+
+(2.a.i) whether the energy price components in the
+
+Amended PPA properly reflect the cost of biomass fuel supply; and
+(2.b) whether HELCO’s purchase power arrangements under the
+Amended PPA are prudent and in the public interest.
+
+The PUC
+
+found the purchased power costs to be reasonable and that the
+arrangements under the Amended PPA were prudent and in the public
+interest.
+
+Accordingly, the PUC approved the Amended PPA,
+
+concluding that:
+HELCO has met its burden of proof in support of its
+request for the commission to approve the [Amended]
+PPA. The purchased power costs and arrangements set
+forth in the [Amended] PPA appear reasonable, prudent,
+in the public interest, and consistent with HRS
+chapter 269 in general, and HRS § 269-27.2(c), in
+particular. While the commission, in this instance,
+finds the pricing to be reasonable, the commission
+makes clear that its decision to approve the [Amended]
+PPA is not based solely on pricing, but includes other
+factors such as the State’s need to limit its
+dependence on fossil fuels and mitigate against
+volatility in oil pricing.
+
+(Emphases added).
+B.
+
+Direct Appeal
+LOL directly appealed the PUC’s order denying LOL’s
+
+Motion to Upgrade Status and the 2017 D&O to this court.
+
+See HRS
+
+§ 269-15.51 (Supp. 2018) and HRS § 91-14 (2012 & Supp. 2018).
+
+15
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+LOL presents three points of error:8
+
+(1) the PUC was required,
+
+under HRS § 269-6(b) (Supp. 2016), to explicitly consider GHG
+emissions in determining whether the costs of the Amended PPA
+were reasonable, but failed to do so; (2) the PUC denied LOL due
+process to protect its right to a clean and healthful
+environment, as defined by HRS Chapter 269, by restricting its
+participation in the PUC proceedings; and (3) the PUC erred in
+denying LOL’s Motion to Upgrade Status from “participant” to
+“intervenor.”
+II.
+A.
+
+STANDARDS OF REVIEW
+
+Jurisdiction
+“The existence of jurisdiction is a question of law
+
+that [the appellate court reviews] de novo under the right/wrong
+standard.”
+
+Captain Andy’s Sailing, Inc., v. Dep’t of Land & Nat.
+
+Res., 113 Hawaii 184, 192, 150 P.3d 833, 841 (2006) (internal
+quotation marks and citation omitted).
+B.
+
+Direct Appeal
+Because this is a direct appeal from a decision of the
+
+PUC, the standard of review, as set forth in HRS § 91-14, is as
+follows:
+Upon review of the record, the court may affirm the
+decision of the agency or remand the case with
+instructions for further proceedings; or it may
+reverse or modify the decision and order if the
+
+8
+LOL did not specifically challenge any findings of fact contained
+in the PUC’s 2017 D&O in its Opening Brief. “Findings of fact . . . that are
+not challenged on appeal are binding on the appellate court.” Bremer v.
+Weeks, 104 Hawaii 43, 63, 85 P.3d 150, 170 (2004) (citations omitted).
+
+16
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+substantial rights of the petitioners may have been
+prejudiced because the administrative findings,
+conclusions, decisions, or orders are:
+(1)
+
+In violation of constitutional or statutory
+provisions;
+
+(2)
+
+In excess of the statutory authority or
+jurisdiction of the agency;
+
+(3)
+
+Made upon unlawful procedure;
+
+(4)
+
+Affected by other error of law;
+
+(5)
+
+Clearly erroneous in view of the reliable,
+probative, and substantial evidence on the whole
+record; or
+
+(6)
+
+Arbitrary, or capricious, or characterized by
+abuse of discretion or clearly unwarranted
+exercise of discretion.
+
+HRS § 91-14(g).
+Conclusions of law are reviewed de novo, pursuant to
+subsections (1), (2) and (4); questions regarding
+procedural defects are reviewable under subsection
+(3); findings of fact (FOF) are reviewable under the
+clearly erroneous standard, pursuant to subsection
+(5), and an agency's exercise of discretion is
+reviewed under the arbitrary and capricious standard,
+pursuant to subsection (6). Save Diamond Head Waters
+LLC, 121 Hawaii [16,] 24, 211 P.3d [74,] 82 [(2009)].
+Mixed questions of law and fact are “‘reviewed under
+the clearly erroneous standard because the conclusion
+is dependent upon the facts and circumstances of the
+particular case.’” Id. at 25, 211 P.3d at 83 (quoting
+Del Monte Fresh Produce (Haw.), Inc. v. Int’l
+Longshore & Warehouse Union, 112 Hawaii 489, 499, 146
+P.3d 1066, 1076 (2006)).
+A court reviewing the decision of an agency should
+ensure that the “agency . . . make its findings
+reasonably clear. The parties and the court should
+not be left to guess . . . the precise finding of the
+agency.” In re Water Use Permit Applications, 94
+Hawaii 97, 157, 9 P.3d 409, 469 (2000) (“Waiahole I”)
+(quoting In re Kauai Elec. Div. of Citizens Utilities
+Co., 60 Haw. 166, 183, 590 P.2d 524, 537 (1978)). An
+agency’s findings should be “sufficient to allow the
+
+17
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+reviewing court to track the steps by which the agency
+reached its decision.” Kilauea Neighborhood Ass'n v.
+Land Use Comm’n, 7 Haw. App. 227, 230, 751 P.2d 1031,
+1034 (1988)[; see] also In re Waiola O Molokai, Inc.,
+103 Hawaii 401, 432, 83 P.3d 664, 695 (2004)
+(explaining that any presumption of validity, given to
+an agency’s decision, “presupposes that the agency has
+grounded its decision in reasonably clear” findings of
+fact and conclusions of law).
+
+Kauai Springs, Inc. v. Planning Comm’n of Cty. of Kauai, 133
+Hawaii 141, 164, 324 P.3d 951, 974 (2014).
+C.
+
+Constitutional Law
+“We review questions of constitutional law de novo,
+
+under the right/wrong standard.”
+
+Jou v. Dai–Tokyo Royal State
+
+Ins. Co., 116 Hawaii 159, 164–65, 172 P.3d 471, 476–77 (2007)
+(quoting Onaka v. Onaka, 112 Hawaii 374, 378, 146 P.3d 89, 93
+(2006)) (internal quotation marks omitted).
+III.
+A.
+
+DISCUSSION
+
+Jurisdiction
+This court must determine, as a threshold matter,
+
+whether it has jurisdiction over LOL’s appeal.
+
+Pub. Access
+
+Shoreline Haw. by Rothstein v. Haw. Cty. Planning Comm’n by
+Fujimoto, 79 Hawaii 425, 431, 903 P.2d 1246, 1252 (1995)
+(quoting Pele Def. Fund v. Puna Geothermal Venture, 77 Hawaii
+64, 67, 881 P.2d 1210, 1213 (1994)).
+
+Hu Honua and HELCO argue
+
+that this court lacks jurisdiction because LOL’s appeal of the
+PUC’s 2017 D&O constitutes an improper collateral attack on the
+PUC’s 2012 D&O.
+
+Additionally, Hu Honua, HELCO, and the PUC argue
+
+that this court lacks jurisdiction because LOL’s appeal does not
+18
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+arise from a contested case and LOL failed to comply with the
+applicable agency rules by not requesting a contested case
+hearing.
+As set forth below, LOL’s appeal is not a collateral
+attack on the PUC’s 2012 D&O.
+
+LOL has appealed the PUC’s 2017
+
+D&O to directly challenge its validity, rather than to indirectly
+impeach the validity of the PUC’s 2012 D&O.
+
+Furthermore, the
+
+requirements for judicial review under HRS § 91-14(a) – a
+contested case hearing, finality, and compliance with agency
+rules – have been satisfied.
+
+The PUC’s 2017 Docket was a
+
+contested case hearing because a hearing was required by
+constitutional due process in order to consider the impacts of
+approving the Amended PPA on LOL’s right to a clean and healthful
+environment, as defined by HRS Chapter 269, and such a hearing
+would have determined the rights, duties, and privileges of
+HELCO.
+the PUC.
+
+It is undisputed that the 2017 D&O is a final decision of
+Finally, LOL followed the applicable agency rules, as
+
+it was involved in the contested case as a participant in the
+2017 Docket and the PUC’s administrative rules do not require a
+request for a contested case hearing as a prerequisite to
+judicial review.
+
+We therefore have jurisdiction to consider the
+
+merits of LOL’s appeal.
+1.
+
+Collateral Attack
+“A collateral attack[, as opposed to a direct attack,]
+
+is an attempt to impeach a judgment or decree in a proceeding not
+19
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+instituted for the express purpose of annulling, correcting or
+modifying such judgment or decree.”
+
+Kapiolani Estate v.
+
+Atcherly, 14 Haw. 651, 661 (1903) (citations and internal
+quotation marks omitted).
+
+The ICA has observed that “the
+
+collateral attack doctrine is implicated when an independent suit
+seeks to impeach a judgment entered in a prior suit.”
+
+Smallwood
+
+v. City and Cty. of Honolulu, 118 Hawaii 139, 150, 185 P.3d 887,
+898 (App. 2008).
+
+This court has similarly stated that
+
+“[a]ppellate courts in Hawaii have typically only applied the
+collateral attack doctrine in situations in which a second
+lawsuit has been initiated challenging a judgment or order
+obtained from a prior, final proceeding.”
+
+In re Thomas H. Gentry
+
+Revocable Tr., 138 Hawaii 158, 169 n.5, 378 P.3d 874, 885 n.5
+(2016) (citation omitted).
+The party asserting that an action constitutes an
+impermissible collateral attack on a judgment must
+establish that: (1) a party in the present action
+seeks to avoid, defeat, evade, or deny the force and
+effect of the prior final judgment, order, or decree
+in some manner other than a direct post-judgment
+motion, writ, or appeal; (2) the present action has an
+independent purpose and contemplates some other relief
+or result than the prior adjudication; (3) there was a
+final judgment on the merits in the prior
+adjudication; and (4) the party against whom the
+collateral attack doctrine is raised was a party or is
+in privity with a party in the prior action.
+
+Smallwood, 118 Hawaii at 150, 185 P.3d at 898.
+As set forth below, LOL’s appeal is a direct attack of
+the PUC’s 2017 D&O, not a collateral attack on the PUC’s 2012
+D&O.
+20
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+The first Smallwood element requires a showing that “a
+party in the present action seeks to avoid, defeat, evade, or
+deny the force and effect of the prior final judgment, order, or
+decree in some manner other than a direct post-judgment motion,
+writ, or appeal.”
+added).
+
+118 Hawaii at 150, 185 P.3d at 898 (emphases
+
+“If an appeal is taken from a judgment, . . . the attack
+
+is obviously direct, the sole object of the proceeding being to
+deny and disprove the apparent validity of the judgment.”
+Kapiolani Estate, 14 Haw. at 661.
+
+Rather than attacking the
+
+validity of the PUC’s 2012 D&O, LOL’s appeal was instituted for
+the express purpose of denying the force and effect the PUC’s
+2017 D&O.
+
+Thus, the first Smallwood element is not satisfied and
+
+LOL’s appeal cannot be construed as a collateral attack.
+See Kapiolani Estate, 14 Haw. at 661 (“A collateral attack is an
+attempt to impeach a judgment or decree in a proceeding not
+instituted for the express purpose of annulling, correcting or
+modifying such judgment or decree.”) (emphasis added).
+Hu Honua and HELCO argue that, even if LOL’s challenge
+appears to be a direct appeal of the PUC’s 2017 D&O, it functions
+as a collateral attack on the PUC’s 2012 D&O.
+
+Hu Honua and HELCO
+
+contend that the primary purpose of LOL’s appeal is to force the
+PUC to consider the effect of the State’s reliance on fossil
+fuels on GHG emissions and climate change.
+
+However, they argue,
+
+consideration of GHGs was not within the scope of the PUC’s final
+statement of issues in the 2017 Docket.
+21
+
+According to Hu Honua
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+and HELCO, the 2017 Docket only involved increasing the term of
+the Original PPA and revisions to the contract price and
+milestone events, which do not directly relate to the effect of
+the State’s reliance on fossil fuels on GHG emissions or climate
+change.
+
+Hu Honua and HELCO therefore contend that, to the extent
+
+the PUC was required to consider the effect of the State’s
+reliance on fossil fuels on GHG emissions and climate change, “it
+did so only in the 2012 Docket.”
+
+Because LOL failed to directly
+
+and timely challenge the 2012 D&O, Hu Honua and HELCO argue that
+LOL’s appeal is an improper and untimely attempt to raise the
+PUC’s failure to address GHGs in the 2012 D&O.
+As discussed further infra, a majority of this court
+recently determined that “HRS § 269–6(b)’s requirement to reduce
+reliance on fossil fuels and to consider [GHG] emissions applies
+to the fulfillment of all of the [PUC’s] duties.”
+
+In re
+
+Application of Maui Elec. Co. (MECO), 141 Hawaii 249, 263, 408
+P.3d 1, 15 (2017) (citing HRS § 269–6(b)).
+
+LOL was entitled to
+
+appeal the PUC’s 2017 D&O due to the PUC’s alleged failure to
+perform statutory and constitutional duties.
+
+Hu Honua and
+
+HELCO’s argument that the collateral attack doctrine precludes
+this court from exercising appellate jurisdiction over LOL’s
+appeal because the PUC’s consideration of GHGs was outside the
+scope of the 2017 Docket is therefore without merit.
+Accordingly, this court’s appellate jurisdiction is not
+precluded by the collateral attack doctrine.
+22
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+2.
+
+Contested Case
+PUC decisions are appealable to this court pursuant to
+
+HRS § 269-15.51, which provides, in relevant part:
+Any other law to the contrary notwithstanding,
+including chapter 91, any contested case under this
+chapter shall be appealed from a final decision and
+order or a preliminary ruling that is of the nature
+defined by section 91-14(a) upon the record directly
+to the supreme court for final decision. Only a
+person aggrieved in a contested case proceeding
+provided for in this chapter may appeal from the final
+decision and order or preliminary ruling.
+
+Judicial review over an agency appeal is authorized by
+HRS § 91-14(a)9 when the following requirements have been met:
+[F]irst, the proceeding that resulted in the
+unfavorable agency action must have been a contested
+case hearing . . . ; second, the agency’s action must
+represent a final decision or order, or a preliminary
+ruling such that deferral of review would deprive the
+claimant of adequate relief; third, the claimant must
+have followed the applicable agency rules and,
+therefore, have been involved in the contested case;
+and finally, the claimant’s legal interests must have
+been injured — i.e., the claimant must have standing
+to appeal.
+
+MECO, 141 Hawaii at 258, 408 P.3d at 10 (quoting Kilakila O
+Haleakala v. Bd. of Land & Nat. Res., 131 Hawaii 193, 200, 317
+P.3d 27, 34 (2013)).
+Accordingly, there are three jurisdictional
+9
+
+HRS § 91-14(a) provides, in relevant part:
+Any person aggrieved by a final decision and order in
+a contested case or by a preliminary ruling of the
+nature that deferral of review pending entry of a
+subsequent final decision would deprive appellant of
+adequate relief is entitled to judicial review thereof
+under this chapter; but nothing in this section shall
+be deemed to prevent resort to other means of review,
+redress, relief, or trial de novo, including the right
+of trial by jury, provided by law.
+
+23
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+requirements for judicial review over an agency appeal: (1) a
+contested case hearing, (2) finality, and (3) compliance with
+agency rules.
+
+Id.
+
+Hu Honua, HELCO, and the PUC argue that this
+
+court lacks jurisdiction over LOL’s appeal because the appeal
+does not arise from a contested case and LOL failed to comply
+with the applicable agency rules by not requesting a contested
+case hearing.10
+a.
+
+The Proceeding Was a Contested Case Hearing
+
+“A contested case hearing is one that is (1) required
+by law and (2) determines the rights, duties, and privileges of
+specific parties.”
+
+MECO, 141 Hawaii at 258, 408 P.3d at 10
+
+(internal quotation marks omitted) (citing Kilakila, 131 Hawaii
+at 200, 317 P.3d at 34).
+
+As set forth below, the PUC’s 2017
+
+Docket was a contested case hearing because a hearing was
+required by law that would have determined the rights, duties,
+and privileges of HELCO.
+i.
+
+“Required by Law”
+
+“In order for an administrative agency hearing to be
+required by law, it may be required by (1) agency rule, (2)
+statute, or (3) constitutional due process.”
+
+Id. (internal
+
+quotation marks omitted) (citing Kilakila, 131 Hawaii at 200,
+317 P.3d at 34).
+
+LOL contends that a contested case hearing was
+
+10
+The parties do not dispute that the PUC’s 2017 D&O was a final
+decision or order for the purpose of satisfying the requirements for judicial
+review of an agency appeal. Accordingly, that requirement is not addressed
+further.
+
+24
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+required under HRS §§ 269-16 (Supp. 2018) and 269-27.2 (2007 &
+Supp. 2018), and constitutional due process.
+
+We hold that
+
+although a hearing was not required by statute, one was required
+pursuant to constitutional due process.
+(A)
+
+HRS § 269-16(b)
+
+HRS § 269–16(b) requires the PUC to conduct a contested
+case hearing whenever a utility seeks an increase in rates, but
+specifically exempts rate adjustments “established pursuant to an
+automatic rate adjustment clause previously approved by the
+commission[.]”11
+
+HAR § 6-60-6 (effective June 19, 1981)
+
+similarly provides that automatic rate adjustment clauses that
+apply to fuel and purchased energy––or fuel adjustment
+
+11
+
+HRS § 269-16(b) provides, in relevant part:
+No rate, fare, charge, classification, schedule, rule,
+or practice, other than one established pursuant to an
+automatic rate adjustment clause previously approved
+by the commission, shall be established, abandoned,
+modified, or departed from by any public utility,
+except after thirty days’ notice to the commission as
+prescribed in section 269-12(b), and prior approval by
+the commission for any increases in rates, fares, or
+charges. . . . A contested case hearing shall be held
+in connection with any increase in rates, and the
+hearing shall be preceded by a public hearing as
+prescribed in section 269-12(c), at which the
+consumers or patrons of the public utility may present
+testimony to the commission concerning the increase.
+The commission, upon notice to the public utility,
+may:
+. . . .
+(2)
+
+After a hearing, by order:
+. . . .
+(G)
+
+Regulate its financial transactions[.]
+
+(Emphases added).
+
+25
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+clauses––do not require a hearing.12
+
+Thus, not only are
+
+automatic rate adjustment clauses exempted from HRS § 269–16(b)’s
+hearing requirement, they are also defined by the relevant agency
+rule as provisions that allow for rate changes without a prior
+hearing.
+The PUC approved the Amended PPA pursuant to, in part,
+HAR § 6-60-6 (effective June 19, 1981).
+
+In so doing, it
+
+authorized HELCO to include energy power purchase costs in its
+Energy Cost Adjustment Clause (ECAC) and to include non-energy
+purchased power costs in its Purchased Power Adjustment Clause
+(PPAC).
+
+According to the 2017 D&O, HELCO’s ECAC and PPAC are
+
+“fuel adjustment clauses” under HAR § 6-60-6.13
+12
+
+The PUC
+
+The utility’s rate schedules may include automatic rate
+adjustment clauses, only for those clauses previously
+approved by the commission. Upon effective date of
+this Chapter, any fuel adjustment clause submitted for
+commission approval shall comply with the following
+standards:
+(1)
+
+“Fuel adjustment clause” means a provision of a
+rate schedule which provides for increases or
+decreases or both, without prior hearing, in
+rates reflecting increases or decreases or both
+in costs incurred by an electric or gas utility
+for fuel and purchased energy due to changes in
+the unit cost of fuel and purchased energy.
+
+(2)
+
+No changes in fuel and purchased energy costs
+may be included in the fuel adjustment clause
+unless the contracts or prices for the purchase
+of such fuel or energy have been previously
+approved or filed with the commission.
+
+HAR § 6-60-6 (emphases added).
+13
+
+The Amended PPA defines “Energy Cost Adjustment Clause” as:
+[HELCO]’s cost recovery mechanism for fuel and
+purchased energy costs approved by the PUC in
+(continued...)
+
+26
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+specifically noted that HAR § 6-60-6 “generally governs the
+propriety of fuel adjustment clauses[,]” and stated in its
+Findings and Conclusions that:
+[I]n the Underlying [2012] Decision and Order
+regarding the Original PPA, the commission found it
+“reasonable to authorize recovery of the purchased
+energy charges through [HELCO’s] ECAC, and to recover
+the non-energy purchased power costs (including the
+related revenue taxes) through [HELCO’s] PPAC, to the
+extent that such costs are not included in base
+rates.” Because the energy and capacity payments in
+the [Amended PPA], as in the Original PPA, continue to
+not be included in another cost recovery mechanism,
+and given the above findings concerning pricing under
+the [Amended PPA], the commission authorizes the same
+recovery under the [Amended PPA].
+
+In MECO, we considered whether a hearing was required
+under HRS § 269–16(b) before the PUC could approve Maui
+Electric’s request to recover costs through its existing ECAC.
+MECO, 141 Hawaii at 259-60, 408 P.3d at 11-12.
+
+In making our
+
+determination that a hearing was not required by HRS § 269–16(b),
+we stated the following:
+[T]he Commission authorized Maui Electric to recover
+charges for purchased energy under the Agreement
+through Maui Electric’s existing energy cost
+adjustment clause. There is nothing in the record
+indicating that Maui Electric’s energy cost adjustment
+clause was not previously approved by the Commission
+
+13
+
+(...continued)
+conformance with [HAR] § 6-60-6 whereby the base
+electric energy rates charged to retail customers are
+adjusted to account for fluctuations in the costs of
+fuel and purchased energy or such successor provision
+that may be established from time to time.
+
+“Purchased Power Adjustment Clause” is defined as “[t]he Purchased
+Power Adjustment Clause approved by the PUC in Decision and Order
+No. 30168 in Docket No. 2009-0164 on February 8, 2012.”
+
+27
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+or that the Commission’s decision revised the existing
+adjustment clause. Additionally, the record does not
+suggest that the use of the fuel adjustment clause in
+this case would cover anything other than increases or
+decreases in the unit cost of purchased energy
+determined by the last rate case proceeding for the
+utility. See HAR § 6–60–6(3).
+
+Id.
+Similarly here, the PUC authorized HELCO to recover
+charges for purchased power through its existing ECAC and PPAC.
+The record indicates that these adjustment clauses were
+previously approved and were not revised by the PUC’s 2017 D&O.
+Furthermore, the record does not suggest that the adjustment
+clauses would cover anything other than changes in the unit cost
+of purchased power determined by the last rate case proceeding.
+Accordingly, because the rate adjustments implicated by
+the Amended PPA were established pursuant to automatic adjustment
+clauses previously approved by the PUC, the PUC was not required
+to hold a contested case hearing under HRS § 269-16(b) prior to
+approving the Amended PPA.
+(B)
+
+HRS § 269-27.2(d)
+
+Pursuant to HRS § 269–27.2(d), the PUC may only allow a
+public utility to impose an interim increase in rates to recover
+payments made to “nonfossil fuel producers for firm capacity and
+related revenue taxes” after an evidentiary hearing.14
+14
+
+As
+
+HRS § 269–27.2(d) provides, in pertinent part:
+Upon application of a public utility that supplies
+electricity to the public, and notification of its
+customers, the commission, after an evidentiary
+(continued...)
+
+28
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+discussed above, in approving the Amended PPA, the PUC authorized
+HELCO to include energy power purchase costs and non-energy
+purchased power costs in its ECAC and PPAC, respectively, to the
+extent that such costs were not included in its base rates.
+However, HELCO’s ECAC and PPAC are fuel adjustment clauses
+specifically exempt from hearing requirements and do not
+constitute an “interim increase in rates” for the purposes of HRS
+§ 269-27.2(d).
+In MECO, we similarly considered whether a hearing was
+required under HRS § 269–27.2(d).
+P.3d at 11.
+
+MECO, 141 Hawaii at 259, 408
+
+In determining that a hearing was not required by
+
+HRS § 269–27.2(d), we stated that:
+Sierra Club has not argued that the [PUC]’s decision
+authorized Maui Electric to impose an interim increase
+in rates for the purpose of recovering payments for
+firm capacity, nor has Sierra Club argued that Maui
+Electric ever sought permission to do so. Indeed, the
+record indicates that one of the features of the
+Agreement was to eliminate the capacity payments that
+Maui Electric was paying to HC & S under the existing
+agreement. Accordingly, the requirement of a hearing
+provided for in HRS § 269-27[.2](d) is not applicable
+to the Application in this case.
+
+Id.
+As in MECO, LOL does not argue that the PUC authorized
+an interim increase in HELCO’s base rates when it approved the
+
+14
+
+(...continued)
+hearing, may allow payments made by the public utility
+to nonfossil fuel producers for firm capacity and
+related revenue taxes to be recovered by the public
+utility through an interim increase in rates[.]
+
+(Emphases added).
+
+29
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+Amended PPA, or that HELCO sought permission to impose such an
+increase.
+
+As such, the PUC was not required to hold a contested
+
+case hearing under HRS § 269-27.2(d) prior to approving the
+Amended PPA.
+(C)
+
+Constitutional Due Process
+
+LOL argues that a contested case hearing was required
+by constitutional due process prior to the PUC’s approval of the
+Amended PPA.
+
+As set forth below, we agree.
+
+This court engages in a two-step inquiry when
+evaluating claims of a due process right to a hearing:
+
+“(1) is
+
+the particular interest which [the] claimant seeks to protect by
+a hearing ‘property’ within the meaning of the due process
+clauses of the federal and state constitutions, and (2) if the
+interest is ‘property,’ what specific procedures are required to
+protect it.”
+
+Sandy Beach Def. Fund v. City Council of Honolulu,
+
+70 Haw. 361, 376, 773 P.2d 250, 260 (1989) (citing Aguiar v. Haw.
+Hous. Auth., 55 Haw. 478, 495, 522 P.2d 1255, 1266 (1974)).
+Accordingly, to determine whether LOL was entitled to a
+contested case hearing pursuant to constitutional due process, we
+must first determine whether LOL possesses “an interest which
+qualifies as ‘property’ within the meaning of the constitution.”
+Id.
+
+If LOL does possess such a property interest, we must then
+
+consider whether a contested case hearing was required to protect
+that interest.
+
+Id.
+
+30
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+(1)
+
+Constitutionally Cognizable
+Property Interest
+
+“[A] protected property interest exists in a benefit —
+tangible or otherwise — to which a party has a legitimate claim
+of entitlement.”
+
+MECO, 141 Hawaii at 260, 408 P.3d at 12
+
+(internal quotation marks omitted) (citing Sandy Beach Def. Fund,
+70 Haw. at 377, 773 P.2d at 260).
+
+This court has explained that:
+
+The legitimate claims of entitlement that constitute
+property interests are not created by the due process
+clause itself. Instead, “they are created and their
+dimensions are defined by existing rules or
+understanding that stem from an independent source
+such as state law — rules or understanding that secure
+certain benefits and that support claims of
+entitlement to those benefits.”
+
+Id. (quoting In re Īao Ground Water Mgmt. Area High-Level Source
+Water Use Permit Applications, 128 Hawaii 228, 241, 287 P.3d
+129, 142 (2012)).
+LOL argues that it was entitled to due process to
+protect its constitutional right to a clean and healthful
+environment provided by article XI, section 9 of the Hawaii
+Constitution and HRS Chapter 269.
+
+Article XI, section 9
+
+provides:
+Each person has the right to a clean and healthful
+environment, as defined by laws relating to
+environmental quality, including control of pollution
+and conservation, protection and enhancement of
+natural resources. Any person may enforce this right
+against any party, public or private, through
+appropriate legal proceedings, subject to reasonable
+limitations and regulation as provided by law.
+
+In MECO, this court similarly considered whether the
+
+31
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+PUC violated Sierra Club’s due process rights by approving a
+power purchase agreement between a utility company and a producer
+of electricity without holding a contested case hearing to
+consider the environmental impacts of approving the agreement.
+Id. at 260-65, 408 P.3d at 12-17.
+
+This court recognized that
+
+Sierra Club’s interest in its right to a clean and healthful
+environment, as defined by laws relating to environmental
+quality, is a property interest protected by due process, as it
+is a substantive right guaranteed by the Hawaii Constitution.
+Id. at 260-61, 408 P.3d at 12-13.
+This court then determined that “HRS Chapter 269 is a
+law relating to environmental quality that defines the right to a
+clean and healthful environment under article XI, section 9 by
+providing that express consideration be given to reduction of
+[GHG] emissions in the decision-making of the Commission.”
+at 264, 408 P.3d at 16.
+
+Id.
+
+This court held that Sierra Club’s
+
+assertion of a right to a clean and healthful environment, as
+defined by HRS Chapter 269, therefore established a protectable
+property interest under article XI, section 9 and HRS Chapter
+269.
+
+Id.
+Like the appellant in MECO, LOL seeks to protect its
+
+property interest in a clean and healthful environment, as
+defined by HRS Chapter 269.
+
+LOL stated in the 2017 Docket that:
+
+Life of the Land is a non-profit Hawaii-based
+organization. Our members are very deeply concerned
+about climate change, biodiversity, and the spread of
+
+32
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+invasive species. Life of the Land believes that the
+efforts to protect our archipelago from the ravages of
+climate change, and the introduction of alien species
+has not been adequately protected and funded by
+legislative actions.
+
+LOL asserts that “its members are located in Hawaii
+and are directly concerned with preventing climate change
+impacts, biodiversity, and the spread of invasive species, all of
+which are affected by GHG emissions, as well as other
+environmental and public interest impacts of [the] PUC’s
+decisionmaking on the [Amended PPA].”
+
+Consequently, pursuant to
+
+article XI, section 9 of the Hawaii Constitution and HRS Chapter
+269, as interpreted by this court in MECO, LOL has shown a
+constitutionally cognizable property interest in this case.
+(2)
+
+A Contested Case Hearing was
+Required
+
+Having determined that LOL has demonstrated a protected
+property interest in a clean and healthful environment as defined
+by HRS Chapter 269, “we next consider what procedures due process
+requires in this case.”
+17.
+
+MECO, 141 Hawaii at 265, 408 P.3d at
+
+When determining the procedures required to comply with
+
+constitutional due process, we consider the following three
+factors:
+
+“(1) the private interest which will be affected; (2)
+
+the risk of an erroneous deprivation of such interest through the
+procedures actually used, and the probable value, if any, of
+additional or alternative procedural safeguards; and (3) the
+governmental interest, including the burden that additional
+
+33
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+procedural safeguards would entail.”
+
+Sandy Beach Def. Fund, 70
+
+Haw. at 378, 773 P.2d at 261 (citations omitted).
+
+Upon
+
+consideration of each of these factors, we conclude that a
+contested case hearing was required.
+First, the private interest to be affected is LOL’s
+right to a clean and healthful environment, which “includes the
+right that explicit consideration be given to reduction of [GHG]
+emissions in Commission decision-making, as provided for in HRS
+Chapter 269.”
+
+MECO, 141 Hawaii at 265, 408 P.3d at 17.
+
+The
+
+Amended PPA involves the construction and operation of a biomass
+combustion facility by Hu Honua, and reliance on the facility by
+HELCO for an extended term of thirty years.
+
+As in MECO, as part
+
+of the 2017 Docket, the PUC was asked to consider the
+reasonableness of the energy charges implicated by the Amended
+PPA, and to determine whether the arrangement was prudent and in
+the public interest.
+
+This “would necessarily include an
+
+evaluation of the hidden and long-term costs of the activities”
+of the Hu Honua facility.
+
+Id. at 266, 408 P.3d at 18.
+
+Because
+
+the PUC’s determinations of these issues would require
+consideration of the level of GHG emissions generated by the Hu
+Honua facility, LOL’s right to a clean and healthful environment,
+as defined by HRS Chapter 269, was directly affected by the PUC’s
+approval of the Amended PPA under MECO.
+Further, the PUC’s 2017 D&O concluded that the Amended
+PPA was “consistent with HRS chapter 269” and was approved based
+34
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+in part on “the State’s need to limit its dependence on fossil
+fuels and mitigate against volatility in oil pricing.”
+
+The PUC’s
+
+decision thus implicated LOL’s constitutional right to a clean
+and healthful environment, as defined by HRS Chapter 269.
+Accordingly, the PUC’s approval of the Amended PPA under the
+terms of the 2017 D&O adversely affected LOL’s private interest.
+Second, the risk of erroneous deprivation is high in
+this case, absent the protections provided by a contested case
+hearing.
+
+Consistent with public comments in opposition to the
+
+project, LOL posits that the PUC’s approval of the Amended PPA
+could have adverse environmental impacts.
+
+Yet, the restricted
+
+scope of the 2017 Docket prevented LOL from addressing these
+potential impacts.
+
+See MECO, 141 Hawaii at 266, 408 P.3d at 18
+
+(risk of erroneous deprivation of Sierra Club’s interest was high
+due to potential impact on air quality and absence of
+opportunities to be heard concerning electricity producer’s
+performance under the agreement).
+Finally, regarding the governmental interest, the
+burden of affording LOL a contested case hearing is slight
+because the PUC is already statutorily required to consider the
+long-term effects of its decisions.
+
+See id. (affording Sierra
+
+Club a hearing would not unduly burden the PUC in light of its
+statutory duty to consider the long-term effects of its
+decisions).
+Accordingly, and consistent with this court’s
+35
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+conclusion in MECO, a hearing conducted by the PUC was required
+by constitutional due process to protect LOL’s right to a clean
+and healthful environment, as defined by HRS Chapter 269.
+
+Id. at
+
+269, 408 P.3d at 21.
+ii.
+
+“Rights, Duties, and Privileges”
+
+A contested case hearing is one that is (1) required by
+law and (2) determines the rights, duties, and privileges of
+specific parties.
+
+MECO, 141 Hawaii at 258, 408 P.3d at 10
+
+(citing Kilakila, 131 Hawaii at 200, 317 P.3d at 34) (internal
+quotation marks omitted).
+
+Having determined that a contested
+
+case hearing was required by constitutional due process, the
+question becomes whether the 2017 Docket, in which the PUC
+approved the Amended PPA, constituted a contested case hearing.
+We conclude that the 2017 Docket was a contested case hearing
+because the hearing required by law would have determined HELCO’s
+rights, duties, and privileges.
+This court has explained that:
+HRS § 91–1 [Supp. 2018] does not contain the
+requirement that the hearing be a “trial-type
+evidentiary hearing” or that the hearing exhibit a
+particular level of “adversarial” quality. Rather,
+. . . there are only two requirements for a hearing to
+be regarded as a contested case hearing: (1) that the
+hearing be required by law and (2) that the hearing
+determine the rights, duties, or privileges of
+specific parties.
+
+E & J Lounge Operating Co. v. Liquor Comm’n of City & Cty. of
+Honolulu, 118 Hawaii 320, 333, 189 P.3d 432, 445 (2008).
+In Kilakila, the Board of Land and Natural Resources
+36
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+(BLNR) approved an application submitted by the University of
+Hawaii (UH) to permit construction of astronomy facilities near
+the summit of Haleakalā on Maui.
+
+131 Hawaii 193, 317 P.3d 27.
+
+The circuit court dismissed an appeal of the BLNR’s decision for
+lack of jurisdiction under HRS § 91-14 because no formal
+contested case hearing had been held.
+196, 317 P.3d at 30.
+
+The ICA affirmed.
+
+Id. at
+
+This court determined that, although no
+
+formal contested case hearing occurred, the BLNR proceedings that
+resulted in the granting of UH’s application constituted a
+contested case hearing.
+
+Id. at 200-02, 317 P.3d at 34-36.
+
+We first determined that UH’s application “necessitated
+a hearing by law - i.e., by the administrative rules governing
+[Department of Land and Natural Resources] and BLNR.”
+202, 317 P.3d at 36.
+
+Id. at
+
+We then stated the following regarding the
+
+“rights, duties, and privileges” requirement of a contested case
+hearing:
+In this case, no formal contested case hearing was
+actually held before the BLNR voted to grant the
+permit in this case, so the question becomes whether a
+formal hearing would have determined — or whether the
+proceedings that did take place determined — the
+“rights, duties, and privileges of specific parties.”
+The inquiry here is “directed at the party whose
+application was under consideration.” Thus, we focus
+on the rights, duties, and privileges of UH.
+. . . . UH’s proposed project involves construction
+of a substantial complex of astronomy facilities on
+conservation district land. . . . UH could not
+legally commence that construction without first
+submitting an application for a permit and having that
+application reviewed and approved by BLNR. Approval,
+including any conditions attached thereto, or denial
+
+37
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+of the application clearly implicates whether UH would
+or would not be able to engage in the requested use of
+building astronomy facilities at the telescope project
+site. Thus, a formal contested case hearing approving
+o[r] denying UH’s application would have determined
+UH’s rights, duties, or privileges with regard to the
+project. Even in the absence of a formal contested
+case hearing, we point out that the proceedings that
+otherwise took place, including the vote to grant the
+permit, in fact did determine UH’s rights, duties, and
+privileges.
+
+Id. (emphases added) (citations omitted).
+Because approval of UH’s permit was required before it
+could construct astronomy facilities at the project site, the
+proceedings that took place determined UH’s rights, duties, and
+privileges.
+
+Id.
+
+We therefore concluded that, although no formal
+
+contested case hearing was conducted, the BLNR proceedings
+nevertheless constituted a contested case hearing within the
+meaning of HRS § 91-14.
+
+Id.
+
+Similar to the BLNR proceedings at issue in Kilakila,
+no formal contested case hearing was held before the PUC approved
+the Amended PPA in the 2017 D&O.
+
+We must therefore address
+
+“whether a formal hearing would have determined - or whether the
+proceedings that did take place determined - the ‘rights, duties,
+and privileges’” of HELCO.
+
+Kilakila, 131 Hawaii at 202, 317
+
+P.3d at 36 (noting that the inquiry is “directed at the party
+whose application was under consideration”) (citation and
+quotation marks omitted).
+Pursuant to HRS § 269-27.2(c), HELCO and Hu Honua’s
+Amended PPA would be of no force and effect without approval by
+38
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+the PUC.
+
+Thus, had the PUC held a formal contested case hearing
+
+to determine whether the Amended PPA should be approved or
+rejected, that hearing would have determined the rights, duties,
+and privileges of HELCO.
+
+Even in the absence of a formal
+
+contested case hearing, the proceedings that took place in the
+2017 Docket resulted in the PUC’s approval of the Amended PPA,
+and therefore did in fact determine HELCO’s rights, duties, and
+privileges.
+
+Accordingly, the PUC’s proceedings in the 2017
+
+Docket constituted a contested case hearing within the meaning of
+HRS § 91-14.
+b.
+
+LOL Followed Agency Rules and Was Involved in the
+Contested Case
+
+Judicial review over an agency appeal under HRS § 91-14
+is only available where the claimant “followed the applicable
+agency rules and, therefore, [was] involved in the contested
+case.”
+
+MECO, 141 Hawaii at 258, 408 P.3d at 10 (quoting
+
+Kilakila, 131 Hawaii at 200, 317 P.3d at 34).
+
+Hu Honua, HELCO,
+
+and the PUC argue that LOL was not entitled to a contested case
+hearing because it failed to request such a hearing.
+
+As set
+
+forth below, this argument is without merit, as LOL was not
+required to request a contested case hearing.
+i.
+
+A Request for a Contested Case Hearing Was
+Not Required Pursuant to Administrative Rule
+
+Hu Honua argues that LOL was required to request a
+contested case hearing pursuant to HAR §§ 6-61-74 (effective
+
+39
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+1992-2018) and 6-61-55.15
+
+However, the PUC’s administrative
+
+rules do not contain such a requirement.
+
+HAR § 6-61-74 provided
+
+the substantive requirements for applications and petitions to
+the PUC generally, and HAR § 6-61-55 described the substance of
+an application to intervene as a party in a PUC proceeding.
+Neither of these rules, which remain effective in HAR title 16,
+chapter 601, requires a party to request a contested case
+hearing.
+
+15
+
+Moreover, no other rule that governs the rules of
+
+HAR § 6-61-74 provided:
+All applications and petitions shall:
+(1)
+
+State clearly and concisely the authorization or
+relief sought;
+
+(2)
+
+Cite the appropriate statutory provision or
+other authority under which commission
+authorization or relief is sought; and
+
+(3)
+
+In addition to specific requirements for
+particular types of applications (see
+subchapters 7 to 10), state the following:
+(A)
+
+The applicant's legal name and location of
+principal place of business, and, if a
+corporation, trust, association, or other
+organization, the state under whose laws
+the applicant was organized;
+
+(B)
+
+The name, title, and address of the person
+to whom correspondence or communications
+in regard to the application are to be
+addressed. Notices, orders, and other
+documents shall be served upon the person
+named, and that service shall be deemed to
+be service upon the applicant; and
+
+(C)
+
+If ex parte action or relief pending full
+hearing is sought, the necessity or
+emergency justifying the requested action.
+
+See infra note 22. HAR § 16-601-74 (effective Jan. 1, 2019)
+provides identical requirements.
+
+40
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+practice and procedure before the PUC imposes such a requirement.
+Furthermore, it is undisputed that LOL was involved in the PUC’s
+proceeding as a participant.
+
+Accordingly, judicial review over
+
+LOL’s appeal is not precluded on this basis.
+In contrast, HAR Chapter 13-1, governing the rules of
+practice and procedure before the Department of Land and Natural
+Resources, contains a requirement that a claimant “request a
+contested case and petition the board to hold a contested case
+hearing.”
+
+HAR § 13-1-29(a) (effective Feb. 27, 2009).16
+
+This
+
+court has recognized that “HAR § 13–1–29 is the applicable agency
+rule delineating the specific procedures for requesting a
+contested case hearing.”17
+
+16
+
+Hui Kakoo Aina Hoopulapula v. Bd. of
+
+HAR § 13-1-29(a) provides:
+On its own motion, the board may hold a contested case
+hearing. Others must both request a contested case
+and petition the board to hold a contested case
+hearing. An oral or written request for a contested
+case hearing must be made to the board no later than
+the close of the board meeting at which the subject
+matter of the request is scheduled for board
+disposition. An agency or person so requesting a
+contested case must also file (or mail a postmarked)
+written petition with the board for a contested case
+no later than ten calendar days after the close of the
+board meeting at which the matter was scheduled for
+disposition. For good cause, the time for making the
+oral or written request or submitting a written
+petition or both may be waived.
+
+(Emphasis added).
+17
+HAR § 13-1-29 has been amended slightly since this court decided
+Hui Kakoo Aina Hoopulapula. When the case was decided, HAR § 13-1-29(a)
+stated:
+
+A hearing on a contested matter may be requested by
+the board on its own motion or upon the written
+(continued...)
+
+41
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+Land & Nat. Res., 112 Hawaii 28, 40, 143 P.3d 1230, 1242 (2006),
+abrogated on other grounds by Tax Found. of Hawaii v. State,
+SCAP-16-462, 2019 WL 1292286 (Haw. Mar. 21, 2019).
+
+We noted that
+
+the appellants had made oral requests for a contested case
+hearing prior to the close of a BLNR meeting, but had failed to
+subsequently submit a written petition to the BLNR requesting a
+contested case hearing.
+
+Id.
+
+We thus determined that “inasmuch
+
+as the DLNR had properly promulgated specific procedures for a
+contested case hearing . . . and the Appellants failed to follow
+the requisite procedures, there was no contested case from which
+the Appellants could appeal, pursuant to HRS § 91-14(a).”
+
+Id. at
+
+41, 143 P.3d at 1243.
+In contrast, the PUC’s administrative rules do not
+require claimants to request a contested case hearing.
+
+Thus, LOL
+
+did not fail to adhere to the applicable agency rules in seeking
+judicial review of its agency appeal without requesting a
+
+17
+
+(...continued)
+petition of any government agency or any interested
+person who then properly qualifies to be admitted as a
+party. An oral or written request for a contested
+case hearing must be made by the close of the public
+hearing (if one is required) or the board meeting at
+which the matter is scheduled for disposition (if no
+public hearing is required). In either situation, the
+person or agency requesting the contested case hearing
+must file (or mail and postmark) a written petition
+with the board not later than ten days after the close
+of the public hearing or the board meeting, whichever
+is applicable. The time for making an oral or written
+request and submitting a written petition may be
+waived by the board.
+
+(Emphasis added).
+
+42
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+contested case hearing.
+ii.
+
+A Request for a Contested Case Hearing Was
+Not Required by Hawaii Case Law
+
+The PUC argues that “[t]his court’s case law on
+contested case hearings clearly indicates that a request for a
+contested case hearing is a necessary prerequisite to judicial
+review of the kind LOL seeks.”
+
+The PUC cites MECO, 141 Hawaii
+
+at 255, 408 P.3d at 7, Mauna Kea Anaina Hou v. Bd. of Land & Nat.
+Res., 136 Hawaii 376, 380, 363 P.3d 224, 228 (2015), Kilakila,
+131 Hawaii at 195, 204, 317 P.3d at 29, 38, Kaleikini v.
+Thielen, 124 Hawaii 1, 4, 237 P.3d 1067, 1070 (2010), and Pele
+Defense Fund, 77 Hawaii at 66, 881 P.2d at 1212, for the
+proposition that “at the very least, a party must have requested
+a contested case hearing before it can object to the denial of
+such a hearing.”
+
+To the contrary, this court’s case law does not
+
+require a party to request a hearing to gain access to the
+courts, where the relevant agency has not promulgated a rule
+requiring such a request and the party has participated in a
+contested case proceeding.
+A formal request for a contested case hearing is not a
+prerequisite for judicial review over an appeal under the cases
+cited by the PUC.
+
+In MECO, this court noted that, although the
+
+Sierra Club was not allowed to participate in the PUC’s
+proceeding, it formally requested a contested case hearing.
+MECO, 141 Hawaii at 255-57, 408 P.3d at 7-8.
+
+43
+
+This court did
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+not, however, hold that a formal request for a contested case
+hearing is a prerequisite for judicial review.
+
+Furthermore,
+
+MECO is distinguishable from the instant case because unlike the
+Sierra Club in MECO, LOL actively participated in the 2017
+Docket.
+
+Mauna Kea Anaina Hou, Kilakila, and Kaleikini are also
+
+distinguishable because each of those cases concerned appeals of
+BLNR decisions, and as explained supra, agency rules of the BLNR,
+unlike those of the PUC, require that a formal request for a
+contested case hearing be submitted to attain judicial review
+over an agency appeal.
+Pele Defense Fund, which involved an appeal of a
+Department of Health (DOH) decision, is similarly distinguishable
+because DOH rules provide that in order to obtain judicial
+review, an interested person seeking a contested case hearing
+must submit a complaint or application requesting such a
+hearing.18
+
+77 Hawaii at 69, 881 P.2d at 1215 (“Appellees
+
+submitted ‘Application[s] for Contested Case[s]’ on forms
+provided by the DOH and in full compliance with the agency’s
+rules.”).
+
+Accordingly, the cases cited by the PUC do not
+
+establish that LOL was required to request a contested case
+hearing as a prerequisite to judicial review.
+
+18
+
+DOH rules also allow the DOH to hold a contested case hearing on
+its own motion. See Pele Defense Fund, 77 Hawaii at 69 n.12, 881 P.2d 1215
+n.12.
+
+44
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+B.
+
+Standing
+In the context of administrative appeals brought
+
+pursuant to HRS § 91-14(a), this court has interpreted the
+concept of standing to be comprised of two components.19
+
+Jordan
+
+v. Hamada, 64 Haw. 451, 457-58, 643 P.2d 73, 75-76 (1982).
+“First, one must be a person aggrieved, inter alia, by a final
+decision and order in a contested case.
+
+Second, the aggrieved
+
+person must have participated in the contested case from which
+the decision affecting him resulted.”
+
+Id. (citation and internal
+
+quotation marks omitted); see also Mahuiki v. Planning Comm’n, 65
+Haw. 506, 515, 654 P.2d 874, 880 (1982).
+1.
+
+“Person Aggrieved”
+To be a person aggrieved, “one must be specially,
+
+personally, and adversely affected” by the final decision and
+order at issue.
+
+Life of the Land, Inc. v. Land Use Comm’n, 61
+
+Haw. 3, 7, 594 P.2d 1079, 1082 (1979) (quoting East Diamond Head
+Ass’n v. Zoning Board of Appeals, 52 Haw. 518, 523 n.5, 479 P.2d
+796, 799 n.5 (1971)).
+
+An unfavorable final decision and order is
+
+not enough to satisfy this prong of the analysis - “[t]here must
+be a special injury or damage to one’s personal or property
+rights[,] as distinguished from the role of being only a champion
+of causes.”
+
+Id.
+
+19
+
+HRS § 91-14(a) provides, in pertinent part, “[a]ny person
+aggrieved by a final decision and order in a contested case . . . is entitled
+to judicial review thereof under this chapter[.]” Pursuant to HRS § 91-1, the
+term “persons” includes individuals, associations, and public or private
+organizations.
+
+45
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+We have previously recognized the right to a clean and
+healthful environment, as defined by HRS Chapter 269, as a
+“legally protected interest” adequate to confer standing.
+
+MECO,
+
+141 Hawaii at 270-71, 408 P.3d at 22-23; see also Life of the
+Land v. Land Use Comm’n, 63 Haw. 166, 176-77, 177 n.10, 623 P.2d
+431, 441, 441 n.10 (1981).
+There is sufficient evidence in the record to
+demonstrate that the PUC’s approval of the Amended PPA specially,
+personally, and adversely affected LOL’s members.
+
+As set forth
+
+above, LOL is a Hawaii-based nonprofit organization comprised of
+members who live, work, and recreate in Hawaii.
+
+Such activity
+
+includes visiting and exploring the Big Island’s Hāmākua Coast,
+where the Hu Honua facility is located.
+
+LOL asserts that the Hu
+
+Honua facility’s use of biofuels for energy production may cause
+adverse environmental impacts on the Big Island.
+
+In addition to
+
+submitting several IRs regarding the GHG emissions associated
+with the Amended PPA, LOL submitted an IR to Hu Honua regarding
+the potential for ocean contamination caused by the improper
+disposal of wastewater at the facility.
+
+It also expressed
+
+concern regarding the environmental impacts associated with
+“acquiring bioenergy crops” from an area of the Big Island that
+already serves as a source for another biofuel facility, and
+whether the Hu Honua facility will “cut into the utilities[’]
+purchase of energy from existing and/or planned wind and solar
+
+46
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+farms.”20
+
+These impacts could affect the Big Island in general,
+
+and the Hāmākua Coast in particular.
+Thus, LOL has demonstrated an injury to its members,
+including their right to a clean and healthful environment as
+defined by HRS Chapter 269, due to the PUC’s approval of the
+Amended PPA.
+
+LOL has therefore satisfied the first prong of the
+
+standing analysis.
+
+See MECO, 141 Hawaii at 270-71, 408 P.3d at
+
+22-23; see also Sierra Club v. Hawaii Tourism Authority ex rel.
+Bd. of Directors, 100 Hawaii 242, 271, 59 P.3d 877, 906 (2002)
+(“An organization may sue on behalf of its members even though it
+
+20
+The PUC impliedly recognized this potential injury when it
+determined that, inter alia, “LOL’s concerns regarding the proposed project’s
+impact on existing renewable projects on the Big Island” were sufficient to
+satisfy the requirements of HAR § 6-61-56.
+
+The grounds for participation without intervention in PUC proceedings, as set
+forth by HAR § 6-61-56(c) were:
+(1)
+
+. . . [T]he direct and substantial interest of
+the applicant;
+
+(2)
+
+The applicant’s position regarding the matter in
+controversy;
+
+(3)
+
+The extent to which the participation will not
+broaden the issues or delay the proceeding;
+
+(4)
+
+The extent to which the applicant’s interest
+will not be represented by existing parties;
+
+(5)
+
+A statement of the expertise, knowledge or
+experience the applicant possesses with regard
+to the matter in controversy;
+
+(6)
+
+Whether the applicant can aid the commission by
+submitting an affirmative case; and
+
+(7)
+
+. . . [T]he relief desired.
+
+(Emphases added). HAR § 16-601-56(c) sets forth identical grounds for
+participation without intervention.
+
+47
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+has not been injured itself when:
+
+(1) its members would
+
+otherwise have standing to sue in their own right; (2) the
+interests the organization seeks to protect are germane to the
+organization's purpose; and (3) neither the claim asserted nor
+the relief itself requested requires the participation of
+individual members in the lawsuit”).
+2.
+
+Participation
+Although an aggrieved person must have participated in
+
+a contested case in order to invoke judicial intervention, we
+have not “conditioned standing to appeal from an administrative
+decision upon formal intervention in the agency proceeding.”
+Mahuiki, 65 Haw. at 515, 654 P.2d at 880 (quoting Jordan, 62 Haw.
+at 449, 616 P.2d at 1371).
+
+Where “the appellants have been
+
+aggrieved by the action of the PUC, and where they were involved
+as participants during the [contested case,] the appellants may
+challenge the order of the PUC in this court.”
+
+Life of the Land,
+
+Inc. v. Land Use Comm’n, 61 Haw. at 9, 594 P.2d at 1083 (internal
+quotation marks and ellipsis omitted) (quoting In Re Application
+of Hawaiian Electric Co., 56 Haw. 260, 265, 535 P.2d 1102, 1106
+(1975)).
+
+Because LOL was involved in the 2017 Docket as a
+
+participant, it has met the second prong of the analysis.
+
+LOL
+
+therefore has standing under HRS § 91-14(a) to appeal the PUC’s
+2017 D&O and the denial of its Motion to Upgrade Status.
+C.
+
+Merits of LOL’s Appeal
+Pursuant to HRS § 269-6(b), the PUC must explicitly
+48
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+consider the effect of the State’s reliance on fossil fuels on,
+inter alia, GHG emissions.
+
+We have characterized this as a
+
+“requirement to reduce reliance on fossil fuels and to consider
+[GHG] emissions[, which] applies to the fulfillment of all of the
+[PUC’s] duties.”
+
+MECO, 141 Hawaii at 263, 408 P.3d at 15.
+
+That
+
+the facility involved in the Amended PPA is a biofuel facility
+does not absolve the PUC of this duty.
+
+Thus, in approving the
+
+Amended PPA, the PUC was required to expressly consider the
+reduction of GHG emissions.
+
+Id. at 264, 408 P.3d at 16.
+
+Further, LOL was entitled to a meaningful opportunity to be heard
+on the issue of the Amended PPA’s impact on its constitutional
+right to a clean and healthful environment, as defined by HRS
+Chapter 269.
+The findings and conclusions in the PUC’s 2017 D&O do
+not show that the PUC expressly considered the reduction of GHG
+emissions in reaching its decision.
+
+The PUC also denied LOL due
+
+process by preventing LOL from addressing the impacts of
+approving the Amended PPA on LOL’s right to a clean and healthful
+environment, as defined by HRS Chapter 269.
+1.
+
+The PUC Failed to Satisfy its Statutory Obligations
+Under HRS § 269-6(b)
+HRS § 269-6(b) provides:
+The public utilities commission shall consider the
+need to reduce the State’s reliance on fossil fuels
+through energy efficiency and increased renewable
+energy generation in exercising its authority and
+duties under this chapter. In making determinations
+of the reasonableness of the costs of utility system
+
+49
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+capital improvements and operations, the commission
+shall explicitly consider, quantitatively or
+qualitatively, the effect of the State’s reliance on
+fossil fuels on price volatility, export of funds for
+fuel imports, fuel supply reliability risk, and [GHG]
+emissions. The commission may determine that
+short-term costs or direct costs that are higher than
+alternatives relying more heavily on fossil fuels are
+reasonable, considering the impacts resulting from the
+use of fossil fuels.
+
+(Emphases added).
+In MECO, this court observed that “[i]n 2011, the
+legislature amended HRS § 269-6(b) to make it mandatory for the
+Commission when exercising its duties to recognize the ‘need’ to
+reduce reliance on fossil fuels and to ‘explicitly consider’ the
+levels and effect of [GHG] emissions[.]”
+P.3d at 14 (emphasis in original).
+
+141 Hawaii at 262, 408
+
+This court determined that “a
+
+primary purpose of the [2011 amendment] was to require the
+Commission to consider the hidden and long-term costs of reliance
+on fossil fuels, which subjects the State and its residents to
+increased air pollution and potentially harmful climate change
+due to the release of harmful [GHGs].”21
+
+Id. at 263, 408 P.3d at
+
+21
+Relatedly, we note that the State has committed to furthering the
+goals of the Paris Climate Agreement. 2018 Haw. Sess. Laws. Act 15, § 1 at
+46-47 (“The legislature notes that Hawaii, as part of the United States
+Climate Alliance . . . committed to upholding the objectives of the 2015 Paris
+Agreement.”). This commitment is advanced through HRS Chapter 225P, which
+provides, in part:
+
+The purpose of [the] chapter is to address the effects
+of climate change to protect the State’s economy,
+environment, health, and way of life. [The] chapter
+establishes the framework for the State to:
+1)
+
+Adapt to the inevitable impacts of global
+warming and climate change, including rising sea
+(continued...)
+
+50
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+15 (quoting H. Stand. Comm. Rep. No. 1004, in 2011 House Journal,
+at 1332) (internal quotation marks omitted).
+
+This court then
+
+concluded that “HRS § 269-6(b)’s requirement to reduce reliance
+on fossil fuels and to consider [GHG] emissions applies to the
+fulfillment of all of the Commission’s duties.”
+added).
+
+Id. (emphasis
+
+Accordingly, pursuant to MECO, HRS § 269-6(b) requires
+
+that “express consideration be given to reduction of [GHG]
+emissions in the decision-making of the Commission.”
+408 P.3d at 16.
+
+Id. at 264,
+
+Thus, it is clear that the PUC was required to
+
+expressly consider the reduction of GHG emissions in deciding
+whether to approve the Amended PPA.
+In determining whether the PUC satisfied this duty
+pursuant to HRS § 269-6(b), this court “should ensure that the
+agency . . . [made] its findings reasonably clear.
+
+The parties
+
+and the court should not be left to guess . . . the precise
+finding of the agency.”
+
+Kauai Springs, Inc. v. Planning Comm’n
+
+of Cty. of Kauai, 133 Hawaii 141, 164, 324 P.3d 951, 974 (2014)
+(citation and quotation marks omitted).
+
+“An agency’s findings
+
+should be sufficient to allow the reviewing court to track the
+
+21
+
+(...continued)
+levels, temperatures, and other risk factors;
+and
+2)
+
+Mitigate its greenhouse gas emissions by
+sequestering more atmospheric carbon and
+greenhouse gases than the State produces as
+quickly as practicable, but no later than 2045.
+
+HRS § 225P-1 (Supp. 2018).
+
+51
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+steps by which the agency reached its decision.”
+
+Id. (citation
+
+and quotation marks omitted); see also In re Waiola O Molokai,
+Inc., 103 Hawaii 401, 432, 83 P.3d 664, 695 (2004) (explaining
+that any presumption of validity, given to an agency’s decision,
+“presupposes that the agency has grounded its decision in
+reasonably clear” findings of fact and conclusions of law).
+Because the 2017 D&O does not reflect that the PUC
+explicitly considered the reduction of GHG emissions in approving
+the Amended PPA, we conclude that the PUC failed to comply with
+HRS § 269-6(b).
+
+The only reference to GHG emissions in the 2017
+
+D&O appears in the “Procedural Background” section.
+
+It reads,
+
+“[c]omments in opposition to the Project tended to focus on
+potential adverse environmental impacts, an expected rise in
+[GHG] emissions, . . . and general objections to biomass as a
+fuel resource.”
+
+The 2017 D&O does not provide responses to those
+
+comments, nor is there any mention of GHG emissions in the PUC’s
+“Statement of Issues” or “Discussion and Findings.”
+
+Further,
+
+although the PUC restated HELCO’s representations that the
+biomass facility could potentially save approximately 15,700
+barrels of fuel per year and contribute to the State’s RPS goals,
+it made no express findings or conclusions regarding the biomass
+facility’s GHG emissions.
+In its findings and conclusions, the PUC found that Hu
+Honua’s biomass facility may displace fossil fuel generation
+resources and accelerate the retirement of fossil fuel plants,
+52
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+and noted that its decision to approve the Amended PPA was based
+on “factors such as the State’s need to limit its dependence on
+fossil fuels and mitigate against volatility in oil pricing.”
+These findings and conclusions do not constitute “express
+consideration” of the reduction of GHG emissions, as provided for
+under HRS § 269-6(b).
+
+See MECO, 141 Hawaii at 264, 408 P.3d at
+
+16.
+In MECO, Maui Electric requested that the PUC determine
+whether its proposed PPA was prudent and in the public interest,
+and consider the reasonableness of the associated energy charges.
+Id. at 265-66, 408 P.3d at 17-18.
+
+This court explained that when
+
+reviewing the PPA, the PUC was required under HRS § 269-6(b) to
+consider the hidden and long-term costs of energy produced under
+the Agreement, including the potential for increased air
+pollution due to GHG emissions.
+
+Id. at 266, 408 P.3d at 18.
+
+This court further stated that the consideration of potential
+health risks is “axiomatic” in the PUC’s analysis of the level of
+GHG emissions, “as contemplated by the legislature when it
+amended HRS § 269-6(b) in 2011[.]”
+
+Id.
+
+Similarly, in the instant case, HELCO requested that
+the PUC determine whether the energy charges under the Amended
+PPA were reasonable and if its arrangement with Hu Honua was
+prudent and in the public interest.
+
+In its review of the Amended
+
+PPA, the PUC found that the “purchased power costs and
+arrangements set forth in the [Amended] PPA appear reasonable,
+53
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+prudent, in the public interest, and consistent with HRS chapter
+269 in general, and HRS § 269-27.2(c), in particular.”
+
+The PUC
+
+did not, however, substantiate this finding by addressing the
+hidden and long-term environmental and public health costs of
+reliance on energy produced at the proposed facility, as
+required.
+
+These costs include “the potential for increased air
+
+pollution as a result of GHG emissions” directly attributed to
+energy generation at the facility, as well as GHG emissions
+produced at earlier stages in the production process, such as
+fuel production and transportation.
+
+See MECO, 141 Hawaii at
+
+263, 408 P.3d at 15 (“a primary purpose of [amending HRS § 2696(b)] was to require the [PUC] to consider the hidden and longterm costs of reliance on fossil fuels, which subjects the State
+and its residents to increased air pollution and potentially
+harmful climate change due to the release of harmful [GHGs].”)
+(internal quotation marks and citation omitted).
+Accordingly, the 2017 D&O was not supported by findings
+regarding GHG emissions of the Hu Honua facility “sufficient to
+allow the reviewing court to track the steps by which the [PUC]
+reached its decision.”
+324 P.3d at 974.
+
+Kauai Springs, Inc., 133 Hawaii at 164,
+
+Without such explicit findings, this court
+
+cannot determine whether the PUC adequately considered GHG
+emissions as required by HRS § 269-6(b).
+“A remand pursuant to HRS § 91–14(g) is appropriate if
+an agency’s findings are incomplete and provide no basis for
+54
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+review.”
+
+Int’l Bhd. of Elec. Workers, Local 1357 v. Hawaiian
+
+Tel. Co., 68 Haw. 316, 328, 713 P.2d 943, 953 (1986) (citing In
+re Kauai Elec. Div. of Citizens Util. Co., 60 Haw. 166, 185–86,
+590 P.2d 524, 538 (1978)).
+
+HRS § 91–14(g) provides as follows:
+
+Upon review of the record, the court may affirm the
+decision of the agency or remand the case with
+instructions for further proceedings; or it may
+reverse or modify the decision and order if the
+substantial rights of the petitioners may have been
+prejudiced because the administrative findings,
+conclusions, decisions, or orders are:
+(1) In violation of constitutional or statutory
+provisions;
+. . . .
+(6) Arbitrary, or capricious, or characterized by
+abuse of discretion or clearly unwarranted exercise of
+discretion.
+
+Where the PUC’s failure to make sufficient findings
+leaves this court unable to determine the validity of its
+conclusions, it is appropriate to remand the case to the PUC for
+further proceedings, pursuant to HRS § 91-14(g), in order for the
+PUC to make findings necessary for judicial review.
+
+Application
+
+of Hawaiian Tel. Co., 54 Haw. 663, 669, 513 P.2d 1376, 1379
+(1973); see also In re Kauai Elec. Div. of Citizens Util. Co. 60
+Haw. at 185, 590 P.2d at 537 (remanding the case to the PUC for
+further proceedings, pursuant to HRS § 91-14(g), because the
+PUC’s order was “unsupported by findings of fact and
+conclusions”).
+Here, remand to the PUC for further proceedings is
+appropriate.
+
+On remand, the PUC shall give explicit
+55
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+consideration to the reduction of GHG emissions in determining
+whether to approve the Amended PPA, and make the findings
+necessary for this court to determine whether the PUC satisfied
+its obligations under HRS § 269-6(b).
+2.
+
+The PUC’s Failure to Provide LOL an Opportunity to Be
+Meaningfully Heard in the 2017 Docket Denied LOL Due
+Process
+“The basic elements of procedural due process of law
+
+require notice and an opportunity to be heard at a meaningful
+time and in a meaningful manner before governmental deprivation
+of a significant property interest.”
+
+Sandy Beach Def. Fund, 70
+
+Haw. at 378, 773 P.2d at 261 (citing Matthews v. Eldridge, 424
+U.S. 319, 333 (1976)).
+
+As discussed supra, this court has
+
+recognized that the “right to a clean and healthful environment,
+as defined by laws relating to environmental quality,” is a
+property interest protected by due process because it is a
+substantive right guaranteed by article XI, section 9 of the
+Hawaii Constitution.
+at 5, 12-13.
+
+MECO, 141 Hawaii at 253, 260-61, 408 P.3d
+
+In MECO, after concluding that Sierra Club’s
+
+asserted property interest required a hearing by the PUC to
+comply with due process, this court observed that procedural due
+process includes “the right to submit evidence and argument on
+. . . the impact of the Agreement on the asserted property
+interest.”
+
+Id. at 269, 408 P.3d at 21 (citation omitted).
+
+court then stated that the PUC “has the authority to set
+limitations in conducting the proceedings so long as the
+56
+
+This
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+procedures sufficiently afford an opportunity to be heard at a
+meaningful time and in a meaningful manner on the issue of the
+Agreement’s impact on the asserted property interest.”
+
+Id. at
+
+270, 408 P.3d at 22.
+As explained above, procedural due process necessitated
+a contested case hearing because the 2017 D&O, which approved the
+Amended PPA, adversely affected LOL’s constitutionally protected
+right to a clean and healthful environment, as defined by HRS
+Chapter 269.
+
+See id. at 265, 408 P.3d at 17 (agency hearing
+
+required “when the challenged State action adversely affects the
+constitutionally protected rights of others”) (quoting Pele Def.
+Fund, 77 Hawaii at 68, 881 P.2d at 1214) (internal quotation
+marks omitted).
+
+Accordingly, LOL was entitled to an opportunity
+
+to be heard at a meaningful time and in a meaningful manner
+regarding the Amended PPA’s impact on its right to a clean and
+healthful environment, as defined by HRS Chapter 269.
+
+See id. at
+
+270, 408 P.3d at 22.
+LOL was not afforded a sufficient opportunity to
+address the Amended PPA’s impact on its constitutional right to a
+clean and healthful environment, as defined by HRS Chapter 269,
+throughout the 2017 Docket.
+
+The PUC allowed LOL to participate
+
+in the 2017 Docket with respect to two sub-issues: (2.a.i)
+whether the energy price components in the Amended PPA properly
+reflect the cost of biomass fuel supply, and (2.b) whether
+HELCO’s purchase power arrangements under the Amended PPA are
+57
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+prudent and in the public interest.
+
+LOL argued that the proposed
+
+biomass facility was not in the public interest and should be
+rejected.
+
+LOL further argued that “the issue of climate change
+
+is embedded in both issues the Commission assigned to LOL to
+consider[,]” that Hu Honua’s proposal failed to fully address the
+environmental impact of its operations, and that Hu Honua’s
+claims of carbon-neutrality were unsupported.
+However, HELCO refused to respond to LOL’s IRs
+regarding environmental impacts of the project and production of
+an environmental site assessment because those topics were
+outside the scope of LOL’s participation.
+
+Hu Honua similarly
+
+objected to LOL’s IRs regarding loss of stored carbon from tree
+harvesting, environmental impacts of the project, and production
+of an environmental site assessment as outside the scope of LOL’s
+restricted participation.
+
+LOL filed a Motion to Compel, seeking
+
+lease agreements and a forestry operations report from Hu Honua,
+in order to address the cost of biomass fuel supply and GHG
+emissions from the facility’s operations.
+
+However, the PUC
+
+denied LOL’s motion, finding that “LOL’s Motion to Compel, if
+granted, would cause an undue delay in this proceeding.”
+Thus, although the 2017 D&O acknowledged LOL’s attempts
+to discuss the Amended PPA’s impacts on LOL’s right to a clean
+and healthful environment, as defined by HRS Chapter 269, in
+addressing whether the Amended PPA is prudent and in the public
+interest, the PUC did not afford LOL an opportunity to be heard
+58
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+regarding this issue at a meaningful time and in a meaningful
+manner.
+
+Rather, the PUC prevented LOL from meaningfully
+
+addressing the impact that approving the Amended PPA would have
+on LOL’s asserted property interest, based on its determination
+that LOL’s environmental concerns were beyond the scope of the
+2017 Docket.
+
+Accordingly, the PUC’s procedures violated LOL’s
+
+due process right to be meaningfully heard regarding the impacts
+that approving the Amended PPA would have on LOL’s right to a
+clean and healthful environment, as defined by HRS Chapter 269.
+Due to the PUC’s failure to allow LOL to present
+evidence and argument concerning its right to a clean and
+healthful environment, as defined by HRS Chapter 269, this court
+must vacate the PUC’s 2017 D&O and remand this case to the PUC
+for a hearing that complies with procedural due process.
+
+In
+
+order to comply with statutory and constitutional requirements,
+the PUC’s post-remand hearing must afford LOL an opportunity to
+meaningfully address the impacts of approving the Amended PPA on
+LOL’s members’ right to a clean and healthful environment, as
+defined by HRS Chapter 269.
+
+The hearing must also include
+
+express consideration of GHG emissions that would result from
+approving the Amended PPA, whether the cost of energy under the
+Amended PPA is reasonable in light of the potential for GHG
+emissions, and whether the terms of the Amended PPA are prudent
+and in the public interest, in light of its potential hidden and
+long-term consequences.
+
+See MECO, 141 Hawaii at 269, 408 P.3d
+59
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+at 21.
+3.
+
+The PUC’s Denial of LOL’s Motion to Upgrade Status
+LOL asserts that the PUC’s denial of its Motion to
+
+Upgrade Status in Order No. 34651 was clearly erroneous and
+constituted an abuse of discretion.
+
+LOL further argues that its
+
+“participant” status and the restriction of its participation to
+two issues in the 2017 Docket denied it a sufficient opportunity
+to protect its constitutional right to a clean and healthful
+environment, as defined by HRS Chapter 269.
+Hu Honua, HELCO, and the PUC argue that it was within
+the PUC’s discretion to find that LOL’s motion failed to satisfy
+the factors under HAR § 6-61-55 for party-intervenor status.
+HELCO additionally argues that LOL is time-barred from
+challenging the PUC’s denial because it did not do so within the
+thirty-day time period required by HRS § 91-14(b).
+
+We conclude
+
+that LOL’s appeal of Order No. 34651 is timely, but we need not
+determine whether the PUC abused its discretion or violated LOL’s
+due process right in denying LOL’s Motion to Upgrade Status.
+a.
+
+Timeliness of LOL’s Appeal of Order No. 34651
+Denying LOL’s Motion to Upgrade Status
+
+LOL’s appeal of Order No. 34651 is timely.
+
+Under HRS
+
+§ 91-14(b), appeals are timely where the appellant files its
+notice of appeal “within thirty days after service of the
+certified copy of the final decision and order of the agency[.]”
+HELCO cites Kilakila, 131 Hawaii at 195, 317 P.3d at 29, for the
+
+60
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+proposition that “denied requests to intervene are final orders
+as defined in HRS § 91-14,” and argues that Order No. 34651,
+which denied LOL’s Motion to Upgrade Status to party-intervenor,
+was a “final decision and order” subject to the thirty-day time
+limit under HRS § 91-14(b).
+
+Because Order No. 34651 was issued
+
+on June 23, 2017 and LOL appealed that determination sixty-four
+days later on August 26, 2017, HELCO contends that LOL’s appeal
+is untimely.
+In Kilakila, this court considered whether the BLNR’s
+decision to approve a permit, without either granting or denying
+Kilakila’s request for a contested case hearing, was a “final
+decision and order” within the meaning of HRS § 91-14.
+Hawaii at 202-03, 317 P.3d at 36-37.
+
+131
+
+We noted that in
+
+Kaleikini, 124 Hawaii at 26, 237 P.3d at 1092, the “DLNR’s
+decision to deny Kaleikini’s request for a contested case hearing
+constituted a final decision and order of the agency because it
+ended the litigation.”
+
+Id. at 203, 317 P.3d at 37 (internal
+
+quotations omitted).
+
+We then determined that the BLNR’s vote to
+
+grant the permit effectively denied Kilakila’s request for a
+contested case hearing, and was therefore a “final decision and
+order,” as it provided the requisite finality to enable Kilakila
+to appeal.
+
+Id.
+Here, Order No. 34651 Denying LOL’s Motion to Upgrade
+
+Status was not required to be appealed within thirty days because
+it did not constitute a “final decision and order” of the PUC.
+61
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+The order denied LOL party status and confirmed LOL’s limited
+participant status, but did not resolve all other outstanding
+issues in the 2017 Docket.
+
+Thus, unlike the agency decisions in
+
+Kaleikini and Kilakila, which provided appellants the “requisite
+finality” by “end[ing] the litigation[,]” the PUC’s Order No.
+34651 merely maintained LOL’s participation in the proceeding.
+See Kilakila, 131 Hawaii at 203, 317 P.3d at 37.
+
+Therefore,
+
+LOL’s appeal would have been unripe until the PUC issued the 2017
+D&O, which represents the “final decision and order” of the PUC.
+The PUC issued the 2017 D&O on July 28, 2017, which, along with
+Order No. 34651 Denying LOL’s Motion to Upgrade Status, was
+appealed by LOL on August 26, 2017.
+
+As LOL filed its notice of
+
+appeal twenty-nine days after the PUC’s 2017 D&O, its appeal is
+timely.
+b.
+
+We Need Not Decide Whether the PUC Abused its
+Discretion or Violated Due Process by Denying
+LOL’s Motion to Upgrade Status
+
+HAR § 6-61-55 set forth nine factors for the PUC to
+consider in determining whether to grant a motion to intervene as
+a party in a PUC proceeding.
+
+The rule further provided that the
+
+PUC would not grant intervention “except on allegations which are
+reasonably pertinent to and do not unreasonably broaden the
+issues already presented.”22
+22
+
+Pursuant to HAR § 6-61-55(a),
+
+HAR § 6-61-55 provided:
+(a)
+
+A person may make an application to intervene
+and become a party by filing a timely written
+
+(continued...)
+62
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+(...continued)
+motion in accordance with sections 6-61-15 to
+6-61-24, section 6-61-41, and section 6-61-57,
+stating the facts and reasons for the proposed
+intervention and the position and interest of
+the applicant.
+(b)
+
+The motion shall make reference to:
+(1)
+
+The nature of the applicant’s statutory or
+other right to participate in the hearing;
+
+(2)
+
+The nature and extent of the applicant’s
+property, financial, and other interest in
+the pending matter;
+
+(3)
+
+The effect of the pending order as to the
+applicant’s interest;
+
+(4)
+
+The other means available whereby the
+applicant's interest may be protected;
+
+(5)
+
+The extent to which the applicant’s
+interest will not be represented by
+existing parties;
+
+(6)
+
+The extent to which the applicant’s
+participation can assist in the
+development of a sound record;
+
+(7)
+
+The extent to which the applicant’s
+participation will broaden the issues or
+delay the proceeding;
+
+(8)
+
+The extent to which the applicant’s
+interest in the proceeding differs from
+that of the general public; and
+
+(9)
+
+Whether the applicant's position is in
+support of or in opposition to the relief
+sought.
+
+(c)
+
+The motion shall be filed and served by the
+applicant in accordance with sections 6-61-21
+and 6-61-57.
+
+(d)
+
+Intervention shall not be granted except on
+allegations which are reasonably pertinent to
+and do not unreasonably broaden the issues
+already presented.
+
+Other than the HAR section numbers it references, HAR 16-601-55
+
+(continued...)
+63
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+“[i]ntervention as a party in a proceeding before the PUC is not
+a matter of right[,] but is a matter resting within the sound
+discretion of the commission[,]” as long as that discretion is
+not exercised arbitrarily or capriciously.
+
+Application of
+
+Hawaiian Elec. Co., Inc., 56 Haw. 260, 262, 535 P.2d 1102, 1104
+(1975) (citation omitted).
+LOL argues that the limitation of its participation to
+Sub-issue Nos. 2.a.i and 2.b denied it a meaningful opportunity
+to address its constitutional right to a clean and healthful
+environment.
+
+However, as discussed above, the record does not
+
+establish that the PUC explicitly considered the reduction of GHG
+emissions at all in the 2017 Docket.
+
+It is therefore clear that
+
+the PUC misconstrued this aspect of its statutory duty, which was
+fundamental to LOL’s potential role in the proceeding.
+
+As such,
+
+it appears the PUC’s denial of LOL’s Motion to Upgrade Status was
+premised on a flawed understanding of the relevant inquiry, and
+therefore we cannot say whether such denial constituted an abuse
+of discretion.
+LOL further argues that the PUC’s denial of its Motion
+to Upgrade Status violated its due process rights by impeding its
+ability to obtain access to documents.
+
+However, the record does
+
+not establish that the PUC restricted LOL’s access to documents
+
+(...continued)
+(effective Jan. 1, 2019) is identical to HAR 6-61-55 (effective
+1992-2018).
+
+64
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+due to its status as a limited participant.
+
+Order No. 34597,
+
+which established, inter alia, a final statement of the issues
+and LOL’s scope of participation in the 2017 Docket, limited
+LOL’s participation to Sub-issue Nos. 2.a.i and 2.b, but did not
+restrict the manner of its participation within those issues.
+Further, Protective Order No. 34555, which “govern[ed] the
+classification, acquisition, and use of trade secrets, and other
+confidential information” produced in the docket, provided that
+“[a]ll parties or participants to all or any portion of this
+docket . . . shall be entitled to all confidential information
+under the provisions of this Protective Order to the extent
+allowed by the commission.”
+
+(Emphasis added).
+
+LOL does not
+
+allege or demonstrate that access to documents designated as
+“confidential” was given to parties, but denied to participants.
+Accordingly, it is not apparent from the record that LOL would
+have had greater access to documents had the PUC granted its
+Motion to Upgrade Status.
+In sum, on remand, it is within the PUC’s discretion to
+determine the extent of LOL’s participation in the proceeding,
+pursuant to HAR § 16-601-55, provided that the PUC complies with
+its statutory and constitutional obligations to consider the
+reduction of GHG emissions and to allow LOL a meaningful
+opportunity to be heard regarding the Amended PPA’s impact on its
+right to a clean and healthful environment, as defined by HRS
+Chapter 269.
+65
+
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+
+IV.
+
+CONCLUSION
+
+As set forth above, HRS § 269-6(b) requires the PUC to
+expressly consider the reduction of GHG emissions in its
+decision-making.
+
+The PUC failed to do so in determining whether
+
+the costs associated with the Amended PPA were reasonable, and in
+approving the Amended PPA.
+
+The PUC also failed to afford LOL an
+
+opportunity to be heard at a meaningful time and in a meaningful
+manner regarding the Amended PPA’s impact on LOL’s property
+interest in a clean and healthful environment, as defined by HRS
+Chapter 269.
+The PUC’s 2017 D&O is therefore vacated and this case
+is remanded to the PUC for proceedings consistent with this
+opinion.
+Lance D. Collins
+for appellant
+
+/s/ Mark E. Recktenwald
+/s/ Paula A. Nakayama
+
+Clyde J. Wadsworth
+(Kalikoonalani D.
+Fernandes with him
+on the brief)
+for appellee PUC
+
+/s/ Sabrina S. McKenna
+/s/ Richard W. Pollack
+/s/ Michael D. Wilson
+
+Margery S. Bronster
+(Rex Y. Fujichaku and
+Kelly A. Higa with
+her on the brief)
+for appellee
+Hu Honua Bioenergy, LLC
+Joseph A. Stewart
+(David M. Louie and
+Aaron R. Mun with
+him on the brief)
+for appellees
+HECO and HELCO
+
+66
+
+

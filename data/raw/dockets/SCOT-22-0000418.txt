@@ -1,0 +1,959 @@
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+Electronically Filed
+Supreme Court
+SCOT-22-0000418
+13-MAR-2023
+08:51 AM
+Dkt. 343 OP
+
+IN THE SUPREME COURT OF THE STATE OF HAWAIʻI
+---o0o--In the Matter of the Application of
+HAWAIʻI ELECTRIC LIGHT COMPANY, INC.
+For Approval of a Power Purchase Agreement for Renewable
+Dispatchable Firm Energy and Capacity.
+SCOT-22-0000418
+APPEAL FROM THE PUBLIC UTILITIES COMMISSION
+(Docket No. 2017-0122)
+MARCH 13, 2023
+RECKTENWALD, C.J., NAKAYAMA, McKENNA, WILSON, AND EDDINS, JJ.;
+WITH WILSON, J., ALSO CONCURRING SEPARATELY
+OPINION OF THE COURT BY EDDINS, J.
+Over ten years ago, energy company Hu Honua had a
+brainwave: it could produce renewable energy by burning trees.
+The company sought regulatory approval to supply energy to
+Hawaiʻi Island using a biomass power plant.
+approval for that energy deal was denied.
+
+Last summer,
+Hu Honua appeals the
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+denial, arguing that the Public Utilities Commission (PUC)
+misunderstood its mandate and held Hu Honua to an unfair
+standard.
+We disagree.
+mission.
+
+The PUC understood its public interest-minded
+
+It faithfully followed our remand instructions to
+
+consider the reasonableness of the proposed project’s costs in
+light of its greenhouse gas emissions and the project’s impact
+on intervenor Life of the Land’s members’ right to a clean and
+healthful environment.
+
+It stayed true to the language of its
+
+governing statute HRS § 269-6(b) (Supp. 2021) by measuring the
+project’s cost and system impact.
+
+And it acted properly within
+
+its role as fact-finder when it evaluated Hu Honua by its own
+statements and promises and, ultimately, found them
+unconvincing.
+Finding no error, we affirm the PUC’s decision rejecting
+the power purchase agreement between Hu Honua and the Hawaiʻi
+Electric Light Company, Inc.
+I.
+In 2012, Hawaiʻi Electric Light Company, Inc. (HELCO)
+approached its regulator, the Public Utilities Commission, about
+entering into a power purchase agreement (PPA) with private
+company Hu Honua Bioenergy, LLC (Hu Honua).
+
+Under the
+
+agreement, Hu Honua would convert an abandoned power plant in
+Pepeʻekeo, Hawaiʻi.
+
+The plant would produce energy by burning
+2
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+woody biomass — mainly locally-grown eucalyptus trees.
+
+HELCO
+
+would purchase this energy to service Hawaiʻi Island’s power
+grid.
+In 2017, the PUC granted HELCO a waiver from the
+competitive bidding process and held a contested case hearing
+over the PPA.
+
+Life of the Land (LOL), a Hawaiʻi-based community
+
+action group dedicated to protecting and preserving the ʻāina,
+sought to intervene in the hearing.
+
+They were given limited,
+
+rather than full participant, status.
+
+The PUC ultimately
+
+approved an Amended PPA between Hu Honua and HELCO for a thirtyyear term.
+
+LOL appealed the decision.
+
+In Matter of Hawaiʻi Elec. Light Co., Inc., 145 Hawaiʻi 1,
+445 P.3d 673 (2019) (HELCO I), this court vacated the PUC’s
+decision.
+
+We told the commission to hold a new hearing.
+
+Our
+
+remand instructed the PUC to give “LOL an opportunity to
+meaningfully address the impacts of approving the Amended PPA on
+LOL’s members’ right to a clean and healthful environment, as
+defined by HRS Chapter 269.”
+
+Id. at 26, 445 P.3d at 698.
+
+We
+
+also told the PUC to give “express consideration of GHG
+emissions that would result from approving the Amended PPA,
+whether the cost of energy under the Amended PPA is reasonable
+in light of the potential for GHG emissions, and whether the
+terms of the Amended PPA are prudent and in the public interest,
+
+3
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+in light of its potential hidden and long-term consequences.”
+Id.
+On remand, the PUC devoted its attention to a threshold
+issue - whether it should “reissue” to HELCO a waiver from the
+competitive bidding process.
+
+Matter of Hawaiʻi Elec. Light Co.,
+
+Inc., 149 Hawaiʻi 239, 240, 487 P.3d 708, 709 (2021) (HELCO II).
+It decided to deny the waiver.
+
+Id.
+
+Since HELCO now had no
+
+waiver, the PUC declined to consider the merits of the Amended
+PPA.
+
+Id.
+This time, Hu Honua appealed.
+
+Because the competitive
+
+waiver issue was outside the scope of HELCO I’s remand, we
+returned the case.
+
+We repeated our remand order from HELCO I.
+
+Id. at 242, 487 P.3d at 711.
+The PUC held a new contested case hearing on the Amended
+PPA in early March 2022.
+
+Before the evidentiary hearings began,
+
+Hu Honua brought several motions centered on Act 82, which had
+amended HRS § 269-6(b) in 2021.
+
+HRS § 269-6(b) is the primary
+
+statute governing the PUC’s evaluation of energy projects like
+the Amended PPA.
+
+It requires the PUC to engage in “public
+
+interest-minded balancing.”
+
+Matter of Maui Elec. Co., Ltd., 150
+
+Hawaiʻi 528, 532, 506 P.3d 192, 196 (2022) (Paeahu).
+Hu Honua argued that Act 82 changed things.
+
+It said the
+
+PUC could now only consider GHG emissions from fossil fuels.
+
+4
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+Emissions from other sources, such as biomass burned to produce
+renewable energy, had to be kept out of the equation.
+The commission rejected this approach. It concluded that
+Act 82 did not materially alter its statutory obligations under
+HRS § 269-6(b).
+At the hearings, Hu Honua and HELCO maintained that the
+Amended PPA served the public interest.
+
+Yet they admitted that
+
+by their own numbers, the proposed project would produce massive
+carbon emissions - 8,035,804 metric tons over its 30-year term.
+The vast majority of these emissions would come from the plant’s
+routine operations.
+carbon.
+
+Trucking trees to the plant would emit
+
+And when the trees burned, “stack emissions” would rise
+
+into the atmosphere.
+But Hu Honua made a promise: the project would ultimately
+be carbon neutral.
+planting trees.
+
+Hu Honua intended to offset its emissions by
+
+These trees would sequester, by Hu Honua’s
+
+count, 8,066,309 metric tons of carbon.
+
+That would zero out the
+
+project’s projected eight million metric ton carbon price tag.
+If everything went right, it would even make the project carbon
+negative.
+Hu Honua hoped to source all of its “feedstock,” that is,
+the organic matter it hoped to burn for fuel, from locally-grown
+eucalyptus.
+
+Its tree supplier, a sister company to Hu Honua,
+
+would initially source eucalyptus from Pāhala, Pāʻauhau, and
+5
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+Hāmākua plantations on Hawaiʻi Island.
+
+According to Hu Honua,
+
+those lands have enough trees to fuel the project for nine
+years.
+
+Hu Honua suggested it could help the State by
+
+eradicating “invasive species” on Hawaiʻi Island and burning them
+as an additional fuel source.
+
+Hu Honua also claimed that
+
+sourcing feedstock outside of the island would only occur in an
+emergency.
+To meet its sequestration goals, Hu Honua would have to
+plant a lot of trees.
+
+The company maintained that the bulk of
+
+this tree-planting — expected to sequester 5,882,322 metric tons
+of carbon — would occur on leased Hawaiʻi Island land.
+
+In Hu
+
+Honua’s sequestration analysis, it included the three
+plantations it expected to source feedstock from.
+
+The
+
+sequestration analysis assumed that no trees would be cut down
+at these plantations between 2017 and 2021.
+
+But in testimony,
+
+Hu Honua indicated that harvesting had taken place at the Pāhala
+location during this period.
+
+The company did not demonstrate
+
+that it was currently replanting trees on this plantation.
+
+In
+
+fact, it stated that it does not plan to regrow the Pāhala and
+Hāmākua plantations at all.
+Hu Honua provided the PUC with a “carbon calculator” that
+indicated its estimated emissions and sequestration numbers.
+The calculator showed significant increases in sequestration
+between 2021 and 2029.
+
+This implied an expansion in Hu Honua’s
+6
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+current leasing regime.
+
+All those extra trees would have to be
+
+planted somewhere.
+But Hu Honua did not present evidence that it had leases
+secured that extended through the PPA’s 30-year term.
+
+Rather,
+
+Hu Honua indicated that it had non-binding “good faith” lease
+negotiations that would not be finalized until the PUC approved
+the Amended PPA.
+Hu Honua promised that if its sequestration performance
+fell short of its estimates, it would buy carbon offsets to make
+up for the deficit.
+
+It pledged up to $450,000 for this effort,
+
+believing that it could buy carbon offsets at the price of $15
+per ton.
+
+Hu Honua did not identify the sources of the offsets,
+
+only saying that “reputable sources” would sell them.
+
+And Hu
+
+Honua did not explain how the PUC would verify the sequestration
+produced through these sales.
+To supplement Hu Honua’s carbon calculator, HELCO submitted
+its own analysis.
+
+This analysis measured GHG emissions from Hu
+
+Honua’s project against a baseline without the project.
+
+HELCO
+
+estimated that Hu Honua’s project would prevent 1,464,742 metric
+tons of emissions from entering the atmosphere.
+
+HELCO’s
+
+consultant reached this number by combining an estimate of GHG
+emissions that would be avoided because of the project relative
+to the baseline, and the project’s estimated lifetime emissions.
+HELCO’s analysis took the carbon negative lifetime emissions
+7
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+estimate from Hu Honua’s analysis and plugged it into its own.
+Though HELCO labeled its analysis independent, it in fact relied
+on Hu Honua’s.
+On May 23, 2022, the PUC issued Decision and Order No.
+38395.
+
+It declined to approve the Amended PPA.
+
+In the order, the PUC found that the project would produce
+massive GHG emissions, and that Hu Honua’s promise of carbon
+neutrality rested on speculative, uncertain assumptions.
+
+The
+
+commission expressed serious doubts that Hu Honua could actually
+live up to its sequestration estimates.
+
+It pointed out that Hu
+
+Honua had no firm plans for leasing land to plant trees.
+
+Using
+
+the carbon calculator provided by Hu Honua, the commission found
+that even changes as small as one-percent in Hu Honua’s
+emissions and sequestration estimates would make the project a
+net carbon emitter.
+
+The commission calculated that the back-up
+
+money Hu Honua pledged, even if carbon offsets were available at
+the rate it expected, would only buy 30,000 metric tons of
+carbon offsets — less than one sixth of the carbon the project
+(per Hu Honua’s own estimates) would emit annually.
+The PUC was particularly troubled by the frontloading of
+GHG emissions in the project.
+
+While Hu Honua pledged to be
+
+carbon neutral on an annual basis by the end of 2035, the
+commission determined (again based on Hu Honua’s numbers) that
+the overall impact of the project would not be carbon neutral
+8
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+until 2047, two years after Hawaiʻi’s 2045 zero emissions target
+came and went.
+
+For the first 25 years of the project, Hu Honua
+
+would be a significant net emitter.
+
+If Hu Honua did not meet
+
+its sequestration commitments, the PUC feared that the damage to
+the atmosphere could not be easily undone.
+The PUC also found that the Amended PPA would significantly
+increase costs for rate-payers.
+
+Six years into the project, the
+
+fuel price was set to spike 15%, for no discernable reason.
+That spike - in combination with other pricing terms and
+adjustments for inflation - meant that the cost would
+continually rise.
+
+Overall, the PUC found that the project would
+
+increase the typical consumer bill by an average of $10.97 a
+month throughout the full 30-year term.
+significant bill impact.
+
+The PUC deemed this a
+
+HELCO stated that there were no
+
+realistic modeling assumptions under which the project “could
+produce a net savings to the system or customer.”
+
+Based on the
+
+project’s high GHG emissions, the PUC did not consider these
+higher costs to consumers reasonable.
+The PUC had another big time concern.
+
+The commission found
+
+that not only would the project fail to accelerate the
+retirement of fossil-fuel, it would displace other, more
+environmentally friendly renewable resources.
+
+Hu Honua said
+
+that its plant would only displace the fossil fuel-based Keāhole
+power plant.
+
+However, HELCO, which actually controls energy
+9
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+dispatch, testified that this claim was “unrealistic” and
+“contrary to [HELCO’s] practices” and “actual operational
+conditions.”
+
+HELCO said that it would be “impossible” for the
+
+project to avoid displacing other renewable resources.
+
+The
+
+Consumer Advocate, a statutorily-mandated party to the
+proceedings, estimated that almost 60% of Hu Honua’s generation
+would replace renewable energy generation.
+
+Here, the commission
+
+credited the testimony of HELCO and the Consumer Advocate over
+Hu Honua’s.
+
+The PUC also credited HELCO’s testimony that the Hu
+
+Honua project filled no pressing need in its power grid.
+Summing up, the PUC found that the proposed project would
+emit substantially more carbon than it sequestered for at least
+the first 25 years of operation and raise ratepayer prices for
+the full term.
+
+And the PUC found Hu Honua’s promise of eventual
+
+carbon neutrality speculative at best.
+
+Based on these findings,
+
+the PUC concluded that the Amended PPA was not in the public
+interest.
+
+It rejected the agreement.
+
+Hu Honua moved the PUC to reconsider its Decision and
+Order.
+
+The PUC denied the motion in Decision and Order No.
+
+38443.
+Hu Honua appealed.
+
+It argues that (1) the PUC’s order
+
+exceeded the scope of the HELCO I remand by considering energy
+prices, (2) the PUC improperly applied HRS § 269-6(b) by not
+limiting its comparison of the project to only fossil fuel
+10
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+alternatives, and (3) violated Hu Honua’s due process rights by
+finding facts not in the record, applying a wrong evidentiary
+standard, and subjecting Hu Honua to a carbon neutrality
+requirement.
+II.
+A.
+We begin with the scope of remand.
+
+Hu Honua characterizes
+
+the HELCO I remand as confining the PUC to the “one discrete
+issue” of GHG emissions.
+
+Considerations of other key issues
+
+were “off-limits.”
+Where, exactly, Hu Honua locates this limitation remains a
+mystery.
+
+In HELCO I, we vacated the PUC’s order and remanded
+
+for a new hearing.
+
+The PUC had to give “LOL an opportunity to
+
+meaningfully address the impacts of approving the Amended PPA on
+LOL’s members’ right to a clean and healthful environment, as
+defined by HRS Chapter 269.”
+P.3d at 698.
+
+HELCO I, 145 Hawaiʻi at 26, 445
+
+We said the hearing must include “express
+
+consideration of GHG emissions that would result from approving
+the Amended PPA, whether the cost of energy under the Amended
+PPA is reasonable in light of the potential for GHG emissions,
+and whether the terms of the Amended PPA are prudent and in the
+public interest, in light of its potential hidden and long-term
+consequences.”
+
+Id.
+
+11
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+Then, in HELCO II, this court explicitly considered the
+scope of the HELCO I remand.
+
+We reminded the parties that they
+
+were “fixed in the same position they were in following HELCO I”
+and repeated our remand instructions verbatim.
+
+HELCO II, 149
+
+Hawaiʻi at 242, 487 P.3d at 711.
+Hu Honua seems to feel that the PUC’s consideration of
+pricing is unfair because back in its 2017 Decision & Order the
+PUC found the pricing reasonable.
+
+But that 2017 Decision &
+
+Order was precisely what HELCO I vacated.
+at 28, 445 P.3d at 700.
+
+HELCO I, 145 Hawaiʻi
+
+Based on the straightforward language
+
+of the remand order, the PUC was not only at liberty to consider
+pricing, it was required to consider the reasonability of the
+project’s pricing in light of its GHG emissions.
+
+Hu Honua’s
+
+insistence that no specific language directs further
+consideration of energy costs is difficult to understand.
+
+Our
+
+roadmap was a simple one, and we gave it twice.
+Even setting the remand language aside, the PUC has a duty
+to act in the public interest.
+
+See Haw. Const. art. XI, § 1;
+
+HRS § 269-145.5(b) (2020) (“In advancing the public interest,
+the commission shall balance technical, economic, environmental,
+and cultural considerations . . .”); Paeahu, 150 Hawaiʻi at 534,
+506 P.3d at 198 (principle that PUC must act in the public
+interest is “incorporated throughout HRS chapter 269”).
+
+12
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+Protecting rate-payers by considering pricing impacts follows
+from that public interest obligation.
+B.
+Hu Honua’s interpretation of HRS § 269-6(b) is equally
+strained.
+
+“HRS Chapter 269 is a law relating to environmental
+
+quality that defines the right to a clean and healthful
+environment under article XI, section 9 by providing that
+express consideration be given to reduction of greenhouse gas
+emissions in the decision-making of the Commission.”
+
+In re
+
+Application of Maui Elec. Co., Ltd., 141 Hawaiʻi 249, 264, 408
+P.3d 1, 16 (2017) (MECO).
+HRS § 269-6(b) sets out specific factors the PUC must
+consider to determine whether the costs of a proposed energy
+project are reasonable.
+
+These include (1) price volatility; (2)
+
+export of funds for fuel imports; (3) fuel supply reliability
+risk; and (4) greenhouse gas emissions.
+
+The PUC then subjects
+
+these factors to “public interest-minded balancing.”
+
+Paeahu,
+
+150 Hawaiʻi at 532, 506 P.3d at 196.
+Hu Honua maintains that when applying these factors to a
+renewable energy project, the “only permissible” comparison for
+the PUC to draw is with fossil-fuel plants.
+
+Considering a
+
+proposed renewable energy project’s relative impacts or the
+displacement of other renewable energy projects is, apparently,
+
+13
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+out-of-bounds.
+
+If Hu Honua is right, the only relevant question
+
+before the PUC was: is burning trees better than burning coal?
+Neither the language of HRS § 269-6(b) nor the legislative
+intent behind it supports this blinkered approach.
+
+By drawing a
+
+hard line between fossil fuel and renewable energy, Hu Honua
+elides a crucial fact — producing biofuel, unlike producing
+other kinds of renewable energy such as solar or wind, emits
+high quantities of GHG emissions.
+
+If the PUC couldn’t consider
+
+Hu Honua’s relative impacts and the likelihood that it would
+supplant other renewable projects, it would be forced to treat a
+project expected to emit millions of metric tons of carbon as no
+different from a project expected to emit almost no carbon,
+merely because both draw on renewable energy sources.
+But the legislature intended the PUC to consider
+“potentially harmful climate change due to the release of
+harmful greenhouse gases.”
+15.
+
+MECO, 141 Hawaiʻi at 263, 408 P.3d at
+
+We do not lightly assume that the legislature would
+
+sabotage its climate goals by limiting the PUC to artificial and
+unhelpful analyses.
+Further, HRS § 269-6 cannot be read in isolation from HRS
+§ 225P-5 (Supp. 2021), another law relating to environmental
+quality, which sets a state policy of achieving carbon
+neutrality “as quickly as practicable, but no later than 2045.”
+HRS § 225P-5 mandates that we reduce emissions now, before the
+14
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+damage done to the environment is irreversible — before action
+becomes impossible for future generations.
+
+Hu Honua’s
+
+constrained reading of HRS § 269-6(b) does not reflect the
+legislature’s urgency.
+Still, Hu Honua insists that Act 82, which recently amended
+HRS § 269-6(b), alters this analysis.
+
+It does not.
+
+Act 82’s primary purpose was to exempt minor actions from
+the HRS § 269-6(b) analysis and to give the PUC discretion to
+determine on a case-by-case basis whether proceedings involving
+water, wastewater, and telecommunications projects require the
+HRS § 269-6(b) analysis.
+
+The amendment also made a number of
+
+small, non-substantive changes.
+
+Most relevantly, it arranged
+
+the four factors, previously stated in a sentence, into a
+numbered list.
+
+We don’t see how this typographical change in
+
+any way touches the substance of the statute.
+Hu Honua also invokes the act’s legislative history.
+During the law-making process, language explicitly including
+biomass was added and then removed from the amendment.
+
+Hu Honua
+
+takes this as evincing a legislative intent to entirely exempt
+biomass emissions from consideration.
+
+But, taken in context,
+
+the legislature’s actions indicate its desire to preserve the
+statute’s original language and interpretation.
+
+The legislature
+
+was acting after MECO and HELCO I, cases that made clear HRS
+
+15
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+§ 269-6(b) applied to emissions from biomass plants.
+
+Adding
+
+language to that effect would have been superfluous.
+Also, Act 82’s main purpose was to exempt certain projects
+from the PUC’s involved GHG analysis.
+
+Had the legislature truly
+
+intended to exempt biomass emissions, it would have listed them
+with the other exemptions.
+HRS Chapter 269 defines the Hawaiʻi Constitution’s article
+XI, section 9 right to a clean and healthful environment, which
+encompasses the right to a life-sustaining climate system.
+Paeahu, 150 Hawaiʻi at 538 n.15, 506 P.3d at 202 n.15.
+Commanding a public agency charged with protecting the right to
+a life-sustaining climate system to disregard GHG emissions from
+a particular type of fuel source would undermine HRS Chapter
+269.
+
+We don’t think the legislature intended to go there, much
+
+less through a minor amendment bill.
+C.
+Lastly, Hu Honua asserts that the PUC violated its due
+process rights by finding its own facts, applying a higher
+evidentiary standard, and creating a carbon neutrality
+requirement.
+First, the PUC’s findings do not indicate that it tried to
+become its own “expert.”
+
+Compiling data provided by Hu Honua’s
+
+expert into a table does not produce new facts, nor does
+weighing competing evidence and finding, for example, that
+16
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+HELCO’s projections were more credible than Hu Honua’s.
+
+Under
+
+HRS § 269-92 (2020), electric companies must reach full carbon
+neutrality by 2045.
+
+By calculating that Hu Honua’s project
+
+would reach cumulative carbon neutrality in 2047, as opposed to
+annual carbon neutrality in 2035, the PUC hewed to its statutory
+mandate.
+Nor does the PUC’s critical evaluation of the evidence Hu
+Honua presented equate to applying a higher evidentiary
+standard.
+
+Rather, it demonstrates a more mundane phenomenon: a
+
+fact-finder finding one side’s facts unpersuasive.
+Hu Honua stresses that it and HELCO were the only ones to
+introduce expert evidence at the proceeding.
+
+If only one side
+
+employs an expert, the argument seems to run, that expert must
+be believed.
+burden.
+
+But Hu Honua misunderstands its evidentiary
+
+Hu Honua had to persuade the PUC, not the other way
+
+around.
+Further, treating one side’s ability to retain an expert as
+decisive in proceedings would unacceptably interfere with the
+due process rights of parties who, while not able to field
+competing expert witnesses, may have valid attacks to make on
+the credibility or persuasive force of expert evidence.
+Third, Hu Honua argues that the PUC applied a novel and
+inappropriate standard: whether the project would achieve carbon
+neutrality.
+
+But it was Hu Honua, not the PUC, who introduced
+17
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+the idea of carbon neutrality into the proceedings.
+
+In fact, Hu
+
+Honua went further – it pledged to be carbon negative.
+
+Carbon
+
+neutrality was key to Hu Honua’s pitch, going directly to the
+reasonability of its costs in light of its GHG emissions.
+As HRS § 269-9 (2020) recognizes, higher energy costs may
+be justified when the energy source avoids the harmful impacts
+of fossil fuels.
+
+But biomass and fossil fuel sources share one
+
+important defect — high GHG emissions.
+
+Hu Honua appears to have
+
+recognized that its project would not be found reasonable by the
+PUC if it offered both high costs and high emissions.
+
+So it
+
+argued that its emissions, once offset by tree planting, would
+amount to zero.
+
+How convincing the PUC found this carbon claim
+
+is an issue of fact, not the creation of a new legal rule.
+Even if the PUC adopted carbon neutrality as a standard, it
+is not so clear that the agency would have erred.
+We have said that an agency “must perform its statutory
+function in a manner that fulfills the State’s affirmative
+constitutional obligations,” Paeahu, 150 Hawaiʻi at 538, 506 P.3d
+at 202, and that “[a]rticle XI, section 9’s ‘clean and healthful
+environment’ right as defined by HRS chapter 269 subsumes a
+right to a life-sustaining climate system,” id. at 538 n.15, 506
+P.3d at 202 n.15.
+
+The right to a life-sustaining climate system
+
+is not just affirmative; it is constantly evolving.
+
+18
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+The people of Hawaiʻi have declared “a climate emergency.”
+S.C.R. 44, S.D. 1, H.D. 1, 31st Leg., Reg. Sess. (2021).
+
+Hawaiʻi
+
+faces immediate threats to our cultural and economic survival:
+sea level rise, eroding the coast and flooding the land; ocean
+warming and acidification, bleaching coral reefs and devastating
+marine life; more frequent and more extreme droughts and storms.
+Id.
+
+For the human race as a whole, the threat is no less
+
+existential.
+With each year, the impacts of climate change amplify and
+the chances to mitigate dwindle.
+
+“The Closing Window: Climate
+
+crisis calls for rapid transformation of societies,” Emissions
+Gap Report 2022, https://www.unep.org/resources/emissions-gapreport-2022 [https://perma.cc/6JAR-RFZE].
+is no longer an option.”
+
+“A stepwise approach
+
+Id. at page xv.
+
+The reality is that yesterday’s good enough has become
+today’s unacceptable.
+
+The PUC was under no obligation to
+
+evaluate an energy project conceived of in 2012 the same way in
+2022.
+
+Indeed, doing so would have betrayed its constitutional
+
+duty.
+
+19
+
+*** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***
+
+Because the PUC’s actions aligned with its statutory and
+constitutional obligations, we affirm PUC Order Nos. 38395 and
+38443.
+Bruce D. Voss
+(John D. Ferry III, Dean T.
+Yamamoto, Wil K. Yamamoto, and
+Jesse J. Smith on the briefs)
+for Hu Honua Bioenergy, LLC
+
+/s/ Mark E. Recktenwald
+
+Joseph A. Stewart
+(Marissa L.L. Owens, David M.
+Louie, Bruce A. Nakamura, and
+Aaron R. Mun on the briefs)
+for Hawaiʻi Electric Light
+Company, Inc.
+
+/s/ Todd W. Eddins
+
+/s/ Paula A. Nakayama
+
+/s/ Sabrina S. McKenna
+/s/ Michael D. Wilson
+
+Edward M. Knox
+(Scott D. Boone on the briefs)
+for Division of Consumer
+Advocacy Department of Commerce
+and Consumer Affairs
+Mark J. Kaetsu
+(Caroline C. Ishida on the
+briefs)
+for Public Utilities Commission
+Chase H. Livingston
+for Life of the Land
+Sandra-Ann Y.H. Wong
+for Tawhiri Power LLC
+
+20
+
+

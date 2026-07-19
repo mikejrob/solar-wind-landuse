@@ -1,0 +1,922 @@
+                                                                                                     05/04/2026
+                                                                                                        9:41 am
+DEPARTMENT OF PLANNING                                                                                STATE OF HAWAII
+                                                                                                   LAND USE COMMISSION
+KA'AINA HULL, DIRECTOR
+JODI A. HIGUCHI SAYEGUSA, DEPUTY DIRECTOR
+                                                                              DEREK S.K. KAWAKAMI, MAYOR
+                                                                         REIKO MATSUYAMA, MANAGING DIRECTOR
+
+
+
+
+                                   DIRECTOR'S REPORT
+ I.    SUMMARY
+
+       Action Required by          Consideration of Class IV Zoning Permit, Use Permit, and Special
+       Planning Commission:        Permit to allow construction and use of a new solar energy facility and
+                                   associated site improvements.
+
+       Permit Application Nos.     Class IV Zoning Permit Z-IV-2026-12
+                                   Use Permit U-2026-9
+                                   Special Permit SP-2026-4
+
+       Name of Applicant(s)        KAAWANUI SOLAR, LLC.
+                                   Belles Graham LLP, Authorized Agent
+                                   Matsubara Kotake & Tabata, Authorized Agent
+
+ II.   PERMIT INFORMATION
+
+                                            PERMITS REQUIRED
+       [8] Use Permit                   Pursuant to Section 8-2.4(r)(22) of the Kaua'i County Code (KCC),
+                                        1987, as amended, solar energy facilities are a permitted use
+                                        within the County of Kaua'i Agriculture Zoning District on lands
+                                        with soil classified by the State of Hawai'i Land Study Bureau
+                                        detailed land classification as overall productivity rating class B
+                                        and C, provided that the project area does not occupy more than
+                                        ten percent (10%) of the acreage of the parcel, or 20 acres of
+                                        land, whichever is less. Since the project area occupies more
+                                        than 20 acres of land, a Use Permit is required.
+
+                                        Pursuant to Section 8-2.4(s)(16) of the Kaua'i County Code (KCC),
+                                        1987, as amended, a Use Permit is required for private and
+                                        public utilities facilities in the County of Kaua'i Agriculture
+                                        Zoning District.
+
+                                        Pursuant to Section 8-2.4(u)(14) of the Kaua'i County Code
+                                        (KCC), 1987, as amended, a Use Permit is required for utility
+                                        installations within the County of Kaua'i Open (O) Zoning
+                                        District.
+       D Project Development Use
+          Permit
+       D Variance Permit
+
+                                                        G.2.a.1. MAR
+                                                          10, 2026
+                                                                                  -1-1- ,i,x.a.,.
+                                                                                     FEB 2 1t 2026
+           [gJ Special Permit                              Pursuant to Section 205-2(c)(6)(B) of the Hawai'i Revised
+                                                           Statutes, a Special Permit is required for solar energy facilities
+                                                           located on lands with soil classified as overall productivity rating
+                                                           class B and C, and which the project area occupies more than ten
+                                                           percent (10%) of the parcel's total acreage, or 20 acres,
+                                                           whichever is less. Since the project area occupies more than 20
+                                                           acres of land, a Special Permit is required.
+           [gJ Zoning Permit Class                         Pursuant to Section 8-3.1 of the KCC, 1987, as amended, a Class
+                 [gl1v                                     IV Zoning Permit is a procedural requirement in applying for a
+                 0 Ill                                     Use Permit.
+           DSpecial Management Area
+               Permit
+                 Duse
+                    □
+                    Minor
+                                                                 A MENDMENTS
+           DZoning Amendment
+           D General Plan Amendment
+           D State Land Use District
+             Amendment
+
+              Date of Receipt of Completed Application:
+                                                         January 12, 2026
+                              Date of Director's Report: February 9, 2026
+                                 Date of Public Hearing: March 10, 2026
+               Deadline Date for PC to Take Action (60TH
+                                                   Day): April 19, 2026
+
+Ill.      PROJECT DATA
+
+                                                  PROJECT INFORMATION
+                Parcel Location: The project site is located on lands located on the mauka side of Kaumuali'i
+                                 Highway in Makaweli, directly across from the Makaweli Post Office facility,
+                                 and situated along Ka'awanui Village Road.
+                Tax Map Key(s): (4) 1-7-006: 006 (por.) and 010 (por.)        Area: Project Area: 269.195
+                                                                                      Acres
+                                                                                      Overall Parcel Area:
+                                                                                      5,006.74 Acres
+                                                      ZONING & DEVELOPMENT STANDARDS
+                                                            Zoning: Agriculture (Ag) and Open (0)
+                                             State Land Use District: Agricultural
+                                         General Plan Designation:    Agriculture
+
+                                                                                                           21P age
+Z-IV-2026-12, U-2026-9, SP-2026-4; Directofs Report
+KMWANUI SOLAR, LLC.
+March 10, 2026
+                                                         Height Limit:   Fifty (SO) feet
+                                                  Max. Land Coverage:    60%
+                                                        Front Setback:   10'-0"
+                                                        Rear Setback:    5' or½ the wall plate height whichever is greater
+                                                         Side Setback:   5' or½ the wall plate height whichever is greater
+                                  Community Plan Area:                   West Kaua'i Community Plan
+                  Community Plan Land Use Designation:                   N/A
+                     Deviations or Variances Requested:                  N/A
+
+
+IV.       LEGAL REQUIREMENTS
+
+                            Section 8-3.l{f), KCC: This report is being transmitted to the Applicant and
+                                                            Planning Commission in order to satisfy the requirements
+                                                            of Section 8-3.l(f), relating to the provision of the
+                                                            Planning Director's report and recommendation on the
+                                                            subject proposal within sixty (60) days of the filing of a
+                                                            completed application. The application was received on
+                                                            January 12, 2026, and the Applicant, through its
+                                                            authorized agent, was notified accordingly of the Planning
+                                                            Department's intent to commence permit processing.
+                             Public Hearing Date:           March 10, 2026
+
+
+V.        PROJECT DESCRIPTION AND USE
+
+          The Applicant proposes to construct a 52-megawatt direct current (DC) and 43-megawatt
+          alternating current (AC) solar energy facility, encompassing approximately 269.195 acres of
+          the subject property (approximately 5,006.74 acres). The proposed development will consist
+          of the following components:
+
+                 •      Installation and operation of a ground mounted solar photo-voltaic system with solar
+                        panels and racking system. The solar panels will be mounted on single-axis trackers
+                        that will rotate along a fixed horizontal axis from east to west, tracking the
+                        movement of the sun. The average height of the solar panels will be five (S) feet off
+                        the ground when in a flat position, with a maximum height of eight (8) feet when
+                        panels rotate;
+                 •      Installation of power conversion stations;
+                 •      Installation of a 172-megawatt hour battery energy storage system;
+                 •      Installation and operation of two new substations consisting of the AES Hawai'i
+                        Substation and the Ka'awanui Substation, along with associated interconnection
+                        lines. The substations will include shield wire metal masts approximately 45 feet in
+                        height at the AES Hawai'i Substation and 60 to 70 foot in height at the Ka'awanui
+                        Substation;
+
+                                                                                                            31Page
+Z-IV-2026-12, U-2026-9, SP-2026-4; Directo(s Report
+KMWANUI SOLAR, LLC.
+March 10, 2026
+                   •     A network of electrical collector lines;
+                   •     Communications equipment;
+                   •     Installation of an operations and maintenance shed that will be 12 feet in height with
+                         an overall building footprint of approximately 840 square feet for office purposes,
+                         remote site monitoring, equipment, and storage.
+
+          The solar project site will consist of six (6) fenced solar array areas, each enclosed by a seven
+          (7) foot high chain link perimeter fence. Access roads will be provided throughout the site to
+          serve all major equipment, and the solar panels will be spaced to allow vehicle access
+          between rows. New landscaping will be installed and maintained around the project site to
+          mitigate visual impacts. As shown in the Preliminary Landscape Site Plan dated September
+          2025, the Applicant proposes to install a row of indigenous and endemic plants along the
+          portion of the project perimeter adjacent to Kaumuali'i Highway.
+
+VI.       APPLICANT'S REASONS/JUSTIFICATION
+
+          Please refer to the Application.
+
+VII.      AGENCY COMMENTS
+
+            Comments from applicable government agencies are being sought and are expected at the
+            time of the public hearing scheduled for MARCH 10, 2026. At the present time, the
+            department has only received comments from the COK Transportation Agency, and the State
+            Department of Health, and has not received comments from other reviewing agencies that
+            includes the COK Public Works - Engineering Division (DPW) and COK Water (DOW).
+            However, comments are being anticipated and will be presented at the public hearing.
+
+VIII. FINDINGS
+
+          1. Project Site and Surroundings
+             The subject property is located within the County's Agriculture (Ag) and Open (0) zoning
+             districts and the State Land Use Agricultural District. The surrounding properties to the
+             north, south, east, and west are similarly zoned; however, located immediately northeast
+             of the project area is the Ka'awanui Village Urban Zoning Expansion Area that was recently
+             rezoned from the State Land Use Agricultural District to the Urban District, and from the
+             County's Agriculture District to the Plantation Camp (PC) Zoning District.
+
+                The project site is situated adjacent to Kaumuali'i Highway and extends approximately one
+                (1) mile mauka along both sides of Ka'awanui Village Road. The project area comprises of
+                pastureland and fallow agricultural fields, with surrounding areas consisting of former
+                plantation lands repurposed for grazing or left in open pasture.
+
+                Located approximately one hundred (100) yards northeast from nearest point of the
+                project area is Ka'awanui Village, which consists of residential structures. Immediately
+                northwest of the project area is a residential dwelling on TMK: 1-7-006: 011.
+                Approximately 250 yards further northwest is another residential dwelling situated within
+                the project's subject parcel TMK: 1-7-006: 006.
+
+                                                                                                   41Page
+Z-IV-2026-12, U-2026-9, SP-2026-4; Directo(s Report
+KMWANUI SOLAR, LLC.
+March 10, 2026
+           2. Access
+              Ingress and egress to the project site will be provided via Ka'awanui Village Road, an
+              improved private roadway that connects to Kaumuali'i Highway, as well as a separate
+              access connection to Kaumuali'i Highway located approximately 0.2 miles west of the
+              Ka'awanui Village Road and Kaumuali'i Highway intersection.
+
+          3. Soils
+             The Detailed Land Classification Study prepared by the Land Study Bureau (LSB) identifies
+             the soils of the affected parcels containing a combination of Class "B" & "C" soils. The
+             study provides a "five class" productivity rating from "A" to "E", with "A" representing the
+             class of highest productivity and "E" representing the lowest. As represented, the solar
+             facilities will occupy areas with primarily LSB B-rated soils and some LSB C-rated soils.
+
+          4. Flood Zones
+             The Federal Emergency Management Agency (FEMA) Flood Insurance Map shows the
+             project site is situated within the flood zone identified as Zone 'X'. FEMA has identified
+             those areas within the Zone "X" to be outside the 0.2% annual chance floodplain.
+
+IX.       PRELIMINARY EVALUATION
+
+          In evaluating the Applicant's request to construct and operate the proposed solar energy
+          facility, the following should be considered:
+
+          1. Hawai'i Revised Statutes (HRS), Section 205
+                Under HRS §205-4.5, solar energy facilities are a permissible use within the State Land Use
+                Agricultural District on Class B or C soils, subject to the following requirements:
+
+                  a.     HRS §205-4.S(a)(20) specifies:
+
+                         "(20} Solar energy facilities that do not occupy more than ten per cent of the acreage
+                               of the parcel, or twenty acres of land, whichever is lesser or for which a special
+                               use permit is granted pursuant to section 205-6... "
+
+                                      o      The Applicant has applied for a Special Permit in accordance with this
+                                             subsection.
+
+                  b. HRS §205-4.S(a)(21) further specifies:
+
+                         "(21) Solar energy facilities on lands with soil classified by the land study bureau's
+                               detailed land classification as overall (master) productivity rating B or Cfor
+                               which a special use permit is granted pursuant to section 205-6; provided that:
+
+                                    (A)      The area occupied by the solar energy facilities is also made available for
+                                             compatible agricultural activities at a lease rate that is at least fifty per
+                                             cent below the fair market rent for comparable properties;
+
+
+
+                                                                                                              SI Page
+Z-IV-2026-12, U-2026-9, SP-2026-4; Directo(s Report
+KMWANUI SOLAR, LLC.
+March 10, 2026
+                                       o     The Applicant has made design considerations to maximize contiguous
+                                             space between solar panels for agricultural cultivation and to enable as
+                                             many agricultural uses as possible. As identified in the application, AES
+                                             has selected Kawailana, Inc. as an agricultural partner for the project. As
+                                             represented, AES intends to provide lease-free use of the project land,
+                                             thereby exceeding this requirement.
+
+                                    (B}      Proof of financial security to decommission the facility is provided to the
+                                             satisfaction of the appropriate county planning commission before the
+                                             date of commencement of commercial generation; and
+
+                                       o     The Applicant acknowledges this requirement and will be required to
+                                             provide proof of financial security prior to the closing of the building
+                                             permit for the solar energy facility.
+
+                                    {C}      Solar energy facilities shall be decommissioned at the owner's expense
+                                             according to the following requirements:
+
+                                              (i} Removal of all equipment related to the solar energy facility within
+                                                  twelve months of the conclusion of operation or useful life; and
+
+                                              (ii} Restoration of the disturbed earth to substantially the same physical
+                                                   condition as existed before the development of the solar energy
+                                                   facility."
+
+                                      o      The Applicant acknowledges this requirement. Please refer to the
+                                             Applicant's Decommissioning Plan in Exhibit L of the application.
+
+          2. Special Permit
+
+                Pursuant to Chapter 205 of the Hawai'i Revised Statutes (HRS) and Chapter 13 of the
+                Planning Commission Rules of Practice and Procedure, a SPECIAL PERMIT may be
+                approved under such protective restrictions as may be deemed necessary if the
+                Commission finds that the proposed use is an unusual and reasonable use of land
+                situated within the State Land Use Agricultural District, and that the use would
+                promote the effectiveness and objectives of Chapter 205, HRS. The Planning
+                Commission shall consider the following guidelines in determining unusual and
+                reasonable use:
+
+                    1) Such use shall not be contrary to the objectives sought to be accomplished by
+                       Chapters 205 and 205A a/the Hawai'i Revised Statutes (HRS}, and the rules of the
+                       State Land Use Commission;
+
+                          The proposed development will not be contrary to any of the State objectives
+                          for the following reasons:
+
+
+
+
+                                                                                                             GI Page
+Z-IV-2026-12, U-2026-9, SP-2026-4; Directo(s Report
+KMWANUI SOLAR, LLC.
+March 10, 2026
+                               o     The useable portions of the site will be leased for pasture purposes at a
+                                     rate or rates that are at least fifty percent (50%) below the fair market
+                                     rental value. As represented, AES intends to provide lease-free use of the
+                                     project land, thereby exceeding this requirement.
+
+                               o     The proposed use will not interfere with other agricultural uses that are
+                                     generally allowed within the Agricultural District.
+
+                              o      Following the anticipated twenty-five (25) to forty (40) year life and
+                                     operation of the solar facility, all equipment can either be retrofitted with
+                                     new equipment or will be removed from the site, and the site will be
+                                     restored to its preconstruction condition.
+
+                    2} The desired use would not adversely affect the surrounding property;
+
+                                o     The construction and operation of the proposed solar facility is not
+                                      expected to have adverse effects on surrounding properties. The
+                                      development is not anticipated to generate significant increases in
+                                      traffic, population, noise levels, or air quality impacts. While there may
+                                      be minimal visual impacts from Kaumuali'i Highway, these impacts can
+                                      be mitigated through appropriate visual screening or other design
+                                      measures. Additionally, the glare produced by the project is anticipated
+                                      to be minimal and is predicted to affect only certain interior roadways
+                                      mauka of Kaumuali'i Highway during specific times of the day and during
+                                      certain times of the year. Glare is not predicted for Kaumuali'i Highway
+                                      as well as for the residential houses and structures located within the
+                                      vicinity of the project.
+
+                                o     The proposed use will be compatible with the surrounding area, and it
+                                      will not prevent surrounding lands from being used for agricultural
+                                      purposes.
+
+                                o     During construction, Best Management Practices will be utilized to
+                                      ensure that the proposed development does not generate impacts that
+                                      may affect the health, safety, and welfare of those in the surrounding
+                                      area of the proposal.
+
+                    3) The use would not unreasonably burden public agencies to provide roads and
+                       streets, sewers, water, drainage, school improvements, and police and fire
+                       protection;
+
+                                o     The proposed development will utilize existing roadways and infrastructure
+                                      and is not anticipated to place additional burdens on public agencies.
+
+                               o      Water needs for agricultural uses within the project site will be met through
+                                      an existing irrigation system operated by the property owner and located
+
+
+                                                                                                          71Page
+Z-IV-2026-12, U-2026-9, SP-2026-4; Directofs Report
+KMWANUI SOLAR, LLC.
+Marth 10, 2026
+                                       within the subject parcel. Potable water will be provided via a private water
+                                       system.
+
+                                 o     Fire and police services are located approximately two (2) miles away in
+                                       the Town of Waimea. Aside from the standard fire and police protection,
+                                       the proposed project is not anticipated to significantly impact these
+                                       agencies.
+
+                                 o     The closest schools are Waimea High School and Waimea Canyon
+                                       Elementary School. It is not anticipated that this project will significantly
+                                       impact these schools.
+
+                        4} Unusual conditions, trends and needs have arisen since the district boundaries and
+                           rules were established;
+
+                                o      As stated in the application, the State has recently recognized the need to
+                                       promote alternative energy production, including solar energy production.
+                                       Such facilities require large tracts of land, which are predominantly located
+                                       within the State Land Use Agricultural District. Provided such new uses do
+                                       not prevent or adversely impact agricultural uses in the surrounding area,
+                                       they are recognized as necessary and permissible in the Agricultural District.
+
+                       5) The land upon which the proposed use is sought is unsuited for the uses permitted
+                          within the district.
+
+                                o     As stated in the application, the Applicant will continue to use the project
+                                      site for agriculture activities. Although the project site is suitable for
+                                      agriculture uses, it is represented that the project site is better suited at this
+                                      time for the production of alternative energy production.
+
+                       b.     Would promote the effectiveness and objectives of Chapter 205, HRS, as
+                              amended.
+
+                                o     Solar Energy Facilities are recognized as a necessary and reasonable utility
+                                      that may be accommodated within the Agricultural District. While the
+                                      construction of a new solar energy facility on 'B' rated soils within a project
+                                      area exceeding twenty (20) acres is not expressly permitted under the
+                                      allowable uses listed in HRS §205-4.5, a Special Permit is being sought to
+                                      allow for this use. The permit process provides a mechanism to consider
+                                      whether such infrastructure, though not directly agricultural, is compatible
+                                      with the overall objectives of Chapter 205.
+
+      3.     General Plan
+
+             Policies to Guide Growth - Section 1.4 of the Kaua'i General Plan (2018):
+
+
+
+                                                                                                            SI Page
+Z-IV-2026-12, U-2026-9, SP-2026-4; Directo(s Report
+KMWANUI SOLAR, LLC.
+March 10, 2026
+               Policy #13, entitled "Complete Kauai's shift to Clean Energy," directly supports this
+               proposal for a solar energy facility. Policy #13 states:
+
+                "Mitigate climate change and reduce system-wide carbon emissions by at least 80 percent
+                by 2050 through deep reductions in energy use and by transforming electricity,
+                transportation, and infrastructure systems toward the use of clean energy."
+
+                    o     The proposed solar project is in line with Policy #13, as it will increase the supply of
+                          clean energy on Kaua'i by generating renewable electricity. The project will reduce
+                          the amount of fossil fuel-based electricity generation, thereby supporting the
+                          ongoing objective of reducing greenhouse gas emissions and transition to clean
+                          energy.
+
+       4.    West Kaua'i Community Plan
+
+             The Community Development Plans, which further builds upon the direction set forth in the
+             General Plan, also details region-specific policies, objectives, goals, and actions that support
+             the provisions detailed in the proposed bill. The proposed development is located within the
+             boundaries of the West Kaua'i Community Plan area and is situated on land designated as
+             "Agriculture." Policy #1 of the West Kaua'i Community Plan specifies that development
+             should be focused in existing towns to protect West Kaua'i's rural qualities and agricultural
+             resources. The Policy also specifies:
+
+                "...Agricultural resources in the built environment include the mill sites, many of which are
+                vacant or underutilized. Through thoughtful redevelopment and reuse, these former nodes
+                of industry can be resurrected as all-purposes activity centers. Furthermore, compact
+                design reduces energy consumption and associated greenhouse gas (GHG} emissions, and
+                it helps reduce the region's dependence on important energy resources."
+
+                    o While the proposed project site lies outside the Urban boundary, it is important
+                      to note that the project supports clean energy production. As such, the
+                      development does not conflict with the policy's intent to focus development
+                      within existing towns to reduce energy consumption and associated greenhouse
+                      gases.
+
+      5. Use Permit
+
+             Pursuant to Article 3 of the Comprehensive Zoning Ordinance (CZO), Chapter 8 of the Kaua'i
+             County Code (1987), the purpose of the Use Permit Procedure is to assure the proper
+             integration into the community of uses which may be suitable only in specific locations of a
+             district, or only under certain conditions, or only if the uses are designed, arranged or
+             conducted in a particular manner, and to prohibit the uses if proper integration cannot be
+             assured. Section 8-3.2 of the CZO specifies a Use Permit may be granted only if the Planning
+             Commission finds that the use:
+                   ... is a compatible use and is not detrimental to health, safety, peace, morals, comfort
+                   and the general welfare of persons residing or working in the neighborhood of the
+                   proposed use, or detrimental or injurious to property
+                                                                  - .. �-- - -
+                                                                   "   "
+                                                                               and improvements
+                                                                                             -
+                                                                                                in the
+                                                                                                       9IPa ge
+Z-IV-2026-12, U-2026-9, SP-2026-4; Directo(s Report
+KMWANUI SOLAR. LLC.
+March 10, 2026
+                    neighborhood or to the general welfare of the community, and will not cause any
+                    substantial harmful environmental consequences on the land of the applicant or on
+                    other lands or waters, and will not be inconsistent with the intent of this Chapter and the
+                    General Plan.
+
+             In evaluating the project in accordance with the criteria for a Use Permit, the following
+             supports the potential compatibility of the proposed use:
+
+                    o      Footprint: In considering the total parcel area of approximately 5,006.74 acres, the
+                           proposed project will utilize only a portion of the larger parcel, approximately
+                           269.195 acres, thereby minimizing impacts on the agricultural potential of the
+                           surrounding lands. Furthermore, in considering the design and layout of the facility,
+                           the solar panels will be configured to accommodate continued agricultural activities
+                           within the project area, allowing the project to function in conjunction with the
+                           overall agricultural use of the parcel.
+
+                    o      Precedent: Similar Use Permits have been approved for solar energy facilities on
+                           Agricultural lands in the County, establishing precedent for such uses when
+                           appropriately sited and justified.
+
+                    o     Traffic: As documented in the Traffic Impact Analysis Report (TIAR), the proposed
+                          development is not expected to result in significant increases in traffic volumes in
+                          the surrounding area during either the construction phases or ongoing operations.
+                          Furthermore, the construction of the proposed development is not anticipated to
+                          preclude the implementation of any potential enhancements to walking, biking,
+                          transit, or auto facilities along Kaumuali'i Highway.
+
+                    o     Visual Impacts: As shown in the view study provided in Exhibit U of the application,
+                          the proposed development will result in some visual impacts as seen from
+                          Kaumuali'i Highway in both directions, as well as from higher vantage points along
+                          Waimea Canyon Drive. As represented in the Preliminary Landscape Site Plan dated
+                          September 2025, the Applicant proposes to install landscaping along the segment of
+                          the project perimeter adjacent to Kaumuali'i Highway to help soften and mitigate
+                          visual impacts for motorists and others traveling directly in front of the project area.
+
+                    o     Air Quality/Noise: As represented, during operation, the solar panels will be silent.
+                          The inverters and transformers will also be very quiet, emitting less than thirty-eight
+                          (38) decibels at 100 meters. During construction activities, air quality and ambient
+                          noise levels may be affected at a very minimal level. The Applicant acknowledges
+                          and will adhere to the standards of the Environmental Protection Agency (EPA), as
+                          well as the noise and air quality standards of the State of Hawai'i Department of
+                          Health.
+
+                    o     Wastewater Treatment and Disposal: The project will utilize an individual
+                          wastewater system (IWS) approved by the State of Hawai'i Department of Health.
+
+                                                                                                    10 IP age
+Z-IV-2026-12, U-2026-9, SP-2026-4; Directofs Report
+KMWANUI SOLAR, LLC.
+March 10, 2026
+                    o      Solid Waste Disposal: Solid waste disposal will be provided by private means. During
+                           construction, all waste will be transported by the construction contractor for
+                           recycling or disposed of at Kekaha Landfill.
+
+                    o      Biological Resources (Flora): According to the natural resources assessment for the
+                           project, a total of 97 plant species were identified, including six indigenous species
+                           and three early Polynesian-introduced species; however, none are listed as
+                           threatened or endangered under state or federal law.
+
+                    o      Biological Resources (Avian and Mammalian): According to the natural resources
+                           assessment for the project, the avian survey recorded 25 bird species, including the
+                           endangered Hawaiian duck, and two other indigenous species, the Black-crowned
+                           Night Heron and Pacific Golden-Plover. For waterbirds, the assessment determined
+                           that no suitable nesting habitats exist on the project site for endemic waterbirds
+                           and as a result, the project is not expected to impact listed waterbird species. The
+                           assessment also found that all other vertebrates observed are non-native, though
+                           the endangered Hawaiian hoary bat may use resources in the area, and the Project
+                           will implement measures to avoid or minimize potential impacts to this species.
+
+       6. Comprehensive Zoning Ordinance (CZO) Development Standards
+
+             The proposal is consistent with the development standards contained in the CZO in that:
+
+                    a.    Lot Coverage - Based on the acreage calculations provided in G70 Section 3.3.6
+                          (Table 3.1), "Approximate Extent of Project Components," the proposed
+                          development complies with the 60% lot coverage requirement set forth in Section
+                          8-4.3(d)(3) of the CZO.
+
+                    b. Setbacks - The proposed development complies with the setback requirements for
+                       the Agriculture Zoning District. All structures associated with the proposed
+                       development are positioned outside the building setback lines.
+
+                    c.    Height - The proposed project complies with the applicable height regulations set
+                          forth in Sections 8-1.4 and 8-8.2 of the Comprehensive Zoning Ordinance (CZO).
+
+                              Section 8-l.4(e) specifies:
+
+                                "(e) Nothing in this Chapter shall regulate the placement, design and construction
+                                     of the Hawai'i Emergency Management Agency- {HI-EMA) Managed Al/­
+                                     Hazard Statewide Outdoor Warning Siren Systems; or utility poles, towers,
+                                     and transmission lines by a public utility company as defined in Sec. 269-1,
+                                     H.R.S., provided, that the siren systems, poles, and towers shall be no higher
+                                     than 20 feet above the height limits for structures applicable in the Use
+                                     District in which the poles and towers are constructed."
+
+                              Section 8-8.2(a)(l) specifies:
+
+
+                                                                                                     11 I Page
+Z-IV-2026-12, U-2026-9, SP-2026-4; Directo(s Report
+KMWANUI SOLAR, LLC.
+March 10, 2026
+                                 "(1) The maximum height of any building, other than one intended primarily for
+                                       residential use, shall be 50 feet."
+
+                           Under these provisions, utility poles may exceed the standard height limit of the
+                           Agriculture District by an additional 20 feet, allowing for a maximum structure
+                           height of 70 feet. As represented, the tallest structure associated with the proposed
+                           development will be a transmission pole with a height of approximately sixty-five
+                           (65) feet. As such, the proposed development remains within the allowable limit.
+
+                    d.     Design/Layout - There are no objections to the overall design of the project, as it is
+                           consistent with the functional aspects of operations associated with a solar energy
+                           facility. Furthermore, the property is not located within any special design control
+                           areas, such as a Form-Based Code or a Special Planning Area.
+
+
+       7. Native Hawaiian Traditional and Cultural Rights
+
+              A Ka Pa'akai O Ka'aina Analysis was prepared by Cultural Surveys Hawai'i, Inc. (CSH). The
+              purpose of this analysis is to: (1) identify valued cultural, historical, and natural resources
+              within the proposed project area and the broader ahupua'a of Makaweli, including the
+              extent to which traditional and customary Native Hawaiian rights are exercised; (2) evaluate
+              the potential impacts of the proposed action on these resources; and {3) identify feasible
+              measures, if any, that the Applicant may implement to reasonably protect Native Hawaiian
+              rights where they are found to exist.
+
+             To address these objectives, the analysis provides a review of historic and traditional
+             accounts associated with the Makaweli ahupua'a, including a summary of place names and
+             wahi pana {legendary places). It also provides a summary of archaeological studies that have
+             been conducted in the vicinity of the project area as well as a detailed summary of the
+             community outreach that was conducted including oral and written testimony of individuals
+             that were contacted.
+
+             The consultation outreach involved attempting to contact Hawaiian organizations, agencies,
+             and community members as well as cultural and lineal descendants in order to identify
+             individuals with cultural expertise and/or knowledge of the project area and vicinity.
+             Community outreach letters were sent to 48 individuals or groups; six responded, one
+             provided written testimony and three Kama'aina and/or Kupuna met with CSH for more in­
+             depth interview.
+
+             Based on the analysis conducted and the historical information available to the Department,
+             it has been determined that the proposed development, as situated at its designated
+             location, is not anticipated to adversely impact any known Hawaiian traditional or
+             customary practices. This determination is supported by the following findings:
+
+                    •     There are no known traditional or customary Native Hawaiian rights or practices
+                          currently exercised within the project area.
+                    •     There are no documented trails or pathways traversing the project area.
+                    •     No known burial sites are located within the project area.
+                                                                                                    12 IP age
+Z-IV-2026-12, U-2026-9, SP-2026-4; Directo(s Report
+KMWANUI SOLAR, LLC.
+March 10, 2026
+                     •     There are no known mo'olelo {oral histories) or wahi pana {storied or sacred places)
+                           with a significant direct or indirect connection to the project site.
+                     •     The proposed development is not expected to impede access to streams.
+                     •     There are no known religious practices currently taking place within the project site.
+
+              It is important to note that, the botanical survey conducted as part of the project's natural
+              resources assessment, recorded six indigenous plant species as well as three early
+              Polynesian-introduced species within the project area.
+
+              Prior to initiating any ground-disturbing activities, the Applicant should identify and
+              implement feasible measures to reasonably protect any indigenous or native plant species,
+              or cultural and natural resources within the project area, based on consultation with
+              applicable government agencies.
+
+X.       PRELIMINARY CONCLUSION
+
+          Based on the foregoing findings and evaluation, it is concluded that through proper mitigative
+          measures and compliance efforts, the proposed development can be considered, and it
+          should not have significant adverse impacts to the environment or the surrounding area. The
+          proposal is generally in compliance with the criteria outlined for the granting of a Use Permit
+          and Class IV Zoning Permit. In addition, the proposed development is consistent with the
+          policies outlined in the General Plan, as well as the development standards prescribed by the
+          Comprehensive Zoning Ordinance.
+
+          It is further concluded that the Special Permit and Use Permit could be considered in that the
+          proposed use should promote the overall goals and objectives of Chapter 205, HRS. While the
+          proposal does not directly increase agricultural productivity, it is a permissible use under
+          Chapter 205, HRS with a Special Permit.
+
+          The Applicant should institute the "Best Management Practices" to ensure that the
+          development does not generate impacts that may affect the health, safety, and welfare of
+          those in the surrounding area of the proposal.
+
+XI.     PRELMINARY RECOMMENDATION
+
+          Based on the foregoing evaluation and conclusion, it is hereby recommended that Class IV
+          Zoning Permit Z-IV-2026-12, Use Permit U-2026-9, and Special Permit SP-2026-4, be
+          APPROVED subject to the following conditions:
+
+               1. The project shall be constructed as represented. Any changes to the operation and/or the
+                  respective structures shall be reviewed by the Planning Director to determine whether
+                  Planning Commission review and approval is warranted.
+
+               2.    Usable lands of the Petition Area, including areas under PV panels, shall be made available
+                     for compatible agricultural use at a lease rate that is at least 50 percent below the fair
+                     market rent for comparable properties, as long as the Project is in operation. Compatible
+                     agricultural operations shall be established by the Applicant and its successors and/or
+                                                                                                   13 IP age
+Z-IV-2026-12, U-2026-9, SP-2026-4; Directofs Report
+KMWANUI SOLAR, LLC.
+March 10, 2026
+                     assigns within 6 months of the start of commercial power generation. Extensions to this
+                     deadline may be granted by the Director of the County of Kaua'i Planning Department for
+                     unforeseen extenuating circumstances. Additional consideration may be given if the
+                     Applicant is actively seeking to have such operations established.
+
+               3. If at any time during the term of the subject permits no compatible agricultural operations
+                  exist on the usable lands of the Petition Area for 6 months, the Applicant shall notify the
+                  Director of the County of Kaua'i Planning Department in writing within 30 days of the end
+                  of the 6-month period. If requested by the Planning Director, the Applicant shall attend a
+                  meeting of the Planning Commission and submit a report to the Planning Commission
+                  detailing the Applicant's actual and reasonable efforts to establish compatible agricultural
+                  operations on the usable lands of the Petition Area. The Planning Commission may
+                  determine whether probable cause exists to re-evaluate the subject permits and to hold a
+                  hearing pursuant to the Rules of the Planning Commission. Extensions to the 6-month
+                  deadline may be granted by the Planning Director for unforeseen extenuating
+                  circumstances.
+
+               4. The Applicant shall submit for review and obtain the approval of the following from the
+                  Director of the County of Kaua'i Planning Department, prior to the issuance of a grading or
+                  building permit:
+
+                          a. A survey map accompanied by metes and bounds descriptions of the approved
+                             Petition Area.
+
+                          b. A site plan showing the area required under Condition 2, above, relating to the
+                             minimum land area to be made available for compatible agricultural use.
+
+               5. Prior to the closing of the building permit for the facility, the Applicant shall submit to the
+                  County of Kaua'i Planning Department proof of financial security, such as a letter of credit
+                  or similar assurance, from a creditworthy financial institution satisfactory to the County of
+                  Kaua'i Planning Department. The security shall remain in place for the duration of the
+                  operation of the Project, with evidence of same provided to the Director of the Kaua'i
+                  Planning Department on an annual basis, in an amount approved by the County of Kaua'i
+                  Planning Department as sufficient to decommission the Project and restore the Petition
+                  Area to substantially the same physical condition as existed prior to the development of
+                  the facility.
+
+                     The Applicant shall decommission the facility, including the removal of all equipment
+                     related to the facility, within twelve (12) months following the termination of operations
+                     of the facility. A change in project ownership or change in ownership of the land subject
+                     to the Special Permit, which warrants a new proof of financial security to decommission
+                     the project, shall be submitted to the County of Kaua'i Planning Department for
+                     processing through the Planning Commission, within three (3) months of the ownership
+                     change.
+
+                     The Applicant shall incorporate this condition in the license and/or lease agreement with
+                     the landowner and said license and/or lease agreement shall be reviewed for approval by
+                     the County of Kaua'i Planning Department.
+                                                                                                    14 IP age
+Z-IV-2026-12, U-2026-9, SP-2026-4; Directofs Report
+KMWANUI SOLAR, LLC.
+March 10, 2026
+                 6. The Applicant shall mitigate impacts to flora on site as follows:
+
+                           a.     Prior to initiating any ground-disturbing activities, the Applicant should identify
+                                  and implement feasible measures to reasonably protect any indigenous or
+                                  native plant species, or cultural and natural resources within the project area,
+                                  based on consultation with applicable government agencies.
+
+                 7. The Applicant shall mitigate impacts to fauna on site as follows:
+
+                           a.     Applicant shall develop an endangered species awareness training module, which
+                                  shall include all potential endangered species that may frequent the Petition Area.
+
+                           b. All construction workers and solar facility employees shall undergo endangered
+                              species awareness training prior to starting work.
+
+                           c.    In order to minimize adverse impacts on the Federally Listed Threatened Species,
+                                 Newell's Shearwater and other seabirds, external lighting shall be only of the
+                                 following types: shielded lights, cut-off luminaries, or indirect lighting. Spotlights
+                                 aimed upward or spotlighting of structures, landscaping or the ocean shall be
+                                 prohibited.
+
+                          d.      Barbed wire shall not be used on the top of any fencing.
+
+                           e.    Applicant shall monitor avian injuries occurring within the Petition Area, and
+                                 report occurrences to the United States Fish and Wildlife Service (USFWS).
+
+                          f.     The Applicant shall minimize or avoid clearing or grading activities from June 1
+                                 through September 15.
+
+                 8. The Applicant shall establish the Project within two (2) years of the date of the Land Use
+                    Commission's (LUC) Decision and Order approving the Special Permit. Requests for an
+                    extension of this deadline shall be submitted to the Director of the County of Kaua'i
+                    Planning Department prior to the expiration of the deadline. The LUC may grant an
+                    extension to the deadline to establish the Project due to unforeseen circumstances that
+                    were beyond the control of the Applicant. This Special Permit shall be valid for a period
+                    of thirty-five (35) years from the date of the LUC's Decision and Order approving the
+                    Special Permit, subject to further extensions upon a timely request for extension filed
+                    with the Planning Commission at least one hundred twenty (120) days prior to the
+                    Special Permit's expiration. Approval of time extensions shall not be required from the
+                    LUC.
+
+                 9.    On or before December 31 of each year that the Special Permit is in effect, the Applicant
+                       or its successor shall file an annual report to the LUC, State of Hawai'i Office of Planning,
+                       and the County of Kaua'i Planning Department that demonstrates the Applicant's
+                       compliance with conditions of the subject permits.
+
+
+
+
+                                                                                                           15 I P a ge
+Z-IV-2026-12, U-2026-9, SP-2026-4; Directo(s Report
+KAAWANUI SOLAR, LLC.
+March 10, 2026
+                  10. Major modifications to: (1) the Project plans, including but not limited to significant
+                      increases in the number of PV Panels; (2) amendments to the conditions of approval; (3)
+                      significant expansions of the approved area; or (4) change in uses stated herein, shall be
+                      subject to the review and approval of the Planning Commission and the LUC. Minor
+                      modifications including minor additions to accessory uses and structures, and new
+                      incidental uses and structures in the approved area are subject to the review and
+                      approval by the Director of the County of Kaua'i Planning Department.
+
+                 11. The Applicant and/or landowner shall notify the Director of the County of Kaua'i
+                     Planning Department of:
+
+                           a.     Any change or transfer of licensee on the Petition Area;
+
+                           b.     Any change in uses on the Petition Area;
+
+                           c.     Termination of any uses on the Petition Area; and/or
+
+                           d.     Transfer in ownership of the Petition Area.
+
+                 12. Enforcement of the conditions of the subject permits shall be pursuant to the Rules of
+                     the Planning Commission, including the issuance of an order to show cause as to the
+                     reason the subject permits should not be revoked if the Planning Commission has reason
+                     to believe that there has been a failure to perform the conditions herein.
+
+                 13. If the PV array creates a hazardous condition for pilots or motorists, the facility operator
+                     shall immediately mitigate the hazard upon notification by the State of Hawai'i
+                     Department of Transportation (DOT) Highways Division, DOT Airports Division, or the
+                     Federal Aviation Administration (FAA).
+
+                 14. If required to mitigate visual impacts, new landscaping shall be installed and maintained
+                     around the Solar Project to screen it when viewed from Kaumuali'i Highway. The County
+                     of Kaua'i Planning Department shall determine whether additional landscape screening
+                     is necessary and the degree at which it is provided.
+
+                 15. In the event that historic resources, including human skeletal remains, structural
+                     remains, cultural deposits, artifacts, sand deposits, or sink holes, are identified during
+                     grading and/or construction activities, all work shall cease in the immediate vicinity of
+                     the find, the find shall be protected from additional disturbance, and the State Historic
+                     Preservation Division (SHPD) and Kaua'i Island Burial Council, as applicable, shall be
+                     contacted immediately. Without any limitation to any other condition found herein, if
+                     any burials or archaeological or historic sites are discovered during the course of
+                     construction of the facility, all construction activity in the vicinity of the discovery shall
+                     stop until issuance of an archaeological clearance from the SHPD has been obtained that
+                     mitigation measures have been implemented to its satisfaction.
+
+                16. Project construction workers and all other personnel involved in the construction and
+                    related activities of the project should be informed of the possibility of inadvertent
+
+                                                                                                     16 I Page
+Z-IV-2026-12, U-2026-9, SP-2026-4; Directo(s Report
+KMWANUI SOLAR, LLC.
+March 10, 2026
+                       cultural finds, including human skeletal remains. In the event any potential historic
+                       properties are identified during construction activities, all activities will cease and the
+                       SHPD will be notified pursuant to HAR §13-280-3. In the event iwi kupuna (Native
+                       Hawaiian skeletal remains) are identified, all earth moving activities in the area will stop,
+                       the area will be cordoned off, and the SHPD and Police Department will be notified
+                       pursuant to HAR §13-300-40. In addition, in the event of an inadvertent discovery of
+                       human remains, the completion of a burial treatment plan, in compliance with HAR §13-
+                       300 and HRS §6E-43, is recommended.
+
+                 17. In the event iwi kupuna and/or cultural finds are encountered during construction,
+                     project proponents should consult with cultural and lineal descendants of the area to
+                     develop a reinterment plan and cultural preservation plan for proper cultural protocol,
+                     curation, and long-term maintenance.
+
+                 18. The Applicant shall resolve and comply with all agency requirements as recommended in
+                     the permit application review, including but not limited to the permit requirements for
+                     the County DPW-Engineering Division, water requirements for the County Department
+                     of Water, and regulations involving environmental concerns as administered by the State
+                     Department of Health.
+
+                 19. The Applicant shall develop and utilize Best Management Practices (BM P's) to ensure
+                     that the subdivision does not generate impacts that may affect the health, safety, and
+                     welfare of those in the surrounding area of the proposal.
+
+                 20. The Applicant shall implement to the extent possible sustainable building techniques
+                     and operational methods for the project, such as Leadership in Energy and
+                     Environmental Design (L.E.E.D.) standards or another comparable state-approved,
+                     nationally recognized, and consensus-based guideline, standard, or system, and
+                     strategies, which may include but is not limited to recycling, natural lighting, extensive
+                     landscaping, solar panels, low-energy fixtures, low energy lighting and other similar
+                     methods and techniques. All such proposals shall be reflected on the plans submitted
+                     for building permit review.
+
+                 21. To the extent possible within the confines of union requirements and applicable legal
+                     prohibitions against discrimination in employment, the Applicant shall seek to hire
+                     Kaua'i contractors as long as they are qualified and reasonably competitive with other
+                     contractors, and shall seek to employ residents of Kaua'i in temporary construction
+                     and permanent jobs. It is recognized that the Applicant may have to employ non­
+                     Kaua'i residents for particular skilled jobs where no qualified Kaua'i resident possesses
+                     such skills. For the purposes of this condition, the Commission shall relieve the
+                     Applicant of this requirement if the Applicant is subjected to anti-competitive
+                     restraints on trade or other monopolistic practices.
+
+                 22. The Applicant is advised that prior to construction and/or use, additional government
+                     agency conditions may be imposed. It shall be the Applicant's responsibility to resolve
+                     those conditions with the respective agency(ies).
+
+
+                                                                                                       17 I Pa g e
+Z-IV-2026-12, U-2026-9, SP-2026-4; Directo(s Report
+KMWANUI SOLAR, LLC.
+March 10, 2026
+                23. The Planning Commission reserves the right to revise, modify, add or delete
+                    conditions of approval in order to address or mitigate unforeseen impacts this project
+                    may create, or revoke the permits through the proper procedures should conditions
+                    of approval be violated or adverse impacts be created that cannot be properly
+                    addressed.
+
+         The Planning Commission is further advised that this report does not represent the Planning
+         Department's final recommendation in view of the forthcoming public hearing process
+         scheduled for March 10, 2026, whereby the entire record should be considered prior to
+         decision-making. The entire record should include but not be limited to:
+
+                          a. Pending government agency comments;
+                          b. Testimony from the general public and interested others; and
+                          c. The Applicant's response to the staff's report and recommendation as provided
+                             herein.
+
+
+
+                                                         B
+
+                                                                  Planner
+
+
+                                                                                      Commission:
+
+
+
+
+                                                         Date:   _V,_f_r_i/_��-
+
+
+
+
+                                                                                              18 I Pa ge
+Z-IV-2026-12, U-2026-9, SP-2026-4; Directo(s Report
+KAAWANUI SOLAR, LLC.
+March 10, 2026
+
