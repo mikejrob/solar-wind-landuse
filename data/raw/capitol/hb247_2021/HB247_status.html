@@ -1,0 +1,668 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="ctl00_Head1"><meta http-equiv="content-type" content="text/html;charset=iso-8859-2" /><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" /><link rel="stylesheet" href="images/screen.css" type="text/css" /><link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico" /><title>
+	Measure Status
+</title>
+    
+    <script type="text/javascript">
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-XXXXX-Y', 'auto');
+        ga('send', 'pageview');
+    function clearText(textbox,text)
+    {
+        if (textbox.value == text)
+            textbox.value = "";
+    }
+    function resetText(textbox,text)
+    {
+        if (textbox.value == "")
+            textbox.value = text;
+    }
+    </script>
+</head>
+<body>
+
+<div style="width: 975px; margin-left: auto; margin-right: auto;">
+    <form name="aspnetForm" method="post" action="./measure_indiv.aspx?billtype=HB&amp;billnumber=247&amp;year=" id="aspnetForm">
+<input type="hidden" name="ctl00_ToolkitScriptManager1_HiddenField" id="ctl00_ToolkitScriptManager1_HiddenField" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="/ScriptResource.axd?d=JE-laYD2Y6C1RGc1l6kBBol8CtSLO5yKbnaOCr4VCbeg1TZ5wf1GRiU3ctw2CBFW9zWyBF6dBd-K3u8s0qaT8ir4UULEqFDJwttz8YaFr-ilzYWaPnCi4WPmGm1X0wO30&amp;t=78f0a2d1" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="F443420C" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="JrfrYN6k8FsB0Gm-43So4YFjkYLl4xJwCKMjtLXGwBs3fMpCHA9rL1PpiT_Z92vhyC3ik_p-0LjLuupBoNqGoQL-LOUmRlzdb63X9nGTSYE1" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="QZNZ6pJWrzvj7S/1oSsS9gsqRGiGYbhvD/DpNC98P+AFi3O07UF6z54uZ8LrJ7cZ1O/emYXFPnKoTGPav4E4q2T5P+7NG0EhIGoqt8H9RIEoxlcF2F12tuobDZXzOlZa51dUZcYr5nqNlgwN7gq5JTnt3+meLdDEIVZ9wsDw5d91aIA4pRy8xxX4QX2dCITqnWUi3J3sQQwrr4p3NaUQD5p5MWzrOvNlVmG0M+Lisnnar8xPLZrCKoDYdPjktbim05cd8e1qr3SPSSASuK6kVlnl6RS2Pw6tHvyHeG1ueCE=" />
+    
+    
+   
+    <div class="shadow">
+        <div class="header">
+            <div id="header">
+                <div style="float: right; clear: both; padding-right: 8px; padding-top: 8px; font-family: Arial;">
+                    
+                   
+                    
+                    <div id="ctl00_PanelNotLoggedIn">
+	
+                    
+                    <a id="ctl00_HyperLinkLogin" href="/login/login.aspx">Sign In</a>&nbsp;|
+                    <a id="ctl00_HyperLinkRegister" href="/login/register.aspx">Register</a>
+                    &nbsp;&nbsp;<input type="image" name="ctl00$ImageButtonHome" id="ctl00_ImageButtonHome" src="Images/home_icon.gif" align="middle" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ImageButtonHome&quot;, &quot;&quot;, false, &quot;&quot;, &quot;/&quot;, false, false))" border="0" />
+</div>
+                </div>
+                <h1>
+                    <a href="/" id="ctl00_lnk">Hawaii State Legislature</a></h1>
+            </div>
+        </div>
+        <!-- close header -->
+        <div id="ctl00_PanelHeader">
+	
+            <div class="subheader gradientgray">
+                <table width="100%">
+                    <tr>
+                        <td width="270px">
+                            <div style="font-size: 9pt; margin-left: 45px;">
+                                
+                                31st Legislature, 2021
+                                <br />
+                                <a style="font-size:8pt" href="/docs/SessionCalendar.pdf">View Legislative Calendar</a>
+                                </div>
+                        </td>
+                        <td>
+                            <span id="ctl00_LabelSessionTime"><font size="1"><!--<center>Floor session convene time for August 27, 2021: <br/>
+Senate: 11:00 a.m.  |  House of Representatives: Adjourned sine die</center>-->
+
+<center>The Legislature has adjourned sine die.</center></font></span>
+                        </td>
+                       <td align="right" valign="top" width="300px" style="padding: 6px">
+                           <a href="/fyl" target="_blank" style="font-family:'Century Gothic'; font-size:9pt; color:blue; font-weight: bold;">Find Your Legislator</a>&nbsp;&nbsp;
+ 
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        
+</div>
+        <!--close subheader-->
+    <div class="colmask rightmenu shadow"> 
+	<div class="colleft"> 
+		<div class="col1"> 
+                    
+
+    
+    
+    
+    <br />
+    <br />
+    <div class="fontbigger" style="font-family: Tahoma;">
+        <div id="ctl00_ContentPlaceHolderCol1_PanelMeasureTypeNum">
+	
+
+            <a id="ctl00_ContentPlaceHolderCol1_LinkButtonMeasure" class="measurebigger" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolderCol1$LinkButtonMeasure&#39;,&#39;&#39;)"><b><font face="Garamond" color="#124D79">HB247 SD2</font></b></a>
+                &nbsp;&nbsp;
+       
+            <input type="image" name="ctl00$ContentPlaceHolderCol1$ImageButtonPDF" id="ctl00_ContentPlaceHolderCol1_ImageButtonPDF" class="noprint" src="Images/pdf_icon.gif" align="top" border="0" />&nbsp;
+            <input type="image" name="ctl00$ContentPlaceHolderCol1$ImageButtonRSS" id="ctl00_ContentPlaceHolderCol1_ImageButtonRSS" class="noprint" src="Images/rss_icon.gif" align="top" border="0" />&nbsp;<a id="ctl00_ContentPlaceHolderCol1_HyperLinkRSS" class="noprint" href="/rss.aspx"><font face="Tahoma" size="1">(?)</font></a>
+                    
+            <div class="noprint" style="padding-top: 4px; float: right;">
+                <input type="submit" name="ctl00$ContentPlaceHolderCol1$ButtonTestimony" value="Submit Testimony" id="ctl00_ContentPlaceHolderCol1_ButtonTestimony" class="button blue medium" /><br />
+                
+            </div>
+        
+</div>
+        <!--
+            Show this panel instead of the above one for special cases.  This will change the measure type/number display for specific bills specified
+            in the codebehind.  for 2021 they wanted to show a new draft called AD.  didn't exist in db so we hardcoded it.
+            -->
+        
+    <br />
+        
+    
+            <div id="ctl00_ContentPlaceHolderCol1_ListView1_itemPlaceholderContainer" style="">
+                
+        <table cellpadding="3px">
+            <tr><td width="100px" style="color: #124D79">Measure Title:</td><td>
+            <span id="ctl00_ContentPlaceHolderCol1_ListView1_ctrl0_measure_titleLabel">RELATING TO AGRICULTURAL LANDS.</span>
+            </td></tr>
+            <tr><td style="color: #124D79">Report Title: </td><td>
+            <span id="ctl00_ContentPlaceHolderCol1_ListView1_ctrl0_report_titleLabel">Agricultural Lands; Land Subdivisions; Condominium Property Regime</span><span id="ctl00_ContentPlaceHolderCol1_ListView1_ctrl0_Label41"><font size="1"></font></span>
+           </td></tr>
+            <tr><td style="color: #124D79">Description: </td><td>
+            <span id="ctl00_ContentPlaceHolderCol1_ListView1_ctrl0_descriptionLabel">Amends certain land subdivision and condominium property regime laws related to agricultural land, as recommended pursuant to Act 278, Session Laws of Hawaii 2019, to ensure certain condominium property regime projects within the agricultural district are used for agricultural purposes.  (SD2)</span>
+           </td></tr>
+            <tr><td style="color: #124D79">Companion:</td><td>
+            <span id="ctl00_ContentPlaceHolderCol1_ListView1_ctrl0_companionLabel">&nbsp;<a href='measure_indiv.aspx?billtype=SB&billnumber=340&year=2021'>SB340</a></span>
+            </td></tr>
+            <tr><td style="color: #124D79">Package:</td><td>
+            <span id="ctl00_ContentPlaceHolderCol1_ListView1_ctrl0_package_acroLabel">None</span>
+           </td></tr>
+             <tr><td style="color: #124D79">Current Referral: </td><td>
+            <span id="ctl00_ContentPlaceHolderCol1_ListView1_ctrl0_current_referralLabel">WAL, AGR, JHA, FIN</span>
+           </td></tr>
+            <tr><td style="color: #124D79">Introducer(s):</td><td>
+            <span id="ctl00_ContentPlaceHolderCol1_ListView1_ctrl0_introducerLabel">TARNAS, BRANCO, HASHIMOTO, HOLT, ICHIYAMA, ILAGAN, LOPRESTI, LOWEN, MARTEN, MATAYOSHI, MATSUMOTO, MCKELVEY, MORIKAWA, NAKAMURA, NAKASHIMA, OKIMOTO, PERRUSO, QUINLAN, TODD, WILDBERGER, YAMASHITA</span>
+           </td></tr>
+            
+            </table>
+        
+            </div>
+            <div style="">
+            </div>
+        
+    
+    <div id="ctl00_ContentPlaceHolderCol1_UpdatePanel1">
+	
+    <br />
+    <div>
+		<table cellspacing="0" cellpadding="6" rules="rows" border="1" id="ctl00_ContentPlaceHolderCol1_GridViewStatus" width="100%">
+			<tr class="gradientgray">
+				<th align="left" scope="col"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolderCol1$GridViewStatus&#39;,&#39;Sort$sortorder&#39;)"> Sort by Date</a></th><th scope="col">&nbsp;</th><th align="left" scope="col">Status Text</th>
+			</tr><tr>
+				<td><font color="Black">1/21/2021</font></td><td><font color="Black">H</font></td><td><font color="Black">Pending introduction.</font></td>
+			</tr><tr bgcolor="#F0F0F0">
+				<td><font color="Black">1/22/2021</font></td><td><font color="Black">H</font></td><td><font color="Black">Introduced and Pass First Reading.</font></td>
+			</tr><tr>
+				<td><font color="Black">1/27/2021</font></td><td><font color="Black">H</font></td><td><font color="Black">Referred to WAL, AGR, JHA, referral sheet 1</font></td>
+			</tr><tr bgcolor="#F0F0F0">
+				<td><font color="Black">1/29/2021</font></td><td><font color="Black">H</font></td><td><font color="Black">Bill scheduled to be heard by WAL on Tuesday, 02-02-21  9:00AM in House conference room Via Videoconference.</font></td>
+			</tr><tr>
+				<td><font color="Black">2/2/2021</font></td><td><font color="Black">H</font></td><td><font color="Black">The committees on WAL recommend that the measure be PASSED, UNAMENDED. The votes were as follows: 6 Ayes: Representative(s) Tarnas, Branco, Ganaden, B. Kobayashi, Kong, Morikawa; Ayes with reservations: none; 0 Noes: none; and 2 Excused: Representative(s) Ohno, McDermott.</font></td>
+			</tr><tr bgcolor="#F0F0F0">
+				<td><font color="Black">2/5/2021</font></td><td><font color="Black">H</font></td><td><font color="Black">Reported from WAL (Stand. Com. Rep. No. 17), recommending passage on Second Reading and referral to AGR.</font></td>
+			</tr><tr>
+				<td><font color="Black">2/5/2021</font></td><td><font color="Black">H</font></td><td><font color="Black">Passed Second Reading and referred to the committee(s) on AGR with Representative(s) DeCoite voting aye with reservations; none voting no (0) and Representative(s) Matayoshi excused (1).</font></td>
+			</tr><tr bgcolor="#F0F0F0">
+				<td><font color="Black">2/5/2021</font></td><td><font color="Black">H</font></td><td><font color="Black">Bill scheduled to be heard by AGR on Wednesday, 02-10-21 10:00AM in House conference room 325 Via Videoconference.</font></td>
+			</tr><tr>
+				<td><font color="Black">2/10/2021</font></td><td><font color="Black">H</font></td><td><font color="Black">The committees on AGR recommend that the measure be PASSED, UNAMENDED. The votes were as follows: 8 Ayes: Representative(s) Hashem, Perruso, Lowen, Marten, Matayoshi, Todd, Tokioka, Matsumoto; Ayes with reservations: none;  Noes: none; and  Excused: none.</font></td>
+			</tr><tr bgcolor="#F0F0F0">
+				<td><font color="Black">2/17/2021</font></td><td><font color="Black">H</font></td><td><font color="Black">Reported from AGR (Stand. Com. Rep. No. 339), recommending referral to JHA.</font></td>
+			</tr><tr>
+				<td><font color="Black">2/17/2021</font></td><td><font color="Black">H</font></td><td><font color="Black">Report adopted; referred to the committee(s) on JHA with none voting aye with reservations; none voting no (0) and Representative(s) Hashem excused (1).</font></td>
+			</tr><tr bgcolor="#F0F0F0">
+				<td><font color="Black">2/22/2021</font></td><td><font color="Black">H</font></td><td><font color="Black">Bill scheduled to be heard by JHA on Wednesday, 02-24-21  2:00PM in House conference room 325 Via Videoconference.</font></td>
+			</tr><tr>
+				<td><font color="Black">2/24/2021</font></td><td><font color="Black">H</font></td><td><font color="Black">The committees on JHA recommend that the measure be PASSED, UNAMENDED. The votes were as follows: 10 Ayes: Representative(s) Nakashima, Matayoshi, D. Kobayashi, LoPresti, Lowen, McKelvey, Nakamura, Takumi, Todd, Ward; Ayes with reservations: none;  Noes: none; and 2 Excused: Representative(s) Ichiyama, Tokioka.</font></td>
+			</tr><tr bgcolor="#F0F0F0">
+				<td><font color="Black">3/4/2021</font></td><td><font color="Black">H</font></td><td><font color="Black">Reported from JHA (Stand. Com. Rep. No. 737), recommending passage on Third Reading.</font></td>
+			</tr><tr>
+				<td><font color="Black">3/4/2021</font></td><td><font color="Black">H</font></td><td><font color="Black">Passed Third Reading with none voting aye with reservations; none voting no (0) and Representative(s) Takumi excused (1).  Transmitted to Senate.</font></td>
+			</tr><tr bgcolor="#F0F0F0">
+				<td><font color="Black">3/5/2021</font></td><td><font color="Black">S</font></td><td><font color="Black">Received from House (Hse. Com. No. 39).</font></td>
+			</tr><tr>
+				<td><font color="Black">3/5/2021</font></td><td><font color="Black">S</font></td><td><font color="Black">Passed First Reading.</font></td>
+			</tr><tr bgcolor="#F0F0F0">
+				<td><font color="Black">3/9/2021</font></td><td><font color="Black">S</font></td><td><font color="Black">Referred to AEN/WTL, CPN.</font></td>
+			</tr><tr>
+				<td><font color="Black">3/11/2021</font></td><td><font color="Black">S</font></td><td><font color="Black">The committee(s) on AEN/WTL has scheduled a public hearing on 03-17-21  1:10PM; CR 229 &amp; Videoconference.</font></td>
+			</tr><tr bgcolor="#F0F0F0">
+				<td><font color="Black">3/17/2021</font></td><td><font color="Black">S</font></td><td><font color="Black">Re-Referred to AEN/WTL, CPN/WAM.</font></td>
+			</tr><tr>
+				<td><font color="Black">3/17/2021</font></td><td><font color="Black">S</font></td><td><font color="Black">The committee(s) on AEN/WTL deferred the measure until 03-22-21  1:06PM; CR 229 &amp; Videoconference.</font></td>
+			</tr><tr bgcolor="#F0F0F0">
+				<td><font color="Black">3/22/2021</font></td><td><font color="Black">S</font></td><td><font color="Black">The committee(s) on  AEN recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in AEN were as follows: 5 Aye(s): Senator(s) Gabbard, Nishihara, Acasio, Rhoads, Fevella; Aye(s) with reservations: none ; 0 No(es): none; and 0 Excused: none.</font></td>
+			</tr><tr>
+				<td><font color="Black">3/22/2021</font></td><td><font color="Black">S</font></td><td><font color="Black">The committee(s) on  WTL recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in WTL were as follows: 5 Aye(s): Senator(s) Inouye, Keith-Agaran, Misalucha, Riviere, Fevella; Aye(s) with reservations: none ; 0 No(es): none; and 0 Excused: none.</font></td>
+			</tr><tr bgcolor="#F0F0F0">
+				<td><font color="Black">3/25/2021</font></td><td><font color="Black">S</font></td><td><font color="Black">Reported from AEN/WTL (Stand. Com. Rep. No. 1124) with recommendation of passage on Second Reading, as amended (SD 1) and referral to CPN/WAM.</font></td>
+			</tr><tr>
+				<td><font color="Black">3/25/2021</font></td><td><font color="Black">S</font></td><td><font color="Black">Report adopted; Passed Second Reading, as amended (SD 1) and referred to CPN/WAM.</font></td>
+			</tr><tr bgcolor="#F0F0F0">
+				<td><font color="Black">4/1/2021</font></td><td><font color="Black">S</font></td><td><font color="Black">The committee(s) on CPN/WAM will hold a public decision making on 04-07-21  9:30AM; CR 211 &amp; Videoconference.</font></td>
+			</tr><tr>
+				<td><font color="Black">4/7/2021</font></td><td><font color="Black">S</font></td><td><font color="Black">The committee(s) on  CPN recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in CPN were as follows: 7 Aye(s): Senator(s) Baker, Chang, Misalucha, Nishihara, Riviere, San Buenaventura, Fevella; Aye(s) with reservations: none ; 0 No(es): none; and 0 Excused: none.</font></td>
+			</tr><tr bgcolor="#F0F0F0">
+				<td><font color="Black">4/7/2021</font></td><td><font color="Black">S</font></td><td><font color="Black">The committee(s) on  WAM recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in WAM were as follows: 8 Aye(s): Senator(s) Dela Cruz, Keith-Agaran, English, Inouye, Kanuha, Moriwaki, Taniguchi, Fevella; Aye(s) with reservations: none ; 0 No(es): none; and 3 Excused: Senator(s) Kidani, Shimabukuro, Wakai.</font></td>
+			</tr><tr>
+				<td><font color="Black">4/9/2021</font></td><td><font color="Black">S</font></td><td><font color="Black">Reported from CPN/WAM (Stand. Com. Rep. No. 1590) with recommendation of passage on Third Reading, as amended (SD 2).</font></td>
+			</tr><tr bgcolor="#F0F0F0">
+				<td><font color="Black">4/9/2021</font></td><td><font color="Black">S</font></td><td><font color="Black">48 Hrs. Notice 04-13-21.</font></td>
+			</tr><tr>
+				<td><font color="Black">4/13/2021</font></td><td><font color="Black">S</font></td><td><font color="Black">Report adopted; Passed Third Reading, as amended (SD  2). Ayes, 25; Aye(s) with reservations: none .  Noes, 0 (none). Excused, 0 (none).  Transmitted to House.</font></td>
+			</tr><tr bgcolor="#F0F0F0">
+				<td><font color="Black">4/13/2021</font></td><td><font color="Black">H</font></td><td><font color="Black">Returned from Senate (Sen. Com. No.  661) in amended form (SD 2).</font></td>
+			</tr><tr>
+				<td><font color="Black">4/15/2021</font></td><td><font color="Black">H</font></td><td><font color="Black">House disagrees with Senate amendment (s).</font></td>
+			</tr><tr bgcolor="#F0F0F0">
+				<td><font color="Black">4/16/2021</font></td><td><font color="Black">H</font></td><td><font color="Black">Re-referred to WAL, AGR, JHA, FIN, referral sheet 36</font></td>
+			</tr><tr>
+				<td><font color="Black">4/16/2021</font></td><td><font color="Black">S</font></td><td><font color="Black">Received notice of disagreement (Hse. Com. No. 558).</font></td>
+			</tr><tr bgcolor="#F0F0F0">
+				<td><font color="Black">4/16/2021</font></td><td><font color="Black">H</font></td><td><font color="Black">House Conferees Appointed: Tarnas, Hashem, Nakashima, Branco Co-Chairs; McDermott.</font></td>
+			</tr><tr>
+				<td><font color="Black">4/19/2021</font></td><td><font color="Black">S</font></td><td><font color="Black">Received notice of appointment of House conferees (Hse. Com. No. 560).</font></td>
+			</tr><tr bgcolor="#F0F0F0">
+				<td><font color="Black">4/19/2021</font></td><td><font color="Black">S</font></td><td><font color="Black">Senate Conferees Appointed: Gabbard Chair; Inouye, Baker, Moriwaki Co-Chairs; Fevella.</font></td>
+			</tr><tr>
+				<td><font color="Black">4/19/2021</font></td><td><font color="Black">H</font></td><td><font color="Black">House Conferee(s) discharged.</font></td>
+			</tr><tr bgcolor="#F0F0F0">
+				<td><font color="Black">4/20/2021</font></td><td><font color="Black">S</font></td><td><font color="Black">Received notice of discharge of conferees (Hse. Com. No. 578).</font></td>
+			</tr><tr>
+				<td><font color="Black">4/20/2021</font></td><td><font color="Black">H</font></td><td><font color="Black">Received notice of Senate conferees (Sen. Com. No. 842).</font></td>
+			</tr><tr bgcolor="#F0F0F0">
+				<td><font color="Black">4/20/2021</font></td><td><font color="Black">H</font></td><td><font color="Black">Reconsideration of action taken on 04-15-21.
+</font></td>
+			</tr><tr>
+				<td><font color="Black">4/22/2021</font></td><td><font color="Black">S</font></td><td><font color="Black">Received notice of House reconsideration of action in disagreeing to the amendments proposed by the Senate (Hse. Com. No. 614).</font></td>
+			</tr><tr bgcolor="#F0F0F0">
+				<td><font color="Black">4/22/2021</font></td><td><font color="Black">H</font></td><td><font color="Black">House agrees to Senate amendment(s).</font></td>
+			</tr><tr>
+				<td><font color="Black">4/22/2021</font></td><td><font color="Black">H</font></td><td><font color="Black">Passed Final Reading as amended in SD 2 with none voting aye with reservations; none voting no (0) and none excused (0).</font></td>
+			</tr><tr bgcolor="#F0F0F0">
+				<td><font color="Black">4/23/2021</font></td><td><font color="Black">S</font></td><td><font color="Black">Received notice of House agreement and passage on Final Reading (Hse. Com. No. 621).</font></td>
+			</tr><tr>
+				<td><font color="Black">4/23/2021</font></td><td><font color="Black">H</font></td><td><font color="Black">Transmitted to Governor.</font></td>
+			</tr><tr bgcolor="#F0F0F0">
+				<td><font color="Black">6/25/2021</font></td><td><font color="Black">S</font></td><td><font color="Black">Act 077, 06/24/2021 (Gov. Msg. No. 1179).</font></td>
+			</tr><tr>
+				<td><font color="Black">6/25/2021</font></td><td><font color="Black">H</font></td><td><font color="Black">Act 077, on 06/24/2021 (Gov. Msg. No. 1179).</font></td>
+			</tr>
+		</table>
+	</div>
+    
+</div>
+    <br />
+		<p style="color: #124D79"><b>S</b> = Senate |
+        <b>H</b> = House |
+        <b>D</b> = Data Systems |
+		<b>$</b> = Appropriation measure |
+		<b>ConAm</b> = Constitutional Amendment</p>
+		
+		
+		<p>Some of the above items require Adobe Acrobat Reader. Please visit 
+		<a href="http://get.adobe.com/reader">Adobe's download page</a> 
+		    for detailed instructions.</p><br />
+    <span id="ctl00_ContentPlaceHolderCol1_LabelMeasureFooter"><b><font face="Garamond" color="#124D79" size="6">HB247 SD2</font></b></span>
+  </div>
+    
+                </div>
+                <!-- close col1 -->
+                <div class="col2">
+                    
+    <div class="noprint" style="font-family: Tahoma; font-size: 8pt;">
+    
+    
+    
+    
+    
+    <br /><br />
+    <div id="ctl00_ContentPlaceHolder1_PanelQuickSearch">
+	
+        <div class="roundedrect gradientlightblue searchbox shadow" style="margin-right:5px;">
+            <div class="boxlabel">
+                Search for another measure
+            </div>
+            <input name="ctl00$ContentPlaceHolder1$TextBoxDiffMeasure" type="text" id="ctl00_ContentPlaceHolder1_TextBoxDiffMeasure" title="Enter measures such as SB1 or HCR8, no draft numbers or spaces" class="textbox" />&nbsp;
+            <input type="submit" name="ctl00$ContentPlaceHolder1$ButtonGo" value="Go" id="ctl00_ContentPlaceHolder1_ButtonGo" class="button blue small" />
+        </div>
+    
+</div>
+    
+    <br />
+        <div id="ctl00_ContentPlaceHolder1_UpdatePanel2">
+	
+        
+    <div class="roundedrect shadow" style="border-color: #C0C0C0; margin-right:5px;">
+        <div class="menuborder gradientdarkblue" style="width:auto; background-color: #124D79">
+        <center>
+        <span id="ctl00_ContentPlaceHolder1_Label1"><b><font face="Arial Black" color="White" size="2">All Versions of this Measure</font></b></span></center>
+        </div>
+        <div>
+		<table cellspacing="0" cellpadding="2" border="0" id="ctl00_ContentPlaceHolder1_GridViewVersions" width="100%">
+			<tr>
+				<td>
+                        <a id="ctl00_ContentPlaceHolder1_GridViewVersions_ctl02_VersionsLink" class="visited" href="https://www.capitol.hawaii.gov/session2021/bills/HB247_SD2_.HTM" target="_blank">HB247_SD2</a>
+                    </td><td align="right">
+                        <a id="ctl00_ContentPlaceHolder1_GridViewVersions_ctl02_PdfLink" href="https://www.capitol.hawaii.gov/session2021/bills/HB247_SD2_.PDF" target="_blank"><img src="Images/pdf_icon.gif" alt="Pdf File" border="0" /></a>
+                    </td>
+			</tr><tr>
+				<td>
+                        <a id="ctl00_ContentPlaceHolder1_GridViewVersions_ctl03_VersionsLink" class="visited" href="https://www.capitol.hawaii.gov/session2021/bills/HB247_SD1_.HTM" target="_blank">HB247_SD1</a>
+                    </td><td align="right">
+                        <a id="ctl00_ContentPlaceHolder1_GridViewVersions_ctl03_PdfLink" href="https://www.capitol.hawaii.gov/session2021/bills/HB247_SD1_.PDF" target="_blank"><img src="Images/pdf_icon.gif" alt="Pdf File" border="0" /></a>
+                    </td>
+			</tr><tr>
+				<td>
+                        <a id="ctl00_ContentPlaceHolder1_GridViewVersions_ctl04_VersionsLink" class="visited" href="https://www.capitol.hawaii.gov/session2021/bills/HB247_.HTM" target="_blank">HB247</a>
+                    </td><td align="right">
+                        <a id="ctl00_ContentPlaceHolder1_GridViewVersions_ctl04_PdfLink" href="https://www.capitol.hawaii.gov/session2021/bills/HB247_.PDF" target="_blank"><img src="Images/pdf_icon.gif" alt="Pdf File" border="0" /></a>
+                    </td>
+			</tr>
+		</table>
+	</div>
+   </div>
+   
+</div>
+   <br />
+    <div class="roundedrect shadow" style="border-color: #C0C0C0; margin-right:5px;">
+        <div class="menuborder gradientdarkblue" style="width:auto; background-color: #124D79">
+        <center>
+        <span id="ctl00_ContentPlaceHolder1_Label2"><b><font face="Arial Black" color="White" size="2">Committee Reports</font></b></span></center>
+        </div>
+        <div>
+	<table cellspacing="0" cellpadding="2" border="0" id="ctl00_ContentPlaceHolder1_GridViewCommRpt" width="100%">
+		<tr>
+			<td>
+                            <a id="ctl00_ContentPlaceHolder1_GridViewCommRpt_ctl02_CategoryLink" class="visited" href="https://www.capitol.hawaii.gov/session2021/CommReports/HB247_HSCR17_.htm" target="_blank">HB247_HSCR17_</a>
+                        </td><td align="right">
+                            <a id="ctl00_ContentPlaceHolder1_GridViewCommRpt_ctl02_PdfLink" href="https://www.capitol.hawaii.gov/session2021/CommReports/HB247_HSCR17_.pdf" target="_blank"><img src="Images/pdf_icon.gif" alt="Pdf File" border="0" /></a>
+                        </td>
+		</tr><tr>
+			<td>
+                            <a id="ctl00_ContentPlaceHolder1_GridViewCommRpt_ctl03_CategoryLink" class="visited" href="https://www.capitol.hawaii.gov/session2021/CommReports/HB247_HSCR339_.htm" target="_blank">HB247_HSCR339_</a>
+                        </td><td align="right">
+                            <a id="ctl00_ContentPlaceHolder1_GridViewCommRpt_ctl03_PdfLink" href="https://www.capitol.hawaii.gov/session2021/CommReports/HB247_HSCR339_.pdf" target="_blank"><img src="Images/pdf_icon.gif" alt="Pdf File" border="0" /></a>
+                        </td>
+		</tr><tr>
+			<td>
+                            <a id="ctl00_ContentPlaceHolder1_GridViewCommRpt_ctl04_CategoryLink" class="visited" href="https://www.capitol.hawaii.gov/session2021/CommReports/HB247_HSCR737_.htm" target="_blank">HB247_HSCR737_</a>
+                        </td><td align="right">
+                            <a id="ctl00_ContentPlaceHolder1_GridViewCommRpt_ctl04_PdfLink" href="https://www.capitol.hawaii.gov/session2021/CommReports/HB247_HSCR737_.pdf" target="_blank"><img src="Images/pdf_icon.gif" alt="Pdf File" border="0" /></a>
+                        </td>
+		</tr><tr>
+			<td>
+                            <a id="ctl00_ContentPlaceHolder1_GridViewCommRpt_ctl05_CategoryLink" class="visited" href="https://www.capitol.hawaii.gov/session2021/CommReports/HB247_SD1_SSCR1124_.htm" target="_blank">HB247_SD1_SSCR1124_</a>
+                        </td><td align="right">
+                            <a id="ctl00_ContentPlaceHolder1_GridViewCommRpt_ctl05_PdfLink" href="https://www.capitol.hawaii.gov/session2021/CommReports/HB247_SD1_SSCR1124_.pdf" target="_blank"><img src="Images/pdf_icon.gif" alt="Pdf File" border="0" /></a>
+                        </td>
+		</tr><tr>
+			<td>
+                            <a id="ctl00_ContentPlaceHolder1_GridViewCommRpt_ctl06_CategoryLink" class="visited" href="https://www.capitol.hawaii.gov/session2021/CommReports/HB247_SD2_SSCR1590_.htm" target="_blank">HB247_SD2_SSCR1590_</a>
+                        </td><td align="right">
+                            <a id="ctl00_ContentPlaceHolder1_GridViewCommRpt_ctl06_PdfLink" href="https://www.capitol.hawaii.gov/session2021/CommReports/HB247_SD2_SSCR1590_.pdf" target="_blank"><img src="Images/pdf_icon.gif" alt="Pdf File" border="0" /></a>
+                        </td>
+		</tr>
+	</table>
+</div>
+   </div>   
+   
+    <br />
+    <div class="roundedrect shadow" style="border-color: #C0C0C0; margin-right:5px;">
+    <center>
+    <div class="menuborder gradientdarkblue" style="width:auto; background-color: #124D79">
+    <span id="ctl00_ContentPlaceHolder1_Label3"><b><font face="Arial Black" color="White" size="2">Testimony</font></b></span>
+    </div>
+  
+    </center>
+    <div>
+	<table cellspacing="0" cellpadding="4" border="0" id="ctl00_ContentPlaceHolder1_GridViewTestimony">
+		<tr>
+			<th align="left" scope="col">Filename</th>
+		</tr><tr>
+			<td>
+                        <a id="ctl00_ContentPlaceHolder1_GridViewTestimony_ctl02_PdfLink" class="visited" href="https://www.capitol.hawaii.gov/Session2021/Testimony/HB247_TESTIMONY_WAL_02-02-21_.PDF" target="_blank">HB247_TESTIMONY_WAL_02-02-21_</a>
+                    </td>
+		</tr><tr>
+			<td>
+                        <a id="ctl00_ContentPlaceHolder1_GridViewTestimony_ctl03_PdfLink" class="visited" href="https://www.capitol.hawaii.gov/Session2021/Testimony/HB247_TESTIMONY_AGR_02-10-21_.PDF" target="_blank">HB247_TESTIMONY_AGR_02-10-21_</a>
+                    </td>
+		</tr><tr>
+			<td>
+                        <a id="ctl00_ContentPlaceHolder1_GridViewTestimony_ctl04_PdfLink" class="visited" href="https://www.capitol.hawaii.gov/Session2021/Testimony/HB247_TESTIMONY_JHA_02-24-21_.PDF" target="_blank">HB247_TESTIMONY_JHA_02-24-21_</a>
+                    </td>
+		</tr><tr>
+			<td>
+                        <a id="ctl00_ContentPlaceHolder1_GridViewTestimony_ctl05_PdfLink" class="visited" href="https://www.capitol.hawaii.gov/Session2021/Testimony/HB247_TESTIMONY_AEN-WTL_03-17-21_.PDF" target="_blank">HB247_TESTIMONY_AEN-WTL_03-17-21_</a>
+                    </td>
+		</tr><tr>
+			<td>
+                        <a id="ctl00_ContentPlaceHolder1_GridViewTestimony_ctl06_PdfLink" class="visited" href="https://www.capitol.hawaii.gov/Session2021/Testimony/HB247_SD1_TESTIMONY_CPN-WAM_04-07-21_.PDF" target="_blank">HB247_SD1_TESTIMONY_CPN-WAM_04-07-21_</a>
+                    </td>
+		</tr>
+	</table>
+</div>
+    </div>
+    
+    <br />
+    <div class="roundedrect shadow" style="border-color: #C0C0C0; margin-right:5px;">
+    <div class="menuborder gradientdarkblue" style="width:auto; background-color: #124D79">
+    <center>
+    <span id="ctl00_ContentPlaceHolder1_Label4"><b><font face="Arial Black" color="White" size="2">Hearing Notices</font></b></span></center>
+    </div>
+    <div>
+	<table cellspacing="0" cellpadding="2" border="0" id="ctl00_ContentPlaceHolder1_GridView1" width="100%">
+		<tr>
+			<th align="left" scope="col">Comm</th><th scope="col">Date/Time/Room</th><th align="center" scope="col"><b>Notice</b></th><th scope="col">&nbsp;</th>
+		</tr><tr>
+			<td align="left">
+                            <span id="ctl00_ContentPlaceHolder1_GridView1_ctl02_Label17"><b>WAL</b></span>
+                        </td><td align="center">
+                            <span id="ctl00_ContentPlaceHolder1_GridView1_ctl02_Label27"><u>2/02/21 9:00A</u></span><br />
+                            
+                            <span id="ctl00_ContentPlaceHolder1_GridView1_ctl02_Label17">Via Videoconference</span>
+                      
+                        </td><td align="center"><a class="visited" href="http://www.capitol.hawaii.gov/session2021/hearingnotices/HEARING_WAL_02-02-21_.HTM" target="_blank">View</a></td><td align="right">
+                            <a id="ctl00_ContentPlaceHolder1_GridView1_ctl02_streamLink" href="https://www.youtube.com/watch?v=dz5VR_Ie3M4" target="_blank"><img src="/Images/YouTube.png" alt="" width="25" border="0" /></a>
+                        </td>
+		</tr><tr bgcolor="#EAEAEA">
+			<td align="left">
+                            <span id="ctl00_ContentPlaceHolder1_GridView1_ctl03_Label17"><b>AGR</b></span>
+                        </td><td align="center">
+                            <span id="ctl00_ContentPlaceHolder1_GridView1_ctl03_Label27"><u>2/10/21 10:00A</u></span><br />
+                            
+                            <span id="ctl00_ContentPlaceHolder1_GridView1_ctl03_Label17">325 Via Videoconference</span>
+                      
+                        </td><td align="center"><a class="visited" href="http://www.capitol.hawaii.gov/session2021/hearingnotices/HEARING_AGR_02-10-21_.HTM" target="_blank">View</a></td><td align="right">
+                            <a id="ctl00_ContentPlaceHolder1_GridView1_ctl03_streamLink" href="https://youtu.be/40-8YNdsjXQ" target="_blank"><img src="/Images/YouTube.png" alt="" width="25" border="0" /></a>
+                        </td>
+		</tr><tr>
+			<td align="left">
+                            <span id="ctl00_ContentPlaceHolder1_GridView1_ctl04_Label17"><b>JHA</b></span>
+                        </td><td align="center">
+                            <span id="ctl00_ContentPlaceHolder1_GridView1_ctl04_Label27"><u>2/24/21 2:00P</u></span><br />
+                            
+                            <span id="ctl00_ContentPlaceHolder1_GridView1_ctl04_Label17">325 Via Videoconference</span>
+                      
+                        </td><td align="center"><a class="visited" href="http://www.capitol.hawaii.gov/session2021/hearingnotices/HEARING_JHA_02-24-21_.HTM" target="_blank">View</a></td><td align="right">
+                            <a id="ctl00_ContentPlaceHolder1_GridView1_ctl04_streamLink" href="https://youtu.be/0g-ZmewXFmw" target="_blank"><img src="/Images/YouTube.png" alt="" width="25" border="0" /></a>
+                        </td>
+		</tr><tr bgcolor="#EAEAEA">
+			<td align="left">
+                            <span id="ctl00_ContentPlaceHolder1_GridView1_ctl05_Label17"><b>AEN/WTL</b></span>
+                        </td><td align="center">
+                            <span id="ctl00_ContentPlaceHolder1_GridView1_ctl05_Label27"><u>3/17/21 1:10P</u></span><br />
+                            
+                            <span id="ctl00_ContentPlaceHolder1_GridView1_ctl05_Label17">CR 229 & Videoconference</span>
+                      
+                        </td><td align="center"><a class="visited" href="http://www.capitol.hawaii.gov/session2021/hearingnotices/HEARING_AEN-WTL_03-17-21_.HTM" target="_blank">View</a></td><td align="right">
+                            <a id="ctl00_ContentPlaceHolder1_GridView1_ctl05_streamLink" href="https://youtu.be/enHZZZeFWcM" target="_blank"><img src="/Images/YouTube.png" alt="" width="25" border="0" /></a>
+                        </td>
+		</tr><tr>
+			<td align="left">
+                            <span id="ctl00_ContentPlaceHolder1_GridView1_ctl06_Label17"><b>AEN/WTL</b></span>
+                        </td><td align="center">
+                            <span id="ctl00_ContentPlaceHolder1_GridView1_ctl06_Label27"><u>3/22/21 1:06P</u></span><br />
+                            
+                            <span id="ctl00_ContentPlaceHolder1_GridView1_ctl06_Label17">CR 229 & Videoconference</span>
+                      
+                        </td><td align="center"><a class="visited" href="http://www.capitol.hawaii.gov/session2021/hearingnotices/HEARING_AEN-WTL_03-22-21_DEFER_.HTM" target="_blank">View</a></td><td align="right">
+                            <a id="ctl00_ContentPlaceHolder1_GridView1_ctl06_streamLink" href="https://youtu.be/UCW3DSJDaYg" target="_blank"><img src="/Images/YouTube.png" alt="" width="25" border="0" /></a>
+                        </td>
+		</tr><tr bgcolor="#EAEAEA">
+			<td align="left">
+                            <span id="ctl00_ContentPlaceHolder1_GridView1_ctl07_Label17"><b>CPN/WAM</b></span>
+                        </td><td align="center">
+                            <span id="ctl00_ContentPlaceHolder1_GridView1_ctl07_Label27"><u>4/07/21 9:30A</u></span><br />
+                            
+                            <span id="ctl00_ContentPlaceHolder1_GridView1_ctl07_Label17">CR 211 & Videoconference</span>
+                      
+                        </td><td align="center"><a class="visited" href="http://www.capitol.hawaii.gov/session2021/hearingnotices/HEARING_CPN-WAM_04-07-21_.HTM" target="_blank">View</a></td><td align="right">
+                            <a id="ctl00_ContentPlaceHolder1_GridView1_ctl07_streamLink" href="https://youtu.be/cHOxqM3riUs" target="_blank"><img src="/Images/YouTube.png" alt="" width="25" border="0" /></a>
+                        </td>
+		</tr>
+	</table>
+</div>
+   </div><br />
+   
+   <!-- BEGIN OTHER DOCUMENTS SECTION ---------------------------------- <a id="ctl00_ContentPlaceHolder1_HearingPdfLink" target="_blank"><img src="Images/pdf_icon.gif" alt="" border="0" /></a>--------------------------->
+        
+    </div> <!-- close tahoma -->
+    
+
+                </div>
+                <!-- close col2 -->
+               
+              
+            </div>
+        
+    </div>
+   <div class="footer gradientgray shadow" style="border:none; font-size: 8pt; font-family: 'Tahoma';
+            font-weight: normal; float: right">
+            <div style="padding: 6px; float:left">
+                <img id="ctl00_Image1" src="Images/stateseal.gif" border="0" /></div><br />
+              <p> Please be advised that these pages may contain links to external Internet sites
+                established by other entities. The Hawaii State Legislature does not maintain, review,
+                or endorse these sites and is not responsible for their content.</p>
+                
+               <p> We make every effort to comply to ADA standards, and Section 508 of the Rehabilitation
+                Act. 
+                   <a id="ctl00_HyperLinkADA" accesskey="A" href="/ada.aspx">Visit our ADA page here.</a> If you have any problems with any of these pages, please <a href="mailto:webmaster@capitol.hawaii.gov">
+                    contact the webmaster</a> with the page address and problems encountered.</p>
+                    <p><a href="/privacy.aspx"> You may view our Privacy Policy here.</a></p>
+                <br />
+                <hr />
+        <table width="100%">
+            <tr>
+                <td valign="top" style="width: 75px; padding: 4px">
+                    <a href="/archives/main.aspx"><b>Archives</b></a>
+                    <ul>
+                        <li><a href="/archives/2020.aspx">2020</a></li>
+                        <li><a href="/archives/2019.aspx">2019</a></li>
+                        <li><a href="/archives/2018.aspx">2018</a></li>
+                        <li><a href="/archives/2017.aspx">2017</a></li>
+                        <li><a href="/archives/2016.aspx">2016</a></li>
+                        <li><a href="/archives/2015.aspx">2015</a></li>
+                        <li><a href="/archives/2014.aspx">2014</a></li>
+                        <li><a href="/archives/2013.aspx">2013</a></li>
+                        <li><a href="/archives/2012.aspx">2012</a></li>
+                        <li><a href="/archives/2011.aspx">2011</a></li>
+                        <li><a href="/archives/2010.aspx">2010</a></li>
+                        <li><a href="/archives/2009.aspx">2009</a></li>
+                        <li><a href="/archives/2008.aspx">2008</a></li>
+                        <li><a href="/archives/2007.aspx">2007</a></li>
+                        <li><a href="/archives/2006.aspx">2006</a></li>
+                        <li><a href="/archives/2005.aspx">2005</a></li>
+                        <li><a href="/archives/2004.aspx">2004</a></li>
+                        <li><a href="/archives/2003.aspx">2003</a></li>
+                        <li><a href="/archives/2002.aspx">2002</a></li>
+                        <li><a href="/archives/2001.aspx">2001</a></li>
+                        <li><a href="/archives/2000.aspx">2000</a></li>
+                        <li><a href="/archives/1999.aspx">1999</a></li>
+                    </ul>
+                </td>
+                <td valign="top" style="padding: 4px">
+                    <a href="/senate.aspx"><b>Senate</b></a>
+                    <ul>
+                        <li><a href="/committees/committees.aspx?chamber=S">Committees</a></li>
+                                        <li><a href="/members/leadership.aspx?chamber=S">Leadership</a></li>
+                                        <li><a href="/members/legislators.aspx?chamber=S">Members</a></li>
+                                        <li><a href="/docs/SenateRules.pdf" target="_blank">Rules</a></li>
+                                        <li><a href="/docs/AdminManual.pdf" target="_blank">Administrative and Financial Manual</a></li>
+                                        <li><a href="/session2011/docs/2011SenateWebsitePolicy.pdf" target="_blank">Caucus Website Policy</a></li>
+                                        <li><a href="/redirect.aspx?page=http://www.hawaiisenatemajority.com" target="_blank">Majority Caucus Website</a></li>
+                                        <li><a href="/redirect.aspx?page=http://www.hawaiisenatemajority.com/senateadhoccommittee/" target="_blank">Ad Hoc Committee</a></li>
+                                        
+                                        <li><a href="/flooractions.aspx">Daily Floor Actions</a></li>
+                                        <li><a href="/session2009/misc/paperless/">Paperless Initiative</a></li>
+                                        <li><a href="http://olelo.granicus.com/ViewPublisher.php?view_id=13">Webcasts - Pilot
+                                            Project</a></li>
+                </td>
+                <td valign="top" style="padding: 4px">
+                    <a href="/house.aspx"><b>House</b></a>
+                    <ul>
+                       <li><a href="/committees/committees.aspx?chamber=H">Committees</a></li>
+                                        <li><a href="/members/leadership.aspx?chamber=H">Leadership</a></li>
+                                        <li><a href="/members/legislators.aspx?chamber=H">Members</a></li> 
+                                        <li><a href="/docs/HouseRules.pdf">Rules</a></li>
+                                        <li><a href="/docs/HouseAdminManual.pdf">Administrative and Financial Manual</a></li>
+                                        <li><a href="/session2011/docs/2011HouseWebsitePolicy.htm">Website Policy</a></li>
+                                        <li><a href="/redirect.aspx?page=http://www.capitol.hawaii.gov/hsemaj/home.html">Majority Caucus Website</a></li>
+                                        <li><a href="/redirect.aspx?page=http://www.hawaiihouseblog.blogspot.com/" target="_blank">Majority Caucus Blog</a></li>
+                                        
+                                        <li><a href="/redirect.aspx?page=https://www.hihousegop.com/" target="_blank">Minority Caucus Blog and Webpage</a></li>
+                                        <li><a href="/houseattendance">Attendance Sheets</a></li>
+                                        <li><a href="http://www.capitol.hawaii.gov/house.aspx">Journal</a></li>
+                                        <li><a href="/session2009/misc/statehood.pdf">Members of the House 1959-2009</a></li>
+                                        <li><a href="http://olelo.granicus.com/ViewPublisher.php?view_id=31">Webcasts</a></li>
+               </ul>
+                </td>
+                
+                <td valign="top" style="padding: 4px">
+                    <a href="/specialstudies.aspx"><b>Special Studies</b></a>
+                    <ul>
+                        <li><a href="/specialstudies.aspx">Click</a></li>
+                        
+                    </ul>
+                </td>
+                <td valign="top" style="padding: 4px">
+                    <a href="/leginfo.aspx"><b>Legislative Information</b></a>
+                    <ul>
+                    <li><a href="/leginfo.aspx">Click</a></li>
+                        
+                                        
+                    </ul>
+                </td>
+                <td valign="top" style="padding: 4px">
+                    <a href=""><b>Links</b></a>
+                    <ul>
+                        <li><a href="/redirect.aspx?page=http://portal.ehawaii.gov" target="_blank">Hawaii Government Services</a></li>
+                                        <li><a href="/redirect.aspx?page=http://www.courts.state.hi.us/" target="_blank">Hawaii State Judiciary</a></li>
+                                        <li><a href="/redirect.aspx?page=https://lrb.hawaii.gov" target="_blank">Legislative Reference Bureau</a></li>
+                                        <li><a href="/redirect.aspx?page=https://lrb.hawaii.gov/par/" target="_blank">Public Access Room</a></li>
+                                        <li><a href="/redirect.aspx?page=http://hawaii.gov/ethics" target="_blank">Hawaii State Ethics Commission</a></li>
+                                        <li><a href="/redirect.aspx?page=http://auditor.hawaii.gov/" target="_blank">Office of the Auditor</a></li>
+                                        <li><a href="/redirect.aspx?page=http://www.ombudsman.hawaii.gov" target="_blank">Office of the Ombudsman</a></li>
+                                        <li><a href="/redirect.aspx?page=http://hawaii.gov/oip/" target="_blank">Office of Information Practices</a></li>
+                                        <li><a href="/redirect.aspx?page=http://www.oha.org/" target="_blank">Office of Hawaiian Affairs</a></li>
+                                        <li><a href="/redirect.aspx?page=http://www.honolulu.gov/index.php" target="_blank">City and County of Honolulu</a></li>
+                                        <li><a href="/redirect.aspx?page=http://www.co.maui.hi.us/" target="_blank">County of Maui</a></li>
+                                        <li><a href="/redirect.aspx?page=http://www.kauai.gov/" target="_blank">County of Kauai</a></li>
+                                        <li><a href="/redirect.aspx?page=http://www.co.hawaii.hi.us/" target="_blank">County of Hawaii</a></li>
+                                        
+                                        
+                                        
+                                         <li><a href="/redirect.aspx?page=https://kahele.house.gov/" target="_blank">U.S. Representative Kai Kahele</a></li>
+                                        <li><a href="/redirect.aspx?page=http://case.house.gov/" target="_blank">U.S. Representative Ed Case</a></li> 
+                                        <li><a href="/redirect.aspx?page=http://www.hirono.senate.gov/" target="_blank">U.S. Senator Mazie Hirono</a></li>
+                                        <li><a href="/redirect.aspx?page=http://www.schatz.senate.gov/" target="_blank">U.S. Senator Brian Schatz</a></li>
+                                        <li><a href="/redirect.aspx?page=https://ltgov.hawaii.gov/" target="_blank">Lt. Governor Josh Green</a></li>
+                                        <li><a href="/redirect.aspx?page=http://hawaii.gov/gov/" target="_blank">Governor David Ige</a></li>
+                                        
+                                        <li><a href="/redirect.aspx?page=http://www.olelo.org/" target="_blank">'Olelo Community Television</a></li>
+                                        <li><a href="/redirect.aspx?page=http://www.akaku.org/" target="_blank">Akaku: Maui Community Television</a></li>
+                                        <li><a href="/redirect.aspx?page=http://www.hoike.org" target="_blank">Ho'ike: Kaua'i Community Television</a></li>
+                                        <li><a href="/redirect.aspx?page=http://naleo.tv" target="_blank">Na Leo O Hawai&#8216;i:  Big Island Community Television</a></li>
+                                        <li><a href="/redirect.aspx?page=http://www.ncsl.org/" target="_blank">National Conference of State Legislatures</a></li>
+                                        <li><a href="/redirect.aspx?page=http://www.csg.org/" target="_blank">Council of State Governments</a></li>
+                                        <li><a href="/redirect.aspx?page=http://www.csgwest.org/" target="_blank">Council of State Governments-West</a></li>
+                                        <li><a href="/redirect.aspx?page=https://lrb.hawaii.gov/directory" target="_blank">Hawaii Directory State, County, and Federal Officials</a></li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+        <hr />
+  
+        </div> <!-- end footer -->
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("ctl00_ToolkitScriptManager1_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();//]]>
+</script>
+</form>
+    </div>
+   
+</body>
+</html>
+

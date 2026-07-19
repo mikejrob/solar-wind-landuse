@@ -1,0 +1,790 @@
+     THE SENATE                                                                           2658
+     TWENTY-SEVENTH LEGISLATURE, 2014
+     STATE OF HAWAII
+                                                                             S.B. NO.     S.D. 1
+
+
+
+
+                                      A BILL FOR AN ACT
+     RELATING TO SOLAR ENERGY.
+
+
+     BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+
+1                SECTION 1. The purpose of this Act is to enable the
+
+2    complementary uses of utility scale solar energy generation and
+
+3    local food production on agricultural land with an overall
+
+4    productivity rating of class B or C.
+
+5                SECTION 2.                  Section 205-2, Hawaii Revised Statutes, is
+
+6    amended by amending subsection (d) to read as follows:
+
+7                "(d) Agricultural districts shall include:
+
+8                           Activities or uses as characterized by the cultivation
+
+9                           of crops, crops for bioenergy, orchards, forage, and
+
+10                          forestry;
+
+11                          Farming activities or uses related to animal husbandry
+
+12                          and game and fish propagation;
+
+13                          Aquaculture, which means the production of aquatic
+
+14                          plant and animal life within ponds and other bodies of
+
+15                          water;
+
+16                          Wind generated energy production for public, private,
+
+17                          and commercial use;
+
+
+     2014-1257 SB2658 SD1 SMA.doc
+                                                 lllI IIlIIIIIII1lllllllll
+     lllllllllllllllBllllllllll I111~1.11111111118111l
+     Page 2                                                                  2658
+                                                      S.B. NO.               s.D.~
+
+
+
+
+ 1            (5) Biofuel production, as described in section
+
+ 2                205-4.5(a)(16), for public, private, and commercial
+
+ 3                use;
+
+ 4            (6) Solar energy facilities; provided that:
+
+ 5                (A) This paragraph shall apply only to land with soil
+
+ 6                       classified by the land study bureau's detailed
+
+ 7                       land classification as overall (master)
+
+ 8                       productivity rating class B, C, D, or E; and
+
+ 9                (B) Solar energy facilities placed within land with
+
+10                       soil classified as overall productivity rating
+
+11                       class B or C shall not occupy more than [ + e e l
+
+12                       thirty per cent of the acreage of the parcel, or
+
+13                       [*nty   acrZs of land, YikiCk.,C~"YX is lZssZr; I , in
+14                       the alternative, of two or more adjacent parcels
+
+15                       having met the applicable county requirements for
+
+16                       the joint development or joint lot use of those
+
+17                       parcels; provided that the area occupied by the
+
+18                       solar energy facilities in excess of twenty acres
+
+19                       shall be made available for agricultural
+
+20                       activities, as described in paragraphs (1) to
+
+21                       ( 3 ) , that are compatible with the solar energy
+
+22                       facilities at a lease rate that is at least fifty
+     2014-1257 SB2658 SD1 SMA.doc
+     Page 3                                                                                        2658
+                                                                                        S.B. NO.   s.D.~
+
+
+
+
+ 1                                            per cent below fair market rent for comparable
+
+ 2                                            properties; provided further that the solar
+
+ 3                                            energy facilities shall be decommissioned and
+
+ 4                                            removed within twelve months of the conclusion of
+
+ 5                                            operation;
+
+ 6                 (7) Bona fide agricultural services and uses that support
+
+ 7                              the agricultural activities of the fee or leasehold
+
+ 8                              owner of the property and accessory to any of the
+
+ 9                              above activities, regardless of whether conducted on
+
+10                              the same premises as the agricultural activities to
+
+11                              which they are accessory, including farm dwellings as
+
+12                              defined in section 205-4.5(a)(41, employee housing,
+
+13                              farm buildings, mills, storage facilities, processing
+
+14                              facilities, photovoltaic, biogas, and other small-
+
+15                              scale renewable energy systems producing energy solely
+
+16                              for use in the agricultural activities of the fee or
+
+17                              leasehold owner of the property, agricultural-energy
+
+18                              facilities as defined in section 205-4.5(a)(17),
+
+19                              vehicle and equipment storage areas, and plantation
+
+20                              community subdivisions as defined in section
+
+21                              205-4.5(a)(12);
+
+22                 (8) Wind machines and wind farms;
+     2014-1257 SB2658 SD1 SMA.doc
+     Illl1l1l11l1l11ll1ll1111111Il11111 lI1111111 1111l1l111111lll1ll1Al1111l1l11llll
+     Page 4                                                           2658
+                                                   S.B. NO.           s.D.~
+
+
+
+
+ 1            (9) Small-scale meteorological, air quality, noise, and
+
+ 2                other scientific and environmental data collection and
+
+3                 monitoring facilities occupying less than one-half
+
+4                 acre of land; provided that these facilities shall not
+
+5                 be used as or equipped for use as living quarters or
+
+ 6                dwellings;
+
+7         (10) Agricultural parks;
+
+ 8        (11) Agricultural tourism conducted on a working farm, or a
+
+9                 farming operation as defined in section 165-2, for the
+
+10                enjoyment, education, or involvement of visitors;
+
+11                provided that the agricultural tourism activity is
+
+12                accessory and secondary to the principal agricultural
+
+13                use and does not interfere with surrounding farm
+
+14                operations; and provided further that this paragraph
+
+15                shall apply only to a county that has adopted
+
+16                ordinances regulating agricultural tourism under
+
+17                section 205-5;
+
+18        (12) Agricultural tourism activities, including overnight
+
+19                accommodations of twenty-one days or l e s s , for any one
+
+20                stay within a county; provided that this paragraph
+
+21                shall apply only to a county that includes at least
+
+22                three islands and has adopted ordinances regulating
+     Page 5
+
+
+
+
+               agricultural tourism activities pursuant to section
+
+               205-5; provided further that the agricultural tourism
+
+               activities coexist with a bona fide agricultural
+
+4              activity. For the purposes of this paragraph, "bona
+
+5              fide agricultural activity" means a farming operation
+
+               as defined in section 165-2;
+
+          (13) Open area recreational facilities;
+
+     [+](14)[+]Geotherrnal resources exploration and geothermal
+
+               resources development, as defined under section 182-1;
+
+10             and
+
+11   [+I (15)[+]Agricultural-based commercial operations, including:
+
+12             (A) A roadside stand that is not an enclosed
+
+13                   structure, owned and operated by a producer for
+
+14                   the display and sale of agricultural products
+
+15                   grown in Hawaii and value-added products that
+
+16                   were produced using agricultural products grown
+
+17                   in Hawaii;
+
+18             (B) Retail activities in an enclosed structure owned
+
+19                   and operated by a producer for the display and
+
+20                   sale of agricultural products grown in Hawaii,
+
+                     value-added products that were produced using
+
+22                   agricultural products grown in Hawaii, logo items
+
+     2014-1257 SB2658 SD1 SMA.dOc
+     Page 6                                                                               2658
+                                                                               S.B. NO.   s.D.~
+
+
+
+
+ 1                                       related to the producer's agricultural
+
+2                                        operations, and other food items; and
+
+3                            (C) A retail food establishment owned and operated by
+
+4                                        a producer and permitted under [+]title 11,[+]
+
+5                                        chapter 12 of the rules of the department of
+
+6                                       health that prepares and serves food at retail
+
+7                                       using products grown in Hawaii and value-added
+
+8                                       products that were produced using agricultural
+
+9                                       products grown in Hawaii.
+
+10                          The owner of an agricultural-based commercial
+
+11                           operation shall certify, upon request of an officer or
+
+12                           agent charged with enforcement of this chapter under
+
+13                           section 205-12, that the agricultural products
+
+14                           displayed or sold by the operation meet the
+
+15                           requirements of this paragraph.
+
+16   Agricultural districts shall not include golf courses and golf
+
+17   driving ranges, except as provided in section 205-4.5(d).
+
+18   Agricultural districts include areas that are not used for, or
+
+19   that are not suited to, agricultural and ancillary activities by
+
+20   reason of topography, soils, and other related characteristics."
+
+21               SECTION 3.                   Section 205-4.5, Hawaii Revised Statutes, is
+
+22   amended by amending subsection (a) to read as follows:
+     2014-1257 SB2658 SDI SMA.doc
+     IlllllllllllI1IlllllllllllllllllllllllllllllllllllllllllllllMilllllllll
+     Page 7                                                                                   2658
+                                                                                S.B. NO.      s.D.~
+
+
+
+
+ 1                "(a) Within the agricultural district, all lands with soil
+
+2    classified by the land study bureau's detailed land
+
+3    classification as overall (master) productivity rating class A
+
+4    or B shall be restricted to the following permitted uses:
+
+5                            Cultivation of crops, including crops for bioenergy,
+
+6                            flowers, vegetables, foliage, fruits, forage, and
+
+7                            timber;
+
+8                            Game and fish propagation;
+
+9                            Raising of livestock, including poultry, bees, fish,
+
+10                           or other animal or aquatic life that are propagated
+
+11                           for economic or personal use;
+
+12                           Farm dwellings, employee housing, farm buildings, or
+
+13                           activities or uses related to farming and animal
+
+14                           husbandry.                    "Farm dwelling", as used in this
+
+15                           paragraph, means a single-family dwelling located on
+
+16                           and used in connection with a farm, including clusters
+
+17                           of single-family farm dwellings permitted within
+
+18                           agricultural parks developed by the State, or where
+
+19                           agricultural activity provides income to the family
+
+20                           occupying the dwelling;
+
+21                           Public institutions and buildings that are necessary
+
+22                            for agricultural practices;
+     2014-1257 SB2658 SD1 SMA.doc
+     Iiiiiniiiiiiiiiiiiiiiii1 1iiiiiiiiiiiiiiniiiii iiiiiiiiiiiiiiiiiiiiii ii
+     Page 8                                                       2658
+                                                   S.B. NO.       s.D.~
+
+
+
+
+ 1            Public and private open area types of recreational
+
+2             uses, including day camps, picnic grounds, parks, and
+
+3             riding stables, but not including dragstrips,
+
+4             airports, drive-in theaters, golf courses, golf
+
+5             driving ranges, country clubs, and overnight camps;
+
+6             Public, private, and quasi-public utility lines and
+
+7             roadways, transformer stations, communications
+
+8             equipment buildings, solid waste transfer stations,
+
+9             major water storage tanks, and appurtenant small
+
+10            buildings such as booster pumping stations, but not
+
+11            including offices or yards for equipment, material,
+
+12            vehicle storage, repair or maintenance, treatment
+
+13            plants, corporation yards, or other similar
+
+14            structures;
+
+15            Retention, restoration, rehabilitation, or improvement
+
+16            of buildings or sites of historic or scenic interest;
+
+17            Agricultural-based commercial operations as described
+
+18            in section [+1205-2 (d)(15)[+I   ;
+
+19            Buildings and uses, including mills, storage, and
+
+20            processing facilities, maintenance facilities,
+
+21            photovoltaic, biogas, and other small-scale renewable
+
+22            energy systems producing energy solely for use in the
+     2014-1257 SB2658 SD1 SMA.doc
+     Page 9                                                        2658
+                                               S.B. NO.            s.D.~
+
+
+
+
+ 1             agricultural activities of the fee or leasehold owner
+
+2              of the property, and vehicle and equipment storage
+
+3              areas that are normally considered directly accessory
+
+4              to the above-mentioned uses and are permitted under
+
+5              section 205-2 (d);
+
+6             Agricultural parks;
+
+7              Plantation community subdivisions, which as used in
+
+8              this chapter means an established subdivision or
+
+9              cluster of employee housing, community buildings, and
+
+10             agricultural support buildings on land currently or
+
+11             formerly owned, leased, or operated by a sugar or
+
+12            pineapple plantation; provided that the existing
+
+13             structures may be used or rehabilitated for use, and
+
+14             new employee housing and agricultural support
+
+15            buildings may be allowed on land within the
+
+16             subdivision as follows:
+
+17             (A) The employee housing is occupied by employees or
+
+18                   former employees of the plantation who have a
+
+19                   property interest in the land;
+
+20             (B)   The employee housing units not owned by their
+
+21                   occupants shall be rented or leased at affordable
+
+22                   rates for agricultural workers; or
+
+     2014-1257 SB2658 SD1 SMA..doc
+      Page 10                                                                                               2658
+                                                                                                 S.B. NO.   s.D.~
+
+
+
+
+ 1                                   (C)           The agricultural support buildings shall be
+
+2                                                   rented or leased to agricultural business
+
+3                                                   operators or agricultural support services;
+
+4                  (13) Agricultural tourism conducted on a working farm, or a
+
+5                                    farming operation as defined in section 165-2, for the
+
+6                                    enjoyment, education, or involvement of visitors;
+
+7                                   provided that the agricultural tourism activity is
+
+8                                   accessory and secondary to the principal agricultural
+
+9                                   use and does not interfere with surrounding farm
+
+10                                  operations; and provided further that this paragraph
+
+11                                   shall apply only to a county that has adopted
+
+12                                   ordinances regulating agricultural tourism under
+
+13                                   section 205-5;
+
+14                 (14) Agricultural tourism activities, including overnight
+
+15                                   accommodations of twenty-one days or less, for any one
+
+16                                   stay within a county; provided that this paragraph
+
+17                                   shall apply only to a county that includes at least
+
+18                                   three islands and has adopted ordinances regulating
+
+19                                   agricultural tourism activities pursuant to section
+
+20                                   205-5; provided further that the agricultural tourism
+
+21                                   activities coexist with a bona fide agricultural
+
+22                                   activity.                        For the purposes of this paragraph, "bona
+       2014-1257 SB2658 SD1 SMA.doc
+     1lI11l1l1ll81111111111I11 1l1il11IIII IIlBl1I1iIl111111111. I11Ill111I111 l l Illl11IlI .
+     Page 11                                                                    2658
+                                                                     S.B. NO.   s.D.~
+
+
+
+
+1                        fide agricultural activity" means a farming operation
+
+2                        as defined in section 165-2;
+
+3            (15) Wind energy facilities, including the appurtenances
+
+4                        associated with the production and transmission of
+
+5                        wind generated energy; provided that the wind energy
+
+6                        facilities and appurtenances are compatible with
+
+7                        agriculture uses and cause minimal adverse impact on
+
+8                        agricultural land;
+
+9            (16) Biofuel processing facilities, including the
+
+10                       appurtenances associated with the production and
+
+11                       refining of biofuels that is normally considered
+
+12                       directly accessory and secondary to the growing of the
+
+13                       energy feedstock; provided that biofuel processing
+
+14                       facilities and appurtenances do not adversely impact
+
+15                       agricultural land and other agricultural uses in the
+
+16                       vicinity .
+
+17                                 For the purposes of this paragraph:
+
+18                                  "Appurtenances" means operational infrastructure
+
+19                       of the appropriate type and scale for economic
+
+20                       commercial storage and distribution, and other similar
+
+21                       handling of feedstock, fuels, and other products of
+
+22                       biofuel processing facilities.
+     2014-1257 SB2658 SDI SMA.doc
+     IlAllllllllllllllllllll1 l11lIIIl1111111111llllllllllllllllll
+     Page 12
+
+
+
+
+1                     "Biofuel processing facility" means a facility
+
+2               that produces liquid or gaseous fuels from organic
+
+3               sources such as biomass crops, agricultural residues,
+
+4               and oil crops, including palm, canola, soybean, and
+
+5               waste cooking oils; grease; food wastes; and animal
+
+6               residues and wastes that can be used to generate
+
+7               energy ;
+
+8         (17) Agricultural-energy facilities, including
+
+9               appurtenances necessary for an agricultural-energy
+
+10              enterprise; provided that the primary activity of the
+
+11              agricultural-energy enterprise is agricultural
+
+12              activity. To be considered the primary activity of an
+
+13              agricultural-energy enterprise, the total acreage
+
+14              devoted to agricultural activity shall be not less
+
+15              than ninety per cent of the total acreage of the
+
+16              agricultural-energy enterprise. The agricultural-
+
+17              energy facility shall be limited to lands owned,
+
+18              leased, licensed, or operated by the entity conducting
+
+19              the agricultural activity.
+
+20                    As used in this paragraph:
+
+21                    "Agricultural activity" means any activity
+
+22              described in paragraphs (1) to (3) of this subsection.
+     2014-1257 S B 2 6 5 8 SD1 SMA.doc
+     Page 13
+
+
+
+
+                    "Agricultural-energy enterprise" means an
+
+               enterprise that integrally incorporates an
+
+               agricultural activity with an agricultural-energy
+
+               facility.
+
+                    "Agricultural-energy facility" means a facility
+
+               that generates, stores, or distributes renewable
+
+               energy as defined in section 269-91 or renewable fuel
+
+               including electrical or thermal energy or liquid or
+
+9              gaseous fuels from products of agricultural activities
+
+10             from agricultural lands located in the State.
+
+11                  "Appurtenances" means operational infrastructure
+
+12             of the appropriate type and scale for the economic
+
+13             commercial generation, storage, distribution, and
+
+14             other similar handling of energy, including equipment,
+
+15             feedstock, fuels, and other products of agricultural-
+
+16             energy facilities;
+
+17        (18) Construction and operation of wireless communication
+
+18             antennas; provided that, for the purposes of this
+
+19             paragraph, "wireless communication antenna" means
+
+20             communications equipment that is either freestanding
+
+               or placed upon or attached to an already existing
+
+22             structure and that transmits and receives
+     2014-1257 SB2658 SD1 SMA.doc
+     Page 14                                                                                                                2658
+                                                                                                    S.B. NO.                s.D.~
+
+
+
+
+                                electromagnetic radio signals used in the provision of
+
+                                all types of wireless communications services;
+
+                                provided further that nothing in this paragraph shall
+
+4                               be construed to permit the construction of any new
+
+5                               structure that is not deemed a permitted use under
+
+6                               this subsection;
+
+7                (19) Agricultural education programs conducted on a farming
+
+8                               operation as defined in section 165-2, for the
+
+9                               education and participation of the general public;
+
+10                              provided that the agricultural education programs are
+
+11                              accessory and secondary to the principal agricultural
+
+12                              use of the parcels or lots on which the agricultural
+
+13                              education programs are to occur and do not interfere
+
+14                              with surrounding farm operations. For the purposes of
+
+15                               this section, "agricultural education programs" means
+
+16                              activities or events designed to promote knowledge and
+
+17                              understanding of agricultural activities and practices
+
+18                              conducted on a farming operation as defined in section
+
+19                               165-2;
+
+20               (20) Solar energy facilities that do not occupy more than
+
+                                 [&e131 thirty per cent of the acreage of the parcel, or
+
+22                               [*E%                 Cicrcs of l=d,                     xkick.,c-,-cr is lcsscr-, I ,   in the
+     2014-1257 SB2658 SDI SMA.doc
+     I11lIl I I11 1 1 11 11AlIl1Il1111111 11 1111lII11II.11IlAlI111Il11I81 I111l11IlIl
+     Page 15                                                       2658
+                                                S.B. NO.           s.D.~
+
+
+
+
+ 1             alternative, of two or more adjacent parcels having
+
+               met the applicable county requirements for the joint
+
+               development or joint lot use of those parcels;
+
+               provided that the area occupied by the solar energy
+
+               facilities in excess of twenty acres shall be made
+
+               available for agricultural activities, as described in
+
+               paragraphs (1) to ( 3 ) , that are compatible with the
+
+8              solar enerav facilities at a lease rate that is at
+
+9              least fifty per cent below fair market rent for
+
+10             comparable properties; provided further that the solar
+
+11             energy facilities shall be decommissioned and removed
+
+12             within twelve months of the conclusion of operation;
+
+13             provided further that this use shall not be permitted
+
+14             on lands with soil classified by the land study
+
+15             bureau's detailed land classification as overall
+
+16              (master) productivity rating class A; or
+
+17   [f] (21)[+]Geothermal resources exploration and geothermal
+
+18             resources development, as defined under section
+
+19             182-1.''
+
+20         SECTION 4. Statutory material to be repealed is bracketed
+
+21   and stricken. New statutory material is underscored.
+
+22
+
+     2014-1257 SB2658 SD1 SMA.doc
+    Page 16                                                      2658
+                                               S.B. NO. s . D . ~
+
+1         SECTION 5.   This Act shall take effect upon its approval.
+
+2
+                                                                                                 2658
+                                                                    S.B. NO.                     s.D.~
+
+
+
+
+Report Title:
+Solar Energy; Agricultural Land
+
+Description:
+Requires that solar facilities on agricultural lands with an
+overall productivity rating of class B or C occupy up to thirty,
+rather than ten, per cent of the acreage of the parcel or two or
+more adjacent parcels having met the applicable county
+requirements for the joint development or joint lot use of those
+parcels; provided that the area occupied by the solar facilities
+in excess of twenty acres shall only be made available for
+agricultural activities compatible with the solar energy
+facilities at a lease rate that is at least fifty per cent below
+fair market rent for comparable properties. Requires that solar
+energy facilities be removed from the land within twelve months
+when the facilities are no longer in operation. (SD1)
+
+
+
+The summary description of legislation appearing on this page is for informational purposes only and is
+not legislation or evidence of legislative intent.
+

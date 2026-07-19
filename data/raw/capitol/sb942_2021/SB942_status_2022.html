@@ -1,0 +1,499 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="ctl00_Head1"><meta http-equiv="content-type" content="text/html;charset=iso-8859-2" /><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" /><link rel="stylesheet" href="/css/bootstrap.min.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans" /><link rel="stylesheet" href="/css/MasterPage.css" /><link rel="stylesheet" href="/css/FooterMenu.css" /><link rel="stylesheet" href="images/screen.css" type="text/css" /><link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico" /><title>
+	Measure Status
+</title>
+    
+    <script type="text/javascript">
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-XXXXX-Y', 'auto');
+        ga('send', 'pageview');
+    function clearText(textbox,text)
+    {
+        if (textbox.value == text)
+            textbox.value = "";
+    }
+    function resetText(textbox,text)
+    {
+        if (textbox.value == "")
+            textbox.value = text;
+    }
+    </script>
+    <style type="text/css">
+        body {
+            line-height: 1em;
+        }
+         .gradientdarkblue {
+            line-height: 2.2em;
+            padding: 2px;
+        }
+    </style>
+</head>
+<body>
+
+<div style="width: 975px; margin-left: auto; margin-right: auto;">
+    <form name="aspnetForm" method="post" action="./measure_indiv.aspx?billnumber=942&amp;billtype=SB&amp;year=2022" id="aspnetForm">
+<div>
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="ctl00_ToolkitScriptManager1_HiddenField" id="ctl00_ToolkitScriptManager1_HiddenField" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=ac5m-OymQP5HoquMeKz5CRQ5100nFna0a8nBtLp917WV68s0dV0HD2glBcIroD_6nhZv1uwGUtyTc8o4Nq9hKLe67Sx794q4XgS2vsP0HWk1&amp;t=637814293746327080" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=Fy3du7JdUdyk1Th31xpYyd_4HjXWA9pyM7bNEWXPezj2NSuT_vdTdn9vpFsfB4hG7t_kd5oCMk6Z5AEbdYKmuVTcDIisP3iruimK0WEn4H2En_lkLZuLqXBzA17wAszK0&amp;t=78f0a2d1" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=I_1kEQG9famM5jMuasPgfcHfmwRD3Wu9TKl4azIhkNuABUoTg7Q6QBHqwLWgJUkdSjNXbIF95x95b3BG2Bvj3Y6hMH-TK2CUbiKrRL1llTrRr7Rr1bOFpO91EUFNGbGvElzFnQ1kUZIb980jWjq8sw2&amp;t=78f0a2d1" type="text/javascript"></script>
+<script src="/WebResource.axd?d=H_pDEeJBRjqO8IFaGaQ4kVtX5lQKq9DewHlb84eIVnMGtLlU1gp7IKYxYupqI8VsleR1lfRjlfISxxO27tQwoxmaugxx_Jn0aI0zeYvP_rA1&amp;t=637814293746327080" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="F443420C" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="n82Dqju_yXwRHdhyNYFadr_RxRkA_brrE5VADGPyyXBkcoziQaixt8sRmnboOsbUX38ezVk0xcQvHwOxaCScdEFFHGRDRk4IKvN3lJlUvHI1" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="W6m/nm1oYsEaKjfJ/XnFDINt2w5YECADLm+ULfDX9tMj8JqWlhBxttDOnYse+7T7sU9HI9IA+HxWCxWGFVKwAzV6J+ZM+boQBmvX0E6tJeKhdeYkjqxC9PBZiwMvhz+JFW2F6miZ3YczoYI3qH/8beJ4qBjKJPkGNoLuNeTYIwN7yCPKgtK4OQpypID1C0T7NCsAXYv63Xvjo2S4IBJyMHqR6NaXPAWsAdTctKqBlmUXVZ75dIujtfkV1icD8JasBiQ4FtmrcHweLxR5pHhq+FFOYN6RF0RbbQO8fHffFIQ=" />
+</div>
+    
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ToolkitScriptManager1', 'aspnetForm', ['tctl00$ContentPlaceHolderCol1$UpdatePanel1','','tctl00$ContentPlaceHolder1$UpdatePanel2',''], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+   
+    <div class="shadow">
+        <div class="header">
+            <div id="header">
+                <div style="float: right; clear: both; padding-right: 8px; padding-top: 8px; font-family: Arial;">
+                    
+                   
+                    
+                    <div id="ctl00_PanelNotLoggedIn">
+	
+                    
+                    <a id="ctl00_HyperLinkLogin" href="/login/login.aspx">Sign In</a>&nbsp;|
+                    <a id="ctl00_HyperLinkRegister" href="/login/register.aspx">Register</a>
+                    &nbsp;&nbsp;<input type="image" name="ctl00$ImageButtonHome" id="ctl00_ImageButtonHome" src="Images/home_icon.gif" align="middle" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ImageButtonHome&quot;, &quot;&quot;, false, &quot;&quot;, &quot;/&quot;, false, false))" style="width:35px;border-width:0px;" />
+</div>
+                </div>
+                <h1>
+                    <a href="/" id="ctl00_lnk">Hawaii State Legislature</a></h1>
+            </div>
+        </div>
+        <!-- close header -->
+        <div id="ctl00_PanelHeader">
+	
+            <div class="subheader gradientgray">
+                <table width="100%">
+                    <tr>
+                        <td width="270px">
+                            <div style="font-size: 9pt; margin-left: 45px;">
+                                
+                                31st Legislature, 2022
+                                <br />
+                                <a style="font-size:8pt" href="/docs/SessionCalendar.pdf">View Legislative Calendar</a>
+                                </div>
+                        </td>
+                        <td>
+                            <span id="ctl00_LabelSessionTime" style="font-size:8pt;">
+<!--<center>Floor session convene time: <br/>
+Senate: June 21, 2022, 10:00 a.m.  |  House: Adjourned sine die</center>-->
+<center>The Legislature has adjourned sine die.</center>
+<!--<center>Floor session convene time for May 5, 2022: <br/>
+Senate: 10:00 a.m.  |  House of Representatives: 10:00 a.m.</center>-->
+</span>
+                        </td>
+                       <td align="right" valign="top" width="300px" style="padding: 6px">
+                           <a href="/fyl" target="_blank" style="font-family:'Century Gothic'; font-size:9pt; color:blue; font-weight: bold;">Find Your Legislator</a>&nbsp;&nbsp;
+ 
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        
+</div>
+        <!--close subheader-->
+    <div class="colmask rightmenu shadow"> 
+	<div class="colleft"> 
+		<div class="col1"> 
+                    
+
+    
+    
+    
+    <br />
+    <br />
+    <div class="fontbigger" style="font-family: Tahoma;">
+        <div id="ctl00_ContentPlaceHolderCol1_PanelMeasureTypeNum">
+	
+
+            <a id="ctl00_ContentPlaceHolderCol1_LinkButtonMeasure" class="measurebigger" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolderCol1$LinkButtonMeasure&#39;,&#39;&#39;)" style="color:#124D79;font-family:Garamond;font-weight:bold;">SB942</a>
+                &nbsp;&nbsp;
+       
+            <input type="image" name="ctl00$ContentPlaceHolderCol1$ImageButtonPDF" id="ctl00_ContentPlaceHolderCol1_ImageButtonPDF" class="noprint" src="Images/pdf_icon.gif" align="top" style="border-width:0px;" />&nbsp;
+            <input type="image" name="ctl00$ContentPlaceHolderCol1$ImageButtonRSS" id="ctl00_ContentPlaceHolderCol1_ImageButtonRSS" class="noprint" src="Images/rss_icon.gif" align="top" style="border-width:0px;" />&nbsp;<a id="ctl00_ContentPlaceHolderCol1_HyperLinkRSS" class="noprint" href="/rss.aspx" style="font-family:Tahoma;font-size:8pt;">(?)</a>
+                    
+            <div class="noprint" style="padding-top: 4px; float: right;">
+                <input type="submit" name="ctl00$ContentPlaceHolderCol1$ButtonTestimony" value="Submit Testimony" id="ctl00_ContentPlaceHolderCol1_ButtonTestimony" class="button blue medium" style="width:200px;" /><br />
+                
+            </div>
+        
+</div>
+        <!--
+            Show this panel instead of the above one for special cases.  This will change the measure type/number display for specific bills specified
+            in the codebehind.  for 2021 they wanted to show a new draft called AD.  didn't exist in db so we hardcoded it.
+            -->
+        
+    <br />
+        
+    
+            <div id="ctl00_ContentPlaceHolderCol1_ListView1_itemPlaceholderContainer" style="">
+                
+        <table cellpadding="3px">
+            <tr><td width="100px" style="color: #124D79">Measure Title:</td><td>
+            <span id="ctl00_ContentPlaceHolderCol1_ListView1_ctrl0_measure_titleLabel">RELATING TO AGRICULTURAL LANDS.</span>
+            </td></tr>
+            <tr><td style="color: #124D79">Report Title: </td><td>
+            <span id="ctl00_ContentPlaceHolderCol1_ListView1_ctrl0_report_titleLabel">Board of Agriculture; Public Utilities Commission; Solar Energy Facility; Letter of Attestation; Power Purchase Agreements</span><span id="ctl00_ContentPlaceHolderCol1_ListView1_ctrl0_Label41" style="font-size:8pt;"></span>
+           </td></tr>
+            <tr><td style="color: #124D79">Description: </td><td>
+            <span id="ctl00_ContentPlaceHolderCol1_ListView1_ctrl0_descriptionLabel">Authorizes the board of agriculture to issue a letter of attestation for solar energy facilities, under certain conditions.  Prohibits the public utilities commission from approving a power purchase agreement for a solar energy facility on certain lands without a letter of attestation from the board of agriculture.  Clarifies the conditions in which a solar energy facility can operate on class B or C lands.</span>
+           </td></tr>
+            <tr><td style="color: #124D79">Companion:</td><td>
+            <span id="ctl00_ContentPlaceHolderCol1_ListView1_ctrl0_companionLabel"></span>
+            </td></tr>
+            <tr><td style="color: #124D79">Package:</td><td>
+            <span id="ctl00_ContentPlaceHolderCol1_ListView1_ctrl0_package_acroLabel">None</span>
+           </td></tr>
+             <tr><td style="color: #124D79">Current Referral: </td><td>
+            <span id="ctl00_ContentPlaceHolderCol1_ListView1_ctrl0_current_referralLabel">AEN/EET, CPN</span>
+           </td></tr>
+            <tr><td style="color: #124D79">Introducer(s):</td><td>
+            <span id="ctl00_ContentPlaceHolderCol1_ListView1_ctrl0_introducerLabel">GABBARD, CHANG, INOUYE, MISALUCHA, RIVIERE, Ihara, Moriwaki, Shimabukuro</span>
+           </td></tr>
+            
+            </table>
+        
+            </div>
+            <div style="">
+            </div>
+        
+    
+    <div id="ctl00_ContentPlaceHolderCol1_UpdatePanel1">
+	
+    <br />
+    <div>
+		<table cellspacing="0" cellpadding="6" rules="rows" border="1" id="ctl00_ContentPlaceHolderCol1_GridViewStatus" style="border-style:None;width:100%;border-collapse:collapse;">
+			<tr class="gradientgray">
+				<th align="left" scope="col"><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolderCol1$GridViewStatus&#39;,&#39;Sort$sortorder&#39;)"> Sort by Date</a></th><th scope="col">&nbsp;</th><th align="left" scope="col">Status Text</th>
+			</tr><tr>
+				<td style="color:Black;">1/27/2021</td><td style="color:Black;font-weight:normal;">S</td><td style="color:Black;">Introduced.</td>
+			</tr><tr style="background-color:#F0F0F0;">
+				<td style="color:Black;">1/27/2021</td><td style="color:Black;font-weight:normal;">S</td><td style="color:Black;">Passed First Reading.</td>
+			</tr><tr>
+				<td style="color:Black;">1/29/2021</td><td style="color:Black;font-weight:normal;">S</td><td style="color:Black;">Referred to AEN/EET, CPN.</td>
+			</tr><tr style="background-color:#F0F0F0;">
+				<td style="color:Black;">12/10/2021</td><td style="color:Black;font-weight:normal;">D</td><td style="color:Black;">Carried over to 2022 Regular Session.</td>
+			</tr>
+		</table>
+	</div>
+    
+</div>
+    <br />
+		<p style="color: #124D79"><b>S</b> = Senate |
+        <b>H</b> = House |
+        <b>D</b> = Data Systems |
+		<b>$</b> = Appropriation measure |
+		<b>ConAm</b> = Constitutional Amendment</p>
+		
+		
+		<p>Some of the above items require Adobe Acrobat Reader. Please visit 
+		<a href="http://get.adobe.com/reader">Adobe's download page</a> 
+		    for detailed instructions.</p><br />
+    <span id="ctl00_ContentPlaceHolderCol1_LabelMeasureFooter" style="color:#124D79;font-family:Garamond;font-size:24pt;font-weight:bold;">SB942</span>
+  </div>
+    
+                </div>
+                <!-- close col1 -->
+                <div class="col2">
+                    
+    <div class="noprint" style="font-family: Tahoma; font-size: 8pt;">
+    
+    
+    
+    
+    
+    <br /><br />
+    <div id="ctl00_ContentPlaceHolder1_PanelQuickSearch" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;ctl00_ContentPlaceHolder1_ButtonGo&#39;)">
+	
+        <div class="roundedrect gradientlightblue searchbox shadow" style="margin-right:5px;">
+            <div class="boxlabel">
+                Search for another measure
+            </div>
+            <input name="ctl00$ContentPlaceHolder1$TextBoxDiffMeasure" type="text" id="ctl00_ContentPlaceHolder1_TextBoxDiffMeasure" title="Enter measures such as SB1 or HCR8, no draft numbers or spaces" class="textbox" style="color:Black;width:78%;" />&nbsp;
+            <input type="submit" name="ctl00$ContentPlaceHolder1$ButtonGo" value="Go" id="ctl00_ContentPlaceHolder1_ButtonGo" class="button blue small" />
+        </div>
+    
+</div>
+    
+    <br />
+        <div id="ctl00_ContentPlaceHolder1_UpdatePanel2">
+	
+        
+    <div class="roundedrect shadow" style="border-color: #C0C0C0; margin-right:5px;">
+        <div class="menuborder gradientdarkblue" style="width:auto; background-color: #124D79">
+        <center>
+        <span id="ctl00_ContentPlaceHolder1_Label1" style="color:White;font-family:Arial Black;font-size:10pt;font-weight:bold;">All Versions of this Measure</span></center>
+        </div>
+        <div>
+		<table cellspacing="0" cellpadding="2" border="0" id="ctl00_ContentPlaceHolder1_GridViewVersions" style="width:100%;border-collapse:collapse;">
+			<tr>
+				<td>
+                        <a id="ctl00_ContentPlaceHolder1_GridViewVersions_ctl02_VersionsLink" class="visited" href="https://www.capitol.hawaii.gov/session2022/bills/SB942_.HTM" target="_blank">SB942</a>
+                    </td><td align="right">
+                        <a id="ctl00_ContentPlaceHolder1_GridViewVersions_ctl02_PdfLink" href="https://www.capitol.hawaii.gov/session2022/bills/SB942_.PDF" target="_blank"><img src="Images/pdf_icon.gif" alt="Pdf File" style="border-width:0px;" /></a>
+                    </td>
+			</tr>
+		</table>
+	</div>
+   </div>
+   
+</div>
+   <br />
+    <div class="roundedrect shadow" style="border-color: #C0C0C0; margin-right:5px;">
+        <div class="menuborder gradientdarkblue" style="width:auto; background-color: #124D79">
+        <center>
+        <span id="ctl00_ContentPlaceHolder1_Label2" style="color:White;font-family:Arial Black;font-size:10pt;font-weight:bold;">Committee Reports</span></center>
+        </div>
+        <div>
+	<table cellspacing="0" cellpadding="2" border="0" id="ctl00_ContentPlaceHolder1_GridViewCommRpt" style="width:100%;border-collapse:collapse;">
+		<tr>
+			<td colspan="2">No other committee reports available at this time. 
+                You may search in our Document Directories if you believe this message is in error. The link is on the home page under Search.</td>
+		</tr>
+	</table>
+</div>
+   </div>   
+   
+    <br />
+    <div class="roundedrect shadow" style="border-color: #C0C0C0; margin-right:5px;">
+    <center>
+    <div class="menuborder gradientdarkblue" style="width:auto; background-color: #124D79">
+    <span id="ctl00_ContentPlaceHolder1_Label3" style="color:White;font-family:Arial Black;font-size:10pt;font-weight:bold;">Testimony</span>
+    </div>
+  
+    </center>
+    <div>
+	<table cellspacing="0" cellpadding="4" border="0" id="ctl00_ContentPlaceHolder1_GridViewTestimony" style="border-collapse:collapse;">
+		<tr>
+			<td>No testimony available at this time.</td>
+		</tr>
+	</table>
+</div>
+    </div>
+    
+    <br />
+    <div class="roundedrect shadow" style="border-color: #C0C0C0; margin-right:5px;">
+    <div class="menuborder gradientdarkblue" style="width:auto; background-color: #124D79">
+    <center>
+    <span id="ctl00_ContentPlaceHolder1_Label4" style="color:White;font-family:Arial Black;font-size:10pt;font-weight:bold;">Hearing Notices</span></center>
+    </div>
+    <div>
+	<table cellspacing="0" cellpadding="2" border="0" id="ctl00_ContentPlaceHolder1_GridView1" style="width:100%;border-collapse:collapse;">
+		<tr>
+			<td colspan="4">No hearings scheduled</td>
+		</tr>
+	</table>
+</div>
+   </div><br />
+   
+   <!-- BEGIN OTHER DOCUMENTS SECTION ---------------------------------- <a id="ctl00_ContentPlaceHolder1_HearingPdfLink" target="_blank"><img src="Images/pdf_icon.gif" alt="" style="border-width:0px;" /></a>--------------------------->
+        
+    </div> <!-- close tahoma -->
+    
+
+                </div>
+                <!-- close col2 -->
+               
+              
+            </div>
+        
+    </div>
+        <!-- Begin Footer -->
+        <div class="footer gradientgray shadow" style="border: none; font-size: 8pt; font-family: 'Tahoma'; font-weight: normal; float: right">
+            <div style="padding: 6px; float: left">
+                <img id="ctl00_Image1" src="Images/stateseal.gif" style="border-width:0px;" />
+            </div>
+            <p>
+                Please be advised that these pages may contain links to external Internet sites
+                established by other entities. The Hawaii State Legislature does not maintain, review,
+                or endorse these sites and is not responsible for their content.
+            </p>
+
+            <p>
+                <a id="ctl00_HyperLinkADA" accesskey="A" href="/ada.aspx">Visit our ADA page here</a> or press Ctrl+U to activate our accessibility menu. 
+                If you have any problems with any of these pages, please <a href="/cdn-cgi/l/email-protection#93e4f6f1fef2e0e7f6e1d3f0f2e3fae7fcffbdfbf2e4f2fafabdf4fce5">
+                contact the webmaster</a> with the page address and problems encountered.
+            </p>
+            <p><a href="/privacy.aspx">You may view our Privacy Policy here.</a></p>
+            <br />
+
+            
+
+
+        <hr />
+        <div class="d-flex justify-content-center" id="FooterMenu" style="text-align: center; width: 100%">
+            <div class="w-100">
+
+                <a href="/archives/main.aspx" class="dropdown-toggle" type="button" id="dropdownMenu" data-toggle="dropdown"><b>Archives</b></a>
+                <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/archives/2021.aspx">2021</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/archives/2020.aspx">2020</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/archives/2019.aspx">2019</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/archives/2018.aspx">2018</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/archives/2017.aspx">2017</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/archives/2016.aspx">2016</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/archives/2015.aspx">2015</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/archives/2014.aspx">2014</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/archives/2013.aspx">2013</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/archives/2012.aspx">2012</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/archives/2011.aspx">2011</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/archives/2010.aspx">2010</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/archives/2009.aspx">2009</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/archives/2008.aspx">2008</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/archives/2007.aspx">2007</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/archives/2006.aspx">2006</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/archives/2005.aspx">2005</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/archives/2004.aspx">2004</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/archives/2003.aspx">2003</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/archives/2002.aspx">2002</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/archives/2001.aspx">2001</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/archives/2000.aspx">2000</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="/archives/1999.aspx">1999</a></li>
+                </ul>
+            </div>
+            <div class="w-100">
+                <a href="/senate.aspx" class="dropdown-toggle" type="button" id="dropdownMenuSenate" data-toggle="dropdown"><b>Senate</b></a>
+                <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenuSenate">
+                    <li><a href="/committees/committees.aspx?chamber=S">Committees</a></li>
+                    <li><a href="/members/leadership.aspx?chamber=S">Leadership</a></li>
+                    <li><a href="/members/legislators.aspx?chamber=S">Members</a></li>
+                    <li><a href="/docs/SenateRules.pdf" target="_blank">Rules</a></li>
+                    <li><a href="/docs/AdminManual.pdf" target="_blank">Administrative and Financial Manual</a></li>
+                    <li><a href="/session2011/docs/2011SenateWebsitePolicy.pdf" target="_blank">Caucus Website Policy</a></li>
+                    <li><a href="/redirect.aspx?page=http://www.hawaiisenatemajority.com" target="_blank">Majority Caucus Website</a></li>
+                    <li><a href="/redirect.aspx?page=http://www.hawaiisenatemajority.com/senateadhoccommittee/" target="_blank">Ad Hoc Committee</a></li>
+                    <li><a href="/flooractions.aspx">Daily Floor Actions</a></li>
+                    <li><a href="/session2009/misc/paperless/">Paperless Initiative</a></li>
+                    <li><a href="http://olelo.granicus.com/ViewPublisher.php?view_id=13">Webcasts - Pilot
+                                        Project</a></li>
+                </ul>
+            </div>
+            <div class="w-100">
+                <a href="/house.aspx" class="dropdown-toggle" type="button" id="dropdownMenuHouse" data-toggle="dropdown"><b>House</b></a>
+                <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenuHouse">
+                    <li><a href="/committees/committees.aspx?chamber=H">Committees</a></li>
+                    <li><a href="/members/leadership.aspx?chamber=H">Leadership</a></li>
+                    <li><a href="/members/legislators.aspx?chamber=H">Members</a></li>
+                    <li><a href="/docs/HouseRules.pdf">Rules</a></li>
+                    <li><a href="/docs/HouseAdminManual.pdf">Administrative and Financial Manual</a></li>
+                    <li><a href="/session2011/docs/2011HouseWebsitePolicy.htm">Website Policy</a></li>
+
+                    <li><a href="/redirect.aspx?page=http://www.hawaiihouseblog.blogspot.com/" target="_blank">Majority Caucus Blog</a></li>
+
+                    <li><a href="/redirect.aspx?page=https://www.hihousegop.com/" target="_blank">Minority Caucus Blog and Webpage</a></li>
+                    <li><a href="/houseattendance">Attendance Sheets</a></li>
+                    <li><a href="http://www.capitol.hawaii.gov/house.aspx">Journal</a></li>
+                    <li><a href="/session2009/misc/statehood.pdf">Members of the House 1959-2009</a></li>
+                    <li><a href="http://olelo.granicus.com/ViewPublisher.php?view_id=31">Webcasts</a></li>
+                </ul>
+            </div>
+            <div class="w-100">
+                <a href="/specialstudies.aspx"><b>Special Studies</b></a>
+            </div>
+            <div class="w-100">
+                <a href="/leginfo.aspx"><b>Legislative Information</b></a>
+            </div>
+            <div class="w-100">
+                <a href="/house.aspx" class="dropdown-toggle" type="button" id="dropdownMenuLinks" data-toggle="dropdown"><b>Links</b></a>
+                <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenuLinks">
+                    <li><a href="/redirect.aspx?page=http://portal.ehawaii.gov" target="_blank">Hawaii Government Services</a></li>
+                    <li><a href="/redirect.aspx?page=http://www.courts.state.hi.us/" target="_blank">Hawaii State Judiciary</a></li>
+                    <li><a href="/redirect.aspx?page=https://lrb.hawaii.gov" target="_blank">Legislative Reference Bureau</a></li>
+                    <li><a href="/redirect.aspx?page=https://lrb.hawaii.gov/par/" target="_blank">Public Access Room</a></li>
+                    <li><a href="/redirect.aspx?page=http://hawaii.gov/ethics" target="_blank">Hawaii State Ethics Commission</a></li>
+                    <li><a href="/redirect.aspx?page=http://auditor.hawaii.gov/" target="_blank">Office of the Auditor</a></li>
+                    <li><a href="/redirect.aspx?page=http://www.ombudsman.hawaii.gov" target="_blank">Office of the Ombudsman</a></li>
+                    <li><a href="/redirect.aspx?page=http://hawaii.gov/oip/" target="_blank">Office of Information Practices</a></li>
+                    <li><a href="/redirect.aspx?page=http://www.oha.org/" target="_blank">Office of Hawaiian Affairs</a></li>
+                    <li><a href="/redirect.aspx?page=http://www.honolulu.gov/index.php" target="_blank">City and County of Honolulu</a></li>
+                    <li><a href="/redirect.aspx?page=http://www.co.maui.hi.us/" target="_blank">County of Maui</a></li>
+                    <li><a href="/redirect.aspx?page=http://www.kauai.gov/" target="_blank">County of Kauai</a></li>
+                    <li><a href="/redirect.aspx?page=http://www.co.hawaii.hi.us/" target="_blank">County of Hawaii</a></li>
+                    <li><a href="/redirect.aspx?page=https://kahele.house.gov/" target="_blank">U.S. Representative Kai Kahele</a></li>
+                    <li><a href="/redirect.aspx?page=http://case.house.gov/" target="_blank">U.S. Representative Ed Case</a></li>
+                    <li><a href="/redirect.aspx?page=http://www.hirono.senate.gov/" target="_blank">U.S. Senator Mazie Hirono</a></li>
+                    <li><a href="/redirect.aspx?page=http://www.schatz.senate.gov/" target="_blank">U.S. Senator Brian Schatz</a></li>
+                    <li><a href="/redirect.aspx?page=https://ltgov.hawaii.gov/" target="_blank">Lt. Governor Josh Green</a></li>
+                    <li><a href="/redirect.aspx?page=http://hawaii.gov/gov/" target="_blank">Governor David Ige</a></li>
+                    <li><a href="/redirect.aspx?page=http://www.olelo.org/" target="_blank">'Olelo Community Television</a></li>
+                    <li><a href="/redirect.aspx?page=http://www.akaku.org/" target="_blank">Akaku: Maui Community Television</a></li>
+                    <li><a href="/redirect.aspx?page=http://www.hoike.org" target="_blank">Ho'ike: Kaua'i Community Television</a></li>
+                    <li><a href="/redirect.aspx?page=http://naleo.tv" target="_blank">Na Leo O Hawai&#8216;i:  Big Island Community Television</a></li>
+                    <li><a href="/redirect.aspx?page=http://www.ncsl.org/" target="_blank">National Conference of State Legislatures</a></li>
+                    <li><a href="/redirect.aspx?page=http://www.csg.org/" target="_blank">Council of State Governments</a></li>
+                    <li><a href="/redirect.aspx?page=http://www.csgwest.org/" target="_blank">Council of State Governments-West</a></li>
+                    <li><a href="/redirect.aspx?page=https://lrb.hawaii.gov/directory" target="_blank">Hawaii Directory State, County, and Federal Officials</a></li>
+                </ul>
+            </div>
+        </div>
+        <hr />
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/js/popper.min.js"></script>
+<script type="text/javascript" src="/js/bootstrap.min.js" ></script>
+<!-- UserWay ADA Widget -->
+<script type="text/javascript" src="/js/ADA.js"></script>
+<noscript>Please ensure Javascript is enabled for purposes of <a href="https://userway.org">website accessibility</a></noscript>
+
+        </div>
+        <!-- End Footer -->
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("ctl00_ToolkitScriptManager1_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();WebForm_AutoFocus('ctl00_ContentPlaceHolder1_TextBoxDiffMeasure');//]]>
+</script>
+</form>
+    </div>
+   
+</body>
+</html>
+

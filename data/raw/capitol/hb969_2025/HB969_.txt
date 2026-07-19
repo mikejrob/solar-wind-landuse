@@ -1,0 +1,124 @@
+
+
+HB969
+
+ Administrator
+ HB.dotm
+ clerk4
+ 2
+ 3
+ 2006-05-09T21:15:00Z
+ 2025-01-22T03:50:00Z
+ 2025-01-22T03:50:00Z
+ 5
+ 429
+ 2413
+ HB template, revision no. 00004
+ 29639
+ 84
+ 24
+ 2837
+ 16.00
+
+ 00004
+
+ Print
+ 1
+
+ 6 pt
+ 0
+ 0
+
+ false
+ false
+ false
+
+ EN-US
+ X-NONE
+ X-NONE
+
+ HOUSE OF REPRESENTATIVES
+
+ H.B. NO.
+
+ 969
+
+ THIRTY-THIRD LEGISLATURE, 2025
+
+ STATE OF HAWAII
+
+A BILL FOR AN ACT
+
+relating
+to waste or disposal facilities.
+
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+
+ SECTION 1. Section 342H-52, Hawaii Revised Statutes, is
+amended to read as follows:
+
+ "§342H-52 Prohibitions; buffer zones. (a) No
+person, including any federal agency, the State, or any county, shall construct, operate, modify, expand, or close a municipal
+solid waste landfill unit, or any component of a municipal solid waste landfill
+unit, without first obtaining a permit from the director. All permits for municipal solid waste
+landfill units shall be subject to any terms and conditions that the director
+determines are necessary to protect human health or the environment.
+
+ (b) 
+No person, including the State or county, shall construct, modify, or
+expand a waste or disposal facility, including a municipal solid waste landfill
+unit; any component of a municipal solid waste landfill unit; a construction
+and demolition landfill unit; or any component of a construction and demolition
+landfill unit on land that is above a significant aquifer as determined by the
+department.
+
+ [(b)] (c) No person, including the State or any county,
+shall construct, modify, or expand a waste or disposal facility including a
+municipal solid waste landfill unit, any component of a municipal solid waste
+landfill unit, a construction and demolition landfill
+unit, or any component of a construction and demolition landfill unit
+without first establishing a buffer zone of no less than one-half mile around
+the waste or disposal facility. This
+subsection shall not apply to the continued operation of
+an existing waste or disposal facility that is properly permitted; provided
+that continued operation does not require physical expansion, vertical or
+horizontal, of the facility requiring additional permitting review and a permit
+modification.
+
+ For the purposes of this subsection:
+
+ "Buffer zone" means the
+distance between the edge of waste or waste activity and the nearest
+residential, school, or hospital property line.
+
+ "Waste or disposal
+facility" excludes individual, state certified, non-industrial redemption
+centers."
+
+ SECTION
+2. Statutory material to be repealed is
+bracketed and stricken. New statutory
+material is underscored.
+
+ SECTION 3. This Act shall take effect on July 1, 2025.
+
+ INTRODUCED BY:
+
+ _____________________________
+
+Report Title:
+
+Waste or
+Disposal Facilities; Significant Aquifers
+
+Description:
+
+Prohibits
+the construction, modification, or expansion of any waste or disposal facility
+on land that is near or above a significant aquifer as determined by the Department
+of Health.
+
+The summary description
+of legislation appearing on this page is for informational purposes only and is
+not legislation or evidence of legislative intent.
+

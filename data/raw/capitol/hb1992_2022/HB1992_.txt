@@ -1,0 +1,1103 @@
+     HOUSE OF REPRESENTATIVES
+     THIRTY-FIRST LEGISLATURE, 2022
+     STATE OF HAWAII
+
+
+
+                     A BILL FOR AN ACT
+     RELATING TO THE ENVIRONMENT.
+
+
+     BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+
+ 1        SECTION 1.     The legislature finds that allowing composting
+
+ 2   in agricultural districts will facilitate production of local
+
+3    organic material that farmers can use to improve soil health,
+
+ 4   increase drought resistance, and reduce the need for
+
+ 5   supplemental water and fertilizers while also increasing crop
+
+ 6   yields.    The legislature further finds that composting is
+
+ 7   currently not a permissible activity in agricultural districts,
+
+ 8   which is a barrier for composting entities who seek to establish
+
+ 9   operations in the districts from obtaining the necessary
+
+10   permits.
+
+11        The legislature further finds that increased composting,
+
+12   including composting of food waste, will also divert materials
+
+13   from landfills, which are rapidly reaching capacity and facing
+
+14   the burden of closure and re—siting, a process that will cost
+
+15   each county hundreds of millions of dollars and create community
+
+16   resentment.    Increased composting will also move the State
+
+
+
+
+     2022—0201 HB HMSO—l
+                                                                                         H.B. NO. /~92.
+
+ 1   closer to achieving its sustainability and resiliency goals,
+
+ 2   which include:
+
+ 3                  (1)            The Aloha+ Challenge, which is a statewide commitment
+
+ 4                                 to realize the United Nations’ Sustainable Development
+
+ 5                                 Goals, including the goals of seventy per cent waste
+
+ 6                                  reduction before disposal and doubling of local food
+
+ 7                                 production by 2030;
+
+ 8                  (2)            The Hawaii 2050 sustainability plan, which also sets a
+
+ 9                                 mandate for the State to achieve full sustainability
+
+10                                 and resilience through increased food production and
+
+11                                 dramatic waste reduction via recycling and
+
+12                                 bioconversion strategies; and
+
+13                  (3)             Increasing the generation of local compost to
+
+14                                 sequester more carbon and mitigate climate change
+
+15                                 pursuant to the strategy identified by the greenhouse
+
+16                                 gas sequestration task force permanently established
+
+17                                 by Act 15,                          Session Laws of Hawaii 2018, codified as
+
+18                                  section 225P-4, Hawaii Revised Statutes.
+
+19                  The legislature additionally finds that there is a single
+
+20   general permit for all prospective food waste composters that is
+
+21   designed to handle all potential applicants ranging from small
+
+
+
+     2022—0201 HB HMSO—l                                                                                          2
+
+     ~I lOl lihi uN H ~I ~I I~I~I~I IDI I~ ~ I~I hI~I uI~N I I I~I ~
+     Page 3                                     H B. N o. /992.
+                                                   .
+
+
+
+
+ 1   to large—scale operations.      Potential small-scale food waste
+
+ 2   composters have indicated that the~application process is too
+
+ 3   daunting, deterring them from applying.      As a result, the State
+
+ 4   has lost a valuable opportunity to reduce the amount of waste
+
+ 5   that enters landfills, create economic benefits for composters,
+
+ 6   and increase the supply of local organic soil enhancers for
+
+ 7   Hawaii’s agricultural and horticultural industries.
+
+ 8            The legislature finds that the solid and hazardous waste
+
+ 9   branch of the department of health had intended to develop an
+
+10   additional,     simplified application process for its general
+
+11   permit targeting small-scale composters of green waste and food
+
+12   waste to encourage more small-scale composters to apply for
+
+13   permits.      The simplified process would have increased the
+
+14   workload on the solid and hazardous waste branch to provide
+
+15   education to prospective applicants, process applications,
+
+16   conduct site inspections, and respond to complaints.      However,
+
+17   an environmental health specialist position dedicated to these
+
+18   types of solid waste facilities was eliminated and the
+
+19   responsibilities of that position were absorbed by other
+
+20   positions,     leaving the solid and hazardous waste branch unable
+
+
+
+
+     2022—0201 RB HMSO—l                                                   3
+
+     ~
+                                                 H.B. NO. /??~
+
+ 1   to expand services to include the simplified general permit
+
+ 2   application process for small-scale composters.
+
+ 3        The purpose of this Act is to:
+
+ 4        (1)    Encourage the production of local compost and the
+
+ 5               diversion of certain materials from the State’s waste
+
+ 6               streams by allowing composting and co-composting
+
+ 7               operations in agricultural districts; and
+
+ 8        (2)    Restore an environmental specialist IV position to the
+
+ 9               solid and hazardous waste branch of the department of
+
+10               health.
+
+11        SECTION 2.       Section 205-2, Hawaii Revised Statutes, is
+
+12   amended by amending subsection (d)      to read as follows:
+
+13        “(d)    Agricultural districts shall include:
+
+14        (1)    Activities or uses as characterized by the cultivation
+
+15               of crops, crops for bioenergy, orchards,    forage, and
+
+16               forestry;
+
+17        (2)    Farming activities or uses related to animal husbandry
+
+18               and game and fish propagation;
+
+19        (3)    Aquaculture, which means the production of aquatic
+
+20               plant and animal life within ponds and other bodies of
+
+21               water;
+
+
+
+     2022—0201 HB HMSO—1                                                   4
+
+     ~
+     Page5                                         H.B. NO. ~‘qq~,
+
+ 1           (4)   Wind—generated energy production for public, private,
+
+ 2                 and commercial use;
+
+ 3           (5)   Biofuel production, as described in section
+
+ 4                 205-4.5(a) (16),   for public, private, and commercial
+
+ 5                 use;
+
+ 6           (6)   Solar energy facilities; provided that:
+
+ 7                 (A)    This paragraph shall apply only to land with soil
+
+ 8                        classified by the land study bureau’s detailed
+
+ 9                        land classification as overall   (master)
+
+10                        productivity rating class B, C, D, or E; and
+
+11                 (B)    Solar energy facilities placed within land with
+
+12                        soil classified as overall productivity rating
+
+13                        class B or C shall not occupy more than ten per
+
+14                        cent of the acreage of the parcel, or twenty
+
+15                        acres of land, whichever is lesser, unless a
+
+16                        special use permit is granted pursuant to section
+
+17                        205—6;
+
+18           (7)   Bona fide agricultural services and uses that support
+
+19                 the agricultural activities of the fee or leasehold
+
+20                 owner of the property and accessory to any of the
+
+21                 above activities, regardless of whether conducted on
+
+
+
+     2022—0201 RB RMSO—1                                                      5
+
+     ~
+     Page6                                                            H.B.NQ./?92.I
+
+
+ 1                               the same premises as the agricultural activities to
+
+ 2                               which they are accessory,         including farm dwellings as
+
+ 3                               defined in section 205-4.5(a) (4), employee housing,
+
+ 4                               farm buildings, mills, storage facilities, processing
+
+ 5                               facilities, photovoltaic, biogas, and other small-
+
+ 6                               scale renewable energy systems producing energy solely
+
+ 7                               for use in the agricultural activities of the fee or
+
+ 8                               leasehold owner of the property, agricultural-energy
+
+ 9                               facilities as defined in section 205—4.5(a) (17),
+
+10                               vehicle and equipment storage areas, and plantation
+
+11                               community subdivisions as defined in section
+
+12                               205—4.5(a) (12);
+
+13                 (8)           Wind machines and wind farms;
+
+14                 (9)           Small-scale meteorological, air quality, noise, and
+
+15                               other scientific and environmental data collection and
+
+16                               monitoring facilities occupying less than one-half
+
+17                               acre of land; provided that these facilities shall not
+
+18                               be used as or equipped for use as living quarters or
+
+19                               dwellings;
+
+20              (10)             Agricultural parks;
+
+
+
+
+     2022—0201 HB HMSO—1                                                                         6
+
+     I NI~IU I I~I~I I~ NhU I I~ I ~I~ IIl~IN I~I ~I~I I I I~UI~
+     Page7                                                                                       H.B. NO. /992.
+
+ 1                 (11)                Agricultural tourism conducted on a working farm, or a
+
+ 2                                     farming operation as defined in section 165-2,                                for the
+
+ 3                                     enjoyment, education, or involvement of visitors;
+
+ 4                                     provided that the agricultural tourism activity is
+
+ 5                                     accessory and secondary to the principal agricultural
+
+ 6                                     use and does not interfere with surrounding farm
+
+ 7                                     operations; and provided further that this paragraph
+
+ 8                                     shall apply only to a county that has adopted
+
+ 9                                     ordinances regulating agricultural tourism under
+
+10                                     section 205—5;
+
+11                (12)                 Agricultural tourism activities,                              including overnight
+
+12                                     accommodations of twenty-one days or less, for any one
+
+13                                     stay within a county; provided that this paragraph
+
+14                                     shall apply only to a county that includes at least
+
+15                                     three islands and has adopted ordinances regulating
+
+16                                     agricultural tourism activities pursuant to section
+
+17                                     205—5; provided further that the agricultural tourism
+
+18                                     activities coexist with a bona fide agricultural
+
+19                                     activity.                               For the purposes of this paragraph,   “bona
+
+20                                     fide agricultural activity” means a farming operation
+
+21                                     as defined in section 165-2;
+
+
+
+     2022—0201 RB HMSO—l                                                                                                       7
+
+     I ~I Oil 1 01 010 01 I I Il ~I ~I U~IOUOI I~OIU I~l ~ i~l il li ~ I~Ii~
+     Page8                                   H.B. NO. /~.z
+
+ 1      (13)   Open area recreational facilities;
+
+ 2      (14)   Geothermal resources exploration and geothermal
+
+ 3             resources development, as defined under section 182-1;
+
+ 4      (15)   Agricultural-based commercial operations registered in
+
+ 5             Hawaii,   including:
+
+ 6             (A)   A roadside stand that is not an enclosed
+
+ 7                   structure, owned and operated by a producer for
+
+ 8                   the display and sale of agricultural products
+
+ 9                   grown in Hawaii and value-added products that
+
+10                   were produced using agricultural products grown
+
+11                   in Hawaii;
+
+12             (B)   Retail activities in an enclosed structure owned
+
+13                   and operated by a producer for the display and
+
+14                   sale of agricultural products grown in Hawaii,
+
+15                   value-added products that were produced using
+
+16                   agricultural products grown in Hawaii, logo items
+
+17                   related to the producer’s agricultural
+
+18                   operations, and other food items;
+
+19             (C)   A retail food establishment owned and operated by
+
+20                   a producer and permitted under chapter 11—50,
+
+21                   Hawaii administrative rules, that prepares and
+
+
+
+     2022—0201 HB HMSO—1                                                 8
+
+     ~
+                                                                                 H.B.No./qq~
+
+ 1                                                       serves food at retail using products grown in
+
+ 2                                                       Hawaii and value-added products that were
+
+ 3                                                       produced using agricultural products grown in
+
+ 4                                                       Hawaii;
+
+ 5                                      (D)              A farmers’ market, which is an outdoor market
+
+ 6                                                       limited to producers selling agricultural
+
+ 7                                                       products grown in Hawaii and value—added products
+
+ 8                                                       that were produced using agricultural products
+
+ 9                                                       grown in Hawaii; and
+
+10                                      (E)              A food hub, which is a facility that may contain
+
+11                                                       a commercial kitchen and provides for the
+
+12                                                       storage, processing, distribution, and sale of
+
+13                                                       agricultural products grown in Hawaii and value-
+
+14                                                       added products that were produced using
+
+15                                                       agricultural products grown in Hawaii.
+
+16                                     The owner of an agricultural-based commercial
+
+17                                     operation shall certify, upon request of an officer or
+
+18                                     agent charged with enforcement of this chapter under
+
+19                                     section 205-12, that the agricultural products
+
+20                                     displayed or sold by the operation meet the
+
+21                                     requirements of this paragraph;              [~4]
+
+
+
+     2022—0201 HB HMSO—1                                                                                     9
+
+     li i 1 101 010 i 1 01 lOIN I ~I I~I~Ii0IlIl I~I~I0I~I~ l~I~I~I HI l~I ~
+                                                                                          H.B. NO.            /9?~’b
+
+
+
+
+ 1            (16)                   Hydroelectric facilities as described in section
+
+ 2                                   205—4.5(a) (23) H-]; and
+
+ 3            (17)                   Composting and co-composting operations.
+
+ 4   Agricultural districts shall not include golf courses and golf
+
+ 5   driving ranges, except as provided in section 205-4.5(d)
+
+ 6   Agricultural districts include areas that are not used for, or
+
+ 7   that are not suited to, agricultural and ancillary activities by
+
+ 8   reason of topography, soils, and other related characteristics.”
+
+ 9                 SECTION 3.                                  Section 205-4.5, Hawaii Revised Statutes, is
+
+10   amended by amending subsection (a) to read as follows:
+
+11                 “(a)                 Within the agricultural district, all lands with soil
+
+12   classified by the land study bureau’s detailed land
+
+13   classification as overall                                                (master) productivity rating class A
+
+14   or B and for solar energy facilities, class B or C,                                                 shall be
+
+15   restricted to the following permitted uses:
+
+16                  (1)              Cultivation of crops, including crops for bioenergy,
+
+17                                   flowers, vegetables,                         foliage, fruits,   forage, and
+
+18                                   timber;
+
+19                  (2)              Game and fish propagation;
+
+
+
+
+     2022—0201 HB HMSO—1                                                                                             10
+
+      OIhI NIDI~I~ li i 1 1 1 I ~I I~I~IU I~I I~ I~I~IN IUI ~ I~IU HI I~I ~
+     Page 11                                     H.B. NO. /?tz
+
+ 1         (3)   Raising of livestock, including poultry, bees,    fish,
+
+ 2               or other animal or aquatic life that are propagated
+
+ 3               for economic or personal use;
+
+ 4         (4)   Farm dwellings, employee housing, farm buildings, or
+
+ 5               activities or uses related to farming and animal
+
+ 6               husbandry.   “Farm dwelling”, as used in this
+
+ 7               paragraph, means a single-family dwelling located on
+
+ 8               and accessory to a farm, including clusters of single-
+
+ 9               family farm dwellings permitted within agricultural
+
+10               parks developed by the State, or where agricultural
+
+11               activity provides income to the family occupying the
+
+12               dwelling;
+
+13         (5)   Public institutions and buildings that are necessary
+
+14               for agricultural practices;
+
+15         (6)   Public and private open area types of recreational
+
+16               uses, including day camps, picnic grounds, parks, and
+
+17               riding stables, but not including dragstrips,
+
+18               airports, drive-in theaters, golf courses, golf
+
+19               driving ranges, country clubs, and overnight camps;
+
+20         (7)   Public, private, and quasi-public utility lines and
+
+21               roadways, transformer stations, communications
+
+
+
+     2022—0201 MB HMSO—l                                                   11
+     Page 12                                                                H B. N o. ~
+                                                                               .
+
+
+
+
+ 1                               equipment buildings,              solid waste transfer stations,
+
+ 2                               major water storage tanks, and appurtenant small
+
+ 3                               buildings such as booster pumping stations, but not
+
+ 4                               including offices or yards for equipment, material,
+
+ 5                               vehicle storage, repair or maintenance, treatment
+
+ 6                               plants, corporation yards, or other similar
+
+ 7                               structures;
+
+ 8                 (8)           Retention, restoration, rehabilitation, or improvement
+
+ 9                               of buildings or sites of historic or scenic interest;
+
+10                 (9)           Agricultural-based commercial operations as described
+
+11                               in section 205—2 Cd) (15)
+
+12              (10)             Buildings and uses,               including mills, storage, and
+
+13                               processing facilities, maintenance facilities,
+
+14                               photovoltaic, biogas, and other small-scale renewable
+
+15                               energy systems producing energy solely for use in the
+
+16                               agricultural activities of the fee or leasehold owner
+
+17                               of the property, and vehicle and equipment storage
+
+18                               areas that are normally considered directly accessory
+
+19                               to the above—mentioned uses and are permitted under
+
+20                               section 205—2 Cd);
+
+21              (11)             Agricultural parks;
+
+
+
+     2022—0201 HB HMSO—l                                                                            12
+
+     I UI V I ~I~I~I I~V I I~IV I U~ IU~IDI~I~I hI~I NI I~IfihI~
+                                               H.B. NO. ~
+
+ 1       (12)   Plantation community subdivisions, which as used in
+
+ 2              this chapter means an established subdivision or
+
+ 3              cluster of employee housing, community buildings, and
+
+ 4              agricultural support buildings on land currently or
+
+ 5              formerly owned,   leased, or operated by a sugar or
+
+ 6              pineapple plantation; provided that the existing
+
+ 7              structures may be used or rehabilitated for use, and
+
+ 8              new employee housing and agricultural support
+
+ 9              buildings may be allowed on land within the
+
+10              subdivision as follows:
+
+11              (A)   The employee housing is occupied by employees or
+
+12                    former employees of the plantation who have a
+
+13                    property interest in the land;
+
+14              (B)   The employee housing units not owned by their
+
+15                    occupants shall be rented or leased at affordable
+
+16                    rates for agricultural workers; or
+
+17              (C)   The agricultural support buildings shall be
+
+18                    rented or leased to agricultural business
+
+19                    operators or agricultural support services;
+
+20       (13)   Agricultural tourism conducted on a working farm, or a
+
+21              farming operation as defined in section 165-2,    for the
+
+
+
+     2022—0201 HB HMSO—1                                                 13
+
+     ~
+                                               H.B. NO. ~
+
+ 1              enjoyment, education, or involvement of visitors;
+
+ 2              provided that the agricultural tourism activity is
+
+ 3              accessory and secondary to the principal agricultural
+
+ 4              use and does not interfere with surrounding farm
+
+ 5              operations; and provided further that this paragraph
+
+ 6              shall apply only to a county that has adopted
+
+ 7              ordinances regulating agricultural tourism under
+
+ 8              section 205—5;
+
+ 9       (14)   Agricultural tourism activities, including overnight
+
+10              accommodations of twenty-one days or less, for any one
+
+11              stay within a county; provided that this paragraph
+
+12              shall apply only to a county that includes at least
+
+13              three islands and has adopted ordinances regulating
+
+14              agricultural tourism activities pursuant to section
+
+15              205-5; provided further that the agricultural tourism
+
+16              activities coexist with a bona fide agricultural
+
+17              activity.   For the purposes of this paragraph,   “bona
+
+18              fide agricultural activity” means a farming operation
+
+19              as defined in section 165—2;
+
+20       (15)   Wind energy facilities, including the appurtenances
+
+21              associated with the production and transmission of
+
+
+
+     2022—0201 RB HMSO—l                                                  14
+
+     ~
+                                                                         H.B. NO. i~a
+
+ 1                               wind generated energy; provided that the wind energy
+
+ 2                               facilities and appurtenances are compatible with
+
+ 3                               agriculture uses and cause minimal adverse impact on
+
+ 4                               agricultural land;
+
+ 5              (16)             Biofuel processing facilities, including the
+
+ 6                               appurtenances associated with the production and
+
+ 7                               refining of biofuels that is normally considered
+
+ 8                               directly accessory and secondary to the growing of the
+
+ 9                               energy feedstock; provided that biofuel processing
+
+10                               facilities and appurtenances do not adversely impact
+
+11                               agricultural land and other agricultural uses in the
+
+12                               vicinity.
+
+13                                              For the purposes of this paragraph:
+
+14                                               “Appurtenances” means operational infrastructure
+
+15                               of the appropriate type and scale for economic
+
+16                               commercial storage and distribution, and other similar
+
+17                               handling of feedstock, fuels, and other products of
+
+18                               biofuel processing facilities.
+
+19                                               “Biofuel processing facility” means a facility
+
+20                               that produces liquid or gaseous fuels from organic
+
+21                                sources such as biomass crops, agricultural residues,
+
+
+
+     2022—0201 HB HMSO—1                                                                            15
+
+     I IV uN! I~I IVO1 01 101 0 ~I~I IVI II I~Il VI 1 0 VI I lUl
+                                                                                               H.B. NO. ~?r2.
+
+ 1                                   and oil crops, including palm, canola,                                  soybean, and
+
+ 2                                   waste cooking oils; grease; food wastes; and animal
+
+ 3                                   residues and wastes that can be used to generate
+
+ 4                                   energy;
+
+ 5                (17)               Agricultural-energy facilities, including
+
+ 6                                   appurtenances necessary for an agricultural—energy
+
+ 7                                   enterprise; provided that the primary activity of the
+
+ 8                                   agricultural-energy enterprise is agricultural
+
+ 9                                   activity.                             To be considered the primary activity of an
+
+10                                   agricultural—energy enterprise, the total acreage
+
+11                                   devoted to agricultural activity shall be not less
+
+12                                   than ninety per cent of the total acreage of the
+
+13                                   agricultural—energy enterprise.                                 The agricultural-
+
+14                                   energy facility shall be limited to lands owned,
+
+15                                   leased, licensed, or operated by the entity conducting
+
+16                                   the agricultural activity.
+
+17                                                    As used in this paragraph:
+
+18                                                    “Agricultural activity” means any activity
+
+19                                   described in paragraphs                            (1)   to   (3)   of this subsection.
+
+20                                                    “Agricultural—energy enterprise” means an
+
+21                                   enterprise that integrally incorporates an
+
+
+
+     2022—0201 HB HMSO—l                                                                                                    16
+
+     li i lOl VIDIO 1 101 1 1 I U I~ I~I~I0I I~ 10 0 I~I 10 l~I Il I~lI~
+                                               H.B. NO. ~
+
+ 1              agricultural activity with an agricultural-energy
+
+ 2              facility.
+
+ 3                   “Agricultural—energy facility” means a facility
+
+ 4              that generates, stores, or distributes renewable
+
+ 5              energy as defined in section 269-91 or renewable fuel
+
+ 6              including electrical or thermal energy or liquid or
+
+ 7              gaseous fuels from products of agricultural activities
+
+ 8              from agricultural lands located in the State.
+
+ 9                   “Appurtenances” means operational infrastructure
+
+10              of the appropriate type and scale for the economic
+
+11              commercial generation, storage, distribution, and
+
+12              other similar handling of energy, including equipment,
+
+13              feedstock, fuels, and other products of agricultural-
+
+14              energy facilities;
+
+15       (18)   Construction and operation of wireless communication
+
+16              antennas, including small wireless facilities;
+
+17              provided that,   for the purposes of this paragraph,
+
+18              “wireless communication antenna” means communications
+
+19              equipment that is either freestanding or placed upon
+
+20              or attached to an already existing structure and that
+
+21              transmits and receives electromagnetic radio signals
+
+
+
+     2022—0201 RB HMSO—l                                                 17
+
+     ~
+                                              H.B. NO. /9~
+
+ 1              used in the provision of all types of wireless
+
+ 2              communications services; provided further that “small
+
+ 3              wireless facilities” shall have the same meaning as in
+
+ 4              section 206N-2;   provided further that nothing in this
+
+ 5              paragraph shall be construed to permit the
+
+ 6              construction of any new structure that is not deemed a
+
+ 7              permitted use under this subsection;
+
+ 8       (19)   Agricultural education programs conducted on a farming
+
+ 9              operation as defined in section 165-2,   for the
+
+10              education and participation of the general public;
+
+11              provided that the agricultural education programs are
+
+12              accessory and secondary to the principal agricultural
+
+13              use of the parcels or lots on which the agricultural
+
+14              education programs are to occur and do not interfere
+
+15              with surrounding farm operations.    For the purposes of
+
+16              this paragraph,   “agricultural education programs”
+
+17              means activities or events designed to promote
+
+18              knowledge and understanding of agricultural activities
+
+19              and practices conducted on a farming operation as
+
+20              defined in section 165-2;
+
+
+
+
+     2022—0201 HB HMSO—1                                                18
+
+     ~
+                                              H.B. NO. /?~
+
+ 1       (20)   Solar energy facilities that do not occupy more than
+
+ 2              ten per cent of the acreage of the parcel, or twenty
+
+ 3              acres of land, whichever is lesser or for which a
+
+ 4              special use permit is granted pursuant to section
+
+ 5              205-6; provided that this use shall not be permitted
+
+ 6              on lands with soil classified by the land study
+
+ 7              bureau’s detailed land classification as overall
+
+ 8              (master) productivity rating class A;
+
+ 9       (21)   Solar energy facilities on lands with soil classified
+
+10              by the land study bureau’s detailed land
+
+11              classification as overall (master) productivity rating
+
+12              B or C for which a special use permit is granted
+
+13              pursuant to section 205-6; provided that:
+
+14              (A)   The area occupied by the solar energy facilities
+
+15                    is also made available for compatible
+
+16                    agricultural activities at a lease rate that is
+
+17                    at least fifty per cent below the fair market
+
+18                    rent for comparable properties;
+
+19              (B)   Proof of financial security to decommission the
+
+20                    facility is provided to the satisfaction of the
+
+21                    appropriate county planning commission prior to
+
+
+
+     2022—0201 RB RMSO—1                                                 19
+
+     ~
+                                                  H.B. NO. /~i?
+
+ 1                      date of commencement of commercial generation;
+
+ 2                      and
+
+ 3              (C)     Solar energy facilities shall be decommissioned
+
+ 4                      at the owner’s expense according to the following
+
+ 5                       requirements:
+
+ 6                       (i)   Removal of all equipment related to the
+
+ 7                             solar energy facility within twelve months
+
+ 8                             of the conclusion of operation or useful
+
+ 9                             life; and
+
+10                      (ii)   Restoration of the disturbed earth to
+
+11                             substantially the same physical condition as
+
+12                             existed prior to the development of the
+
+13                             solar energy facility.
+
+14              For the purposes of this paragraph,      “agricultural
+
+15              activities” means the activities described in
+
+16              paragraphs      (1) to (3);
+
+17       (22)   Geothermal resources exploration and geothermal
+
+18              resources development, as defined under section 182-1;
+
+19              [e-~]
+
+20       (23)   Hydroelectric facilities, including the appurtenances
+
+21              associated with the production and transmission of
+
+
+
+     2022—C’201 HB HMSO—1                                                   20
+
+     ~
+                                                H.B. NO. /~z
+
+ 1            hydroelectric energy, subject to section 205—2;
+
+ 2            provided that the hydroelectric facilities and their
+
+ 3            appurtenances:
+
+ 4             (A)     Shall consist of a small hydropower facility as
+
+ 5                     defined by the United States Department of
+
+ 6                     Energy, including:
+
+ 7                     (i)   Impoundment facilities using a dam to store
+
+ 8                           water in a reservoir;
+
+ 9                    (ii)   A diversion or run-of—river facility that
+
+10                           channels a portion of a river through a
+
+11                           canal or channel; and
+
+12                   (iii)   Pumped storage facilities that store energy
+
+13                           by pumping water uphill to a reservoir at
+
+14                           higher elevation from a reservoir at a lower
+
+15                           elevation to be released to turn a turbine
+
+16                           to generate electricity;
+
+17             (B)     Comply with the state water code, chapter 174C;
+
+18             (C)     Shall,   if over five hundred kilowatts in
+
+19                     hydroelectric generating capacity, have the
+
+20                     approval of the commission on water resource
+
+21                     management, including a new instream flow
+
+
+
+     2022—0201 RB HMSO—1                                                   21
+
+     ~
+     Page22                                     H.B. NO. /~?.
+
+
+ 1                     standard established for any new hydroelectric
+
+ 2                     facility; and
+
+ 3              (D)    Do not impact or impede the use of agricultural
+
+ 4                     land or the availability of surface or ground
+
+ 5                     water for all uses on all parcels that are served
+
+ 6                     by the ground water sources or streams for which
+
+ 7                     hydroelectric facilities are considered[--]; or
+
+ 8       (24)   Notwithstanding any other law to the contrary,
+
+ 9              composting and co-composting operations.”
+
+10        SECTION 4.     There is appropriated out of the general
+
+11   revenu.es of the State of Hawaii the sum of $55,200 or so much
+
+12   thereof as may be necessary for fiscal year 2022-2023 for an
+
+13   environmental specialist IV position for the solid and hazardous
+
+14   waste branch of the department of health.
+
+15        The sum appropriated shall be expended by the department of
+
+16   health for the purposes of this Act.
+
+17        SECTION 5.     Statutory material to be repealed is bracketed
+
+18   and stricken.     New statutory material is underscored.
+
+19        SECTION 6.     This Act shall take effect on July 1,           2022.
+
+20                          INTRODUCED BY:   j~4II4bPI~   ~
+
+                                                          JAN 2 ~ 2022
+     2022—0201 HB HMSO—l                                                         22
+
+     ~
+                                                               H.B. NO. /99?
+
+Report Title:
+Composting; Co—composting; Agricultural Districts; Permitted
+Uses; Environmental Health Specialist IV; Appropriation
+
+Description:
+Permits composting and co-composting operations in agricultural
+districts. Appropriates funds to restore an environmental
+health specialist IV position to the solid and hazardous waste
+branch of the department of health.
+
+
+
+The summary description of legislation appearing on this page is for informational purposes only and is
+not legislation or evidence of legislative intent.
+
+
+
+
+2022—0201 RB HMSO—l
+
+~
+
