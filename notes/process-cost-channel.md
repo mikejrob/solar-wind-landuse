@@ -14,6 +14,45 @@ what a 2045-compliant buildout requires; and a class of land (as-of-right B/C
 parcels) with no route to a power purchase agreement at all. Each is
 quantified below with its evidence tier.
 
+**Attribution, stated carefully.** The friction lives in a machinery with
+several authors: the legislature drew the 5 MW waiver (2006 Framework
+statute era; HSCR1152 2011), the PUC wrote and approved the Framework, the
+RFP rules, and every PPA price, and HECO administers the auctions,
+interconnection studies, and contracts — and bids its own projects into
+them. HECO operates the machinery; the design predates and exceeds any one
+operator, and the incentive structure (a single offtaker that earns its
+return on owned rate base, none on purchased power) would push any firm in
+the same seat the same way. The clean evidence for design-over-operator is
+KIUC: same state, same regulator, same statute, different ownership and
+procurement structure, ~18-month PPA-to-COD. Reform aimed at the design
+(study clocks, price re-openers, symmetric delay penalties, sub-5-MW
+offtake) does not require a villain.
+
+**The counterfactual, and why it matters despite being unprovable.** Stage 1
+priced Oʻahu solar+storage at $0.08–0.10/kWh in 2018–19. Had 1–2 GW
+connected at those prices by ~2021 — plausible under a connect-and-manage
+interconnection regime and larger solicitations, though no counterfactual
+can be proven — the arithmetic is large: each GW of solar+storage delivers
+roughly 2.2 TWh/yr, displacing oil-fired generation whose fuel alone costs
+$160–190/MWh at reference oil (LSFO $16–18/MMBtu × ~10.5 MMBtu/MWh steam
+heat rates), against a ~$90/MWh contract price. That is on the order of
+$150–250M/yr of fuel savings per GW, more during the 2022 and 2026 oil
+shocks — roughly $1B cumulative by 2026 for a 1.5 GW counterfactual
+cohort. The state also would have entered the LNG debate with a third of
+its load already contracted at single-digit prices. This is illustrative
+arithmetic, flagged as such; its purpose is to size what the process
+friction plausibly cost, and it is conservative in one respect — it counts
+only fuel, none of the risk-premium feedback of §3.
+
+**No published ceiling below ~3 GW exists.** HECO's IGP Base Plan integrates
+"nearly 3,000 MW of solar and storage" by 2050 and its Land-Constrained
+variant retains most of it; HSEO's scenarios keep 93–100% of their solar
+when LNG is added; the companion capacity-expansion analysis builds ~5 GW
+against a 5.45 GW screen. The lowest utility-scale figure in any official
+mix (~2 GW-equivalent, HSEO) is a chosen portfolio with offshore wind and
+imported biofuel filling the difference — a preference, never a feasibility
+claim. The disagreement on the record is entirely about pace and route.
+
 ---
 
 ## 1. The price record

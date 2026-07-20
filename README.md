@@ -51,8 +51,10 @@ estimates, not survey.*
 - The Land Use Commission approved every utility-scale solar special use permit
   it received (8 dockets, 2014–2026), unanimously, with no intervenors, median
   ~6 months (`notes/sup-census.md`).
-- Oʻahu solar projects die at HECO procurement and interconnection, not at
-  land-use permitting. Median award-to-COD is ~5–5.5 years. Cancellation causes:
+- Oʻahu solar projects die inside the procurement and interconnection
+  machinery — designed under the PUC's 2006 Competitive Bidding Framework,
+  administered by HECO — and at no other stage. Land-use permitting kills
+  nothing. Median award-to-COD is ~5–5.5 years. Cancellation causes:
   supply chain, developer credit, interconnection cost/delay, PPA price rigidity
   (`notes/project-pipeline-mortality.md`, `notes/heco-solar-procurement.md`).
 - Community resistance was the operative cause of death for 0 Oʻahu utility-scale
