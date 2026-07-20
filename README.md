@@ -59,6 +59,12 @@ estimates, not survey.*
   solar projects. It killed 1 Maui solar project (Paeahu), 2 wind projects, and
   1 biomass project (`notes/hawaii-project-census.md`,
   `notes/community-resistance-cases.md`).
+- The friction is priced: Oʻahu award prices roughly doubled (Stage 1
+  $0.08–0.10/kWh, 2018–19 → Stage 3 ~$0.21–0.23, 2024–25) while mainland
+  benchmarks rose far less; realized deployment runs ~25–45 MW/yr against the
+  ~200 MW/yr a 2045-compliant buildout needs; and as-of-right B/C parcels
+  (≤20 ac ≈ 4–5 MW) fall below the RFP's >5 MW floor, leaving them no route
+  to a PPA (`notes/process-cost-channel.md`).
 - KIUC (Kauaʻi coop) reaches PPA-to-COD in ~18 months via negotiated bilateral
   deals. ERCOT builds via connect-and-manage interconnection. FPL (regulated
   monopoly) self-builds fast. Procurement speed tracks process design
@@ -109,6 +115,8 @@ Each note is a self-contained investigation with its own sources.
 - `notes/heco-solar-procurement.md` — the RFP machinery, delays, cancellations.
 - `notes/procurement-comparison-kiuc-ercot.md` — KIUC, ERCOT, FPL benchmarks.
 - `notes/heco-ppa-terms.md` — PPA terms vs mainland and KIUC; what to soften.
+- `notes/process-cost-channel.md` — the cost channel: prices, deployment
+  rate, and the stranded sub-5-MW segment.
 - `notes/neighbor-opposition-and-interconnection.md` — how neighbors oppose
   projects; the gen-tie easement chokepoint.
 - `notes/community-resistance-cases.md` — resistance cases by island.

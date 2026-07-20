@@ -246,3 +246,12 @@ testimony or campaign money; astroturf: null everywhere tested). Every line
 carries a [V]/[P]/[U] status tag pointing back to the per-thread notes.
 
 > Grid-thread notes (oahu-bulk-delivery, oahu-grid-public-record) are frozen copies as of 2026-07-12; development continues in the `oahu-grid` repository.
+
+### process-cost-channel.md
+Synthesis of the procurement notes into the price record. Key figures: award
+prices $0.08–0.10/kWh (Stage 1, [V]) to ~$0.21–0.23 (Stage 3, [P] pending
+sub-docket pulls) while mainland medians moved a fraction as much [P];
+realized Oʻahu deployment ~25–45 MW/yr vs ~200 MW/yr required [V]/[P]; the
+ex-ante risk-premium stack from the PPA terms [V]; the Mahi Stage-2→Stage-3
+re-procurement as the cleanest delay-cost experiment (price pull pending,
+Docket 2025-0414); the >5 MW RFP floor stranding as-of-right B/C parcels [V].
