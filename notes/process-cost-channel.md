@@ -44,11 +44,20 @@ arithmetic, flagged as such; its purpose is to size what the process
 friction plausibly cost, and it is conservative in one respect — it counts
 only fuel, none of the risk-premium feedback of §3.
 
-**No published ceiling below ~3 GW exists.** HECO's IGP Base Plan integrates
-"nearly 3,000 MW of solar and storage" by 2050 and its Land-Constrained
-variant retains most of it; HSEO's scenarios keep 93–100% of their solar
-when LNG is added; the companion capacity-expansion analysis builds ~5 GW
-against a 5.45 GW screen. The lowest utility-scale figure in any official
+**No published ceiling below ~3 GW of total solar exists.** HECO's IGP Base
+Plan integrates "nearly 3,000 MW of solar and storage" by 2050. Its
+Land-Constrained Preferred Plan carries ~1.1 GW of grid-scale solar by 2045
+(~280 MW existing/contracted + 470 MW assumed Stage-3 "Paired PV RFP3" +
+~334 MW recovered/deferred categories) and compensates with ~2.3 GW of
+distributed solar (including a 1,310 MW future "DER Aggregate") plus 400 MW
+of offshore wind — total solar ~3.4 GW (IGP Supplemental Response,
+2023-11-14, Figure 2-9 [V], read from the chart). The document states the
+grid-scale cap's logic: "because the future development of solar was
+limited to the land-constrained scenario, no further future solar resources
+are named" — grid-scale solar equals the procurement pipeline, so the
+"land" constraint is operationally a procurement constraint. HSEO's
+scenarios keep 93–100% of their solar when LNG is added; the companion
+capacity-expansion analysis builds ~5 GW against a 5.45 GW screen. The lowest utility-scale figure in any official
 mix (~2 GW-equivalent, HSEO) is a chosen portfolio with offshore wind and
 imported biofuel filling the difference — a preference, never a feasibility
 claim. The disagreement on the record is entirely about pace and route.
