@@ -22,6 +22,10 @@ guide is `docs/STYLE.md`. Findings are tiered verified / plausible / unverified
 (`docs/ACCURACY_REVIEW.md` and per-note `UNVERIFIED` flags). Git history is the
 changelog.
 
+**Find an investigation:** `docs/INVESTIGATIONS.md` is the master index (every
+investigation with its question, finding, note, and data). `docs/NOTES_INDEX.md`
+has prose annotations per note. The roadmap below groups notes by theme.
+
 ## Headline findings
 
 *Oʻahu figures. Full sourcing and caveats in the notes. Acreages are GIS
@@ -190,8 +194,12 @@ python analysis/assemble_paper.py
 Scripts read cached layers from `data/gis/` and hardcode the project root
 (edit `ROOT`/`PROJECT` if the repo moves). `docs/METHODS.md` documents each
 pipeline and its data sources. `docs/AUDIT_REPRO.md` documents which steps
-reproduce from committed inputs. Large regenerable GIS layers and some primary
-caches are excluded from git; they belong in a data deposit.
+reproduce from committed inputs.
+
+The large GIS layers and primary-source document caches are in a Zenodo data
+deposit, not in Git. `docs/DATA_DEPOSIT.md` lists the two archives, their
+checksums, and where to extract them. Download them from the deposit DOI (see
+that file) to run the full GIS pipeline.
 
 ## Data sources
 

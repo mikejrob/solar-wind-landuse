@@ -1,0 +1,34 @@
+{
+  "title": "Land, Rules, and Process for Solar and Wind on O'ahu — supporting data",
+  "upload_type": "dataset",
+  "description": "Large data files supporting the solar-wind-landuse repository (https://github.com/mikejrob/solar-wind-landuse): a study of where utility-scale solar and wind can be built on O'ahu, the rules and processes that govern it, and the political economy behind those rules. This deposit holds the GIS layers and primary-source document caches that are excluded from the Git repository for size. Two archives: (1) oahu-gis-layers.tar.gz — Land Study Bureau soil polygons, State Land Use Districts, county parcels, DoD land layers, USGS 3DEP DEM, HIFLD/OSM transmission lines, and derived summary tables (EPSG:26904); (2) oahu-procurement-sources.tar.gz — HECO RFP documents, PA Consulting Act 201 interconnection studies, LBNL interconnection reports, and PUC materials behind the procurement analysis. Extract oahu-gis-layers.tar.gz into data/ and oahu-procurement-sources.tar.gz into data/raw/ of a repository clone. Regenerable REST scrape caches (data/gis/pages_*) and scratch downloads are excluded. Code, analysis notes, tidy CSVs, and the paper are in the Git repository.",
+  "creators": [
+    {
+      "name": "Roberts, Michael J.",
+      "affiliation": "University of Hawai'i at Manoa"
+    }
+  ],
+  "keywords": [
+    "solar energy",
+    "wind energy",
+    "land use",
+    "Hawaii",
+    "Oahu",
+    "agricultural land",
+    "power purchase agreement",
+    "interconnection",
+    "GIS",
+    "renewable energy siting",
+    "electricity procurement"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/mikejrob/solar-wind-landuse",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "notes": "Included U.S. and Hawai'i government documents (court opinions, ordinances, PUC filings, USGS/HIFLD data) are public records. The CC-BY-4.0 license applies to the compilation and derived layers. Provenance for every file is in each archive's source MANIFEST and in docs/DATA_DICTIONARY.md and docs/METHODS.md of the repository."
+}
