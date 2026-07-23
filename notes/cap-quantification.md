@@ -48,6 +48,20 @@ cache in `data/gis/pages_*/`).
    - S2 20% with hard cap: `min(0.20 × parcel_acres, 20, BC)`
    - S3 20% no hard cap (headline counterfactual): `min(0.20 × parcel_acres, BC)`
    - S4 no cap: `BC`
+
+   The percentage base is the WHOLE parcel's acreage, per the statute
+   ("ten per cent of the acreage of the parcel", §205-2(d)(6)(B)); the
+   eligible area must sit on B/C soil. Scenario totals therefore relate to
+   total B/C acreage only through the per-parcel minimum. Do not divide a
+   scenario total by its percentage to infer a B/C base: Oahu S0 (3,601 ac)
+   is 10.5% of B/C because 4,505 small-B/C parcels contribute 100% of their
+   B/C (10% of a mostly-D/E parcel exceeds its B/C patch) while the 85
+   cap-bound parcels contribute 6.8% of theirs; S3 (15,657 ac) is 45.6% of
+   B/C, bounded above by S4 (34,370), never by 20%-of-B/C arithmetic.
+   Binding-term decomposition (Oahu S0): B/C-exhausted 4,505 parcels /
+   419 ac; 20-ac cap 85 parcels / 1,700 ac; 10%-of-parcel 1,684 parcels /
+   1,482 ac. Recomputed from `cap_scenarios_by_parcel.csv` 2026-07-23;
+   reproduces the published totals exactly.
 6. MW-equivalents at 5 ac/MWac and 7 ac/MWac (sensitivity).
 
 ## Sanity check vs Office of Planning 2011 LSB figures
