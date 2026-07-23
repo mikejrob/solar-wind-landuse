@@ -200,6 +200,9 @@ Wahiawa→Kunia junction 8.1 km.
 ### Program sketch to close the gaps (2045 load, σ=0.775, ρ=0.75, G_s=0)
 
 **~2 GW northern solar** (needs: SL-B ≈750 N-0 / 1,000 N-1; SL-C ≈375 / 625):
+  (SL-C N-1 note: the scenario grid's mechanical N-1 adder for SL-C is +60 MW
+  — the largest mapped 46 kV feeder; the ≈625 figure here assumes losing a
+  future 138 kV circuit after an upgrade. The two bases differ; both stated.)
 
 | Element | Km | Cost | Adds |
 |---|---|---|---|

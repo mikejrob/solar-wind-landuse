@@ -127,7 +127,7 @@ block for nearly everyone).
 Monsanto, Syngenta, DuPont/Pioneer and Dow gave steadily and almost exclusively
 to the legislators controlling ag-land bills: Tsuji (House AGR chair) $9,550,
 Dela Cruz $8,075, Kidani $7,500, Nishihara (Sen AGL chair) $6,750, Solomon
-$4,850, Kahele $3,150. In the 2011-session window alone: $7,500 across 8 of the
+$4,850, Kahele $3,150. In the 2011-session window alone: $7,500 across 7 of the
 12 legislators (e.g., Monsanto to Nishihara 2011-04-26, to Chang 2011-04-29, to
 Dela Cruz 2011-07-05). CAVEAT: seed companies were then major lessees of prime
 ag land, but 2011–2014 was also the GMO-labeling/pesticide fight era — these
@@ -150,7 +150,7 @@ the 2011 session: First Wind $1,000 to Gabbard (2010-11-06), HSEA PAC $200 to
 Kim, HSEA $500 to Ige. Wind developer money to the 2011 chairs otherwise absent.
 
 ### 5. Construction unions dwarf every other classified interest
-$316k of the $779k classified. Waters $95.5k, Ige $70.4k, Kiaaina $60.3k,
+$526.6k of the $778.6k classified (68%); $323.8k of it to the 12 SB631-era legislators. Waters $95.5k, Ige $70.4k, Kiaaina $60.3k,
 Kidani $55.3k, Dela Cruz $41k. Relevant context for renewables politics
 (project labor), but not specific to siting restrictions.
 

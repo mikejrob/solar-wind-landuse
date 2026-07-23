@@ -200,9 +200,9 @@ are the re-ranked, post-exclusion IDs in the current CSV.)
 
 | Rank | ID | Locality (approx) | Buildable ac ≤15/≤30 | MW@5 | %D/E | mean ROW km | ac/km | owners ≥100ac | Top owners |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | C01 | Waianae Range mauka + central plateau fringe | 9,742/14,210 | 2,842 | 55 | 3.9 | 3,644 | 18 | US Govt 26%, Island Palm (Army PPP) 12%, Corteva 10% |
-| 2 | C03 | Waialua | 4,835/5,697 | 1,139 | 26 | 2.0 | 2,781 | 5 | Laukiha'a ag CPR 34%, Dole 26%, Kamehameha Schools 19% |
-| 3 | C02 | Lualualei | 6,479/8,749 | 1,750 | 94 | 3.6 | 2,423 | 5 | **US 55% (majority federal)**, State 10%, DHHL 5% |
+| 1 | C01 | Waianae Range mauka + central plateau fringe | 9,742/14,210 | 2,842 | 55 | 3.9 | 3,644 | 18 | US Govt 33%, Island Palm (Army PPP) 15%, Dillingham 6% |
+| 2 | C03 | Waialua | 4,835/5,697 | 1,139 | 26 | 2.0 | 2,781 | 5 | Laukiha'a ag CPR 39%, Dole 27%, Kamehameha Schools 14% |
+| 3 | C02 | Lualualei | 6,479/8,749 | 1,750 | 94 | 3.6 | 2,423 | 5 | **US 57% (majority federal)**, State 11%, DHHL 5% |
 | 4 | C04 | Kahuku | 3,132/5,618 | 1,124 | 48 | 2.5 | 2,237 | 4 | US 36%, Property Reserve (LDS) 32%, State 15% |
 | 5 | C06 | Pupukea/Waimea | 1,318/1,700 | 340 | 45 | 2.1 | 797 | 1 | Kamehameha Schools 99% |
 

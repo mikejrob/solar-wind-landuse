@@ -123,7 +123,7 @@ full-term LOC, delay asymmetry). The observed contract keeps both sets.
 The mechanism, on the record ([V] throughout, from
 `notes/heco-solar-procurement.md` §4–5):
 
-1. Award-to-COD for the built Oʻahu cohort ran a median ~5–5.5 years against
+1. Award-to-COD for the built Oʻahu Stage-1 cohort ran a median ~5.4 years (all-built ~4.4–4.6) against
    ~3-year PPA targets; RFP-issue-to-COD ran 4–7.4 years.
 2. Input costs spiked mid-queue (module prices +57% in 2021; AD/CVD freeze
    2022) while the approved price could not move: HECO filed two Stage-2

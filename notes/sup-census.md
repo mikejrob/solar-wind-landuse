@@ -106,7 +106,7 @@ state was **Paeahu Solar**, in a *county* forum (Maui PC permit vacated by the
   Mahi Pono (ex-A&B/HC&S), Castle & Cooke (via Renewables Land Holdings),
   Monsanto/Hartung/Fat Law's (Kunia corridor), and UH (public). No small
   landowner has ever obtained (or sought) a solar special permit. Median
-  host parcel among stated values: ~2,950 acres.
+  host parcel among stated values: 2,007 acres (median of the six stated: 524; 861; 1,062; 2,952; 3,898; 5,341; two blank).
 - Governance conduct: SP26-416 — LUC commissioner **recused as a
   sitting KIUC director** (the off-taker); SP21-412/SP15-406 — Chair Scheuer
   disclosures (spouse's firm; prior work for KS), participated without objection.

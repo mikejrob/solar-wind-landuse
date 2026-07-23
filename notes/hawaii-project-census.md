@@ -97,7 +97,7 @@ deaths/re-procurements** across all islands, and **every Oahu solar loss without
 
 ## By-island sections
 
-### Oahu (23 projects; 15 solar / 3 wind / 2 storage / 2 firm self-build)
+### Oahu (23 projects; 17 solar / 3 wind / 1 storage / 2 firm self-build)
 
 **Solar mortality is 100% economic/procurement.** Stage-1: 0 of 4 Oahu solar lost (all
 reached COD; Hoohana last, 2025-07-11, ~7.4 yr from RFP issue). Stage-2 was the kill zone:
@@ -121,7 +121,7 @@ interconnection) — all later revived and built by Clearway.
   Meadows). Several projects route *around* Chapter 205 entirely: Kupono on federal Navy land,
   Hoohana via urban-district boundary amendment. (`neighbor-opposition-and-interconnection.md`)
 
-### Maui (13; 7 solar / 3 wind / self-build storage)
+### Maui (13; 9 solar / 3 wind / 1 storage)
 
 **Both mortality layers present.** Of 5 MECO-side grid-scale solar+storage projects
 PUC-approved 2018-2023, **4 died, 1 built** (AES Kuihelani Ph1, COD 2024). Dead: Paeahu

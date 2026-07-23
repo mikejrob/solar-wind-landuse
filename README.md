@@ -58,7 +58,7 @@ estimates, not survey.*
 - Oʻahu solar projects die inside the procurement and interconnection
   machinery — designed under the PUC's 2006 Competitive Bidding Framework,
   administered by HECO — and at no other stage. Land-use permitting kills
-  nothing. Median award-to-COD is ~5–5.5 years. Cancellation causes:
+  nothing. Median award-to-COD is ~4.5–5.5 years (Stage-1 built cohort ~5.4; built Stage-2 awards ran ~4.1). Cancellation causes:
   supply chain, developer credit, interconnection cost/delay, PPA price rigidity
   (`notes/project-pipeline-mortality.md`, `notes/heco-solar-procurement.md`).
 - Community resistance was the operative cause of death for 0 Oʻahu utility-scale

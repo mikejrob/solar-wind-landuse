@@ -49,14 +49,14 @@ durable + higher-value examples), `analysis/figs/paper/f_nonag_map.png`
 165,760 parcels intersect the Urban district (>0.01 ac of overlap); parcels
 cover 93,928 of the 104,231 urban acres (the rest is roads/ROW/unparceled).
 950 parcels have >= 9.5 urban acres; 700 pass the >=10 ac at <=15% slope
-screen (599 non-military + 101 military).
+screen (601 non-military + 101 military).
 
 ## Results: urban-parcel candidates (non-military)
 
 | tier | parcels | ac <=15% | ac <=30% | MW @ 7-5 ac/MW (<=15%) |
 |---|---|---|---|---|
-| all passing slope screen (>=10 ac <=15%) | 599 | 23,714 | 26,894 | 3,390-4,740 |
-| low-improvement (bldg < 10% of land value) | 316 | 15,464 | 17,822 | 2,210-3,090 |
+| all passing slope screen (>=10 ac <=15%) | 601 | 23,714 | 26,894 | 3,390-4,740 |
+| low-improvement (bldg < 10% of land value) | 318 | 15,484 | 17,843 | 2,210-3,090 |
 | ... excluding airports/harbors | 303 | 11,984 | 14,323 | 1,710-2,400 |
 | ... also excluding golf/cemetery (HEADLINE) | 290 | 11,319 | 13,557 | 1,620-2,260 |
 

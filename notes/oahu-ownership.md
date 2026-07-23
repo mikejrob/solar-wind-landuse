@@ -172,7 +172,7 @@ Private land is ~103,000 ac.
 
 118 parcels; 114,296 ac; 25,198 B/C ac. Current S0 eligibility 1,825 ac vs
 7,633 ac under S1 (10%, no 20-ac cap) — i.e. **the hard cap removes ~5,800
-eligible acres, and 76% of all cap-bound land sits with just the entities
+eligible acres, and 82.1% of cap-bound B/C acreage (81.3% of cap-bound parcel acreage) sits with just the entities
 below.** Top holders of cap-bound B/C acreage:
 
 | Owner | Type | Parcels | B/C ac | S0 elig | S1 elig |

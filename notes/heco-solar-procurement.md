@@ -261,7 +261,7 @@ own commissioned diagnostic; Phase 1 2022-12-28, Phase 2 2023-12-28):
   i.e., roughly **4 to 7.4 years** (Hoohana, the last, hit COD 2025-07-11 —
   ~7.4 years). Stage 2 ran **Aug 2019 → COD 2024–2026** for survivors, i.e.,
   **~5 to 7 years**. **Median observed award-to-COD for the built Oahu cohort
-  ≈ 5–5.5 years** (award mid-2018/mid-2020; CODs 2022–2025), against original
+  ≈ 5–5.5 years for the Stage-1 built cohort** (award mid-2018; CODs 2022–2025); the built Stage-2 awards (Kupono, Kapolei Energy Storage) ran ≈4.1 years, pulling the all-built median to ≈4.4–4.6. Against original
   PPA targets ~3 years — a **typical slip of ~2–4 years**, and worse (4 years
   and counting) for Mountain View / Waiawa Ph2.
 
