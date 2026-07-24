@@ -247,11 +247,18 @@ def main():
     m_esqd15 = esqdmask & le15
     m_kah15 = kahmask & le15
     m_milde10 = milmask & agmask & is_de & le10 & ~esqdmask
+    # Layer-2 modeled D/E is ALL ag D/E at <=10% slope, military and
+    # non-military (Mike 2026-07-24): one emphasis fill. Military hatches
+    # overlay it (zorder 3), so military D/E reads as green + hatch and
+    # private D/E as solid green. The modeling assumption is "all D/E".
+    m_de10_all = is_de & le10
 
     ac = {k: v.sum() * CELL_AC for k, v in
           [("de15", m_de15), ("bc15", m_bc15), ("de10", m_de10),
            ("mil15", m_mil15), ("urb15", m_urb15), ("esqd15", m_esqd15),
-           ("kah15", m_kah15), ("milde10", m_milde10)]}
+           ("kah15", m_kah15), ("milde10", m_milde10),
+           ("de10_all", m_de10_all)]}
+    ac["milde10_all"] = (is_de & le10 & milmask).sum() * CELL_AC
     # subtraction accounting for the note
     ac["esqd_from_urb"] = (milmask & urbmask & le15 & esqdmask).sum() * CELL_AC
     ac["esqd_from_ag"] = (milmask & agmask & le15 & esqdmask).sum() * CELL_AC
@@ -364,7 +371,7 @@ def main():
 
     mil_masks = {"mil": m_mil15, "urb": m_urb15, "esqd": m_esqd15,
                  "kah": m_kah15}
-    make_figure(band, tr, slud_o, m_de15, m_bc15, m_de10, m_sel, mil_masks,
+    make_figure(band, tr, slud_o, m_de15, m_bc15, m_de10_all, m_sel, mil_masks,
                 m_milde10, kah, site_pts, res, lines, exp, ac, sel, sel_total)
 
 
@@ -389,7 +396,7 @@ def make_figure(band, tr, slud_o, m_de15, m_bc15, m_de10, m_sel, mil_masks,
                         (mil_masks["esqd"], C_ESQD_FILL),
                         (mil_masks["mil"], C_MIL_FILL),
                         (mil_masks["kah"], C_KAH_FILL),
-                        (m_de10, C_DE), (m_milde10, C_MILDE),
+                        (m_de10, C_DE),
                         (m_sel, C_BC)]:
         img[mask] = to_rgba(color)
 
@@ -445,11 +452,10 @@ def make_figure(band, tr, slud_o, m_de15, m_bc15, m_de10, m_sel, mil_masks,
                     "compatible; Kupono precedent)"),
         Patch(fc=C_KAH_FILL, ec=C_INK, hatch="xxxx", lw=1.2,
               label="Kahuku lease parcel (Army-retained\n2025 ROD)"),
-        Patch(fc=C_DE, label="modeled-available: D/E ≤10% slope (all)"),
+        Patch(fc=C_DE, label="modeled-available: all D/E ≤10% slope\n"
+                             "(military + non-military; military hatched)"),
         Patch(fc=C_BC, label="modeled-available: quasi-random 10% of B/C,\n"
                              "drawn from ≤10% slope"),
-        Patch(fc=C_MILDE, label="modeled-available: military ag D/E ≤10%\n"
-                                "(DoD discretion)"),
         Line2D([], [], marker="o", ls="none", mfc=C_SITE, mec="white",
                ms=6, label="durable non-ag site (closed golf, quarry,\n"
                            "landfill, brownfield, urban parcel)"),
@@ -478,9 +484,9 @@ def make_figure(band, tr, slud_o, m_de15, m_bc15, m_de10, m_sel, mil_masks,
         ("  durable non-ag sites", f"{ac['durable15']:,.0f} ac"),
         ("  reservoirs (unscreened)", f"{ac['res']:,.0f} ac"),
         ("Layer 2  (≤10% slope)", ""),
-        ("  D/E ≤10%", f"{ac['de10']:,.0f} ac"),
+        ("  D/E ≤10% (all tenure)", f"{ac['de10_all']:,.0f} ac"),
+        ("    of which military (fee)", f"{ac['milde10_all']:,.0f} ac"),
         (f"  selected B/C ({len(sel)} parcels)", f"{sel_total:,.0f} ac"),
-        ("  military ag D/E ≤10%", f"{ac['milde10']:,.0f} ac"),
     ]
     tab = "\n".join(f"{k:<30s}{v:>10s}" for k, v in rows)
     ax.text(0.005, 0.015, tab, transform=ax.transAxes, fontsize=7.6,
@@ -492,12 +498,12 @@ def make_figure(band, tr, slud_o, m_de15, m_bc15, m_de10, m_sel, mil_masks,
                  pad=44)
     ax.text(0.0, 1.008,
             "Ag and military categories filtered to ≤15% slope (10 m "
-            "DEM); modeled subset to ≤10%. Each acre draws in one Layer-1 "
-            "category: military fills are excluded\nfrom the ag D/E and "
-            "B/C categories, the ESQD footprint from the military ag and "
-            "urban fills, the Kahuku lease parcel from the ag fills. No "
-            "grid-distance\nfilter: published near-grid figures are "
-            "smaller (notes/available-land-map.md).",
+            "DEM); modeled subset to ≤10%. Layer-1 acres draw in one "
+            "category (military excluded from the ag D/E\nand B/C fills). "
+            "Layer 2's modeled D/E is ALL ag D/E ≤10%, military and non-"
+            "military (military shown green + hatch). No grid-distance\n"
+            "filter: published near-grid figures are smaller "
+            "(notes/available-land-map.md).",
             transform=ax.transAxes, fontsize=7.8, color=C_MUTE, va="bottom")
     # scale bar, lower right
     x0 = ax.get_xlim()[1] - 16000

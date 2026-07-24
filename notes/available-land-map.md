@@ -5,8 +5,9 @@ across seven land categories, plus 264 ac of unscreened reservoir surface.
 The three military categories added 2026-07-24 (urban fee, ESQD buffer,
 Kahuku lease parcel) account for ~22,700 ac of the total and carry heavier
 availability caveats than the ag categories. The modeling subset (Layer 2)
-is 9,904 ac of D/E at <=10% slope, a quasi-random 3,778-ac draw of B/C
-parcels, and 1,604 ac of military ag D/E at <=10% slope. Figure:
+is 15,370 ac of all D/E at <=10% slope (military and non-military, of which
+5,435 ac is military fee land) plus a quasi-random 3,778-ac draw of B/C
+parcels. Figure:
 `analysis/figs/paper/f_available_land.png`. Script:
 `analysis/available_land_map.py`. Selection file:
 `data/oahu_bc_10pct_selection.csv`.
@@ -58,16 +59,22 @@ Class A land is absent from the map: solar is banned there with no SUP path
 | Layer 1: Kahuku lease parcel (Army-retained 2025 ROD), <=15% slope | 230 |
 | Layer 1: durable non-ag sites, <=15% slope | 5,908 |
 | Layer 1: reservoirs (32 polygons, unscreened) | 264 |
-| Layer 2: ag D/E, <=10% slope | 9,904 |
+| Layer 2: all D/E, <=10% slope (all tenure) | 15,370 |
+| Layer 2:   of which military fee land | 5,435 |
 | Layer 2: selected B/C (118 parcels, <=10%-slope basis) | 3,778 |
-| Layer 2: military ag D/E <=10% (DoD discretion) | 1,604 |
 
-The Layer-2 military category intersects the military-ag footprint (fee x
-Ag, ESQD removed) with LSB class D/E and slope <=10%. With the ESQD
-footprint included it would be 5,435 ac; the additional 3,831 ac are
-D/E soils inside Lualualei and Kipapa, which the map assigns to the ESQD
-category. The civilian D/E <=10% figure fell from 9,936 to 9,904 ac when
-the Kahuku parcel's 32 D/E acres at <=10% moved to their own category.
+Layer 2's modeled D/E is ALL ag D/E at <=10% slope, military and non-
+military (Mike, 2026-07-24): the modeling assumption is that every D/E
+acre is available, so tenure does not subset it. It is drawn as one green
+emphasis fill; the military hatches (ag, urban, ESQD) overlay it, so
+military D/E reads as green + hatch and private D/E as solid green. The
+15,370-ac total is 9,904 ac non-military (the earlier "civilian D/E
+<=10%") + 5,435 ac military fee D/E (all of it, ESQD tier included, since
+the "all D/E" set ignores the Layer-1 ESQD subtraction) + ~31 ac of
+Kahuku D/E. The military share is larger than the 1,604-ac Layer-1
+"military ag D/E" figure because that figure excluded the ESQD tier;
+Layer 2 does not. The B/C selection is unchanged (still drawn only from
+non-military parcels; see below).
 
 ## B/C selection method (Layer 2b)
 
@@ -147,8 +154,8 @@ script:
   enhanced-use lease (10 USC 2667), except the Kahuku parcel, which the
   Army retains under the 2025 ROD. One Oahu solar EUL exists to date
   (Kupono, ~131 ac; `notes/military-land-solar.md`). The ~30,700 military
-  ac on this map (ag + urban + ESQD + Kahuku + the 1,604-ac Layer-2
-  subset) is a ceiling on a DoD-energy-security scenario, not supply;
+  ac on this map (ag + urban + ESQD + Kahuku at <=15% slope) is a ceiling
+  on a DoD-energy-security scenario, not supply;
   `notes/military-land-solar.md` sec. 5 puts net NEW near-grid acreage
   beyond the paper's tallies at ~0.
 - The ESQD constraint tiers are a screen-level reading of DESR 6055.09, not
