@@ -5,10 +5,19 @@ Three-layer map of plausibly-available solar land on Oahu.
 Layer 1 (plausibly available, <=15% slope unless noted):
   a. Class D/E ag-district land (uncapped, permitted use).
   b. Class B/C ag-district land (SUP path above the cap).
-  c. Military fee land inside the state Ag district (DoD discretion; EUL only).
-  d. Durable non-ag sites: closed golf courses, quarries/landfills/brownfields,
+  c. Military fee land inside the state Ag district (DoD discretion; EUL
+     only), minus the ESQD footprint (drawn as its own category).
+  d. Military fee land inside the state Urban district (EUL discretion),
+     minus the ESQD footprint.
+  e. Military ESQD/ordnance-buffer land (West Loch Annex, Lualualei, Kipapa,
+     Puuloa — the ordnance/ESQD constraint tier of
+     notes/military-land-solar.md; unoccupied PV can be compatible, Kupono
+     precedent).
+  f. Kahuku lease parcel TMK 158002002 (state land, lease x Ag,
+     Army-retained under the Aug-2025 ROD). Bold outline + crosshatch.
+  g. Durable non-ag sites: closed golf courses, quarries/landfills/brownfields,
      durable urban candidates (viability_class == durable).
-  e. Reservoirs (OSM water=reservoir / landuse=reservoir): floating-solar
+  h. Reservoirs (OSM water=reservoir / landuse=reservoir): floating-solar
      candidates, unscreened; no slope filter.
 Layer 2 (modeling subset, <=10% slope):
   a. All class D/E ag land <=10% slope.
@@ -18,13 +27,20 @@ Layer 2 (modeling subset, <=10% slope):
      Oahu B/C acreage (target ~3,437 of 34,370 ac). Only the <=10%-slope B/C
      portion counts toward the target. Output:
      data/oahu_bc_10pct_selection.csv (Switch-Oahu modeling input).
+  c. Military fee-x-Ag land on LSB class D/E at <=10% slope, minus the ESQD
+     footprint (DoD discretion; subset of category c).
 Layer 3: existing 138 kV (heavy) and 46 kV+ (thin) lines; greedy expansion
   build-out segments dashed.
 
 Category masks are mutually exclusive: the military fee footprint is removed
-from the D/E and B/C fills (and from the B/C selection pool) so acreage totals
-do not double-count. No grid-distance filter is applied anywhere; published
-near-grid figures (data/gis/oahu_de_neargrid_by_slope.csv) are smaller.
+from the D/E and B/C fills (and from the B/C selection pool); the ESQD
+footprint is removed from the military ag and military urban fills; the
+lease-tenure Kahuku parcel is removed from the civilian D/E and B/C fills
+and touches no fee-military category. Each acre draws in exactly one
+Layer-1 category. Layer-2 fills are emphasis overlays on their own Layer-1
+base (D/E, selected B/C, military ag). No grid-distance filter is applied
+anywhere; published near-grid figures
+(data/gis/oahu_de_neargrid_by_slope.csv) are smaller.
 
 Slope: cached 10 m band raster data/gis/dem/oahu_slope_bands.tif
 (bands 1..7 = 0-5,5-10,10-15,15-20,20-25,25-30,>30%; 0 = nodata).
@@ -32,9 +48,13 @@ CRS EPSG:26904 throughout; acres = cells * 100 m^2 / 4046.8564224.
 
 Colors validated with the dataviz palette checker (light surface #fcfcfb):
 #279e6c,#e39a3b,#b85a0a,#2a78d6 all-pairs PASS (worst CVD deltaE 8.3 protan;
-normal-vision floor 17.6). Military is a neutral gray hatch; durable sites are
-near-black ink markers (annotation layer, not categorical hues). The light
-tints of green/orange are lightness steps of the same hues (emphasis coding).
+normal-vision floor 17.6). All military categories are achromatic gray tones
+distinguished by hatch direction (//// ag, \\\\ urban, .. ESQD, xx Kahuku) —
+texture carries identity, so no new chromatic hues were added; the Layer-2
+military emphasis is a darker lightness step of the same neutral. Durable
+sites are near-black ink markers (annotation layer, not categorical hues).
+The light tints of green/orange are lightness steps of the same hues
+(emphasis coding).
 
 Outputs:
   analysis/figs/paper/f_available_land.png
@@ -70,6 +90,10 @@ TARGET_FRAC = 0.10        # of TOTAL Oahu B/C acreage
 C_DE_LT, C_DE = "#a9dcc6", "#279e6c"      # D/E <=15% tint, <=10% emphasis
 C_BC_LT, C_BC = "#f3d3a4", "#b85a0a"      # B/C <=15% tint, selected parcels
 C_MIL_FILL, C_MIL_HATCH = "#dedbd4", "#6b6862"
+C_URB_FILL = "#cfcdc7"                    # military urban fee (\\\\ hatch)
+C_ESQD_FILL = "#e8e5df"                   # military ESQD buffer (.. hatch)
+C_KAH_FILL = "#b7b3ab"                    # Kahuku lease parcel (xx hatch)
+C_MILDE = "#55534e"                       # Layer-2 military ag D/E emphasis
 C_INK, C_MUTE = "#0b0b0b", "#52514e"
 C_138, C_46 = "#4a3aa7", "#2a78d6"
 C_SITE, C_RES = "#262626", "#2a78d6"
@@ -186,25 +210,55 @@ def main():
     is_de = np.isin(cls, [CLS_CODE["D"], CLS_CODE["E"]])
     is_bc = np.isin(cls, [CLS_CODE["B"], CLS_CODE["C"]])
 
-    # military fee footprint and Ag-district mask
+    # military fee footprint, ESQD tier, Kahuku lease parcel, districts
     mil = gpd.read_parquet(GIS / "military" / "oahu_military_screen.parquet")
     mil_fee = mil[mil.tenure == "fee_or_other"]
     milmask = rasterize(mil_fee.geometry, np.ones(len(mil_fee)),
                         shape, tr) == 1
+    # ordnance/ESQD constraint tier (notes/military-land-solar.md sec. 2;
+    # viability tiers in data/oahu_military_land.csv): the four ESQD-bound
+    # installations where unoccupied PV can be compatible (Kupono precedent)
+    ESQD_NAMES = ["West Loch Annex", "Lualualei", "Kipapa Ammo Storage Site",
+                  "Puuloa Range Training Facility"]
+    esqd = mil_fee[mil_fee.name.isin(ESQD_NAMES)]
+    assert len(esqd) == 4, "expected 4 ESQD installation polygons"
+    esqdmask = rasterize(esqd.geometry, np.ones(len(esqd)), shape, tr) == 1
+    # Kahuku retained lease parcel (lease x Ag, Army-retained 2025 ROD)
+    kah = mil[(mil.tenure == "state_lease_2029") & (mil.tmk == "158002002")]
+    assert len(kah) == 1, "expected 1 Kahuku lease parcel"
+    kahmask = rasterize(kah.geometry, np.ones(len(kah)), shape, tr) == 1
     slud = gpd.read_parquet(GIS / "slud.parquet").to_crs(CRS)
     slud_o = slud[slud.island == "Oahu"]
     agmask = rasterize(slud_o[slud_o.ludcode == "A"].geometry,
                        np.ones((slud_o.ludcode == "A").sum()), shape, tr) == 1
+    urbmask = rasterize(slud_o[slud_o.ludcode == "U"].geometry,
+                        np.ones((slud_o.ludcode == "U").sum()),
+                        shape, tr) == 1
 
     # ---- Layer-1/2 category masks (mutually exclusive) ----------------
-    m_de15 = is_de & le15 & ~milmask
-    m_bc15 = is_bc & le15 & ~milmask
-    m_de10 = is_de & le10 & ~milmask
-    m_mil15 = milmask & agmask & le15
+    # subtractions: ESQD out of the military ag and urban fills; the
+    # lease-tenure Kahuku parcel out of the civilian D/E and B/C fills
+    # (it is not in milmask, which is fee-only). Each acre draws once.
+    m_de15 = is_de & le15 & ~milmask & ~kahmask
+    m_bc15 = is_bc & le15 & ~milmask & ~kahmask
+    m_de10 = is_de & le10 & ~milmask & ~kahmask
+    m_mil15 = milmask & agmask & le15 & ~esqdmask
+    m_urb15 = milmask & urbmask & le15 & ~esqdmask
+    m_esqd15 = esqdmask & le15
+    m_kah15 = kahmask & le15
+    m_milde10 = milmask & agmask & is_de & le10 & ~esqdmask
 
     ac = {k: v.sum() * CELL_AC for k, v in
           [("de15", m_de15), ("bc15", m_bc15), ("de10", m_de10),
-           ("mil15", m_mil15)]}
+           ("mil15", m_mil15), ("urb15", m_urb15), ("esqd15", m_esqd15),
+           ("kah15", m_kah15), ("milde10", m_milde10)]}
+    # subtraction accounting for the note
+    ac["esqd_from_urb"] = (milmask & urbmask & le15 & esqdmask).sum() * CELL_AC
+    ac["esqd_from_ag"] = (milmask & agmask & le15 & esqdmask).sum() * CELL_AC
+    ac["kah_from_de"] = (is_de & le15 & ~milmask & kahmask).sum() * CELL_AC
+    ac["kah_from_bc"] = (is_bc & le15 & ~milmask & kahmask).sum() * CELL_AC
+    ac["milde10_in_esqd"] = \
+        (milmask & agmask & is_de & le10 & esqdmask).sum() * CELL_AC
     # reconciliation against published class x slope table (incl. military)
     ac["de15_incl_mil"] = (is_de & le15).sum() * CELL_AC
     ac["bc15_incl_mil"] = (is_bc & le15).sum() * CELL_AC
@@ -279,10 +333,26 @@ def main():
           f"across {(bc10_ac > 0).sum()} parcels")
     print(f"selected {len(sel)} parcels, {sel_total:,.0f} ac (<=10% basis); "
           f"shortfall {shortfall:,.0f} ac")
+    # B/C-selection integrity: pool basis is unchanged (fee-military cells
+    # excluded, as before); the lease-tenure Kahuku parcel was in the pool
+    # but must not have been drawn.
+    assert "158002002" not in set(sel.tmk), \
+        "Kahuku lease parcel entered the B/C selection"
+    print("B/C selection check: TMK 158002002 in pool "
+          f"{bc10_ac[pg.tmk == '158002002'].sum():,.1f} ac, "
+          "selected: no (selection unchanged)")
     print("\nacreage (this map, <=15% slope, military excluded from ag "
           "fills):")
-    for k in ["de15", "bc15", "mil15", "durable15", "res", "de10"]:
+    for k in ["de15", "bc15", "mil15", "urb15", "esqd15", "kah15",
+              "durable15", "res", "de10", "milde10"]:
         print(f"  {k:10s} {ac[k]:>10,.0f}")
+    print("overlap subtractions (stated in notes/available-land-map.md):")
+    print(f"  ESQD out of military urban fill: {ac['esqd_from_urb']:,.0f}")
+    print(f"  ESQD out of military ag fill:    {ac['esqd_from_ag']:,.0f}")
+    print(f"  Kahuku parcel out of ag D/E fill: {ac['kah_from_de']:,.0f}")
+    print(f"  Kahuku parcel out of ag B/C fill: {ac['kah_from_bc']:,.0f}")
+    print(f"  (mil ag D/E <=10% if ESQD were included: "
+          f"{ac['milde10'] + ac['milde10_in_esqd']:,.0f})")
     print("reconciliation vs data/gis/oahu_lsb_by_slope.csv (which includes "
           "the military footprint):")
     print(f"  D/E <=15% incl. military: {ac['de15_incl_mil']:,.0f} "
@@ -292,12 +362,15 @@ def main():
     print(f"  reservoirs: {len(res)} polygons, {ac['res']:,.0f} ac "
           f"(unscreened)")
 
-    make_figure(band, tr, slud_o, m_de15, m_bc15, m_de10, m_sel, m_mil15,
-                site_pts, res, lines, exp, ac, sel, sel_total)
+    mil_masks = {"mil": m_mil15, "urb": m_urb15, "esqd": m_esqd15,
+                 "kah": m_kah15}
+    make_figure(band, tr, slud_o, m_de15, m_bc15, m_de10, m_sel, mil_masks,
+                m_milde10, kah, site_pts, res, lines, exp, ac, sel, sel_total)
 
 
-def make_figure(band, tr, slud_o, m_de15, m_bc15, m_de10, m_sel, m_mil15,
-                site_pts, res, lines, exp, ac, sel, sel_total):
+def make_figure(band, tr, slud_o, m_de15, m_bc15, m_de10, m_sel, mil_masks,
+                m_milde10, kah, site_pts, res, lines, exp, ac, sel,
+                sel_total):
     import matplotlib
     matplotlib.use("Agg")
     import matplotlib.pyplot as plt
@@ -308,10 +381,15 @@ def make_figure(band, tr, slud_o, m_de15, m_bc15, m_de10, m_sel, m_mil15,
     h, w = band.shape
     extent = (tr.c, tr.c + w * tr.a, tr.f + h * tr.e, tr.f)
 
-    # priority-stacked RGBA overlay (highest priority last)
+    # priority-stacked RGBA overlay (highest priority last); Layer-1 masks
+    # are mutually exclusive, Layer-2 emphasis fills draw on top
     img = np.zeros((h, w, 4), dtype=np.float32)
     for mask, color in [(m_bc15, C_BC_LT), (m_de15, C_DE_LT),
-                        (m_mil15, C_MIL_FILL), (m_de10, C_DE),
+                        (mil_masks["urb"], C_URB_FILL),
+                        (mil_masks["esqd"], C_ESQD_FILL),
+                        (mil_masks["mil"], C_MIL_FILL),
+                        (mil_masks["kah"], C_KAH_FILL),
+                        (m_de10, C_DE), (m_milde10, C_MILDE),
                         (m_sel, C_BC)]:
         img[mask] = to_rgba(color)
 
@@ -321,14 +399,25 @@ def make_figure(band, tr, slud_o, m_de15, m_bc15, m_de10, m_sel, m_mil15,
     slud_o.plot(ax=ax, color=ISLAND, edgecolor=ISLAND_EC, linewidth=0.4)
     ax.imshow(img, extent=extent, interpolation="nearest", zorder=2)
 
-    # military hatch, aligned with the slope-filtered fill (vectorized mask)
+    # military hatches, aligned with the slope-filtered fills (vectorized
+    # masks); hatch direction carries category identity on the gray tones
     from shapely.geometry import shape as shp_shape
-    mil_polys = [shp_shape(g) for g, v in
-                 features.shapes(m_mil15.astype(np.uint8), mask=m_mil15,
+
+    def hatch_mask(mask, hatch, alpha=0.55):
+        polys = [shp_shape(g) for g, v in
+                 features.shapes(mask.astype(np.uint8), mask=mask,
                                  transform=tr) if v == 1]
-    gpd.GeoSeries(mil_polys, crs=CRS).plot(
-        ax=ax, facecolor="none", edgecolor=C_MIL_HATCH, linewidth=0.0,
-        hatch="////", zorder=3, alpha=0.55)
+        if polys:
+            gpd.GeoSeries(polys, crs=CRS).plot(
+                ax=ax, facecolor="none", edgecolor=C_MIL_HATCH,
+                linewidth=0.0, hatch=hatch, zorder=3, alpha=alpha)
+
+    hatch_mask(mil_masks["mil"], "////")
+    hatch_mask(mil_masks["urb"], "\\\\\\\\")
+    hatch_mask(mil_masks["esqd"], "..")
+    hatch_mask(mil_masks["kah"], "xxxx", alpha=0.7)
+    # Kahuku retained lease parcel: bold ink outline (small; make it legible)
+    kah.boundary.plot(ax=ax, color=C_INK, linewidth=1.4, zorder=4)
 
     # transmission
     lines[lines.kv != "138"].plot(ax=ax, color=C_46, linewidth=0.8, zorder=5)
@@ -349,9 +438,18 @@ def make_figure(band, tr, slud_o, m_de15, m_bc15, m_de10, m_sel, m_mil15,
         Patch(fc=C_BC_LT, label="ag B/C, ≤15% slope (SUP above cap)"),
         Patch(fc=C_MIL_FILL, ec=C_MIL_HATCH, hatch="////",
               label="military ag land (DoD discretion)"),
+        Patch(fc=C_URB_FILL, ec=C_MIL_HATCH, hatch="\\\\\\\\",
+              label="military urban fee land (EUL discretion)"),
+        Patch(fc=C_ESQD_FILL, ec=C_MIL_HATCH, hatch="..",
+              label="military ESQD buffer (unoccupied-PV-\n"
+                    "compatible; Kupono precedent)"),
+        Patch(fc=C_KAH_FILL, ec=C_INK, hatch="xxxx", lw=1.2,
+              label="Kahuku lease parcel (Army-retained\n2025 ROD)"),
         Patch(fc=C_DE, label="modeled-available: D/E ≤10% slope (all)"),
         Patch(fc=C_BC, label="modeled-available: quasi-random 10% of B/C,\n"
                              "drawn from ≤10% slope"),
+        Patch(fc=C_MILDE, label="modeled-available: military ag D/E ≤10%\n"
+                                "(DoD discretion)"),
         Line2D([], [], marker="o", ls="none", mfc=C_SITE, mec="white",
                ms=6, label="durable non-ag site (closed golf, quarry,\n"
                            "landfill, brownfield, urban parcel)"),
@@ -374,11 +472,15 @@ def make_figure(band, tr, slud_o, m_de15, m_bc15, m_de10, m_sel, m_mil15,
         ("  ag D/E (uncapped)", f"{ac['de15']:,.0f} ac"),
         ("  ag B/C (SUP path)", f"{ac['bc15']:,.0f} ac"),
         ("  military ag (DoD discretion)", f"{ac['mil15']:,.0f} ac"),
+        ("  military urban fee (EUL)", f"{ac['urb15']:,.0f} ac"),
+        ("  military ESQD buffer", f"{ac['esqd15']:,.0f} ac"),
+        ("  Kahuku lease parcel", f"{ac['kah15']:,.0f} ac"),
         ("  durable non-ag sites", f"{ac['durable15']:,.0f} ac"),
         ("  reservoirs (unscreened)", f"{ac['res']:,.0f} ac"),
         ("Layer 2  (≤10% slope)", ""),
         ("  D/E ≤10%", f"{ac['de10']:,.0f} ac"),
         (f"  selected B/C ({len(sel)} parcels)", f"{sel_total:,.0f} ac"),
+        ("  military ag D/E ≤10%", f"{ac['milde10']:,.0f} ac"),
     ]
     tab = "\n".join(f"{k:<30s}{v:>10s}" for k, v in rows)
     ax.text(0.005, 0.015, tab, transform=ax.transAxes, fontsize=7.6,
@@ -387,13 +489,15 @@ def make_figure(band, tr, slud_o, m_de15, m_bc15, m_de10, m_sel, m_mil15,
 
     ax.set_title("Oahu: plausibly available solar land, the modeled subset, "
                  "and transmission", fontsize=12.5, color=C_INK, loc="left",
-                 pad=34)
+                 pad=44)
     ax.text(0.0, 1.008,
             "Ag and military categories filtered to ≤15% slope (10 m "
-            "DEM); modeled subset to ≤10%. Military fills are excluded "
-            "from the ag D/E and B/C\ncategories (no double count). No "
-            "grid-distance filter: published near-grid figures are smaller "
-            "(notes/available-land-map.md).",
+            "DEM); modeled subset to ≤10%. Each acre draws in one Layer-1 "
+            "category: military fills are excluded\nfrom the ag D/E and "
+            "B/C categories, the ESQD footprint from the military ag and "
+            "urban fills, the Kahuku lease parcel from the ag fills. No "
+            "grid-distance\nfilter: published near-grid figures are "
+            "smaller (notes/available-land-map.md).",
             transform=ax.transAxes, fontsize=7.8, color=C_MUTE, va="bottom")
     # scale bar, lower right
     x0 = ax.get_xlim()[1] - 16000
