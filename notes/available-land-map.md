@@ -5,11 +5,13 @@ The map shows plausibly available Oahu solar land in two slope bands (Mike,
 for the 15-30% increment. The earlier <=10% threshold is dropped. Ag D/E,
 all tenure, is 21,391 ac at <=15% and +16,201 ac at 15-30%; the B/C SUP
 envelope is 25,503 / +2,325 ac. Military categories add 30,679 ac at <=15%
-(ag 7,980, urban fee 13,733, ESQD 8,736, Kahuku 230), of which the 7,080 ac
-of military D/E is already inside the D/E total (D/E is one all-tenure
-group). Durable non-ag sites are 5,908 / +1,380 ac; reservoirs 264 ac. The
-modeling subset is all D/E at <=15% (21,391 ac, all tenure) plus a
-quasi-random 3,535-ac draw of B/C parcels (98 parcels, <=15%-slope basis).
+(ag 7,980, urban fee 13,733, ESQD 8,736, Kahuku 230); they are plausibly
+available at DoD discretion but are NOT in the modeled subset. Durable
+non-ag sites are 5,908 / +1,380 ac; reservoirs 264 ac. The modeling subset
+is non-military D/E — 14,247 ac at <=15% and +12,239 ac at 15-30%
+(26,486 ac total <=30%) — plus a quasi-random 3,535-ac draw of B/C parcels
+(98 parcels, <=15%-slope basis). Military D/E stays on the map as its tenure
+category (green shows non-military D/E only; Mike, 2026-07-24).
 Figure: `analysis/figs/paper/f_available_land.png`. Script:
 `analysis/available_land_map.py`. Selection file:
 `data/oahu_bc_10pct_selection.csv`.
@@ -68,8 +70,7 @@ Two slope bands per group: base <=15% and the +15-30% increment (acres).
 
 | category | <=15% | +15-30% |
 |---|---:|---:|
-| D/E ag, all tenure | 21,391 | 16,201 |
-|   of which military | 7,080 | 3,865 |
+| D/E ag, non-military | 14,247 | 12,239 |
 | B/C ag (SUP envelope) | 25,503 | 2,325 |
 | military ag (DoD discretion) | 7,980 | 3,177 |
 | military urban fee (EUL discretion) | 13,733 | 892 |
@@ -77,15 +78,16 @@ Two slope bands per group: base <=15% and the +15-30% increment (acres).
 | Kahuku lease parcel (Army-retained 2025 ROD) | 230 | 161 |
 | durable non-ag sites | 5,908 | 1,380 |
 | reservoirs (32 polygons, unscreened) | 264 | — |
-| **modeled subset:** all D/E (= row 1) | 21,391 | 16,201 |
+| **modeled subset:** non-mil D/E (= row 1) | 14,247 | 12,239 |
 | **modeled subset:** selected B/C (98 parcels) | 3,535 | 271 |
 
-The modeled subset is all D/E (row 1, all tenure) plus the 98-parcel B/C
-draw. The military share of D/E (7,080 ac at <=15%) is counted once, inside
-the D/E total; the military ag/urban/ESQD rows are the same land shown by
-tenure and hatch, so the D/E and military rows overlap by that 7,080 ac and
-must not be summed. The selected-B/C 15-30% figure (271 ac) is context: the
-target counts only the parcels' <=15% B/C.
+The modeled subset is non-military D/E (row 1) plus the 98-parcel B/C draw:
+26,486 ac of D/E at <=30% plus 3,806 ac of selected B/C. Military ag land is
+plausibly available at DoD discretion (its own rows) but is excluded from
+the modeled subset. All-tenure D/E at <=15% is 21,391 ac
+(`data/gis/oahu_lsb_by_slope.csv`); the 7,080-ac military D/E share is drawn
+as the military ag category, not green. The selected-B/C 15-30% figure
+(271 ac) is context; the target counts only the parcels' <=15% B/C.
 
 ## B/C selection method (modeled subset)
 

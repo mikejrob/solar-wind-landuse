@@ -245,7 +245,7 @@ def main():
     def bands(base):
         return base & le15, base & b1530
 
-    m_de_15, m_de_30 = bands(is_de)                       # all-tenure D/E
+    m_de_15, m_de_30 = bands(is_de & ~milmask & ~kahmask)  # non-military D/E
     m_bc_15, m_bc_30 = bands(is_bc & ~milmask & ~kahmask)  # B/C envelope
     m_mil_15, m_mil_30 = bands(milmask & agmask & ~esqdmask)
     m_urb_15, m_urb_30 = bands(milmask & urbmask & ~esqdmask)
@@ -354,7 +354,7 @@ def main():
     print("B/C selection check: TMK 158002002 in pool "
           f"{bc15_ac[pg.tmk == '158002002'].sum():,.1f} ac, selected: no")
     print("\nacreage (base <=15% / +15-30% increment):")
-    for k, lab in [("de", "D/E (all tenure)"), ("bc", "B/C envelope"),
+    for k, lab in [("de", "D/E (non-military)"), ("bc", "B/C envelope"),
                    ("sel", "selected B/C"), ("mil", "military ag"),
                    ("urb", "military urban"), ("esqd", "military ESQD"),
                    ("kah", "Kahuku"), ("durable", "durable non-ag")]:
@@ -458,8 +458,8 @@ def make_figure(band, tr, slud_o, masks, kah, site_pts, res, lines, exp,
 
     from matplotlib.legend_handler import HandlerTuple
     handles = [
-        Patch(fc=C_DE, label="D/E ag, all tenure — modeled-available\n"
-                             "(uncapped; military shown as fill + hatch)"),
+        Patch(fc=C_DE, label="D/E ag, non-military — modeled-available\n"
+                             "(uncapped, no permit)"),
         Patch(fc=C_BC_ENV, label="B/C ag — available via SUP (envelope)"),
         Patch(fc=C_BC, label="B/C modeled subset: quasi-random 10% draw"),
         Patch(fc=C_MIL_FILL, ec=C_MIL_HATCH, hatch="////",
@@ -498,8 +498,7 @@ def make_figure(band, tr, slud_o, masks, kah, site_pts, res, lines, exp,
 
     rows = [
         ("Available land", "≤15%", "15–30%"),
-        ("  D/E ag, all tenure *", f0(ac["de_15"]), f0(ac["de_30"])),
-        ("    of which military", f0(ac["milde_15"]), f0(ac["milde_30"])),
+        ("  D/E ag, non-military *", f0(ac["de_15"]), f0(ac["de_30"])),
         ("  B/C ag (SUP envelope)", f0(ac["bc_15"]), f0(ac["bc_30"])),
         ("  military ag", f0(ac["mil_15"]), f0(ac["mil_30"])),
         ("  military urban fee", f0(ac["urb_15"]), f0(ac["urb_30"])),
@@ -508,11 +507,11 @@ def make_figure(band, tr, slud_o, masks, kah, site_pts, res, lines, exp,
         ("  durable non-ag sites", f0(ac["durable_15"]), f0(ac["durable_30"])),
         ("  reservoirs (no slope)", f0(ac["res"]), "—"),
         ("Modeled subset", "", ""),
-        ("  all D/E (= * above)", f0(ac["de_15"]), f0(ac["de_30"])),
+        ("  non-mil D/E (= * above)", f0(ac["de_15"]), f0(ac["de_30"])),
         (f"  selected B/C ({len(sel)} par.)", f0(sel_total), f0(ac["sel_30"])),
     ]
-    tab = "\n".join(f"{k:<26s}{a:>8s}{b:>9s}" for k, a, b in rows)
-    ax.text(0.005, 0.015, tab, transform=ax.transAxes, fontsize=7.4,
+    tab = "\n".join(f"{k:<25s}{a:>8s}{b:>9s}" for k, a, b in rows)
+    ax.text(1.005, 0.0, tab, transform=ax.transAxes, fontsize=7.4,
             family="monospace", color=C_INK, va="bottom", ha="left",
             bbox=dict(boxstyle="round,pad=0.5", fc=SURFACE, ec=ISLAND_EC))
 
@@ -521,11 +520,11 @@ def make_figure(band, tr, slud_o, masks, kah, site_pts, res, lines, exp,
                  pad=44)
     ax.text(0.0, 1.008,
             "Each fill has two shades: darker = ≤15% slope, lighter = the "
-            "15–30% increment (10 m DEM). D/E ag is one all-tenure group "
-            "(the\nmodeling assumes all D/E is available; military shown as "
-            "fill + hatch); B/C shows the full SUP envelope plus the modeled "
-            "10% draw.\nNo grid-distance filter: published near-grid figures "
-            "are smaller (notes/available-land-map.md).",
+            "15–30% increment (10 m DEM). The modeled subset is non-military "
+            "D/E ag\n(green) plus a quasi-random 10% B/C draw; military land "
+            "is shown by tenure category (available at DoD discretion, not in "
+            "the modeled\nsubset). No grid-distance filter: published "
+            "near-grid figures are smaller (notes/available-land-map.md).",
             transform=ax.transAxes, fontsize=7.8, color=C_MUTE, va="bottom")
     # scale bar, lower right
     x0 = ax.get_xlim()[1] - 16000
