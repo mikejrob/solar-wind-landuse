@@ -511,8 +511,8 @@ def make_figure(band, tr, slud_o, masks, kah, site_pts, res, lines, exp,
         (f"  selected B/C ({len(sel)} par.)", f0(sel_total), f0(ac["sel_30"])),
     ]
     tab = "\n".join(f"{k:<25s}{a:>8s}{b:>9s}" for k, a, b in rows)
-    ax.text(1.005, 0.0, tab, transform=ax.transAxes, fontsize=7.4,
-            family="monospace", color=C_INK, va="bottom", ha="left",
+    ax.text(0.0, -0.02, tab, transform=ax.transAxes, fontsize=7.4,
+            family="monospace", color=C_INK, va="top", ha="left",
             bbox=dict(boxstyle="round,pad=0.5", fc=SURFACE, ec=ISLAND_EC))
 
     ax.set_title("Oahu: plausibly available solar land, the modeled subset, "
