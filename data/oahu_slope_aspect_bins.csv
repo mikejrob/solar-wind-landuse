@@ -1,0 +1,61 @@
+category,category_key,slope_bin,aspect_class,acres,poa_factor,effective_acres
+"D/E ag, non-military",de_nonmil,<=15,South,3760.2,1.0241,3850.6
+"D/E ag, non-military",de_nonmil,<=15,Neutral,6841.8,1.0,6841.8
+"D/E ag, non-military",de_nonmil,<=15,North,3644.7,0.9756,3555.8
+"D/E ag, non-military",de_nonmil,15-20,South,1139.4,1.0494,1195.7
+"D/E ag, non-military",de_nonmil,15-20,Neutral,1996.3,0.9944,1985.1
+"D/E ag, non-military",de_nonmil,15-20,North,1157.9,0.938,1086.1
+"D/E ag, non-military",de_nonmil,20-30,South,2044.2,1.0624,2171.8
+"D/E ag, non-military",de_nonmil,20-30,Neutral,3658.7,0.9861,3608.0
+"D/E ag, non-military",de_nonmil,20-30,North,2242.8,0.9055,2030.8
+"D/E ag, non-military",de_nonmil,>30,South,5088.2,1.0681,5434.5
+"D/E ag, non-military",de_nonmil,>30,Neutral,11430.5,0.9788,11187.7
+"D/E ag, non-military",de_nonmil,>30,North,6267.6,0.8825,5531.3
+"B/C ag, non-military (SUP)",bc_nonmil,<=15,South,5746.7,1.0241,5884.9
+"B/C ag, non-military (SUP)",bc_nonmil,<=15,Neutral,13101.7,1.0,13101.7
+"B/C ag, non-military (SUP)",bc_nonmil,<=15,North,6655.1,0.9756,6492.9
+"B/C ag, non-military (SUP)",bc_nonmil,15-20,South,317.4,1.0494,333.1
+"B/C ag, non-military (SUP)",bc_nonmil,15-20,Neutral,617.1,0.9944,613.7
+"B/C ag, non-military (SUP)",bc_nonmil,15-20,North,341.3,0.938,320.1
+"B/C ag, non-military (SUP)",bc_nonmil,20-30,South,295.6,1.0624,314.0
+"B/C ag, non-military (SUP)",bc_nonmil,20-30,Neutral,482.4,0.9861,475.7
+"B/C ag, non-military (SUP)",bc_nonmil,20-30,North,271.1,0.9055,245.5
+"B/C ag, non-military (SUP)",bc_nonmil,>30,South,285.4,1.0681,304.9
+"B/C ag, non-military (SUP)",bc_nonmil,>30,Neutral,347.2,0.9788,339.8
+"B/C ag, non-military (SUP)",bc_nonmil,>30,North,219.3,0.8825,193.5
+"D/E ag, all tenure",de_all,<=15,South,5442.6,1.0241,5573.5
+"D/E ag, all tenure",de_all,<=15,Neutral,10858.2,1.0,10858.2
+"D/E ag, all tenure",de_all,<=15,North,5090.0,0.9756,4965.9
+"D/E ag, all tenure",de_all,15-20,South,1414.6,1.0494,1484.5
+"D/E ag, all tenure",de_all,15-20,Neutral,2923.4,0.9944,2906.9
+"D/E ag, all tenure",de_all,15-20,North,1519.8,0.938,1425.6
+"D/E ag, all tenure",de_all,20-30,South,2509.0,1.0624,2665.6
+"D/E ag, all tenure",de_all,20-30,Neutral,4966.1,0.9861,4897.2
+"D/E ag, all tenure",de_all,20-30,North,2868.3,0.9055,2597.2
+"D/E ag, all tenure",de_all,>30,South,6066.8,1.0681,6479.6
+"D/E ag, all tenure",de_all,>30,Neutral,13856.1,0.9788,13561.8
+"D/E ag, all tenure",de_all,>30,North,7563.9,0.8825,6675.4
+"B/C ag, all tenure",bc_all,<=15,South,7089.1,1.0241,7259.6
+"B/C ag, all tenure",bc_all,<=15,Neutral,15844.1,1.0,15844.1
+"B/C ag, all tenure",bc_all,<=15,North,7918.6,0.9756,7725.5
+"B/C ag, all tenure",bc_all,15-20,South,382.2,1.0494,401.1
+"B/C ag, all tenure",bc_all,15-20,Neutral,799.9,0.9944,795.4
+"B/C ag, all tenure",bc_all,15-20,North,451.9,0.938,423.8
+"B/C ag, all tenure",bc_all,20-30,South,359.0,1.0624,381.5
+"B/C ag, all tenure",bc_all,20-30,Neutral,635.2,0.9861,626.4
+"B/C ag, all tenure",bc_all,20-30,North,353.3,0.9055,319.9
+"B/C ag, all tenure",bc_all,>30,South,339.4,1.0681,362.5
+"B/C ag, all tenure",bc_all,>30,Neutral,434.5,0.9788,425.3
+"B/C ag, all tenure",bc_all,>30,North,269.6,0.8825,238.0
+military ag land,mil_ag,<=15,South,2018.3,1.0241,2066.9
+military ag land,mil_ag,<=15,Neutral,3963.9,1.0,3963.9
+military ag land,mil_ag,<=15,North,1998.1,0.9756,1949.4
+military ag land,mil_ag,15-20,South,259.2,1.0494,272.0
+military ag land,mil_ag,15-20,Neutral,627.6,0.9944,624.1
+military ag land,mil_ag,15-20,North,374.7,0.938,351.5
+military ag land,mil_ag,20-30,South,404.5,1.0624,429.7
+military ag land,mil_ag,20-30,Neutral,964.6,0.9861,951.2
+military ag land,mil_ag,20-30,North,546.6,0.9055,495.0
+military ag land,mil_ag,>30,South,842.7,1.0681,900.0
+military ag land,mil_ag,>30,Neutral,2116.4,0.9788,2071.4
+military ag land,mil_ag,>30,North,1207.4,0.8825,1065.6

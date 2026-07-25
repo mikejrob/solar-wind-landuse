@@ -310,6 +310,69 @@ This refines `docs/ASSUMPTIONS.md` E2 (the ≤15 / 15-30 / >30 convention): the
 15-30% band is better modeled as 15-20% (firm, small premium) plus 20-30%
 (speculative, unbounded premium), and the whole band should carry an aspect flag.
 
+---
+
+## 8. Results: aspect overlay and fine slope bins (computed)
+
+The aspect screen shrinks the 15-30% supply by ~1%, not more: south-facing gains
+cancel north-facing losses across a band that is 46% E/W-neutral. The spread is
+per-acre, not aggregate. `analysis/aspect_slope_bins.py` computes a per-cell
+aspect on the same 10 m grid as the slope screen (compass azimuth of steepest
+descent from `np.gradient` of the reprojected DEM; South 135-225°, North 315-45°,
+Neutral E/W), splits 15-30% into 15-20% (band 4) and 20-30% (bands 5-6), and
+POA-weights each (bin x aspect) group by
+`data/oahu_poa_aspect_slope.csv` at the bin midpoint (17.5%, 25%). Full table:
+`data/oahu_slope_aspect_bins.csv`; figure `analysis/figs/paper/f_slope_aspect_bins.png`.
+All-tenure D/E and B/C slope-bin acres reconcile to `data/gis/oahu_lsb_by_slope.csv`
+to within 0.1 ac.
+
+POA-vs-flat factors applied (clear-sky, 21.35°N): 15-20% South 1.049 / Neutral
+0.994 / North 0.938; 20-30% South 1.062 / Neutral 0.986 / North 0.905.
+
+**Non-military D/E, 15-30% increment (acres):**
+
+| Slope | South | Neutral | North | Total | POA-weighted |
+|---|---:|---:|---:|---:|---:|
+| 15-20% | 1,139 | 1,996 | 1,158 | 4,294 | 4,267 |
+| 20-30% | 2,044 | 3,659 | 2,243 | 7,946 | 7,811 |
+| **15-30%** | **3,183** | **5,655** | **3,401** | **12,239** | **12,078** |
+
+**Non-military B/C, 15-30% increment (acres):**
+
+| Slope | South | Neutral | North | Total | POA-weighted |
+|---|---:|---:|---:|---:|---:|
+| 15-20% | 317 | 617 | 341 | 1,276 | 1,267 |
+| 20-30% | 296 | 482 | 271 | 1,049 | 1,035 |
+| **15-30%** | **613** | **1,099** | **612** | **2,325** | **2,302** |
+
+Findings (`data/oahu_slope_aspect_bins.csv`):
+
+- **The steeper half dominates.** Of the 12,239 ac non-military D/E increment,
+  7,946 ac (65%) is 20-30% slope — the band with no Hawaii cost basis (sec. 4) —
+  and 4,294 ac (35%) is the firmer 15-20% band. B/C is more even: 1,276 ac 15-20%,
+  1,049 ac 20-30%.
+- **Aspect is near-symmetric.** Non-military D/E 15-30% splits South 3,183 ac
+  (26%) / Neutral 5,655 ac (46%) / North 3,401 ac (28%). North slightly exceeds
+  South. B/C: South 613 ac / Neutral 1,099 ac / North 612 ac. The band is not
+  tilted toward good aspect.
+- **POA-weighting is close to a wash in aggregate.** Yield-weighting drops the
+  non-military D/E 15-30% increment from 12,239 to 12,078 flat-equivalent acres
+  (-1.3%); B/C from 2,325 to 2,302 (-1.0%). South gains (+5 to +6%) offset North
+  losses (-6 to -9%) because Neutral (near-flat-equivalent) is the largest class.
+- **The per-acre penalty is real where it lands.** The ~3,401 ac of north-facing
+  D/E 15-30% land is double-marginal: steeper than 15% and facing away from the
+  sun (a north-facing 25% acre yields ~9% below flat before any cost premium,
+  sec. 2). The ~3,183 ac south-facing fraction is the genuinely attractive tail
+  (a south-facing 25% acre roughly matches flat yield). Grade-only screening
+  treats these as identical; they are not.
+
+Bottom line: aspect refines but does not overturn the 15-30% supply. It flags
+~3,400 ac of north-facing D/E as the weakest acres and ~3,200 ac of south-facing
+D/E as the strongest, but the aggregate flat-equivalent supply is within ~1% of
+the grade-only figure. The larger qualifier stays the 15-20 vs 20-30 split: two
+of every three marginal D/E acres sit in the 20-30% band that carries no Hawaii
+cost basis.
+
 ## Caveats
 
 1. The Ulupono/Fripp +$0.06-0.07/W factor is a modeling input from developer
@@ -329,18 +392,22 @@ This refines `docs/ASSUMPTIONS.md` E2 (the ≤15 / 15-30 / >30 convention): the
 
 ## Follow-on work
 
-1. **Aspect screen on the 15-30% band.** Compute a per-cell aspect raster from
-   the same 10 m DEM used in `analysis/slope_screen.py`, and split the 15-30%
-   increment (map + `oahu_lsb_by_slope.csv`) into south / neutral / north facing.
-   Re-weight the 15-30% acreage by the POA factors in
-   `data/oahu_poa_aspect_slope.csv`. Highest-value single addition; turns a
-   grade-only band into a yield-weighted one.
+1. RESOLVED 2026-07-24 (sec. 8; `analysis/aspect_slope_bins.py`,
+   `data/oahu_slope_aspect_bins.csv`, `analysis/figs/paper/f_slope_aspect_bins.png`).
+   Per-cell aspect on the 10 m grid splits the 15-30% increment into
+   south / neutral / north. Non-military D/E 15-30% = 3,183 S / 5,655 neutral /
+   3,401 N (near-symmetric); POA-weighting nets -1.3% (12,239 -> 12,078
+   flat-equivalent ac). North-facing ~3,400 ac is the weakest tail, south-facing
+   ~3,200 ac the strongest. Reconciles to `oahu_lsb_by_slope.csv` within 0.1 ac.
 2. **Soil-erodibility / rainfall-erosivity overlay.** Join NRCS SSURGO K-factor
    and a Hawaii R-factor grid to the 15-30% band to flag acres where
    construction-phase erosion and slope stability, not racking, bind.
-3. **Split E2 into 15-20% and 20-30%** in `docs/ASSUMPTIONS.md`, applying the
-   Ulupono/Fripp premium to the former and an explicit "speculative, no Hawaii
-   basis" flag to the latter.
+3. PARTLY RESOLVED 2026-07-24 (sec. 8). The 15-20% / 20-30% split is now
+   quantified per land category: non-military D/E splits 4,294 ac (15-20%) +
+   7,946 ac (20-30%), so two of three marginal D/E acres carry no Hawaii cost
+   basis; B/C splits 1,276 + 1,049 ac. Remaining: fold the split into
+   `docs/ASSUMPTIONS.md` E2 with the Ulupono/Fripp premium on 15-20% and a
+   "speculative, no Hawaii basis" flag on 20-30%.
 4. **Cross-check with the Switch-Oahu build** in `~/Research/oahu-grid`: the
    Fripp slope cost factors and the ≤15 vs ≤20 slope scenarios are directly
    portable as a sensitivity on land supply and system cost.
