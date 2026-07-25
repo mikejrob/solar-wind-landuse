@@ -49,7 +49,6 @@ notes.
 
 | Investigation | Question | Finding | Note | Data |
 |---|---|---|---|---|
-| Grid-scale struggle | Why so little utility-scale solar? | Oahu solar dies in the HECO-run procurement/interconnection process, not on land or community; rooftop (less utility-controlled) boomed. Deliberate use of that friction is a hypothesis, not a finding — conduct documented, intent not. | `notes/grid-scale-struggle-hypothesis.md` | — |
 | Board interlocks | Are the utility and landholders linked? | HEI–Kamehameha Schools trustee overlaps; HECO officers ran LURF. Structure documented; motive not. | `notes/hei-interlocks.md` | `data/hei_board_interlocks.csv` |
 | Campaign finance | Did interested money flow to cap-writers? | No pattern. Zero HEI dollars to the cap-inserting Senate chairs in the 2011 cycle. | `notes/campaign-finance.md` | `data/campaign_contributions_siting.csv` |
 | Legal representation | Who lawyers for whom in dockets? | Community intervenors use one small public-interest bar; the landholder bar works for solar. | `notes/legal-representation-map.md` | `data/legal_edges.csv` |

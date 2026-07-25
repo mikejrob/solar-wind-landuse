@@ -131,8 +131,6 @@ Each note is a self-contained investigation with its own sources.
 - `notes/community-resistance-cases.md` — resistance cases by island.
 
 **Political economy**
-- `notes/grid-scale-struggle-hypothesis.md` — why so little utility-scale
-  solar: the utility-process-friction hypothesis, conduct vs intent.
 - `notes/hei-interlocks.md` — HEI board and trust interlocks.
 - `notes/campaign-finance.md` — donations to siting-bill legislators.
 - `notes/legal-representation-map.md` — intervenor counsel across dockets.
