@@ -106,8 +106,9 @@ Each note is a self-contained investigation with its own sources.
 **Land quantification (GIS)**
 - `notes/cap-quantification.md` — cap-scenario acreage.
 - `notes/oahu-transmission-screen.md` — distance-to-grid and corridor unlocks.
-- `notes/oahu-slope-screen.md`, `notes/slope-cost-literature.md`, and
-  `notes/slope-15-30-challenges.md` — terrain, slope cost, and the 15–30% band.
+- `notes/oahu-slope-screen.md`, `notes/slope-cost-literature.md`,
+  `notes/slope-15-30-challenges.md`, and `notes/steep-slope-solar-precedent.md`
+  — terrain, slope cost, the 15–30% band, and steep-slope precedent worldwide.
 - `notes/oahu-ownership.md` — parcel ownership and concentration.
 - `notes/oahu-nonag-solar.md` — urban-district and damaged-land supply.
 - `notes/military-land-solar.md` — DoD land, the 2029 lease question.
