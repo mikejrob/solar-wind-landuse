@@ -19,9 +19,20 @@ grade terms than the 20-30% grade the Hawaii question frames.
 ## Headline
 
 Yes, utility-scale PV has been built well above 20-30% grade — but the firmest
-evidence comes from South Korea and Japan, where it repeatedly landslided, and
-**no single project on the record pairs a verified >20%-grade average slope with
-a published capex.** The two things never travel together.
+evidence comes from South Korea and Japan, where slopes hosting solar plants
+repeatedly failed in monsoon rainfall, and **no single project on the record
+pairs a verified >20%-grade average slope with a published capex.** The two
+things never travel together.
+
+**Causation caveat up front (see the dedicated section below).** "Solar-site
+slopes failed" is well documented; "solar *caused* the failures" is only
+partly established. The land-clearing/earthworks mechanism is textbook-solid
+and two governments re-regulated on it, but there is **no comparative study
+showing solar slopes fail at higher rates than matched non-solar slopes**, and
+the most-cited events are co-location or single-site forensics, not attribution
+against a counterfactual. Do not write that "solar farms landslide"; write that
+solar development on cleared, cut-and-filled steep wet slopes carries a
+landslide mechanism that has repeatedly manifested where standards were loose.
 
 1. **Steepest verifiably-built average slope, non-vendor source: South Korea,
    ~15-25° (27-47% grade).** A Korea Forest Service survey of 1,235 mountain
@@ -48,7 +59,175 @@ a published capex.** The two things never travel together.
 The transferable lesson for Hawaii is a hazard lesson, not a cost lesson: the
 places that actually built utility PV on 27-47%-grade slopes (Korea, Japan) are
 humid, steep, high-rainfall, seismic analogs, and they are exactly where slope-
-sited PV has slid, killed people, and been re-regulated down.
+sited PV has seen its slopes fail (Hoengseong 2022, 1 dead) and been re-regulated
+down. (The larger death tolls often cited alongside — Atami's 26-28 — were NOT
+solar failures; see the causation section.)
+
+---
+
+## Did solar cause the landslides? (causation assessment)
+
+**Bottom line.** The *mechanism* by which solar development can trigger shallow
+landslides on steep wet slopes is well established and old — but *rigorous causal
+attribution to solar specifically* is thin. What the record supports, ranked from
+strongest to weakest evidence: (1) the general land-clearing/earthworks mechanism
+is textbook geoscience; (2) two governments acted on it by re-regulating slope-
+sited solar; (3) individual solar-site failures have been reverse-engineered as
+single-site forensics, some initiating in the plant's own cut-and-fill embankment;
+(4) **no comparative or statistical study anywhere shows that slopes with solar
+fail at a higher rate than comparable slopes without solar**, controlling for
+grade, rainfall, and geology. Claim (4) is the causation crux and it is missing.
+So the honest statement is: *the mechanism is sound and governments acted on it,
+but a rigorous causal test against a counterfactual has not been published.*
+
+### The four confounds, ranked by how well the evidence supports them
+
+For any observed failure at a solar site, four non-exclusive explanations
+compete. Ranked by evidentiary support:
+
+- **(c) Illegal or substandard grading/fill — best supported where failures were
+  actually investigated.** The paradigm is Atami/Izusan (3 Jul 2021, 26-28 dead):
+  Shizuoka Prefecture and the Forestry Agency found the cause was an illegal
+  ~54,000 m³ (>50 kt) fill mound with no drainage, and Vice-Governor Namba stated
+  plainly that "solar energy and residential development are not the cause of the
+  incident, as indicated by the available geological data"
+  (https://m.energytrend.com/news/20210810-22918.html). Atami is thus a
+  **counter-example to solar causation**, yet it was the political trigger for
+  Japan's re-regulation. Korea's mountain-solar failures likewise cluster at
+  sites built to loose pre-2018 standards with cut-fill embankments and
+  inadequate drainage — an earthworks-quality story, not a "PV hardware" story.
+- **(b) Deforestation for solar (root-cohesion loss) — strongest MECHANISTIC
+  basis, not isolated empirically at solar sites.** Clearing forest on steep
+  slopes removes root reinforcement and is one of the best-documented
+  anthropogenic landslide drivers (see root-cohesion literature below). Solar
+  inherits this mechanism at the land-clearing step, independent of the racking.
+  Highly plausible for cleared forest-solar sites; but no study isolates the
+  deforestation contribution at solar sites from the earthworks or the rainfall.
+- **(d) Exposure of pre-existing hazard slopes — well documented as co-location.**
+  Hao, Ialnazov & Yamashiki (2021) find 8.5% of mapped Japanese PV sites sit
+  inside designated sediment-hazard zones; siting on already-hazardous ground
+  produces failures at solar sites without solar having caused anything
+  (https://www.frontiersin.org/articles/10.3389/frsus.2021.815986/full).
+- **(a) Properly-engineered PV on a steep slope failing because it is PV — least
+  supported.** The failures on record are associated with loose-standard
+  construction and cut-fill embankments, not with well-engineered, well-drained
+  installations. Nothing in the record shows that competent steep-slope PV
+  inherently slides.
+
+Net: the evidence best supports that failures were driven by **land clearing +
+earthworks/drainage on already-marginal steep wet slopes** — the site-preparation
+of solar, not the panels. This is a real hazard and it transfers to Hawaii's wet
+erodible uplands, but it is a construction-and-siting hazard, not a property of
+generating electricity from sunlight.
+
+### The authoritative studies and what each actually establishes
+
+Verified to exist; each read for whether it shows CAUSATION (mechanism +
+counterfactual) or only exposure/damage/single-site forensics.
+
+- **Nam, K., Wang, F., Dai, Z. et al. 2023, "Kinetic characteristics and runout
+  behavior of the rainfall-induced Hoengseong landslide at a solar power plant on
+  9 August 2022," *Landslides* 20:1905-1923** (https://link.springer.com/article/10.1007/s10346-023-02112-9).
+  Single-site forensic of ONE failure. The abstract states the slope "failed at
+  the embankment of the solar power plant and subsequently transited to a high-
+  mobilized debris flow" — i.e., initiation in the plant's engineered embankment,
+  which is the closest thing in the peer-reviewed record to attributing a failure
+  to solar earthworks. But it is a runout/kinematics model (PFC3D), n = 1, **no
+  counterfactual and no comparison to non-solar slopes.** Establishes: co-location
+  + failure located in a constructed feature. Does NOT establish a causal rate.
+- **Lee et al. 2023, "Preliminary analysis of a heavy rainfall-induced landslide
+  on a slope with a photovoltaic power station in Hoengseong County," *Landslides*
+  20:1763-1767** (https://link.springer.com/article/10.1007/s10346-023-02077-9).
+  A 4-page "Landslide News" short communication on the same 2022 event, not a full
+  research study; its reference list cites a KBS News (2022) item titled "The
+  Hoengseong landslide caused by solar power plant" — i.e., it relays MEDIA
+  attribution. Weak as causal evidence.
+- **Hao, K., Ialnazov, D. & Yamashiki, Y. 2021, "GIS Analysis of Solar PV
+  Locations and Disaster Risk Areas in Japan," *Frontiers in Sustainability*
+  2:815986** (https://www.frontiersin.org/articles/10.3389/frsus.2021.815986/full).
+  EXPOSURE study only. Its own framing treats plants as vulnerable entities; the
+  "11 plants damaged by landslides" and "782/9,250 (8.5%) in hazard zones" are
+  co-location and damage counts. **Explicitly not a causal claim.** This is the
+  source the earlier note leaned on; it does not support "solar triggered
+  landslides."
+- **Cheon, E., Yu, J.Y., Lim, H.H., Lee, S.R., Kwon, T.H. & Song, K.I. 2025,
+  "Physics-based landslide susceptibility machine learning model for mountainous
+  solar power plants," *Natural Hazards* 121:19967-19992** (https://link.springer.com/article/10.1007/s11069-025-07579-4).
+  A physics-informed ML model built from 136,262 rainfall-infiltration/slope-
+  stability simulations that "account for the presence of solar panels," validated
+  at one real solar site (Jangsu-gun). This is the most mechanistic solar-specific
+  work, but it is **simulation-based susceptibility mapping, not an empirical
+  comparison of solar vs bare-slope failure rates**; its sensitivity analysis
+  finds soil-strength properties dominate the factor of safety. It does not
+  isolate a "panels present raises failure rate" result.
+- **Kim et al. 2023, "Landslide risk on photovoltaic power stations under climate
+  change," *Geomatics, Natural Hazards and Risk* 14(1):2286904** (https://www.tandfonline.com/doi/full/10.1080/19475705.2023.2286904).
+  Susceptibility + physical hazard model projecting risk to PV stations under RCP
+  scenarios; ~**$60 million/yr** expected loss under RCP6.0. A forward risk
+  projection AT PV sites, not a causal attribution against non-solar controls.
+  (Companion susceptibility studies: Gangwon-do PV susceptibility, *Geomatics NH&R*
+  2021, https://www.tandfonline.com/doi/abs/10.1080/19475705.2021.1950219; and a
+  dynamic-rainfall PV risk model, *Water* 2023, https://doi.org/10.3390/w15152832.
+  All map/rank susceptibility at solar sites; none is a matched-control comparison.)
+
+### The comparative/statistical test (the causation crux) — MISSING
+
+No located study asks the decisive question: **do slopes hosting solar fail at a
+higher rate than comparable slopes without solar, holding grade, rainfall, and
+geology fixed?** The Korean and Japanese solar-landslide papers are single-site
+forensics (Nam; Lee), exposure/co-location maps (Hao et al.), or simulation-based
+susceptibility models (Cheon; Kim) — none constructs a matched non-solar control
+group. The nearest thing to a rate statement is the Korean government's own
+denial: MTIE noted the 12 landslide-hit solar sites were 0.1% of 12,721 solar
+facilities (https://www.koreatimes.co.kr/www/opinion/2020/12/202_294318.html) —
+but that is a raw fleet rate on an ill-chosen denominator (most of the fleet is
+not on steep forest slopes) with no matched control, so it neither confirms nor
+refutes causation. **State this gap plainly wherever the paper uses Korea/Japan.**
+
+### Government attributions — regulatory action, not per-site forensics
+
+- **Korea 2020:** the Korea Forest Service reported 12 solar sites among ~1,100
+  monsoon landslides; opposition parties blamed the Moon administration's mountain-
+  solar push, and the Ministry of Trade, Industry and Energy publicly rejected the
+  causal claim (0.1%-of-fleet argument above). Korea nonetheless tightened the
+  average-slope limit from <25° to <15° and cut the REC multiplier in 2018. The
+  regulatory action reflects precautionary concern and politics; it is **not a
+  government finding that solar construction mechanically caused each failure.**
+- **Japan 2018/2021:** the "11 plants" figure is damage/co-location (Hao et al.);
+  the Forestry Agency/METI tightened forest-development permit criteria (retaining
+  walls ≥30°, permit trigger cut 1 ha → 0.5 ha) as prevention. For Atami — the
+  event that actually drove Japan's re-regulation — the government finding was
+  **explicitly that solar was not the cause** (illegal fill). So Japan re-regulated
+  solar off the back of a failure it had itself attributed to something else.
+
+### Root-cohesion / deforestation literature (the transferable mechanism)
+
+The general, non-solar evidence that clearing forest on steep slopes raises
+shallow-landslide risk is strong and decades old, and it is the mechanism that
+transfers to solar via land clearing — independent of the racking:
+
+- **Sidle, R.C. & Ochiai, H. 2006, *Landslides: Processes, Prediction, and Land
+  Use*, AGU Water Resources Monograph 18** (https://agupubs.onlinelibrary.wiley.com/doi/book/10.1029/WM018)
+  — the standard synthesis; documents that timber harvest, forest conversion, and
+  road building drive shallow landslides, with root reinforcement often more
+  important than hydrologic effects.
+- **Sidle, R.C. 1992, "A theoretical model of the effects of timber harvesting on
+  slope stability," *Water Resources Research* 28(7):1897-1910** (https://agupubs.onlinelibrary.wiley.com/doi/10.1029/92WR00804)
+  — the root-decay/regrowth model. Field syntheses report **2- to 10-fold
+  increases in mass-erosion rates in the 3-15 years after clearing**, the window
+  when decayed roots no longer reinforce and regrowth has not yet compensated
+  (root cohesion <3 kPa for ~7 years; >10 kPa only after ~9 years).
+- **Lehmann et al. 2019, "Deforestation Effects on Rainfall-Induced Shallow
+  Landslides," *Water Resources Research* 55** (https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019WR025233)
+  — physically-based modeling: simulated cumulative landslide area rose from
+  ~8,000 m² with root regrowth to ~40,000 m² with zero root strength after
+  deforestation, a ~5× effect from clearing alone.
+
+This literature is the reason the solar mechanism is credible even though solar-
+specific causal tests are thin: a solar project that clears forest on a steep wet
+slope inherits a well-quantified landslide mechanism at the clearing step. The
+gap is empirical isolation of solar's marginal contribution, not doubt about the
+underlying physics.
 
 ---
 
@@ -62,11 +241,11 @@ press (usually relaying developer/vendor), **[vendor]** vendor case study,
 |---|---|---|---|---|---|---|---|
 | **Korea — mountain-solar fleet** (1,235 plants surveyed) | fleet | **665 of 1,235 (48.6%) > 15° (27% grade)**; 425 at 15-20°, 120 at 20-25° (36-47%) | Forest/mountain, monsoon, granitic | ground-mount fixed | none published | ~half exceed post-2018 legal limit; several landslided | besteco.kr [press, KFS-sourced] http://www.besteco.kr/news/articleView.html?idxno=6114 |
 | **Korea — Hoengseong plant** | plant-scale | slope built above pre-2018 standard | Gangwon forest slope | ground-mount | none | **Landslide 9 Aug 2022: 1.5×10⁴ m³, 330 m runout, 60 m drop, 1 dead, 2 houses destroyed**, debris + panels reached Route 6 | Nam et al. 2023, *Landslides* [peer] https://link.springer.com/article/10.1007/s10346-023-02112-9 |
-| **Korea — 2020 monsoon cluster** | 12 sites | on slopes; 5 of 12 built 2017-2019 | forest slopes | ground-mount | none | **12 solar farms triggered landslides** in Aug 2020 (of 667 landslides that month); KFS inspected 2,180 plants | koreaherald.com [press, KFS] https://www.koreaherald.com/view.php?ud=20200810000926 |
+| **Korea — 2020 monsoon cluster** | 12 sites | on slopes; 5 of 12 built 2017-2019 | forest slopes | ground-mount | none | **12 solar sites experienced landslides** during the 2020 monsoon (KFS counted them among ~1,100 landslides / 667 in Aug); attribution CONTESTED — opposition parties blamed mountain-solar policy, MTIE noted the 12 = **0.1% of 12,721 solar facilities** and denied a causal role; KFS inspected 2,180 plants. Co-location + political dispute, NOT a forensic causal finding | koreaherald.com [press, KFS] https://www.koreaherald.com/view.php?ud=20200810000926 ; koreatimes.co.kr [press] https://www.koreatimes.co.kr/www/opinion/2020/12/202_294318.html |
 | **Japan — Sakura-no-Sato, Nagasaki** | ~part of ~21 MW (4 sites) | **30° face (58% grade), measured** | Volcanic city road embankment (法面) | fixed, panels parallel to face; monorail construction | not published | Operating 2015; road-slope RFP | Nikkei BP Mega-Solar [trade] https://project.nikkeibp.co.jp/ms/article/FEATURE/20150803/430502/ |
 | **Japan — forest-permitted solar (national)** | ~21,000 ha, ~15,000 permits FY2013-22 | fleet on graded forest slopes | humid, seismic, high-rainfall | ground-mount | land-prep line **¥11,000-19,000/kW ($73-127/kW)** for ground-mount, **¥0 rooftop**; tail sites >¥40,000/kW ($267/kW) | operating; ~10% had construction-phase sediment/turbid runoff | METI FIT cost committee, Dec 2024 [gov] https://www.meti.go.jp/shingikai/santeii/ (資本費内訳, 土地造成費 line); Forestry Agency [gov] https://www.enecho.meti.go.jp/category/saving_and_new/saiene/community/dl/07_05.pdf |
 | **Japan — Atami / Izusan** | adjacent solar site (not the failure) | site on cut ridge, stable ground | Volcanic hillside, Shizuoka | n/a | n/a | **3 July 2021 debris flow: 26-28 dead, >130 homes**; caused by an illegal ~54,000 m³ fill mound (~50 m vs 15 m legal limit), **not** the solar site (Shizuoka Pref + Forestry Agency: "not a direct cause") | Springer [peer] https://link.springer.com/article/10.1007/s10346-021-01788-1 ; kankyo-business.jp [gov/trade] https://www.kankyo-business.jp/news/028838.php |
-| **Japan — 2018 West Japan rains** | 11 plants | on slopes | — | ground-mount | none | **11 PV plants damaged by landslides (10 ≥500 kW)**; 782 of 9,250 mapped sites (8.5%) in sediment-hazard zones | Frontiers in Sustainability 2021 [peer] https://www.frontiersin.org/articles/10.3389/frsus.2021.815986/full |
+| **Japan — 2018 West Japan rains** | 11 plants | on slopes | — | ground-mount | none | **11 PV plants DAMAGED BY landslides (10 ≥500 kW)** — the paper measures EXPOSURE, framing plants as vulnerable, not causal; 782 of 9,250 mapped sites (8.5%) sit in sediment-hazard zones. No claim solar triggered any failure | Hao, Ialnazov & Yamashiki 2021, *Frontiers in Sustainability* 2:815986 [peer] https://www.frontiersin.org/articles/10.3389/frsus.2021.815986/full |
 | **Cayanga-Bugallon, Pangasinan, Philippines** | **94 MWp** | **UNVERIFIED** — "hillside/sloping" per engineer Arup's project title only; pv-magazine release gives no slope | Tropical, 196 ha, non-arable | ground-mount | **₱4.5B EPC ≈ $0.85/W** (EPC-only, JGC) | Energized ~2024 | pv-magazine [trade] https://www.pv-magazine.com/press-releases/aboitizpower-begins-work-on-94-mw-solar-park/ |
 | **Sarish Solar, Burgettstown PA** | 26 | **20% grade built; 30% max site condition** — developer/vendor, no independent survey | Reclaimed coal-waste mine, rock ledges | Nevados TRACE terrain-following tracker, zero grading | **not disclosed** (IRA credits "up to 55%") | Operating Q2 2025 | powermag.com [trade] https://www.powermag.com/reclaimed-coal-mine-shines-spotlight-on-innovative-solar-system/ ; nevados.solar [vendor] |
 | **Iris Solar, Washington Parish LA** | 13 (of 50) | **capability claim only**: Nevados "rated to 37% (20°)"; no as-built average | Louisiana, hurricane-exposed | Nevados ATT | none; cites Primoris ~$0.75/W SWPPP industry figure | Operating | pv-tech.org [trade] https://www.pv-tech.org/the-end-of-mass-grading-for-solar-projects/ |
@@ -139,13 +318,17 @@ Which analogs transfer, ranked.
 
 1. **Korea and Japan transfer as hazard analogs, not cost analogs.** Both are
    humid, steep, high-rainfall, seismic, and both built utility PV on 27-47%-
-   grade forest slopes at scale. Both then suffered rainfall-triggered landslides
-   at those plants (Hoengseong 2022: 1 dead; 12 Korean sites in 2020; 11 Japanese
-   plants in 2018) and re-regulated slope down (Korea to 15°/27% grade; Japan
-   retaining walls above 30°/58%). For Hawaii's wet, erodible, seismic uplands the
-   directly relevant fact is that the one place utility PV climbed to 27-47% grade
-   is the one place it slid. This corroborates `slope-15-30-challenges.md` §3 and
-   §6 (the geotechnical/erosion constraint binds above ~15-20%).
+   grade forest slopes at scale. Both then saw rainfall-triggered landslides at or
+   damaging those plants (Hoengseong 2022: 1 dead; 12 Korean sites in 2020; 11
+   Japanese plants damaged in 2018) and re-regulated slope down (Korea to 15°/27%
+   grade; Japan retaining walls above 30°/58%). For Hawaii's wet, erodible,
+   seismic uplands the directly relevant fact is that the one place utility PV
+   climbed to 27-47% grade is a place its slopes repeatedly failed. **But see the
+   causation section: "solar-site slopes failed" is documented; "solar caused the
+   failures" rests on a sound land-clearing/earthworks mechanism, not on any
+   matched-control comparison — do not overstate the attribution.** This
+   corroborates `slope-15-30-challenges.md` §3 and §6 (the geotechnical/erosion
+   constraint binds above ~15-20%).
 2. **Tropical volcanic islands transfer as a null.** Reunion — the closest analog
    (French tropical volcanic, land-scarce, high grid cost) — does not climb its
    steep interior; it sites solar on coastal flats, ex-dumps, and mid-slope
@@ -173,8 +356,10 @@ Which analogs transfer, ranked.
    notes, convert first.
 3. **The steepest Korean averages (20-25° = 36-47% grade) are peer-reviewed/
    regulatory-survey data** (Nam et al.; KFS survey), the strongest non-vendor
-   evidence that >20%-grade utility PV has been built — but they are the sites
-   that landslided, and no cost attaches.
+   evidence that >20%-grade utility PV has been built — but they are among the
+   sites whose slopes later failed, and no cost attaches. (On whether solar
+   *caused* those failures, see the causation-assessment section — the honest
+   answer is "sound mechanism, thin causal test.")
 4. **Nagasaki's 30° (58% grade) is a road-embankment special case**, not a field
    average, built with monorail haulage and spray foundations; no capex published.
 5. **Atami did not fail because of solar.** Shizuoka Prefecture and the Forestry
@@ -188,6 +373,12 @@ Which analogs transfer, ranked.
 7. **Cayanga's "hillside" descriptor comes from engineer Arup's project title**,
    not the pv-magazine release, which gives no slope. Treat the hillside claim as
    weakly sourced and the slope as UNVERIFIED.
+8a. **UNVERIFIED — the causation crux:** no located study compares failure rates
+   of solar vs matched non-solar slopes (grade/rainfall/geology held fixed). The
+   solar-landslide papers are single-site forensics, exposure maps, or simulation-
+   based susceptibility models. The land-clearing/earthworks mechanism is solid
+   (Sidle & Ochiai 2006; Sidle 1992; Lehmann et al. 2019) but solar's marginal
+   contribution has not been empirically isolated. See the causation section.
 8. **UNVERIFIED / gaps:** any project's verified >20%-grade average slope with a
    published capex; a Korean or Japanese slope-vs-flat construction cost premium
    (only Japan's land-prep line and a projected ~$60M/yr Korean landslide-loss
