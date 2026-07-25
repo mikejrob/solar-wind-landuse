@@ -106,12 +106,15 @@ Each note is a self-contained investigation with its own sources.
 **Land quantification (GIS)**
 - `notes/cap-quantification.md` — cap-scenario acreage.
 - `notes/oahu-transmission-screen.md` — distance-to-grid and corridor unlocks.
-- `notes/oahu-slope-screen.md` and `notes/slope-cost-literature.md` — terrain.
+- `notes/oahu-slope-screen.md`, `notes/slope-cost-literature.md`, and
+  `notes/slope-15-30-challenges.md` — terrain, slope cost, and the 15–30% band.
 - `notes/oahu-ownership.md` — parcel ownership and concentration.
 - `notes/oahu-nonag-solar.md` — urban-district and damaged-land supply.
 - `notes/military-land-solar.md` — DoD land, the 2029 lease question.
 - `notes/golf-course-solar.md` — golf-course acreage.
 - `notes/state-land-solar.md` — state-land leasing authority and history.
+- `notes/available-land-map.md` — the three-layer available-land map, its
+  slope bands, and the modeled-subset selection (`analysis/available_land_map.py`).
 
 **Process to build**
 - `notes/sup-census.md` — every solar special use permit and its outcome.
