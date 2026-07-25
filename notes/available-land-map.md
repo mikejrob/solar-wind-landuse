@@ -1,27 +1,42 @@
-# Available-land map: three layers, method, and totals
+# Available-land map: category groups, slope bands, method, and totals
 
-Plausibly available solar land on Oahu at <=15% slope totals ~76,300 ac
-across seven land categories, plus 264 ac of unscreened reservoir surface.
-The three military categories added 2026-07-24 (urban fee, ESQD buffer,
-Kahuku lease parcel) account for ~22,700 ac of the total and carry heavier
-availability caveats than the ag categories. The modeling subset (Layer 2)
-is 15,370 ac of all D/E at <=10% slope (military and non-military, of which
-5,435 ac is military fee land) plus a quasi-random 3,778-ac draw of B/C
-parcels. Figure:
-`analysis/figs/paper/f_available_land.png`. Script:
+The map shows plausibly available Oahu solar land in two slope bands (Mike,
+2026-07-24): a base shade for <=15% slope and a lighter tint of the same hue
+for the 15-30% increment. The earlier <=10% threshold is dropped. Ag D/E,
+all tenure, is 21,391 ac at <=15% and +16,201 ac at 15-30%; the B/C SUP
+envelope is 25,503 / +2,325 ac. Military categories add 30,679 ac at <=15%
+(ag 7,980, urban fee 13,733, ESQD 8,736, Kahuku 230), of which the 7,080 ac
+of military D/E is already inside the D/E total (D/E is one all-tenure
+group). Durable non-ag sites are 5,908 / +1,380 ac; reservoirs 264 ac. The
+modeling subset is all D/E at <=15% (21,391 ac, all tenure) plus a
+quasi-random 3,535-ac draw of B/C parcels (98 parcels, <=15%-slope basis).
+Figure: `analysis/figs/paper/f_available_land.png`. Script:
 `analysis/available_land_map.py`. Selection file:
 `data/oahu_bc_10pct_selection.csv`.
 
+## Slope bands
+
+Every slope-filled group carries two disjoint bands from the 10 m band
+raster (`data/gis/dem/oahu_slope_bands.tif`): the base color for <=15% slope
+(bands 0-5, 5-10, 10-15) and a lighter tint for the 15-30% increment (bands
+15-20, 20-25, 25-30). Durable sites and reservoirs are point markers (no
+slope shading). D/E is a single all-tenure group — the modeling assumes all
+D/E is available, so its envelope and modeled subset coincide; military
+hatches overlay it, so military D/E reads as green + hatch. B/C is shown as
+the full SUP envelope (non-military) plus the modeled 10% draw.
+
 ## Category definitions
 
-All ag and military categories are filtered to <=15% slope on the 10 m band
-raster (`data/gis/dem/oahu_slope_bands.tif`). Layer-1 masks are mutually
-exclusive; the subtractions are listed after the table.
+The subtractions below keep military land, the Kahuku parcel, and the B/C
+envelope mutually exclusive; the all-tenure D/E group deliberately overlaps
+the military fills (drawn as fill + hatch). Both slope bands take the same
+subtractions.
 
 | category | definition | source layers |
 |---|---|---|
-| ag D/E | LSB class D/E in the State Ag district, non-military (fee footprint and Kahuku lease parcel removed). Permitted use, no cap, no SUP (HRS 205-2(d)(6)) | `data/gis/lsb_ag.parquet` |
-| ag B/C | LSB class B/C in the Ag district, non-military (same removals). 10%/20-ac cap; SUP above the cap (HRS 205-4.5(a)(20)-(21)) | `data/gis/lsb_ag.parquet` |
+| D/E ag (all tenure) | LSB class D/E in the State Ag district, ALL tenure (military and non-military). Permitted use, no cap, no SUP (HRS 205-2(d)(6)). This is both the envelope and the modeled subset. Military hatches overlay it | `data/gis/lsb_ag.parquet` |
+| B/C ag (SUP envelope) | LSB class B/C in the Ag district, non-military (fee footprint and Kahuku removed). 10%/20-ac cap; SUP above the cap (HRS 205-4.5(a)(20)-(21)) | `data/gis/lsb_ag.parquet` |
+| selected B/C | modeled 10%-of-B/C draw (see selection method), drawn on top of the envelope in the darker orange | derived |
 | military ag | DoD fee land inside the Ag district, ESQD footprint removed. Available only at DoD discretion via enhanced-use lease (10 USC 2667) | `data/gis/military/oahu_military_screen.parquet` x `data/gis/slud.parquet` |
 | military urban fee | DoD fee land inside the Urban district, ESQD footprint removed. The fee-x-Urban class of `notes/military-land-solar.md` sec. 5. EUL discretion | same |
 | military ESQD buffer | The four ordnance/ESQD constraint-tier installations (`viability_flag` in `data/oahu_military_land.csv`; `notes/military-land-solar.md` sec. 2): West Loch Annex, Lualualei, Kipapa Ammo Storage Site, Puuloa Range Training Facility. ESQD arcs restrict occupied structures; unoccupied PV can be compatible — Kupono (42 MW) sits on ESQD-restricted West Loch land | `data/gis/military/oahu_military_screen.parquet` |
@@ -49,93 +64,85 @@ Class A land is absent from the map: solar is banned there with no SUP path
 
 ## Acreage totals
 
-| category | acres |
-|---|---:|
-| Layer 1: ag D/E, <=15% slope | 14,247 |
-| Layer 1: ag B/C, <=15% slope | 25,503 |
-| Layer 1: military ag (DoD discretion), <=15% slope | 7,980 |
-| Layer 1: military urban fee (EUL discretion), <=15% slope | 13,733 |
-| Layer 1: military ESQD buffer (unoccupied-PV-compatible), <=15% slope | 8,736 |
-| Layer 1: Kahuku lease parcel (Army-retained 2025 ROD), <=15% slope | 230 |
-| Layer 1: durable non-ag sites, <=15% slope | 5,908 |
-| Layer 1: reservoirs (32 polygons, unscreened) | 264 |
-| Layer 2: all D/E, <=10% slope (all tenure) | 15,370 |
-| Layer 2:   of which military fee land | 5,435 |
-| Layer 2: selected B/C (118 parcels, <=10%-slope basis) | 3,778 |
+Two slope bands per group: base <=15% and the +15-30% increment (acres).
 
-Layer 2's modeled D/E is ALL ag D/E at <=10% slope, military and non-
-military (Mike, 2026-07-24): the modeling assumption is that every D/E
-acre is available, so tenure does not subset it. It is drawn as one green
-emphasis fill; the military hatches (ag, urban, ESQD) overlay it, so
-military D/E reads as green + hatch and private D/E as solid green. The
-15,370-ac total is 9,904 ac non-military (the earlier "civilian D/E
-<=10%") + 5,435 ac military fee D/E (all of it, ESQD tier included, since
-the "all D/E" set ignores the Layer-1 ESQD subtraction) + ~31 ac of
-Kahuku D/E. The military share is larger than the 1,604-ac Layer-1
-"military ag D/E" figure because that figure excluded the ESQD tier;
-Layer 2 does not. The B/C selection is unchanged (still drawn only from
-non-military parcels; see below).
+| category | <=15% | +15-30% |
+|---|---:|---:|
+| D/E ag, all tenure | 21,391 | 16,201 |
+|   of which military | 7,080 | 3,865 |
+| B/C ag (SUP envelope) | 25,503 | 2,325 |
+| military ag (DoD discretion) | 7,980 | 3,177 |
+| military urban fee (EUL discretion) | 13,733 | 892 |
+| military ESQD buffer (unoccupied-PV-compatible) | 8,736 | 1,730 |
+| Kahuku lease parcel (Army-retained 2025 ROD) | 230 | 161 |
+| durable non-ag sites | 5,908 | 1,380 |
+| reservoirs (32 polygons, unscreened) | 264 | — |
+| **modeled subset:** all D/E (= row 1) | 21,391 | 16,201 |
+| **modeled subset:** selected B/C (98 parcels) | 3,535 | 271 |
 
-## B/C selection method (Layer 2b)
+The modeled subset is all D/E (row 1, all tenure) plus the 98-parcel B/C
+draw. The military share of D/E (7,080 ac at <=15%) is counted once, inside
+the D/E total; the military ag/urban/ESQD rows are the same land shown by
+tenure and hatch, so the D/E and military rows overlap by that 7,080 ac and
+must not be summed. The selected-B/C 15-30% figure (271 ac) is context: the
+target counts only the parcels' <=15% B/C.
+
+## B/C selection method (modeled subset)
 
 The target is 10% of total Oahu B/C acreage: 3,437 of 34,370 ac
-(`data/cap_scenarios_by_parcel.csv`). The draw pool is smaller than the
-universe: parcels qualify by their B/C acreage on <=10% slope, computed as
-10 m raster cells with LSB class B/C, slope band 0-10%, outside the
-fee-military footprint. Only that portion counts toward the target. The pool is 22,405 ac
-across 1,980 parcels.
+(`data/cap_scenarios_by_parcel.csv`). Parcels qualify by their B/C acreage
+on <=15% slope (10 m raster cells with LSB class B/C, slope bands 0-15%,
+outside the fee-military footprint); only that <=15% portion counts toward
+the target. The pool is 25,207 ac across 2,031 parcels. The pool basis moved
+from <=10% to <=15% when the map dropped the <=10% threshold (2026-07-24);
+this re-drew the selection.
 
 Procedure (deterministic, seed/skip 42):
 
 1. Join ag-district parcels with B/C acreage to parcel geometry
    (`data/gis/parcels_oahu.parquet`, dissolved by TMK).
 2. Overlay a 2-km square grid on the parcel-centroid extent; assign each
-   parcel to a cell by centroid. 169 cells are occupied.
+   parcel to a cell by centroid. 172 cells are occupied.
 3. Place one Halton-sequence point (bases 2, 3; index = 42 + cell order) in
    each occupied cell. Order each cell's parcels by centroid distance to
    that point.
 4. Walk cells round-robin, taking the next-nearest unused parcel per cell,
-   accumulating each parcel's <=10%-slope B/C acreage, until the total
+   accumulating each parcel's <=15%-slope B/C acreage, until the total
    reaches the target. Stop.
 5. Record the selection: `data/oahu_bc_10pct_selection.csv` (tmk,
-   parcel_acres, bc_acres, bc10_acres, grid_cell, selection_rank).
+   parcel_acres, bc_acres, bc15_acres, grid_cell, selection_rank).
 
 One deviation from a sorted-order walk: cells are visited in a fixed
 pseudorandom permutation (numpy RandomState seed 42). The target is reached
-after 118 parcels drawn from 118 of the 169 cells, so a sorted west-to-east
-sweep would confine the selection to western Oahu. The permutation spreads
-the contributing cells island-wide, which is the stated purpose of the grid.
+after 98 parcels drawn from 98 of the 172 cells, so a sorted west-to-east
+sweep would concentrate the selection. The permutation spreads the
+contributing cells island-wide, the stated purpose of the grid.
 
-Result: 118 parcels, 3,778 ac on the <=10%-slope basis (8,488 ac of B/C at
-all slopes). The 341-ac overshoot is the final parcel crossing the target;
-the rule includes it. Median parcel contribution is 2.3 ac; the largest is
-622 ac (TMK 161006001).
+Result: 98 parcels, 3,535 ac on the <=15%-slope basis. The overshoot is the
+final parcel crossing the target; the rule includes it. Median parcel
+contribution is 2.0 ac; the largest is 478 ac (TMK 164003021). The draw has
+fewer parcels than the earlier <=10% draw (118 parcels, 3,778 ac) because
+<=15% parcels each carry more eligible B/C, so fewer are needed to reach the
+target; the selected parcel set changed.
 
-### Military land and the selection (verified 2026-07-24; selection unchanged)
+### Military land and the selection (verified 2026-07-24)
 
-The 2026-07-24 military categories change no input to the selection, and
-the regenerated `data/oahu_bc_10pct_selection.csv` is byte-identical to the
-committed file. The draw's treatment of military land, verified against the
-script:
-
-- The pool basis excludes fee-military cells: a parcel's `bc10_acres`
-  counts B/C cells at <=10% slope outside the fee footprint, and the map
-  fill uses the same mask. Six selected TMKs straddle the fee boundary
-  (177001001, 176001001, 192005026, 158002006, 191010015, 186003042); their
-  counted acreage and drawn fills contain no military cells.
+- The pool basis excludes fee-military cells: a parcel's `bc15_acres` counts
+  B/C cells at <=15% slope outside the fee footprint, and the map fill uses
+  the same mask.
 - The 2029 state-lease parcels were not masked (lease tenure). The Kahuku
-  parcel TMK 158002002 was therefore eligible, with 98.5 ac on the
-  <=10%-slope B/C basis, and was not drawn. Its selection probability under
-  a different `HALTON_SKIP` is nonzero; a rerun should mask lease parcels
-  too.
+  parcel TMK 158002002 was therefore eligible, with 166.4 ac of B/C on the
+  <=15%-slope basis, and was not drawn. The script asserts it is absent. A
+  rerun should mask lease parcels too.
 
 ## Reconciliation with published numbers
 
-- Ag D/E and B/C at <=15% slope INCLUDING the military footprint reproduce
-  `data/gis/oahu_lsb_by_slope.csv` exactly: D/E 21,391 ac, B/C 30,852 ac.
-  The map's fills show 14,247 and 25,503 ac because the military footprint
-  (7,081 D/E ac, 5,182 B/C ac) and the Kahuku lease parcel (64 D/E ac, 167
-  B/C ac) are drawn as their own categories.
+- Ag D/E and B/C INCLUDING the military footprint reproduce
+  `data/gis/oahu_lsb_by_slope.csv` exactly at both slope cuts: D/E 21,391 ac
+  (<=15%) and 37,592 ac (<=30%); B/C 30,852 ac (<=15%) and 33,833 ac
+  (<=30%). The D/E fill shows all 21,391 ac (all tenure); the B/C envelope
+  fill shows 25,503 ac because the military footprint (5,182 B/C ac) and the
+  Kahuku lease parcel (167 B/C ac) are drawn as their own categories.
 - Military fee x Ag at <=15% slope is 14,335 ac and fee x Urban is 16,045
   ac, matching `notes/military-land-solar.md` sec. 5 before the ESQD
   subtraction; the map splits them into ag 7,980 + urban 13,733 + the ESQD
