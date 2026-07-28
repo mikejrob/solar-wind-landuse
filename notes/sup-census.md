@@ -1,6 +1,8 @@
 # Census of Special Use Permits for Solar Energy Facilities in Hawaii, 2008–2026
 
 Compiled 2026-07-11. Data: `data/sup_census.csv`; documents: `data/raw/dockets/sp*/`.
+Quick citeable docket list with Decision & Order links: `docs/sup-receipts.md`.
+Note: the eight-docket count is STATEWIDE (Oʻahu 4, Kauaʻi 3, Maui 1), not Oʻahu.
 
 ## Method
 
