@@ -60,6 +60,30 @@ hearing 2026-08-19).
 
 All four approved unanimously with no intervenors. None pending.
 
+## Resource: every docket is solar
+
+All eight LUC dockets are utility-scale solar PV. This is a solar-specific
+census; wind, hydro, and other special permits are separate LUC matters and are
+not in this count. Six of the eight pair battery storage; the two without are
+the 2015 Oʻahu projects, permitted before storage was standard.
+
+| Docket | Island | Solar (MW) | Storage | Off-taker |
+|---|---|---|---|---|
+| SP15-405 | Oʻahu | 47 | none | HECO |
+| SP15-406 | Oʻahu | 50 | none | HECO |
+| SP15-407 | Kauaʻi | 13 ac | 13 MW / 52 MWh | KIUC |
+| SP17-408 | Kauaʻi | 28 | 20 MW / 100 MWh | KIUC |
+| SP21-411 | Oʻahu | 12.5 ac | 50 MWh | HECO |
+| SP21-412 | Oʻahu | 120 ac | 480 MWh | HECO |
+| SP26-416 | Kauaʻi | 43 ac | 172 MWh | KIUC |
+| SP26-417 | Maui | 40 ac | 160 MWh | MECO |
+
+The four Oʻahu dockets are all solar: two solar-only (2015), two solar-plus-
+storage (2021). Off-taker is HECO on all four Oʻahu dockets, KIUC on all three
+Kauaʻi, MECO on the one Maui. The land resource each sits on (why the SUP was
+needed) is class B/C ag soil above the 20-acre cap — soil class per docket is in
+`data/sup_census.csv` and `notes/sup-census.md`.
+
 ## Notes on the receipts
 
 - "Unanimous" reflects the recorded LUC vote; the sub-8 tallies are excused or
