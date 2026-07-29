@@ -1,0 +1,3584 @@
+DIVISION OF CONSUMER ADVOCACY
+Department of Commerce and
+Consumer Affairs
+335 Merchant Street, Room 326
+Honolulu, Hawaii 96813
+Telephone: (808) 586-2800
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF HAWAII
+In the Matter of the Transmittal of
+
+)
+)
+HAWAIIAN ELECTRIC COMPANY, INC.,
+) Transmittal No. 23-01
+HAWAII ELECTRIC LIGHT COMPANY, INC., ) (Spring Revenue Report)
+AND MAUI ELECTRIC COMPANY, LIMITED )
+) Effective Date: June 1, 2023
+For Approval to Modify the RBA Rate
+)
+Adjustments in the RBA Tariffs and Approval )
+of the Measured Performance and
+)
+Calculation of the PIM Financial Incentives )
+and Performance Incentive Adjustments.
+)
+
+DIVISION OF CONSUMER ADVOCACY’S
+STATEMENT OF POSITION
+Pursuant to the Hawaii Public Utilities Commission’s (“Commission”) Rules of
+Practice and Procedure, Hawaii Administrative Rules (“HAR”) § 16-601-61 and -62, and
+Decision and Order No. 37507 1 (“D&O 37507”) and other various Commission decisions,
+orders, and rulings relevant to the annual decoupling and related tariff transmittals, 2 the
+
+1
+
+Decision and Order No. 37507 was filed on December 23, 2020, in Docket No. 2018-0088.
+
+2
+
+The filings and review process represent a compilation of previous decisions and orders that have
+informed the current presentation and content of the instant transmittal. See, for example,
+Final Decision And Order And Dissenting Opinion of Leslie H. Kondo, Commissioner,
+Docket No. 2008-0274 (filed on Aug. 31, 2010) (“2008-0274 Decision and Order”); Decision and
+Order No. 31908, Docket No. 2013-0141 (filed on Feb. 7, 2014); Order No. 32735,
+
+Division of Consumer Advocacy (“Consumer Advocate”) offers these comments and
+recommendations for the Commission’s consideration based upon the review that the
+Consumer Advocate has been able to conduct of the Revenue Balance Account (“RBA”)
+rate
+
+adjustments
+
+proposed
+
+by
+
+the
+
+Hawaiian
+
+Electric
+
+Companies. 3
+
+The
+
+Consumer Advocate’s review considered the consolidated filing made by the
+Hawaiian Electric Companies including other adjustments that impact target revenues
+and the requested rewards related to performance incentive results.
+This is the second Spring Revenue Report that the Companies have filed since the
+Commission’s
+
+promulgation
+
+Docket No. 2018-0088.
+
+of
+
+Performance
+
+Based
+
+Regulation
+
+(“PBR”)
+
+in
+
+In the Companies’ 23-01 transmittal, the Companies have
+
+offered that the significant differences between the Fall (filed in Fall 2022) and Spring
+Revenue Reports (filed in Spring 2023) are as follows:
+HECO
+Fall 2022
+$140.0
+Spring 2023
+$142.5
+Difference
+$2.5
+($ in millions; including revenue taxes) 4
+
+HELCO
+$13.9
+$15.4
+$1.5
+
+MECO
+$19.6
+$20.7
+$1.1
+
+Docket No. 2013-0141 (filed on Mar. 31, 2015); Order No. 34514, Docket No. 2013-0141 (filed on
+Apr. 27, 2017); Decision and Order No. 37507 (Performance Based Regulation),
+Docket No. 2018--0088 (filed December 23,2020); Order No. 35488, Tariff Transmittal Nos. 18-01
+(Hawaiian Electric), 18-02 (Hawaii Electric Light), and 18-03 (Maui Electric) (Decoupling)
+(Consolidated) (filed on May 24, 2018); Order No. 36336, Tariff Transmittal Nos. 19-01 (Hawaiian
+Electric), 19-02 (Hawaii Electric Light), and 19-03 (Maui Electric) (Decoupling) (Consolidated) (filed
+on May 29, 2019), Order No. 37800, 2021 Decoupling Transmittal No. 21-05, as amended (filed on
+May 26, 2021); Order No. 38138 Transmittal No. 21-06 (Fall Revenue Report) (filed on December
+22, 2021); Order No. 38400, Transmittal No. 22-01 (Spring Revenue Report) (filed on
+May 25, 2022); and Order No. 38769, Transmittal 22-03 (Fall Revenue Report) (filed on
+December 16, 2022).
+3
+
+The Hawaiian Electric Companies refer to Hawaiian Electric Company, Inc. (“Hawaiian Electric” or
+“HECO”), Hawaii Electric Light Company, Inc. (“Hawaii Electric Light” or “HELCO”), and Maui
+Electric Company, Limited (“Maui Electric” or “MECO”). They may also be collectively referred to
+as “Companies”.
+
+4
+
+Tariff Transmittal No. 23-01, Table 1, on pages 15 – 16.
+
+Trans. No. 23-01
+
+2
+
+The Spring Revenue Report Incremental Changes (beyond the cumulative Annual
+Revenue Adjustment (“ARA”)) are summarized as follows:
+HECO
+
+HELCO
+
+MECO
+
+Earning Sharing Adjustment
+$0
+$0
+$0
+Performance
+Incentive
+$2,453,814 5
+$439,248 6
+$518,069
+Mechanism Adjustment
+MPIR/EPRM Adjustment
+$26,557,454 7
+$2,451,953 8
+$2,041,721
+9
+Affiliate Transaction Adjustment
+$(11,590)
+$0
+$0
+10
+11
+Pilot Process Cost Recovery
+$183,939
+$104,024
+$87,451
+PUC Ordered Adjustments
+$0
+$0
+$1,708,829
+Total Revenue Impact of Spring
+$29,183,617
+$2,995,225
+$4,356,070
+Report Changes
+Source: each company’s respective Schedule A, Spring Revenue Report
+If approved as presented by the Companies, the above adjustments will be
+recovered from customers using a new method – the percentage of bill method – that was
+requested by the Companies in Docket No. 2019-0323. 12 Based on this new method, the
+Companies project the following impacts:
+
+5
+
+This entire amount is added in the Spring Revenue Report, with $0 being initially reported in the
+2022 Fall Revenue Report.
+
+6
+
+This entire amount is added in the Spring Revenue Report, with $0 being initially reported in the
+2022 Fall Revenue Report.
+
+7
+
+$2,504,455 was added in the Spring Revenue Report, with $24,052,999 being initially reported in
+the 2022 Fall Revenue Report.
+
+8
+
+$1,364,789 was added in the Spring Revenue Report, with $1,087,164 being initially reported in
+the 2022 Fall Revenue Report.
+
+9
+
+This entire amount was initially reported in the 2022 Fall Revenue Report.
+
+10
+
+This entire amount is added in the Spring Revenue Report, with $0 being initially reported in the
+2022 Fall Revenue Report.
+
+11
+
+This entire amount is added in the Spring Revenue Report, with $0 being initially reported in the
+2022 Fall Revenue Report.
+
+12
+
+The Companies’ request to implement the percentage of bill charge to recover the RBA Adjustment
+was initially approved in Decision and Order No. 38680, filed on October 31, 2022, in
+Docket No. 2019-0323. The Companies later sought clarification on the implementation of the
+
+Trans. No. 23-01
+
+3
+
+(Estimated residential customer
+Incremental
+impact)
+Charge
+Hawaiian Electric
+$3.11
+Hawaii Electric Light
+$1.27
+Maui Electric
+Maui
+$0.33
+Lanai
+$0.77
+Molokai
+$1.65
+Source: Table 2 and each company’s respective Schedule A
+Consistent with past decoupling and ARA filings, the Consumer Advocate sought
+to conduct its review in the limited time to verify calculations but also review the proposed
+RBA adjustment for reasonableness, including whether some of the components might
+include certain elements that may require adjustment. The following discussion offers the
+Consumer Advocate’s comments and recommendations related to several items,
+including the new billing determinant and a review of various PIMs. As with Statements
+of Position filed in response to tariff transmittals filed previously, the Consumer Advocate
+will provide observations, comments, and recommendations that the Consumer Advocate
+offers for the Commission’s consideration regarding the Companies’ proposed tariffs and
+rates. Given the limited available period of review, the Consumer Advocate sought to
+address what it could in that limited window and to validate what was possible.
+
+I.
+
+BACKGROUND.
+The Spring Revenue Report is the cumulative result of various proceedings
+
+supportive of Hawaii’s transition to clean energy and the need for the regulatory process
+to evolve with Hawaii’s energy industry. This evolution included the implementation of
+
+percentage of bill method to delay implementation until June 1, 2023, which the Commission
+granted in its Order No. 38750, filed on December 8, 2022, in Docket No. 2019-0323.
+
+Trans. No. 23-01
+
+4
+
+decoupling in Docket No. 2008-0274, a redesign of the decoupling process in Docket No.
+2013-0141, a further redesign of the decoupling process as part of the development of
+the PBR Framework in Docket No. 2018-0088 as well as the adoption of Performance
+Incentive Mechanisms (“PIM”) and the Exceptional Project Recovery Mechanism
+(“EPRM”) in that proceeding. Much of the history and background of the Spring Revenue
+Report has been discussed in past Consumer Advocate Statements of Position on the
+annual decoupling filings (now the Spring Revenue Reports), in the Companies’ tariff
+transmittals, and various Commission decisions and orders. Thus, a detailed discussion
+of that background will not be repeated here.
+
+II.
+
+DISCUSSION.
+The Spring Report is meant to be a coordinated filing with the Fall Revenue Report
+
+filed
+
+in
+
+October
+
+of
+
+the
+
+previous
+
+year;
+
+in
+
+this
+
+instance,
+
+the
+
+Companies’
+
+Transmittal No. 22--03 was the Fall Revenue Report, which had a revised filing on
+November 7, 2022. This Spring Report provides certain updates, such as estimated PIM
+rewards or penalties, all of which are part of the Annual Rate Adjustment (“ARA”) portion
+of the PBR Framework.
+
+The following are the Consumer Advocate’s observations,
+
+comments, and recommendations on the elements in the Spring Revenue Report and it
+should be understood that silence on any item does not mean agreement with that
+particular item.
+
+Trans. No. 23-01
+
+5
+
+A.
+
+CHANGING THE BILLING DETERMINANT.
+
+As noted above, the Spring Revenue Report reflects the recovery of the
+accumulated RBA Adjustment based on a billing determinant of the estimated percentage
+of bill rather than the prior method, which recovered the accumulated RBA Adjustment by
+dividing the adjustment by the estimated kWh. As discussed in greater detail in the
+Commission’s Decision and Order No. 38680, filed on October 31, 2022, in
+Docket No. 2018-0088 (“D&O 38680”), this new billing determinant was adopted to
+address concerns that continuing to use kWh as the billing determinant to recover the
+RBA Adjustment could perpetuate and exacerbate concerns with certain customers being
+able to bypass or avoid having to contribute (or receive in the instance of the RBA
+Adjustment returning funds to customers) to the amount to be recovered from customers.
+While different proposals were offered, the Companies offered its percentage of base bill
+basis, which the Commission adopted in D&O 38680. 13 Further, the Commission agreed
+with the Companies’ proposal that this method should be applied to all customers and not
+just the customers placed on TOU rates. 14 As noted by the Commission, the adoption of
+the percentage of bill method was meant to address the bypass issues 15 and also to
+address concerns with inter-class revenue allocations. 16
+
+13
+
+The Companies sought and received clarification that the implementation of the percentage of bill
+method could be delayed to June 1, 2023, in the Commission’s Order No. 38750, filed on
+December 8, 2022, in Docket No. 2019-0323.
+
+14
+
+D&O 38680, at 92 – 93.
+
+15
+
+D&O 38680, at 93.
+
+16
+
+D&O 38680, at 86.
+
+Trans. No. 23-01
+
+6
+
+As presented by the Companies in Table 2 of Transmittal No. 23-01, there is a
+comparison of the bill impact from the Fall Revenue Report, the impact of which was
+effective as of January 1, 2023, and the estimated bill impact from the Spring Revenue
+Report, the impact of which would be effective as of June 1, 2023. As presented in the
+Companies’ Table 2, if the Spring Revenue Report is adopted as filed, the incremental
+change would be as follows:
+Monthly Bill Impact
+Eff. June 1, 2023
+(proposed)
+Eff. January 1, 2023
+(current)
+Incremental Change
+
+HECO
+
+HELCO
+
+MECO
+Lanai
+$8.39
+
+Molokai
+$9.27
+
+$14.23
+
+$7.77
+
+Maui
+$9.85
+
+$11.12
+
+$6.50
+
+$9.52
+
+$7.62
+
+$7.62
+
+$3.11
+
+$1.27
+
+$0.33
+
+$0.77
+
+$1.65
+
+The information in this table was a discussion point in the Companies’ Spring Revenue
+Report presentation on April 11, 2023, where questions were asked whether the change
+in the billing determinant might have been the driver for the incremental change between
+the Fall and Spring Revenue Reports. The Consumer Advocate believes that it would be
+more illustrative to compare the determination of both the Fall and Spring Revenue Report
+RBA Adjustment using both kWh and percentage of bill as the determinants to better
+evaluate the impact of using the percentage of bill method. As a result, the Companies
+provided additional information in response to Informal CA-IR-17. In that response, the
+Companies assert that using the percent of bill method would result in a higher bill for
+residential customers on all islands, except for Maui, for both the 2022 Fall Report and
+2023 Spring Report.
+The Companies’ response appears to support the need for further analysis to
+better understand the impact of the change in the method as well as whether there should
+Trans. No. 23-01
+
+7
+
+be modifications to the new method. For instance, the Companies’ response highlights
+one of the topics that was discussed in the April 11, 2023 meeting, wherein the question
+was posed regarding whether using the target test year revenues from a rate proceeding
+that was developed years ago might result in a higher percentage adjustment factor as
+compared to using recent historical billed revenues. As noted in a comparison between
+the cumulative revenues reflected on each company’s respective B2 to the target
+revenues shown on each company’s respective B1, there are variances between the test
+year target revenues and the recorded revenues and it is not unreasonable to expect any
+such variance will increase in future years as the time (and revenues) collected will tend
+to increase beyond the target revenue set in the past. Using the target revenues as the
+basis for the divisor is likely to create an inherent bias towards having a larger percentage
+adjustment factor, whether it is to collect or return money, since the divisor will likely be
+smaller if target revenues are used.
+
+The Consumer Advocate offers the following
+
+thoughts. The Companies’ response to informal CA-IR-17c.1. states that it “is difficult to
+assess which of these two RBA Divisor calculation methodologies (using the test year
+revenues and forecasted surcharges versus using historical billed revenues) would
+minimize the difference between what the Companies collect and target revenue and
+thereby result in a lower RBA balance.” The Consumer Advocate offers that based on
+Attachment 2, using recent recorded billed revenues instead of the test year target
+revenues resulted in a lower bill impact in every instance, which is to be expected since
+recent billed
+
+revenues
+
+are greater than
+
+the
+
+target
+
+revenues.
+
+Thus, the
+
+Consumer Advocate offers, barring other evidence that suggests otherwise, allowing the
+test year target revenues to be used as the basis for the RBA divisor will lead to
+
+Trans. No. 23-01
+
+8
+
+increasingly greater variances between what is collected and what should be collected,
+and the Commission should strongly consider using recent, historical billed revenues as
+the basis for the RBA divisor. It is likely that the Companies will offer that a true-up will
+occur under either method but the Consumer Advocate offers that it is in the best interest
+of customers to minimize early over-collection from customers even if the money will be
+returned later. Minimizing such over-collection provides value to the customers in terms
+of not losing the time value of money.
+Furthermore, the Consumer Advocate offers that the adoption of the percentage
+of bill method will partially address concerns with subsidies, which was recognized in
+D&O 38680.
+
+That is, using the legacy kWh approach, the RBA Adjustment was
+
+recovered (or returned) across all kWh sales regardless of where the revenue undercollection or over-collection occurred. Thus, the likelihood of cross-class subsidies was
+much greater where, for example, if there were revenue shortfalls from the commercial
+and industrial classes during COVID, all other things being held equal, those revenue
+shortfalls would be recovered through all kWh, including kWh sales to residential
+customers. Another example would be that for any revenue shortfalls due to distributed
+energy resource (“DER”) systems offsetting customers use, all other things being held
+equal, those revenue shortfalls would be recovered through all kWh, including kWh sales
+to non-participating customers across all classes; thus, since the majority of DER systems
+are in the residential customer class, any RBA Adjustment would have been recovered
+from all kWh, including from non-participants as well as across all customer classes but
+DER participants may not contribute as much to the recovery due to their system reducing
+the kWh for participating customers. Thus, the new method should at least partially
+
+Trans. No. 23-01
+
+9
+
+address concerns with both inter-class and intra-class subsidies and reduce the
+possibility of bypassing the RBA. However, it should be clear that the new method will
+mitigate cross-class subsidies due to the bypass opportunities being decreased but the
+new method will not address all concerns with cross-class subsidies.
+As the results of the comparison show, the adoption of the percentage of bill
+method appears to be resulting in reallocating a portion of the amount to be recovered,
+which may be partially addressing past inter-class or cross-class subsidies.
+
+The
+
+Consumer Advocate offers, however, further evaluation of the need for additional
+modifications to the percentage of bill method may be necessary to further mitigate interclass or cross-class subsidies as well as to evaluate the impact of intra-class subsidies
+(e.g., non-participants, especially vulnerable, fixed income, or LMI, customers bearing a
+disproportionate share of any RBA Adjustment collection). Thus, the Consumer Advocate
+stresses the importance of evaluating and assessing the impact of this and other rate
+design changes, such as those anticipated in the ARD time of use rollout and the potential
+impacts on customers.
+The new method could, however, lead to a likelihood of greater variances between
+the RBA revenue adjustment to be collected and the revenues actually collected through
+the RBA surcharge. There have always been variances between an individual customer’s
+bill and the average bill for that customer class and the average bills between classes
+have also varied. Furthermore, those variances have likely increased over time due to
+the changes in customers within the class. Since the new method uses cumulative
+adjusted revenues as the divisor to determine the adjustment factor, this may also result
+in subsidies.
+
+That is, the legacy method, which relied on kWh, would favor those
+
+Trans. No. 23-01
+
+10
+
+customers who was able to reduce their kWh through DERs, energy efficiency, or
+changes in customer behavior when there was a revenue shortfall since they would pay
+less towards that shortfall. The new method mitigates the bypass that could occur but
+might expose residential customers since the commercial and industrial customers have
+historically generated more revenues and variances in those revenues would have likely
+have a greater impact on the RBA divisor and resulting RBA percentage that will be used.
+For that reason, the Consumer Advocate has offered in Docket No. 2019-0323, and offers
+again in this forum, that it is likely necessary to analyze revenue shortfalls and overcollections by class in the future to evaluate whether the inter-class subsidies are
+significant to warrant urgent actions.
+In addition, the Consumer Advocate offers that customer outreach to provide
+information to customers about the pending change and the potential impacts on their
+bills should be made available as soon as possible, especially since the requested
+June 1 effective date is rapidly approaching.
+
+Given the change, there are certain
+
+customers who will likely see a relative increase in their bills because they may have
+contributed nothing to very little towards RBA charges due to no or low net kWh historical
+usage and the Companies recognize that there are customers who have not previously
+received an RBA rate adjustment charge in the past in their response to informal
+CA--IR--15. The Companies’ outreach plan appears to consist of “preparing talking points
+on the revised RBA adjustment to provide their customer call center in advance of
+June 1, 2023…” Recognizing that there is not much time before June 1, 2023, the
+Consumer Advocate still offers that there should have been more effort and efforts that
+can still be taken by the Companies to develop and offer customer outreach information
+
+Trans. No. 23-01
+
+11
+
+in advance of the effective date so that customers could have received at least some
+basic information prior to the June 1, 2023 effective date to prepare for the possibility of
+higher electric bills.
+Thus, as it relates to the new billing method, the Consumer Advocate
+recommends:
+-
+
+The Companies should use recent billed revenues as the basis for the RBA
+divisor instead of the test year target revenues.
+
+-
+
+The Commission should require additional analysis to evaluate the revenue
+shortfall or overcollection by customer class to support an informed decision
+whether additional urgent actions may be required to mitigate interclass
+subsidies that the new billing method may exacerbate.
+
+-
+
+Even though it might be too late to provide greater warning of the impending
+change in the billing method for collecting the RBA adjustment, the
+Companies should inform the Commission and Consumer Advocate if there
+is a significant number of calls and/or complaints related to the change so
+that a future decision could be made whether additional measures might be
+reasonable.
+
+B.
+
+PIMS
+
+In its review of the Companies’ filing in the allowed time, the Consumer Advocate
+attempted to verify the supporting details of the reported performance to verify whether
+the reported rewards and penalty were warranted as well as whether there were any other
+rewards or penalties that should have been reflected.
+
+Trans. No. 23-01
+
+12
+
+The rewards and penalty that the Companies are claiming are presented in Table 3
+of Transmittal 23-01, where the Companies are reporting that the cumulative net rewards
+are $2,453,814, $439,248, and $518,069 for Hawaiian Electric, Hawaii Electric Light, and
+Maui Electric, respectively. 17 These cumulative amounts are comprised of rewards or
+penalties associated with grid services, interconnection approval, LMI energy efficiency,
+and normalized T&D SAIDI performance results.
+
+1.
+
+Interconnection Approval
+
+The interconnection approval PIM was adopted by the Commission in
+D&O 37507 18 and further refined by Decision and Order No. 37787. 19
+
+The
+
+implementation of this PIM provided a reward to the Companies in last year’s Spring
+Revenue Report in the total amount of $2,775,000 for all three companies, where
+Hawaiian Electric received $2.1 million, Hawaii Electric Light received $225,000, and
+Maui Electric received $450,000. The Companies’ reported net results for this year
+suggest that the maximum award should be allowed, where the Companies are reporting
+that the overall time to interconnect for the year ended 2022 was 16.81 days for
+Hawaiian Electric, 11.42 days for Hawaii Electric Light, and 10.08 days for Maui Electric.
+This is an improvement over last years’ results for all three companies, where the
+Companies reported 18.22 days for Hawaiian Electric, 21.27 days for Hawaii Electric
+
+17
+
+See each company’s respective schedule A and/or schedule E.
+
+18
+
+D&O 37507, at 95 – 106.
+
+19
+
+Decision and Order No. 37787, filed on May 17, 2021 (“D&O 37787”), in Docket No. 2018-0088, at
+7 – 21.
+
+Trans. No. 23-01
+
+13
+
+Light, and 19.94 days for Maui Electric. For this year’s filing, the Companies provided
+supporting information beyond the running monthly total provided as WP-E5-001 in
+Transmittal No. 23-01 and WP-E-005 in Transmittal No. 22-01. The information provided
+in the Interconnection Approval PIM datafile provides greater insight into how the
+Companies are calculating the running monthly totals that are reported.
+
+a.
+
+Potential issue in the logic of the calculations
+
+In D&O 37787, the proposed and adopted metrics for the interconnection process
+is presented on page 14. For the Early Energization process, the following parameters
+apply:
+Early
+Energization
+
+Step
+Completeness Review (CR)
+
+Parameter
+Start: Last Application submittal date
+End: Meter installation date
+Initial Technical Review (ITR)
+Start: Application entered ITR date
+End: ITR completed date
+Supplemental Review (SR)
+Start: Application entered SR date
+(if applicable) (included only if End: SR Completed Date
+started
+before
+meter
+replacement)
+Conditional approval
+Validation
+Start: Last Validation date
+(included if started before meter End: Validation Completed Date
+replacement)
+(DocuSign sent)
+Meter Replacement
+Start: Meter notification created date
+(Point of energization)
+End: Meter installation Date
+
+In the limited time available, the Consumer Advocate was not able to review all of
+the entries and, thus, selected a project for each type of customer group (i.e., quick
+connect, energy energization, traditional interconnection). In that very limited sample, the
+Consumer Advocate found issues that warranted further investigation.
+
+Trans. No. 23-01
+
+14
+
+i. The Companies’ reported durations may need to be
+recalculated.
+The project selected for the early energization was project H-GSP-21-32239. For
+that project, the relevant data is as follows:
+Early
+Energization
+
+Step
+Completeness Review (CR)
+
+Parameter
+Start: 4/20/2021
+End: 5/6/2021
+Initial Technical Review (ITR)
+Start: 5/6/2021
+End: 5/27/2021
+Supplemental Review (SR)
+Start: 5/27/2021
+(if applicable) (included only if End: 6/21/2021
+started
+before
+meter
+replacement)
+Conditional approval
+Validation
+Start: 12/16/2021
+(included if started before meter End: 12/20/2021
+replacement)
+(DocuSign sent)
+Meter Replacement
+Start: 12/22/2022
+(Point of energization)
+End: 1/4/2022
+
+Based on the identified dates, the intervals for each of the steps appear to be:
+CR – 16 days; ITR – 21 days; SR – 25; validation – 4 days; and meter replacement –
+13 days (total 79 days). The claimed interval for this project is 42 days and the calculation
+of the 42 days is offered in the response to Informal CA-IR-14, where the Companies
+clarified that the calculation does not include weekend days and did not include the meter
+change duration since it overlapped the ITR process. In addition, the Companies only
+included only the steps for CR, ITR, and SR. In recalculating the intervals to exclude
+weekends, the Consumer Advocate’s results are CR – 13, ITR – 16, and SR – 18 (total
+47 days) instead of the Companies’ results of CR – 12, ITR – 15, and SR – 15 (total 42
+days). In addition, it is not clear why the Companies did not include the validation and
+meter activation steps since, as described in D&O 37787, validation is included if started
+Trans. No. 23-01
+
+15
+
+before meter replacement and, while the Companies claim that the meter replacement
+should be excluded if there is an overlap with the ITR, the dates for meter replacement
+for the selected project appear to be well after the ITR and there is no overlap. Thus, if
+those additional steps are included and weekends are excluded, the total would appear
+to be 60 days (CR – 13; ITR – 16; SR – 18; validation – 3; meter replacement 10).
+Based on this result, this suggests that the results in the supporting datafile and
+each company’s respective WP-E5-001 should be recalculated to verify the Companies’
+reported intervals are consistent with the Commission’s approved metrics since the
+Companies’ calculations do not appear to be consistent with the identified dates even
+excluding weekends. In addition, the exclusion of certain steps from the total interval do
+not appear to be consistent with the approved parameters.
+
+As noted earlier, the
+
+Consumer Advocate was unable to increase the sample size of this test in the limited time
+available. However, based on the above, the Consumer Advocate offers that further
+action is required. Assuming that the Commission agrees that further action is required,
+the Consumer Advocate offers that there are options that could be adopted until the
+intervals are verified. First, the Commission could disallow the entire requested PIM
+reward until the intervals are verified and, after a verification process, the verified reward
+amounts could be allowed at a later time. Another option is that the Commission could
+allow the claimed PIM rewards and, after the verification process, require a true-up to the
+verified amounts at a later time. Another option is that the sample results could be
+extrapolated to adjust the requested PIM rewards to be allowed at this time and, after the
+verification process, a true-up to the verified amounts at a later time would occur. The
+Consumer Advocate believes that, given that many customers are still struggling with the
+
+Trans. No. 23-01
+
+16
+
+economic impacts of COVID-19, inflation, etc., the Commission should choose an option
+that reduces the risk of the customers having to pay more even if the over-collected would
+be returned at a later time.
+
+ii. The steps included in the calculated interval
+should be verified.
+As noted above, the Companies’ calculation for the selected project excluded both
+the validation and the meter steps from the final count. Based on the Commission’s
+adoption of the Companies’ proposed PIM metric, it is not evident why those steps were
+excluded. Assuming that those steps were improperly excluded, further action would be
+required to review whether other projects also have excluded steps that should be
+included in the final results.
+Similar to the suggested alternatives to address the issue of whether the intervals
+are properly calculated, the Commission could disallow the entire amount, allow the entire
+amount, or allow an adjusted amount that is based on an extrapolation of the sample to
+the entire population all until the verification process is completed. Similar to the
+recommendation above, the Consumer Advocate offers that the Commission should
+consider how customers are being asked to bear more risks and costs associated with
+various amendments to phase I and II renewable energy projects, the high oil prices that
+were causing significant electricity bills and find that customers should not be asked to
+bear higher costs.
+
+Trans. No. 23-01
+
+17
+
+iii.
+
+Being potentially rewarded twice for the same
+activity.
+
+During the review of the supporting details, the Consumer Advocate noted that
+there were instances of where the Companies are claiming a zero interval for quick
+connect because the meters were already installed. As confirmed in the response to
+Informal CA-IR-13.b., of the 1,767 quick connect projects, 490 of those projects had a
+zero interval because of the advanced meter infrastructure (“AMI“) initiative that is the
+subject of Docket No. 2018-0141. That is, 490 customers that had already received a
+new AMI meter chose to participate in the quick connect program and the Companies
+reported an interval of zero.
+The Consumer Advocate notes that there is an existing PIM that is encouraging
+the Companies to install AMI and it appears that the impacts of the AMI program may be
+also supporting a claimed incentive award for the interconnection program as well. As
+discussed in Docket No. 2018-0088, the Consume Advocate has raised questions about
+having different incentives rewarding the same activity and how such a practice could
+result in customers paying higher bills as well as create confusion and challenges about
+measuring the efficacy of the individual PIMs.
+
+The Consumer Advocate is not
+
+recommending an adjustment or to modify the PIM at this time. This is, however, an issue
+that should be revisited when evaluating the PIMs in the future. 20
+
+20
+
+The Quick Connect Program was extended beyond 2021 into 2022 but it is the
+Consumer Advocate’s understanding that the Quick Connect Program was discontinued effective
+October 14, 2022. https://www.hawaiianelectric.com/products-and-services/customer-renewableprograms/rooftop-solar/especially-for-contractors/emails-to-contractors That being said, reviewing
+whether the intervals for traditional or early energization projects might have been impacted by the
+installation incentivized by the AMI PIM may be appropriate.
+
+Trans. No. 23-01
+
+18
+
+2.
+
+Low to Moderate Income Energy Efficiency
+
+In an effort to address the PBR outcomes of customer engagement, customer
+equity, and affordability, the Commission sought to develop a PIM to encourage energy
+efficiency (“EE”) for Low-to-Moderate (“LMI”) customers. This PIM was not meant to
+encourage the HECO Companies to offer their own EE programs but to encourage
+collaboration with the Public Benefits Fund (“PBF”) Administrator, which is branded as
+Hawaii Energy, and Leidos Engineering is the current vendor selected as the PBF
+Administrator. 21 In D&O 37507, the Commission directed the PBR working group to work
+on the metrics and targets for this PIM. In D&O 37787, the Commission set forth the
+targets for the metrics, which rely on verified kW and kWh savings. 22
+In the 2022 Fall Report, the Companies sought to recover a total of $432,000
+($302,000 for Hawaiian Electric, $65,000 for Hawaii Electric Light, and $65,000 for Maui
+Electric) in rewards for the LMI EE PIM. The Companies did not, however, rely on verified
+kWh and kW information as that information had not yet been released. In response to
+the Consumer Advocate questioning the Hawaiian Electric Companies’ efforts to recover
+this reward in the Fall Revenue Report, the Commission denied recovery of the LMI EE
+
+21
+
+D&O 37507, at 123.
+
+22
+
+D&O 37787, at 21 – 47.
+
+Trans. No. 23-01
+
+19
+
+reward but left open the possibility of the Companies re-submitting its request after a
+subsequent biannual review filing for consideration. 23
+In March 2023, 2050 Partners, Inc., the energy efficiency manager (“EEM”) for the
+PBF program, submitted its “Low-to-Moderate Income Energy Efficiency Performance
+Incentive Mechanism Awards (Informational Filing in PUC Docket No. 2007-0323”
+(“EEM Filing”)). In the EEM Filing, the EEM provided its assessment and verified results,
+including the estimated PIM rewards based on the verified results.
+As a result, the Hawaiian Electric Companies are now seeking total awards of
+$453,792 in the Spring Revenue Report. Putting aside the questions and concerns raised
+by the Consumer Advocate in Docket No. 2018-0088 regarding a PIM reward that
+evaluates the performance of Hawaii Energy as opposed to a direct measurement of the
+Hawaiian Electric Companies’ performance, the Consumer Advocate relied on the
+information provided in the EEM Filing to verify that the Companies’ request to recover
+$453,792 ($317,654 for Hawaiian Electric, $68,069 for Hawaii Electric Light, and $68,069
+for Maui Electric) is supported by the EEM Filing. The Consumer Advocate does not have
+any recommended adjustments on this PIM.
+
+3.
+
+Other PIMs
+
+For all of the other PIMs that have been authorized to date, the
+Consumer Advocate does not have any recommended adjustments. To be clear, the
+Consumer Advocate reserves its rights to address concerns raised in past flings regarding
+PIMs, such as the validity of rewarding the Companies for another parties’ performance
+
+23
+
+D&O 38769, at 11 – 14.
+
+Trans. No. 23-01
+
+20
+
+such as in the LMI EE PIM or that the manner in which the RPS-A is calculated still allows
+certain forms of fossil fuel generation (i.e., station use), but pursuant to the Commission’s
+past guidance, the Consumer Advocate will pursue those issues in future filings rather
+than discuss them in detail and recommend modifications in this filing.
+
+C.
+
+OTHER REVENUES, IN GENERAL.
+
+As part of the ARA reconciliation process, the Consumer Advocate offers that
+evaluation of other operating revenues to verify that the Companies are properly
+identifying relevant sources of revenues that could – and should – be used to offset costs
+that might otherwise be recovered from customers through the RBA surcharge. This is
+highlighted in the determination of the earnings calculations, which includes total
+operating revenues, which includes other operating revenues, as the numerator of that
+earnings sharing calculation.
+
+It is important to ensure that the Companies have
+
+appropriately identified and recorded all other operating revenues to ensure that
+customers receive the benefit of such revenues in the determination of any annual
+RBA adjustment.
+The importance of such an adjustment was highlighted by the Commission’s
+discussion in Order No. 37800, filed on May 26, 2021, related to Transmittal Nos. 21-05
+and 21-02 (Hawaiian Electric), Transmittal No. 21-03 (Hawaii Electric Light), and
+Transmittal No. 21-04 (Maui Electric) (“Order No. 37800”) of the issues related to joint
+pole earnings deficiencies stemming from the transaction approved in Decision and
+
+Trans. No. 23-01
+
+21
+
+Order No. 35768, filed on October 16, 2018, in Docket No. 2018-0075 (“D&O 35768”). In
+Order No. 37800, the Commission offered,
+Outside the context of a general rate case, most matters that come before
+the Commission do not hinge on whether the Companies’ revenues from
+joint pole services are sufficient to cover expenses. The determination of
+the ESM by the methods utilized in the Companies’ Schedule D
+calculations, however, is one matter that is, in fact, directly affected by the
+Companies’ joint pole revenue and operations…The Commission agrees
+with the Consumer Advocate’s contention that:
+earnings used for sharing calculation purposes should now
+and prospectively be adjusted to the extent that reported joint
+pole net losses produce any material impact on any ESM
+results, in order to ensure more accurate ESM administration
+while preventing ratepayer subsidization of joint pole
+operations.
+The Companies’ Transmittals should therefore explicitly take into
+consideration the effects of any joint pole operation net revenue shortfalls
+in the calculation of the ESM. 24
+The Consumer Advocate is raising this discussion because of the potential impacts
+that may arise from the contract that Hawaiian Electric entered into regarding the
+US Army – Oahu electric distribution systems privatization that was approved by the
+Commission in Decision and Order No. 37413, filed on October 30, 2020, in
+Docket No. 2019-0349 (“D&O 37413”). In that proceeding, Hawaiian Electric entered into
+an agreement to take over the ownership, operation, and maintenance of the US Army’s
+electric distribution system on Oahu and, as part of the justification of that proposed
+transaction, the Companies asserted – similar to the assertions in Docket No. 2018-0075
+regarding positive impacts from the proposed transaction and that regulated customers
+would not be required to subsidize costs related to the subject transaction of 2018-0075
+
+24
+
+Order No. 37800, at 42 – 43.
+
+Trans. No. 23-01
+
+22
+
+– that the contract with the US Army would provide benefits without adverse impacts on
+overall system reliability or the electric rates paid by other customers. 25
+The Consumer Advocate offers that, similar to the situation related to the joint pole
+transfer approved in D&O 35768, consumers need to be protected against situations
+where the contract with the Army may result in a net negative income or otherwise result
+in customers having to subsidize Hawaiian Electric’s ownership, operation, and
+maintenance of the US Army’s distribution system. A specific start date of the contact was
+not offered in Docket No. 2019-0349 but Hawaiian Electric offered that the start date was
+expected to occur in late 2021 or early 2022. 26 To date, Hawaiian Electric has not yet
+filed the required annual plan in Docket No. 2019-0349, which would, among many things,
+allow the Commission and the Consumer Advocate to confirm that general ratepayers
+are not paying for any plant investments or expenses related to the ownership, operation,
+and maintenance of the US Army distribution system. The Consumer Advocate notes,
+however, that in Hawaiian Electric’s December 2022 monthly financial report filed with the
+Commission, Hawaiian Electric reflected a $424,000 deduction to operating income
+related to interest on long-term payable to Army on page 3 of that monthly filing. This
+$424,000 adjustment reduced the operating income for earning sharing calculation on
+Schedule D. The Consumer Advocate notes that, in the response to Informal CA-IR-9,
+the Companies’ asserted that
+The Commission did not include a provision in Decision and
+Order No. 37413 that required the Company to make ratemaking
+adjustments related to the Army Privatization contract. Therefore, no
+25
+
+Application, filed in Docket No. 2019-0349, at 2 – 3.
+
+26
+
+See, e.g., Application, filed in Docket No. 2019-0349, at 16.
+
+Trans. No. 23-01
+
+23
+
+adjustments were made to any of the exhibits, schedules, or workpapers in
+Transmittal No. 23-01 related to the Army Privatization contract.
+As already noted, the annual plan that Hawaiian Electric is supposed to file in
+Docket No. 2019-0349 has not yet been filed. However, given the assertion that the
+contract start was expected to begin in late 2021 or early 2022 and the adjustment in the
+December 2022 monthly financial statement for an interest payment related to a
+long--term payable to the US Army, it appears that the possible financial impacts of the
+approved contact in Docket No. 2019-0349 have begun.
+The Consumer Advocate acknowledges that the $424,000 reduction to operating
+income will not affect the outcome of this year’s ESM calculation. The question is,
+however, whether there may be other financial impacts not yet identified for 2022 results
+or future results that should be identified for consideration in ESM calculations now or in
+the future. Furthermore, the Consumer Advocate is concerned with the Companies’
+response to Informal CA-IR-9 since it seems to suggest that it will not rely on the
+Commission’s requirement set forth in Order No. 37800 regarding the need to make
+adjustments, if necessary, so that the ESM does not improperly ignore the impacts of the
+joint pole agreement. The Consumer Advocate also notes that the Commission Decision
+and Order No. 39180, filed on April 24, 2023, in Docket No. 2021-0186 is also consistent
+with the need to consider the impact of other operating revenues and income in the
+determination of the earning sharing mechanism. 27 In this case, given the assertions by
+Hawaiian Electric regarding the contract with the US Army that there would be no adverse
+impacts on system reliability or on customer rates, the Companies’ position appears to
+
+27
+
+Decision and Order No. 39180, at 25 – 27.
+
+Trans. No. 23-01
+
+24
+
+be inconsistent with prior Commission guidance. If not addressed, this could result in a
+situation where, contrary to Hawaiian Electric’s assertions, the contract with the US Army
+could adversely affect general ratepayers in the future.
+Thus, the Consumer Advocate urges the Commission to provide clear guidance to
+the Companies regarding the need to reflect the appropriate adjustments when
+developing future filings regarding the net impacts of the contract with the US Army
+(as well as any net joint pole costs/revenues) so that general ratepayers are not adversely
+harmed. 28 Finally, the Consumer Advocate makes clear that, upon Hawaiian Electric filing
+the required annual plans in Docket No. 2019-0349, if it appears that the net effect of the
+contract with the US Army is that the reported operating income should have been higher,
+the Consumer Advocate offers that additional thought may be needed regarding how to
+treat the inability to consider the 2022 results related to the US Army contract in the instant
+tariff transmittal, which is analyzing 2022 results. Since the annual plan related to 2022
+operations of the Army’s operations will not be filed until June 2023 in Docket No. 20190349, there appears to be a potential timing issue that may need to be addressed.
+
+III.
+
+RECOMMENDATION.
+As noted above, the Consumer Advocate attempted to review and analyze the
+
+2023 Spring Revenue Report in the limited time available. Based upon that review and
+the above discussion, the Consumer Advocate respectfully requests that the Commission
+consider the recommendations to certain Spring Revenue Report elements. Recognizing
+
+28
+
+To be clear, the Consumer Advocate is not recommending that the $424,000 adjustment be made
+to recalculate Schedule D for Hawaiian Electric at this time. While the adjustment should be made,
+the impact of the adjustment would not result in an earning sharing credit at this time.
+
+Trans. No. 23-01
+
+25
+
+the Commission’s past statements that the review of the Fall and Spring revenue reports
+should be largely ministerial, the Consumer Advocate urges the Commission to consider
+the real world impacts that the Fall and Spring Revenue Reports have on customers’ bills
+and that, even if there is a reconciliation at a later to return any overcollections, it will have
+an immediate impact on customers.
+
+Along those lines, the Consumer Advocate’s
+
+recommendations related to the need to determine whether there may be inter- and
+intra--class subsidization that may be affected by the new billing method incorporates
+suggestions that will allow for a more in-depth analysis of available data later with
+adjustments to the method in the future. Further, the Consumer Advocate has also
+offered options to allow an RBA adjustment to be effective as of June 1, 2023, but also
+allow further analysis to determine whether the Companies’ proposed RBA adjustment
+might require additional analysis with a possible reconciliation in the future (i.e., the raised
+concerns related to the interconnection PIM). The Consumer Advocate highlights that,
+besides administrative efficiency, one of the guiding principles for PBR is a
+customer--centric approach and the Commission should not allow administrative
+efficiency to outweigh customers’ interests. The Consumer Advocate appreciates the
+opportunity to offer these comments.
+DATED: Honolulu, Hawaii, May 1, 2023.
+Respectfully submitted,
+By /s/ Dean Nishina
+DEAN NISHINA
+Acting Executive Director
+DIVISION OF CONSUMER ADVOCACY
+
+Trans. No. 23-01
+
+26
+
+ATTACHMENT TO
+CONSUMER ADVOCATE’S STATEMENT OF POSITION
+RESPONSES TO:
+
+Trans. No. 23-01
+
+INFORMAL CA-IR-9
+INFORMAL CA-IR-13
+INFORMAL CA-IR-14
+INFORMAL CA-IR-15
+INFORMAL CA-IR-17
+
+INFORMAL CA-IR-9
+2023 SPRING REVENUE REPORT
+PAGE 1 OF 2
+INFORMAL CA-IR-9
+Ref: U.S. Army Oahu Electric Distribution System Privatization (“Army Privatization”)
+Contract (Docket No. 2019-0349).
+a.
+
+b.
+c.
+
+Please explain in detail the review procedures taken by the Pricing Division to ensure that
+the U.S. Army Oahu Electric Distribution Systems Privatization (“Army Privatization”)
+contract does not impact the RBA and Target Revenues.
+Please explain how the Pricing Division accounted for the revenues generated from Army
+Privatization contract in the Pricing Division’s RBA Reasonableness Test.
+Please explain whether Hawaiian Electric made any adjustments to any of the exhibits,
+schedules or workpapers in the Trans. No. 23-01 related to the Army Privatization contract.
+If so, please identify those adjustments and explain why each adjustment was made.
+
+Hawaiian Electric Companies’ Response:
+a.
+
+Revenues from the Army Privatization contract are considered Other Operating Revenues.
+The workpaper that the Regulatory Accounting Division (“Regulatory Accounting”)
+provides to the Pricing Division (“Pricing”) that calculates the RBA balance for the month
+does not include Other Operating Revenues, except for certain items of Other Operating
+Revenues that are included in recorded adjusted revenues for the determination of the RBA
+balance (Other Operating Revenues related to EV-U and Special Medical Needs Program).
+Pricing’s RBA Reasonableness Test uses Regulatory Accounting’s workpaper, recorded
+sales, recorded base and recorded RBA revenue for the month. Other Operating Revenues
+related to the Army Privatization contract are not included in Regulatory Accounting’s
+workpaper that determines the RBA balance, and are therefore also not included in
+Pricing’s RBA Reasonableness Test. Revenues generated from the Army Privatization
+contract are excluded from Target Revenues used in the determination of the monthly RBA
+accruals and are excluded from the determination of the RBA Rate Adjustment needed to
+recover Target Revenues.
+
+Trans. No. 23-01
+
+INFORMAL CA-IR-9
+2023 SPRING REVENUE REPORT
+PAGE 2 OF 2
+b.
+
+See the response to part a., above.
+
+c.
+
+The Commission did not include a provision in Decision and Order No. 374131 that
+required the Company to make ratemaking adjustments related to the Army Privatization
+contract. Therefore, no adjustments were made to any of the exhibits, schedules or
+workpapers in Transmittal No. 23-01 related to the Army Privatization contract.
+
+1
+
+Decision and Order No. 37413 issued on October 30, 2020 in Docket No. 2019-0349, “For Approval to Commit
+Funds in Excess of $2,500,000 for the U.S. Army-Oahu Electric Distribution Systems Privatization; and Rule 4
+Service Contract with the U.S. Government.”
+
+Trans. No. 23-01
+
+INFORMAL CA-IR-13
+2023 SPRING REVENUE REPORT
+PAGE 1 OF 4
+INFORMAL CA-IR-13
+Ref:
+a.
+
+b.
+
+c.
+
+d.
+
+Interconnection Approval PIM datafile
+On the Quick Connect tab, the measurement of the duration appears to be the difference
+between the “Meter Change Date” and the “Meter Notif created” date.
+1.
+Pursuant to Decision and Order No. 37787, the start of the duration parameter is
+supposed to be the contractor request email received date and the end of the duration
+is the meter installation date. Please discuss whether the “Meter Notif created” date
+is supposed to represent the date that the Companies received the email from the
+contractor requesting a meter replacement and, if so, please explain the purpose of the
+column “Email notif date used”.
+2.
+If the “Meter Notif created” date does not represent the date that the Companies
+received a request from a contractor, please explain what this column represents and
+what is used to support the dates in this column.
+3.
+Assuming that the “Meter Notif created” is supposed to represent the day that the
+Companies received an email from the contractor, please discuss what evidence the
+Companies can readily provide to support the claimed date of receipt.
+4.
+Please discuss what evidence the Companies can provide to support the claimed date
+of the meter being changed or where it already existed.
+On the Quick Connect tab, the Companies appear to be claiming that of the 1,767 projects,
+490 of them already had existing meters that met the interconnection requirements. Please
+confirm.
+1.
+Please discuss whether those instances where the Companies had to take no action
+since the necessary meters were already in place should be included in the
+determination of any PIM reward or penalty.
+On the Quick Connect tab, the Companies appear to be claiming that besides the 490
+projects that had existing meters that met interconnection requirements, there were 16
+projects where the Companies were able to install the necessary meter on the same day that
+an email was received from the contractor. Please confirm.
+Putting aside the duration parameter for Quick Connect projects only looking at the interval
+of how long it takes to have the appropriate meter in place, please explain why, for many of
+the Quick Connect projects, it appears that the duration as measured under the Early
+Energization or Traditional criteria for these Quick projects often appear to take longer
+than for the projects that are interconnected either under the Early Energization or
+Traditional projects.
+1.
+If not already identified in the response to part d. above, please discuss when the
+customers are able to receive value from their systems (i.e., system is energized and
+the customer is able to export or receive credit for the system’s production) under the
+quick connect process in relation to when the appropriate revenue meter is in place.
+
+Trans. No. 23-01
+
+INFORMAL CA-IR-13
+2023 SPRING REVENUE REPORT
+PAGE 2 OF 4
+Hawaiian Electric Companies’ Response:
+a.
+
+1.
+
+The “Meter Notif created” date serves a dual purpose as it is either the date the
+contractor email is received, or the date the meter notification is created. The
+Companies are informed of a customer’s wish to participate in Quick Connect in two
+ways: 1) an email from the contractor is submitted to the Companies requesting the
+customer’s meter be replaced. This email must also include a Grant of Authorization
+form where the customer acknowledges participation in Quick Connect and
+authorizes the contractor to act on their behalf, and the interconnection application
+can be submitted at a later date; and 2) no email is submitted, but the interconnection
+application itself is submitted with the same authorization form indicating the
+customer’s wish to participate in Quick Connect. An email request from the
+contractor does not occur for all Quick Connect customers. Therefore, if a contractor
+email is not received, the date the meter notification is created is used. The “Email
+notif date used” column indicates identifies when the contractor email request date is
+used.
+
+2.
+
+Please see the response to CA-IR-13.a.1.
+
+3.
+
+The Companies archive the applicable emails received by contractors and samples
+can be shared upon request.
+
+4.
+
+The Companies keep records on every service/meter notification requested (including
+the date the meter notification was created and service address), and its subsequent
+completion in the SAP database. Samples of these records can be shared upon
+request.
+
+Trans. No. 23-01
+
+INFORMAL CA-IR-13
+2023 SPRING REVENUE REPORT
+PAGE 3 OF 4
+b.
+
+Yes. Due to the Companies’ AMI deployment initiative, many customers have had their
+meters replaced and these meters are able to be used for DER purposes.
+1.
+
+The purpose of the Interconnection Approval PIM is to incentivize the reduction in
+total interconnection time for DER systems less than 100 kW.1 The purpose of the
+Quick Connect process was to expedite the process to interconnect these systems.2
+Pursuant to the Interconnection Approval PIM tariff, for customers who chose to
+interconnect through the Quick Connect process, the only duration that was in the
+Companies’ control was meter replacement. As such, that is the only step that was
+counted in the PIM calculation. After the Interconnection Approval PIM was
+designed, the Companies began the AMI deployment initiative as a part of the
+Companies’ Grid Modernization Strategy. As a part of the AMI deployment
+initiative, there may be cases where the Companies have already done the work of
+replacing the customer’s meter prior to the customer applying for a DER Program. In
+these instances, the Meter Replacement duration is counted as 0. The Quick Connect
+process enabled a significant reduction in interconnection times on Hawai‘i Island
+and Maui and as a result, the Companies should get credit for these reductions, as
+provided for under the Interconnection Approval PIM tariff, even for those instances
+where a meter was already replaced.
+
+c.
+
+There were no projects where the Companies were able to install the necessary meter on
+the same day that an email was received from the contractor. This scenario can be shown
+
+1
+
+See, e.g., Hawaiian Electric Company, Inc., Performance Incentive Mechanism Provision tariff, Sheet No.
+98D.3.1, effective June 1, 2021.
+2
+The Quick Connect process was a pilot that the Companies closed in October 2022 for several reasons, including
+the fact that it was not working as expected for O‘ahu applications.
+
+Trans. No. 23-01
+
+INFORMAL CA-IR-13
+2023 SPRING REVENUE REPORT
+PAGE 4 OF 4
+by filtering the “Quick Connect” tab for the following criteria: (1) “Status” column
+indicates “Project Execution,” (2) the “Email notif date used” column indicates a value of
+“Yes,” (3) the “QC duration” column indicates a value of 0, and (4) the “Meter Changed
+Date” is available.
+d.
+
+With the introduction of the Interconnection Approval PIM, the Companies were
+incentivized to introduce options that would expedite the customer’s experience to system
+energization. One option was the Quick Connect process. However, there are some
+instances where the email notification date is received significantly earlier than the
+application is received, but the meter change takes place later. Due to the timing of when
+the meter change takes place, there are instances where the Early Energization or
+Traditional duration would have been shorter. Due to the Companies’ energization type
+identification process, any application that meets the criteria for Quick Connect was treated
+as such, even though the duration potentially could have been shorter if the application was
+treated as Early Energization or Traditional. All applications go through the same triage,
+regardless of which duration would have been shorter to provide fair and transparent
+assessment.
+1.
+
+Customers participating in the Quick Connect process are able to receive value from
+their systems (energized system) as soon as their new meter is installed and all other
+required steps outside of the Companies’ control are completed.
+
+Trans. No. 23-01
+
+INFORMAL CA-IR-14
+2023 SPRING REVENUE REPORT
+PAGE 1 OF 2
+INFORMAL CA-IR-14
+Ref:
+
+Interconnection Approval PIM datafile
+
+For Early Energization projects, the duration parameter was supposed to include Completeness
+Review (“CR”), Initial Technical Review (“ITR”), Supplemental Review (“SR”), Validation, and
+Meter Replacement.
+a.
+Please discuss the differences between the “Meter Change Request” date and the
+“Production Meter Change Request Date”.
+b.
+Please discuss the differences between the “Execution Meter Installed Date”,
+“Production Meter Installed Date”, and “Meter Install Date”.
+c.
+For illustrative purposes, please elaborate on the calculation of the time for
+interconnection for the early energization project H-GSP-21-322239 (line 3393). For
+this project, it appears that the Companies are asserting that the interconnection time
+is 42 days (column AE). Please identify the interval for each of the relevant duration
+parameters for this project.
+1.
+If not already included in the response above, please explain why the following
+intervals are not appropriate for the project: CR – 16 days (start: 4/20/2021; end:
+5/6/2021); ITR – 21 (start: 5/6/2021; end 5/27/2021); SR – 25 (start: 5/27/2021;
+end: 6/21/2021); validation – 4 (start: 12/16/2021; end: 12/20/2021); and meter
+replacement – 13 (start: 12/22/2021; end: 1/4/2022).
+Hawaiian Electric Companies’ Response:
+As shown in the Interconnection Approval PIM tariff, the Companies clarify that the Early
+Energization projects do not include the Validation process.1 The Early Energization steps only
+include CR, ITR, SR, and Meter Replacement.
+a.
+
+The “Meter Change Request” column in Sheet EX-2022 refers to the revenue meter that
+must be changed for all interconnection customers. The “Production Meter Change
+Request Date” refers to the production meter that is installed for Customer Grid Supply
+Plus customers.
+
+b.
+
+The “Execution Meter Installed Date” refers to the date the revenue meter was installed,
+the “Production Meter Installed Date” refers to the date the production meter was installed,
+
+1
+
+See e.g., Hawaiian Electric Company, Inc., Tariff Sheet No. 98D.3.2.
+
+Trans. No. 23-01
+
+INFORMAL CA-IR-14
+2023 SPRING REVENUE REPORT
+PAGE 2 OF 2
+and the “Meter Install Date” only refers to instances where the meter could not be installed
+during the first visit to the customer’s premise (due to safety issues or customer request).
+In these instances, a notice (or door hanger) is left at the premise to let the customer know
+that an attempt was made to replace their revenue meter and to contact the Meter Shop to
+schedule a future visit. The “Meter Install Date” reflects the date of this initial visit since
+that is when the meter would have been replaced if not for factors outside of the
+Companies’ control.
+c.
+
+Please refer to the following illustration of duration intervals for the early energization
+project H-GSP-21-322239 (Row 3393). The interconnection time is measured in business
+days, excluding weekends and State holidays.
+Project: H-GSP-21-322239
+Energization Type: Early Energization
+Steps/durations under the companies control
+for the specified energization type
+CompletenessReviewEntryDate to
+Completeness Review ActualComplete Date
+(Completeness Review Duration)
+InitialTechnicalReviewEntryDate to
+InitialTechnicalReviewActualCompleteDate
+(Initial Technical Review Duration)
+SupplementalReviewEntryDate to
+SupplementalReviewActualCompleteDate
+(Supplemental Review Duration)
+Meter Change Request to
+Meter Install Date
+(Meter Change Duration)
+
+Start date
+
+1.
+
+5/6/2021
+
+12
+
+5/6/2021
+
+5/27/2021
+
+15
+
+5/27/2021
+
+6/21/2021
+
+15
+
+5/11/2021
+
+5/15/2021
+
+3*
+
+Total number of business days to energize:
+
+42
+
+See the response to CA-IR-14.c.
+
+Trans. No. 23-01
+
+Duration
+
+4/20/2021
+
+*Duration is not included due to the overlap with the ITR process
+
+c.
+
+End date
+
+INFORMAL CA-IR-15
+2023 SPRING REVENUE REPORT
+PAGE 1 OF 1
+INFORMAL CA-IR-15
+Ref: Percentage-of-Bill Methodology.
+a.
+
+b.
+
+Please identify and explain all outreach efforts taken by the Companies to educate
+customers about the transition from the legacy cents-per-kWh methodology to the
+percentage-of-bill methodology.
+Please provide a copy of any information that call center representatives will provide to
+customers who inquire about the transition to the percentage-of-bill methodology.
+
+Hawaiian Electric Companies’ Response:
+a.
+
+The Companies are preparing talking points on the revised RBA rate adjustment to provide
+to their customer call center in advance of the June 1, 2023, effective date of the revised
+calculation of that bill item. The Companies expect to receive inquiries from customers
+served on residential Schedule R and small commercial Schedule G who have minimum
+bills; these are customers who have not previously received an RBA Rate Adjustment
+charge on their bill. The Companies will share the talking points that they provide to their
+front-line employees who respond to customers when they are finalized.
+
+b.
+
+Please see the Companies response to subpart a., above.
+
+Trans. No. 23-01
+
+INFORMAL CA-IR-17
+2023 SPRING REVENUE REPORT
+PAGE 1 OF 5
+INFORMAL CA-IR-17
+Ref: Schedule A
+a.
+b.
+c.
+
+In the Companies’ presentation on April 11, 2023, there was a discussion on the
+comparison between using the percentage of bill versus kWh as the billing determinant for
+the RBA adjustment.
+Has the Companies completed any analyses to evaluate the impact of using kWh versus the
+percentage of bill to allow comparable analyses? If so, please provide a copy of those
+analyses.
+If the Companies have not conducted such an analysis (i.e., a comparison of the 2022 and
+2023 results using both billing determinants), please discuss the Companies’ position on
+whether recalculating the RBA adjustments for each company presented in Transmittal No.
+22-03 and 23-01 would better isolate the impacts of using kWh versus percentage of bill as
+a billing determinant.
+1. Since the Companies have already presented the bill impact of using kWh as the
+billing determinant in its 22-03 Spring Revenue Report filing, please provide the
+Companies’ estimated RBA Divisor as well as the estimated basis for residential bill
+for 2022 for each company to facilitate a recalculation of the RBA% that would have
+been used in 2022 if the percentage of bill method was used in 2022.
+2. Since the Companies have already presented the bill impact of using the percentage
+of bill method in its 23-01 Spring Revenue Report filing, please provide the
+Companies’ most recent GWH estimate for each company to facilitate a recalculation
+of the RBA rate adjustment (on a cents per kWh basis) for each company in 2023.
+
+Hawaiian Electric Companies’ Response:
+a.
+
+Not applicable. This information request is not a question.
+
+b.
+
+As a preliminary matter, the Companies reiterate that they are not seeking approval to
+revise the implementation of the RBA surcharge from a cents per kilowatt-hour (“kWh”)
+methodology to a percentage (of total bill less ECRC) methodology (“percentage of bill
+methodology”). Rather, the Companies are seeking Commission approval of the specific
+RBA percentages to implement in their billing system effective June 1, 2023, as the legacy
+cents per kWh methodology will not comply with existing Commission Orders after May
+31, 2023.
+
+Trans. No. 23-01
+
+INFORMAL CA-IR-17
+2023 SPRING REVENUE REPORT
+PAGE 2 OF 5
+As discussed in Transmittal 23-01 (Spring Revenue Report),1 Decision and Order No.
+38680 (“D&O 38680”) and Order No. 38750 (“Order 38750”) in Docket No 2019-0323
+approved the change to the percentage of bill methodology. Relevant excerpts from those
+Orders are provided below:
+D&O 38680, approving the (new) RBA methodology:
+10. The RBA Rate Adjustment shall be applied on a percentage-of-bill basis
+(excluding the ECRC expense) for all customer classes that are subject to
+the RBA. Changes to the implementation of the RBA Provision tariff shall
+be made for all customers at the time of the next scheduled change to the
+RBA Rate Adjustment.2
+Order 38750, approving the implementation date of June 1, 2023:
+D. Granted, in part, regarding Hawaiian Electric’s request for clarification to
+delay implementation of the RBA Adjustment as a percentage of bill charge
+to the next feasible scheduled change, which the Companies have
+determined to be June 1, 2023.3
+The tables below summarize the bill impact of Transmittal No. 22-03 (2022 Fall
+Revenue Report) (part 1) and Transmittal No. 23091 (2023 Spring revenue Report) (part 2)
+by company using the percentage of bill methodology (“New Method”) versus the legacy
+cents per kWh methodology (“Legacy Method”). See Attachment 1 to this response for
+supporting workpapers.
+
+1
+
+Transmittal No. 23-01 (Spring Revenue Report) filed on March 28, 2023, at 13-14.
+D&O 38680, issued on October 31, 2022 in Docket No. 2019-0323, Ordering Paragraph 10, at 175.
+3
+Order 38750, issued on December 8, 2022 in Docket No. 2019-0323, at 17.
+2
+
+Trans. No. 23-01
+
+INFORMAL CA-IR-17
+2023 SPRING REVENUE REPORT
+PAGE 3 OF 5
+
+
+Part 1: 2022 Fall Revenue Report – Comparison of the approved filing which used
+the New Method, had it been used, versus the Legacy Method.
+NEW METHOD
+kWh
+Usage
+500
+500
+500
+400
+400
+
+HECO
+HELCO
+MECO (Maui)
+MECO (Lanai)
+MECO (Molokai)
+
+
+
+2022 Fall Report
+(% of bill)
+$13.40
+$7.02
+$9.26
+$7.95
+$8.78
+
+LEGACY METHOD
+(As Filed)
+2022 Fall Report
+(cents/kWh)
+$11.12
+$6.50
+$9.52
+$7.62
+$7.62
+
+DIFFERENCE
+$2.28
+$0.52
+-$0.26
+$0.33
+$1.16
+
+Part 2: 2023 Spring Revenue Report – Comparison of the New Method used in the
+filing versus the Legacy Method, had it been used.
+
+kWh
+Usage
+500
+500
+500
+400
+400
+
+HECO
+HELCO
+MECO (Maui)
+MECO (Lanai)
+MECO (Molokai)
+
+c.
+
+NEW METHOD
+(As Filed)
+2023 Spring Report
+(% of bill)
+$14.23
+$7.77
+$9.85
+$8.39
+$9.27
+
+LEGACY METHOD
+2023 Spring Report
+(cents/kWh)
+$11.31
+$7.17
+$10.02
+$8.02
+$8.02
+
+DIFFERENCE
+$2.92
+$0.60
+-$0.17
+$0.37
+$1.25
+
+Not applicable. See the response to subpart b., above, for the analysis the Companies
+conducted.
+1.
+
+The Companies assume that the Consumer Advocate intended to reference “22-03
+Fall Revenue Report filing,” instead of “22-03 Spring Revenue Report filing” and
+respond as follows:
+See Hawaiian Electric’s ARD Compliance Filing, filed on January 27, 2023 in
+Docket No. 2019-0323, Exhibit 10A, Attachment 2, page 1, lines 15-18 for Hawaiian
+Electric, Exhibit 10B, Attachment 2, page 1, lines 14-17 for Hawai‘i Electric Light,
+
+Trans. No. 23-01
+
+INFORMAL CA-IR-17
+2023 SPRING REVENUE REPORT
+PAGE 4 OF 5
+and Exhibit 10C, Attachment 2, page 1, lines 14-21, for the estimated RBA Divisor,
+the RBA % for use in RBA tariff, the estimated basis for residential bill, and the bill
+impact. The table for Part 1 above summarizes the bill impact using the new
+percentage of bill method, had it been used in the 2022 Fall Revenue Report filing.
+2.
+
+See Attachment 1, pages 3, 5, 7, to this response for each Company’s WP-A-001
+representing the respective Companies’ most recent GWH estimate. This estimate
+was used in response to subpart b. in the calculation of Part 2 (2023 Spring Revenue
+report, had the Legacy Method been used).
+On April 11, 2023, during the Informal Briefing, there was some discussion on the
+
+RBA Divisor used to determine the RBA Rate Adjustment percentage in the new
+percentage of bill methodology and whether using actual billed revenues from the prior
+year (rather than the Companies’ proposal to utilize revenues from each Company’s last
+rate case) would minimize the difference between what the Companies collect and target
+revenue, and thereby result in a lower RBA balance. Although the Companies’ position is
+that their proposed method of determining the RBA Divisor is reasonable, the Companies
+performed the following analyses using actual billed revenues from the prior year in
+Attachment 24 to this response:
+
+
+2023 Spring Revenue Report – Comparison of the RBA Divisor calculation
+proposed in the filing using the test year revenues and forecasted surcharges (“As
+
+4
+
+Portions of Attachment 2 to this response contain confidential information and are being provided subject to the
+terms of Non-Docketed Protective Order No. 2023-PO-04 issued on January 10, 2023. Please refer to Attachment A
+for the basis of confidentiality and the cognizable harm to the Companies from any misuse or unpermitted disclosure
+of the information.
+
+Trans. No. 23-01
+
+INFORMAL CA-IR-17
+2023 SPRING REVENUE REPORT
+PAGE 5 OF 5
+Filed”) versus an RBA Divisor using the most recent historical billed revenues
+(“Historical Method”) for the period January through December 2022; and
+
+
+2022 Fall Revenue Report – Calculation of the RBA Divisor using the test year
+revenues and forecasted surcharges, as proposed in the 2023 Spring Revenue
+Report (“Original Method”), versus an RBA Divisor using the Historical Method at
+that point in time for the period October 2021 through September 2022.
+It is difficult to assess which of these two RBA Divisor calculation methodologies
+
+(using the test year revenues and forecasted surcharges versus using historical billed
+revenues) would minimize the difference between what the Companies collect and target
+revenue and thereby result in a lower RBA balance. The analysis compares the difference
+in the RBA Divisor impacting the RBA % for use in the RBA Tariff between the two
+percentage of bill methodologies. The Estimated RBA Revenue Collected for January
+through March 2023 (part III, line 5 using the percentage of bill methodology) when
+compared against actual billed RBA revenues collected (part II, line CC using the cents per
+kWh methodology), compares two different methodologies and does not show a clear trend
+of which percentage of bill methodology would be better than the other. It is also difficult
+to predict if either method would be a consistently better estimate of actual RBA revenues
+over time. Nevertheless, with either method, any resulting difference between target
+revenues and recorded adjusted revenues would flow into the RBA.
+
+Trans. No. 23-01
+
+INFORMAL CA-IR-17
+SPRING REVENUE REPORT
+ATTACHEMENT 1
+1 of 7
+
+Hawaiian Electric Companies
+Sch A RBA Method Comparisons
+Purpose: To calculate the monthly bill impact on the 2022 Fall and 2023 Revenue Reports using the RBA % of total
+bill ("New Method") versus the cents/kWh basis ("Legacy Method").
+
+Part 1: 2022 Fall Revenue Report Schedule A Method Comparison
+NEW METHOD
+
+kWh
+Usage
+HECO
+HELCO
+MECO (Maui)
+MECO (Lanai)
+MECO (Molokai)
+
+500
+500
+500
+400
+400
+
+2022 Fall Report
+(% of bill)
+[Note 1]
+a
+$13.40
+$7.02
+$9.26
+$7.95
+$8.78
+
+LEGACY METHOD
+DIFFERENCE
+(As Filed)
+2022 Fall Report
+NEW METHOD Higher
+(cents/kWh)
+/ (Lower) than
+[Note 2]
+LEGACY METHOD
+b
+c=a-b
+$11.12
+$2.28
+$6.50
+$0.52
+$9.52
+-$0.26
+$7.62
+$0.33
+$7.62
+$1.16
+
+Part 2: 2023 Spring Revenue Report Schedule A Method Comparison
+
+kWh
+Usage
+HECO
+HELCO
+MECO (Maui)
+MECO (Lanai)
+MECO (Molokai)
+
+Notes:
+[1]
+[2]
+[3]
+
+500
+500
+500
+400
+400
+
+NEW METHOD
+(As Filed)
+2023 Spring Report
+(% of bill)
+[Note 3]
+a
+$14.23
+$7.77
+$9.85
+$8.39
+$9.27
+
+LEGACY METHOD
+
+DIFFERENCE
+
+2023 Spring Report
+(cents/kWh)
+
+NEW METHOD Higher
+/ (Lower) than
+LEGACY METHOD
+c=a-b
+$2.92
+$0.60
+-$0.17
+$0.37
+$1.25
+
+b
+$11.31 From p2
+$7.17 From p4
+$10.02 From p6
+$8.02 From p6
+$8.02 From p6
+
+Source: Exhibit 10A Attachment 2, Exhibit 10B Attachment 2, Exhibit 10C Attachment 2 in Docket No.
+2019-0323, ARD Compliance Filing, filed January 27, 2023.
+Source: Each Company's Schedule A, as filed in Transmittal No. 22-03 on December 20, 2022.
+Source: Each Company's Schedule A, as filed in Transmittal No. 23-01 on March 28, 2023.
+
+Trans. No. 23-01
+
+INFORMAL CA-IR-17
+SPRING REVENUE REPORT
+ATTACHEMENT 1
+2 of 7
+
+SCHEDULE A
+PAGE 1 OF 1
+2023 SPRING REVENUE REPORT
+ILLUSTRATION: SCHEDULE A USING LEGACY METHOD
+
+SCHEDULE A
+PAGE 1 OF 1
+
+1. 2022 Fall column (c) is carried forward from the 2022 Fall Revenue report.
+2. GWH sales volume estimate for the period June 2023 - May 2024 is used.
+RBA BASED ON KWH SALES (LEGACY METHOD)
+
+HAWAIIAN ELECTRIC COMPANY, INC.
+REVENUE REPORT CALCULATION WORKBOOK
+DETERMINATION OF REVENUE BALANCING ACCOUNT RATE ADJUSTMENT
+
+Line
+No.
+
+(Note 3)
+2022 Fall
+(Jan to Dec 2023)
+(c)
+
+Reference
+(b)
+
+Description
+(a)
+
+1
+2
+3
+
+RECONCILIATION OF RBA BALANCE:
+RBA Balance, September 30, 2022
+Revenue Tax Factor
+REVENUE FOR RBA BALANCE
+
+Schedule B
+Note 2
+
+$
+
+4
+
+RAM REVENUE ADJUSTMENT THROUGH 2020
+
+5
+
+(Note 4)
+2023 Spring
+(effective June 1, 2023)
+(d)
+$
+
+$
+
+16,710,315
+1.097514
+18,339,805
+
+$
+
+16,710,315
+1.097514
+18,339,805
+
+Schedule C1
+
+$
+
+40,987,620
+
+$
+
+-
+
+$
+
+40,987,620
+
+PRIOR YEARS' COMPOUNDED PORTION OF ARA
+
+Schedule C1
+
+$
+
+31,619,378
+
+$
+
+-
+
+$
+
+31,619,378
+
+6a
+6b
+6
+
+ANNUAL REVENUE ADJUSTMENT ("ARA") AMOUNT:
+Compounded Portion of ARA
+Non-Compounded Portion of ARA
+ARA ADJUSTMENT
+
+Schedule C
+Schedule C
+Schedule C
+
+$
+$
+$
+
+26,982,382 $
+(4,618,172) $
+22,364,210 $
+
+-
+
+$
+$
+$
+
+26,982,382
+(4,618,172)
+22,364,210
+
+7
+
+EARNINGS SHARING REVENUES (CREDITS)
+
+Schedule D
+
+$
+
+-
+
+$
+
+-
+
+$
+
+8
+
+PERFORMANCE INCENTIVE MECHANISM REWARD (PENALTY)
+
+Schedule E
+
+$
+
+-
+
+$
+
+2,453,814
+
+$
+
+2,453,814
+
+9
+
+MPIR/EPRM REVENUE ADJUSTMENT
+
+Schedule F; Note 5
+
+$
+
+$
+
+3,843,033
+
+$
+
+26,557,454
+
+10
+
+AFFILIATE TRANSACTION REFUND
+
+Note 6
+
+$
+
+(11,590) $
+
+-
+
+$
+
+(11,590)
+
+11
+
+PILOT PROCESS COST RECOVERY
+
+Schedule G
+
+$
+
+-
+
+$
+
+183,939
+
+$
+
+183,939
+
+12
+
+PUC-ORDERED ADJUSTMENTS
+
+Schedule H
+
+$
+
+-
+
+$
+
+-
+
+$
+
+-
+
+13
+
+TOTAL TO BE RECOVERED THROUGH THE RBA RATE SURCHARGE
+
+$
+
+PORTION TO BE RECOVERED
+14 RBA REVENUE ADJUSTMENT
+
+22,714,421
+
+136,013,844
+
+$
+
+$
+
+1.097514
+-
+
+2023 Total
+(e)
+
+6,480,786
+
+Line 13
+
+12 months
+effective June 1, 2023
+$
+6,480,786
+
+6,303.1
+
+15
+
+GWH SALES VOLUME ESTIMATE
+
+From p3
+
+16
+
+RBA RATE ADJUSTMENT - Cents per kWh
+
+Note 1
+
+17
+
+ESTIMATED MONTHLY IMPACT @ 500 KWH, $
+
+18
+
+CURRENT RBA RATE
+
+19
+
+INCREMENTAL CHANGE - cents per kWh
+
+20
+
+MONTHLY BILL IMPACT @ 500 KWH - INCREMENTAL
+
+2.1598
+
+$
+
+$
+
+-
+
+142,494,630
+
+Total
+
+0.1028
+
+2.2626
+
+$
+
+11.31 To p1
+2.2241
+
+Line 16 - Line 18
+
+0.0385
+$
+
+Note 1: 2023 RBA Rate Adjustment Breakdown:
+CARRYOVER AMOUNTS FROM 2022 FALL REVENUE REPORT (Note 3):
+RBA Balance at 9/30/2022
+Prior RAM
+Prior Years' Compounded Portion of ARA
+ARA Amount
+MPIR/EPRM Revenue Adjustment
+Affiliate Transaction Refund
+Subtotal
+
+$
+$
+$
+$
+$
+$
+$
+
+2023 SPRING REVENUE REPORT (Note 4):
+Earnings Sharing Revenues (Credits)
+Performance Incentive Mechanism Reward (Penalty)
+MPIR/EPRM Revenue Adjustment
+Affiliate Transaction Refund
+Pilot Process Recovery
+PUC-Ordered Adjustments
+Subtotal
+
+$
+$
+$
+$
+$
+$
+$
+
+Total
+
+$
+
+Col (c)
+18,339,805
+40,987,620
+31,619,378
+22,364,210
+22,714,421
+(11,590)
+136,013,844
+Col (d)
+
+2,453,814
+3,843,033
+183,939
+6,480,786
+
+142,494,630
+
+Effective: June 1, 2023
+Rate Adjustment
+cents per kWh
+0.2912
+0.6509
+0.5021
+0.3551
+0.3607
+(0.0002)
+2.1598
+
+Rate Adjustment
+cents per kWh
+
+0.19
+
+Percentage
+Share
+12.8701%
+28.7678%
+22.1913%
+15.6943%
+15.9418%
+-0.0088%
+95.4566%
+
+0.0389
+0.0610
+0.0029
+0.1028
+
+Percentage
+Share
+0.0000%
+1.7193%
+2.6960%
+0.0000%
+0.1282%
+0.0000%
+4.5434%
+
+2.2626
+
+100.0000%
+
+Note 2: Revenue Tax based on 8.885% statutory rates.
+Note 3: Fall Revenue Report RBA items included in Transmittal No. 22-03 (Fall Revenue Report), Exhibit 1, Attachment 2, filed December 20, 2022, that continue to be included in the RBA rate for the
+June to December 2023 period.
+Note 4: Transmittal No. 22-03 (Fall Revenue Report), Exhibit 1, Attachment 2, Schedule A (Revised 12/20/2022), filed December 20, 2022.
+Note 5: Annualized MPIR/EPRM amount of $26,557,454 will be recovered starting June 1, 2023.
+Note 6: Decision and Order No. 35962 in Docket No. 2018-0065, filed December 19, 2018, established Affiliate Transaction Requirements ("ATR") for the Companies.
+2022 Fall Revenue Report - In October 2022, the Company recorded a Regulatory Liability related to an employee transfer or temporary assignment to be returned to customers for $10,560,
+which was grossed up for revenue taxes to $11,590.
+
+Trans. No. 23-01
+
+INFORMAL CA-IR-17
+SPRING REVENUE REPORT
+ATTACHEMENT 1
+3 of 7
+
+HAWAIIAN ELECTRIC COMPANY, INC.
+SALES FORECAST FOR JUNE 2023 TO MAY 2024
+IN GWH
+
+Jun
+125.4
+24.4
+148.0
+222.9
+1.2
+522.0
+
+R
+G
+J
+P
+F
+Total
+
+Jul
+142.3
+25.9
+158.3
+238.4
+1.3
+566.2
+
+Aug
+151.0
+26.7
+160.8
+249.2
+1.3
+589.1
+
+2023
+Sep
+146.5
+25.1
+157.5
+234.0
+1.3
+564.4
+
+Oct
+141.3
+25.4
+158.5
+237.4
+1.3
+563.9
+
+Nov
+131.8
+23.5
+146.6
+220.6
+1.3
+523.9
+
+Source: Hawaiian Electric Company, Inc. June 2022 Sales Forecast.
+
+Trans. No. 23-01
+
+Dec
+131.6
+22.7
+141.3
+215.3
+1.4
+512.2
+
+Jan
+132.6
+22.4
+138.9
+209.4
+1.3
+504.6
+
+Feb
+107.9
+21.5
+131.6
+191.8
+1.2
+454.0
+
+2024
+Mar
+115.0
+23.1
+140.7
+210.4
+1.4
+490.6
+
+Apr
+112.6
+23.5
+144.8
+214.0
+1.3
+496.2
+
+May
+118.5
+24.2
+151.8
+220.2
+1.3
+516.0
+
+Total
+1,556.7
+288.4
+1,778.7
+2,663.6
+15.7
+6,303.1
+To p2
+
+INFORMAL CA-IR-17
+SPRING REVENUE REPORT
+ATTACHEMENT 1
+4 of 7
+
+SCHEDULE A
+PAGE 1 OF 1
+
+2023 SPRING REVENUE REPORT
+ILLUSTRATION USING LEGACY METHOD
+1. 2022 Fall column (c) is carried forward from the 2022 Fall Revenue report.
+2. GWH sales volume estimate for the period June 2023 - May 2024 is used.
+RBA BASED ON KWH SALES (LEGACY METHOD)
+
+HAWAII ELECTRIC LIGHT COMPANY, INC.
+REVENUE REPORT CALCULATION WORKBOOK
+DETERMINATION OF REVENUE BALANCING ACCOUNT RATE ADJUSTMENT
+
+Line
+No.
+
+1
+2
+3
+
+Description
+(a)
+RECONCILIATION OF RBA BALANCE:
+RBA Balance, September 30, 2022
+Revenue Tax Factor
+REVENUE FOR RBA BALANCE
+
+4
+
+RAM REVENUE ADJUSTMENT THROUGH 2020
+
+5
+
+(Note 3)
+2022 Fall
+(Jan to Dec 2023)
+(c)
+
+Reference
+(b)
+
+2023 Total
+(e)
+
+$
+
+(3,858,076) $
+1.097514
+(4,234,292) $
+
+$
+1.097514
+$
+
+(3,858,076)
+1.097514
+(4,234,292)
+
+Schedule C1
+
+$
+
+3,211,847 $
+
+-
+
+$
+
+3,211,847
+
+PRIOR YEARS' COMPOUNDED PORTION OF ARA
+
+Schedule C1
+
+$
+
+7,763,814 $
+
+-
+
+$
+
+7,763,814
+
+6a
+6b
+6
+
+ANNUAL REVENUE ADJUSTMENT ("ARA") AMOUNT:
+Compounded Portion of ARA
+Non-Compounded Portion of ARA
+ARA ADJUSTMENT
+
+Schedule C
+Schedule C
+Schedule C
+
+$
+$
+$
+
+6,624,595 $
+(995,140) $
+5,629,455 $
+
+-
+
+$
+$
+$
+
+6,624,595
+(995,140)
+5,629,455
+
+7
+
+EARNINGS SHARING REVENUE CREDITS
+
+Schedule D
+
+$
+
+-
+
+$
+
+-
+
+$
+
+-
+
+8
+
+PERFORMANCE INCENTIVE MECHANISM REWARD (PENALTY)
+
+Schedule E
+
+$
+
+-
+
+$
+
+439,248
+
+$
+
+439,248
+
+9
+
+MPIR/EPRM REVENUE ADJUSTMENT
+
+Schedule F; Note 5
+
+$
+
+334,410
+
+$
+
+2,117,543
+
+$
+
+2,451,953
+
+10
+
+PILOT PROCESS COST RECOVERY
+
+Schedule G
+
+$
+
+-
+
+$
+
+104,024
+
+$
+
+104,024
+
+11
+
+PUC-ORDERED ADJUSTMENTS
+
+Schedule H
+
+$
+
+-
+
+$
+
+-
+
+$
+
+-
+
+12
+
+TOTAL TO BE RECOVERED THROUGH THE RBA RATE SURCHARGE
+
+Schedule B
+Note 2
+
+$
+
+(Note 4)
+2023 Spring
+(effective June 1, 2023)
+(d)
+
+12,705,234
+
+2,660,815
+
+15,366,049
+
+12 months
+effective June 1, 2023
+
+PORTION TO BE RECOVERED
+13 RBA REVENUE ADJUSTMENT
+
+Line 13
+
+14
+
+GWH SALES VOLUME ESTIMATE
+
+From p5
+
+15
+
+RBA RATE ADJUSTMENT - Cents per kWh
+
+Note 1
+
+16
+
+ESTIMATED BASIS FOR RESIDENTIAL BILL @ 500 KWH, $
+
+17
+
+CURRENT RBA RATE
+
+18
+
+INCREMENTAL CHANGE - cents per kWh
+
+19
+
+MONTHLY BILL IMPACT @ 500 KWH - INCREMENTAL
+
+$
+
+Total
+
+2,660,815
+1,074.8
+
+1.1863
+
+0.2476
+
+1.4339
+$
+
+7.17 To p1
+1.3006
+
+Line 15 - Line 17
+
+0.1333
+$
+
+Note 1: 2023 RBA Rate Adjustment Breakdown:
+CARRYOVER AMOUNTS FROM 2022 FALL REVENUE REPORT (Note 3):
+RBA Balance at 9/30/2022
+Prior RAM
+Prior Years' Compounded Portion of ARA
+ARA Amount
+MPIR/EPRM Revenue Adjustment
+Subtotal
+
+$
+$
+$
+$
+$
+$
+
+2023 SPRING REVENUE REPORT (Note 4):
+Earnings Sharing Revenues (Credits)
+Performance Incentive Mechanism Reward (Penalty)
+MPIR/EPRM Revenue Adjustment
+Pilot Process Recovery
+PUC-Ordered Adjustments
+Subtotal
+
+$
+$
+$
+$
+$
+$
+
+Total
+
+$
+
+Effective: June 1, 2023
+Rate Adjustment
+Col (c)
+cents per kWh
+(4,234,292)
+(0.3954)
+3,211,847
+0.2999
+7,763,814
+0.7250
+5,629,455
+0.5256
+334,410
+0.0312
+12,705,234
+1.1863
+
+Col (d)
+
+439,248
+2,117,543
+104,024
+2,660,815
+
+15,366,049
+
+Rate Adjustment
+cents per kWh
+
+0.0409
+0.1970
+0.0097
+0.2476
+1.4339
+
+0.67
+
+Percentage
+Share
+-27.58%
+20.91%
+50.56%
+36.66%
+2.18%
+82.7324%
+Percentage
+Share
+
+0.00%
+2.85%
+13.74%
+0.68%
+0.00%
+17.2676%
+
+100.0000%
+
+Note 2: Revenue Tax based on 8.885% statutory rates.
+Note 3: Fall Revenue Report RBA items included in Transmittal No. 22-03 (Fall Revenue Report), Exhibit 2, Attachment 2, filed December 20, 2022, that continue to be included in the RBA rate
+for the June to December 2023 period.
+Note 4: Transmittal No. 22-03 (Fall Revenue Report), Exhibit 2, Attachment 2, Schedule A (Revised 12/20/2022), filed December 20, 2022.
+
+Note 5: Annualized MPIR/EPRM amount of $2,451,953 will be recovered starting June 1, 2023.
+
+Trans. No. 23-01
+
+INFORMAL CA-IR-17
+SPRING REVENUE REPORT
+ATTACHEMENT 1
+5 of 7
+
+HAWAII ELECTRIC LIGHT COMPANY, INC.
+SALES FORECAST FOR JUNE 2023 TO MAY 2024
+IN GWH
+
+R
+G
+J
+P
+F
+Total
+
+Jun
+34.3
+7.1
+22.9
+22.7
+0.2
+87.2
+
+Jul
+38.6
+7.5
+24.3
+23.4
+0.2
+94.0
+
+Aug
+39.7
+7.7
+25.0
+22.8
+0.2
+95.4
+
+2023
+Sep
+35.7
+7.3
+23.8
+23.5
+0.2
+90.6
+
+Oct
+36.9
+7.6
+24.8
+23.0
+0.2
+92.6
+
+Nov
+37.3
+7.1
+23.2
+23.3
+0.2
+91.1
+
+Source: Hawaii Electric Light Company, Inc. June 2022 Sales Forecast.
+
+Trans. No. 23-01
+
+Dec
+39.7
+6.8
+22.2
+22.7
+0.2
+91.7
+
+Jan
+41.0
+6.5
+21.2
+21.6
+0.2
+90.4
+
+Feb
+33.6
+6.5
+21.2
+21.3
+0.2
+82.8
+
+2024
+Mar
+37.7
+6.8
+22.0
+21.3
+0.2
+88.0
+
+Apr
+34.2
+6.8
+22.1
+21.7
+0.2
+85.0
+
+May
+34.2
+7.0
+22.9
+21.5
+0.2
+85.9
+
+Total
+442.9
+84.8
+275.8
+268.7
+2.6
+1,074.8
+To p4
+
+INFORMAL CA-IR-17
+SPRING REVENUE REPORT
+ATTACHEMENT 1
+6 of 7
+
+SCHEDULE A
+PAGE 1 OF 1
+
+2023 SPRING REVENUE REPORT
+ILLUSTRATION USING LEGACY METHOD
+
+1. 2022 Fall column (c) is carried forward from the 2022 Fall Revenue report.
+2. GWH sales volume estimate for the period June 2023 - May 2024 is used.
+RBA BASED ON KWH SALES (LEGACY METHOD)
+
+MAUI ELECTRIC COMPANY, LIMITED
+REVENUE REPORT CALCULATION WORKBOOK
+DETERMINATION OF REVENUE BALANCING ACCOUNT RATE ADJUSTMENT
+
+Line
+No.
+
+1
+2
+3
+
+Description
+(a)
+RECONCILIATION OF RBA BALANCE:
+RBA Balance, September 30, 2022
+Revenue Tax Factor
+REVENUE FOR RBA BALANCE
+
+4
+
+(Note 3)
+2022 Fall
+(Jan to Dec 2023)
+(c)
+
+Reference
+(b)
+
+(Note 4)
+2023 Spring
+(effective June 1, 2023)
+(d)
+
+Schedule B
+Note 2
+
+$
+$
+
+(2,961,353) $
+1.097514
+(3,250,126) $
+
+RAM REVENUE ADJUSTMENT THROUGH 2020
+
+Schedule C1
+
+$
+
+6,543,185
+
+$
+
+5
+
+PRIOR YEARS' COMPOUNDED PORTION OF ARA
+
+Schedule C1
+
+$
+
+7,593,699
+
+6a
+6b
+6
+
+ANNUAL REVENUE ADJUSTMENT ("ARA") AMOUNT:
+Compounded Portion of ARA
+Non-Compounded Portion of ARA
+ARA ADJUSTMENT
+
+Schedule C
+Schedule C
+Schedule C
+
+7
+
+EARNINGS SHARING REVENUES (CREDITS)
+
+8
+
+PERFORMANCE INCENTIVE ADJUSTMENT REWARD/(PENALTY)
+
+9
+
+$
+
+(2,961,353)
+1.097514
+(3,250,126)
+
+-
+
+$
+
+6,543,185
+
+$
+
+-
+
+$
+
+7,593,699
+
+$
+$
+$
+
+6,480,820 $
+(992,020) $
+5,488,800 $
+
+-
+
+$
+$
+$
+
+6,480,820
+(992,020)
+5,488,800
+
+Schedule D
+
+$
+
+-
+
+$
+
+-
+
+$
+
+-
+
+Schedule E
+
+$
+
+-
+
+$
+
+518,069
+
+$
+
+518,069
+
+MPIR/EPRM REVENUE ADJUSTMENT
+
+Schedule F; Note 5
+
+$
+
+342,720
+
+$
+
+1,699,001
+
+$
+
+2,041,721
+
+10
+
+PILOT PROCESS COST RECOVERY
+
+Schedule G
+
+$
+
+-
+
+$
+
+87,451
+
+$
+
+87,451
+
+11
+
+PUC-ORDERED ADJUSTMENTS
+
+Schedule H
+
+$
+
+-
+
+$
+
+1,708,829
+
+$
+
+1,708,829
+
+12
+
+TOTAL TO BE RECOVERED THROUGH THE RBA RATE SURCHARGE
+
+$
+
+4,013,350
+
+$
+
+20,731,628
+
+$
+
+PORTION TO BE RECOVERED
+13
+RBA REVENUE ADJUSTMENT
+
+Line 13
+
+12 months
+effective June 1, 2023
+$
+4,013,350
+
+1,034.0
+
+14
+
+GWH SALES VOLUME ESTIMATE
+
+From p7
+
+15
+
+RBA RATE ADJUSTMENT - Cents per kWh
+
+Note 1
+
+16
+17
+
+MONTHLY BILL IMPACT @ 500 KWH - Maui Division
+MONTHLY BILL IMPACT @ 400 KWH - Molokai and Lanai Divisions
+
+18
+
+CURRENT RBA RATE
+
+19
+
+INCREMENTAL CHANGE - cents per kWh
+
+20
+21
+
+MONTHLY BILL IMPACT @ 500 KWH - Maui Division - INCREMENTAL
+MONTHLY BILL IMPACT @ 400 KWH - Molokai and Lanai Divisions - INCREMENTAL
+
+1.6167
+
+$
+
+Total
+
+0.3881
+
+2.0048
+
+$
+$
+
+10.02 To p1
+8.02 To p1
+1.9048
+
+Line 18 - Line 15
+
+0.1000
+$
+$
+
+Note 1: 2023 RBA Rate Adjustment Breakdown:
+CARRYOVER AMOUNTS FROM 2022 FALL REVENUE REPORT (Note 3):
+RBA Balance at 9/30/2022
+Prior RAM
+Prior Years' Compounded Portion of ARA
+ARA Amount
+MPIR/EPRM Revenue Adjustment
+Subtotal
+
+16,718,278
+
+1.097514
+-
+
+2023 Total
+(e)
+
+$
+$
+$
+$
+$
+$
+
+2023 SPRING REVENUE REPORT (Note 4):
+Earnings Sharing Revenues (Credits)
+Performance Incentive Mechanism Reward (Penalty)
+MPIR/EPRM Revenue Adjustment
+Pilot Process Recovery
+PUC-Ordered Adjustments
+Subtotal
+
+$
+$
+$
+$
+$
+$
+
+Total
+
+$
+
+Effective: June 1, 2023
+Rate Adjustment
+Col (c)
+cents per kWh
+(3,250,126)
+(0.3143)
+6,543,185
+0.6327
+7,593,699
+0.7344
+5,488,800
+0.5308
+342,720
+0.0331
+16,718,278
+1.6167
+
+Col (d)
+
+518,069
+1,699,001
+87,451
+1,708,829
+4,013,350
+
+20,731,628
+
+Rate Adjustment
+cents per kWh
+
+0.50
+0.40
+
+Percentage
+Share
+-15.68%
+31.56%
+36.63%
+26.48%
+1.65%
+80.64%
+
+0.0501
+0.1643
+0.0085
+0.1653
+0.3882
+
+Percentage
+Share
+0.00%
+2.50%
+8.19%
+0.42%
+8.24%
+19.36%
+
+2.0049
+
+100.00%
+
+Note 2: Revenue Tax based on 8.885% statutory rates.
+Note 3: Fall Revenue Report RBA items included in Transmittal No. 22-03 (Fall Revenue Report), Exhibit 3, Attachment 2, filed December 20, 2022, that continue to be included in the RBA
+rate for the June to December 2023 period.
+Note 4: Transmittal No. 22-03 (Fall Revenue Report), Exhibit 3, Attachment 2, Schedule A (Revised 12/20/2022), filed December 20, 2022.
+Note 5: Annualized MPIR/EPRM amount of $2,041,721 will be recovered starting June 1, 2023.
+
+Trans. No. 23-01
+
+INFORMAL CA-IR-17
+SPRING REVENUE REPORT
+ATTACHEMENT 1
+7 of 7
+
+MAUI ELECTRIC COMPANY, LIMITED
+(CONSOLIDATED) SALES FORECAST FOR JUNE 2023 TO MAY 2024
+IN GWH
+
+R
+G
+J
+P
+F
+Total
+
+Jun
+29.5
+6.1
+20.3
+28.7
+0.4
+85.0
+
+Jul
+33.1
+6.4
+21.4
+30.6
+0.4
+92.0
+
+Aug
+33.0
+6.6
+21.8
+29.8
+0.4
+91.6
+
+2023
+Sep
+30.5
+6.3
+20.9
+29.9
+0.4
+88.1
+
+Oct
+32.8
+6.6
+21.8
+29.2
+0.4
+90.9
+
+Source: Maui Electric Company, Limited June 2022 Sales Forecast.
+
+Trans. No. 23-01
+
+Nov
+32.2
+6.4
+20.8
+28.7
+0.4
+88.5
+
+Dec
+33.7
+6.2
+20.2
+28.0
+0.4
+88.5
+
+Jan
+32.9
+6.0
+19.5
+27.2
+0.4
+86.0
+
+Feb
+29.7
+5.7
+18.6
+26.3
+0.4
+80.7
+
+2024
+Mar
+29.9
+5.8
+19.2
+26.4
+0.4
+81.7
+
+Apr
+28.2
+5.7
+19.0
+27.1
+0.4
+80.4
+
+May
+Total
+28.1 373.6
+5.9
+73.5
+19.8 243.3
+26.4 338.3
+0.4
+5.2
+80.6 1,034.0
+To p6
+
+Confidential Information
+Deleted Pursuant To
+Protective Order No. 2023-PO-04
+
+INFORMAL CA-IR-17
+2023 SPRING REVENUE REPORT
+ATTACHMENT 2
+
+Attachment 2 contains confidential information and is provided subject to
+Protective Order No. 2023-PO-04 issued on January 10, 2023.
+
+Trans. No. 23-01
+
+CERTIFICATE OF SERVICE
+I
+
+hereby
+
+certify
+
+that
+
+a
+
+copy
+
+of
+
+the
+
+foregoing
+
+DIVISION
+
+OF
+
+CONSUMER ADVOCACY’S STATEMENT OF POSITION was duly served upon the
+following
+
+parties
+
+electronically
+
+to
+
+the
+
+e-mail
+
+addresses
+
+below
+
+pursuant
+
+to
+
+HAR § 16-601-21(d), as modified by Order No. 38270 Setting Forth Public Utilities
+Commission Electronic Filing and Service Procedures, filed on March 14, 2022.
+DEAN MATSUURA
+DIRECTOR, REGULATORY RATE PROCEEDINGS
+Hawaiian Electric Company, Inc.
+P.O. Box 2750
+Honolulu, Hawaii 96840-0001
+Email: dean.matsuura@hawaiianelectric.com
+regulatory@hawaiianelectric.com
+DATED: Honolulu, Hawaii, May 1, 2023.
+/s/ S. Strack
+
+Trans. No. 23-01
+
+1
+
+

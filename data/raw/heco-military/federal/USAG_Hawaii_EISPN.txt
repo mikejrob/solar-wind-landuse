@@ -1,0 +1,287 @@
+1                   Notice of Intent to Prepare an Environmental Impact Statement for the
+2                                 Schofield Generating Station Project (SGSP)
+
+ 3   APPLICANT:
+ 4   Hawaiian Electric Company, Inc.
+ 5   P.O. Box 3978
+ 6   Honolulu, HI 96812-3978
+ 7   Contact: Jack Shriver, (808) 543-4088
+ 8
+ 9   APPROVING AGENCY:
+10   Department of Land and Natural Resources
+11   1151 Punchbowl St., Room 131
+12   Honolulu, HI 96813
+13   Contact: William Aila, Chairperson (808) 587-0400
+14
+15   DATES:
+
+16   All comments on this notice will be considered if received or postmarked on or before February 22,
+17   2014.
+
+18   All comments received are a part of the public record. All personal identifying information (for
+19   example, name, address, etc.) voluntarily submitted by the commenter may be publicly accessible.
+20   Do not submit confidential business information or otherwise sensitive or protected information.
+21   ADDRESSES:
+22   Please submit copies of your comments to both DLNR and the EIS Consultant (Tetra Tech, Inc).
+23   Please send comments with the subject line of SGSP EISPN and include your email address if
+24   possible. Transmission of comments to DLNR must be via U.S. Mail to DLNR at the address below,
+25   as DLNR will only accept comments via mail:
+26   Department of Land and Natural Resources
+27   1151 Punchbowl St., Room 131
+28   Honolulu, HI 96813
+29   Attention: William Aila, Chairperson
+30   Transmission of comments to Tetra Tech, Inc may be via any of the means listed below (email, fax,
+31   or U.S. Mail). However, attachments to electronic comments will be accepted in Microsoft Word,
+32   Excel, WordPerfect, or Adobe PDF file formats only:
+33   Email: sgspcomments@tetratech.com.
+34   Facsimile (fax): 703-385-6007 (Attention: SGSP EISPN).
+35   U.S. Mail: Melissa DeSantis, Tetra Tech, Inc. (Attention: SGSP EISPN, 10306 Eaton Place, Suite 340,
+36   Fairfax VA 22030).
+37   Your comments will be forwarded to the Applicant (Hawaiian Electric).
+38
+39   FOR FURTHER INFORMATION CONTACT:
+
+40   For more information on the project, please contact Mr. Jack Shriver, Senior Engineer,
+41   Generation Project Development, Hawaiian Electric Company. Mr. Shriver can be reached
+42   by phone at (808) 543-4088, Monday through Friday from 8:00 a.m. to 5:00 p.m. (Hawai’i
+43   Standard     Time),    or    by     email     at    jack.shriver@hawaiianelectric.com.
+
+     {00034119-2}
+1    BRIEF DESCRIPTION OF PROPOSED ACTION
+
+2    Overview of the Proposed Action
+
+3    The proposed action, referred to as the Schofield Generating Station Project (SGSP) consists of the
+4    following:
+
+5       •   The U.S. Army’s lease of 10.3 acres of land, and the related granting of a 2.5 acre
+6           interconnection easement, on Schofield Barracks and Wheeler Army Airfield to the
+7           Hawaiian Electric Company, Inc. (Hawaiian Electric).
+
+ 8      •   The State of Hawai‘i Department of Land and Natural Resources granting of a 1.28 acre
+ 9          easement and a 0.7 acre conservation district authorization allowing for the construction of
+10          a 46 kV electrical power transmission line between the SGSP site and the existing Wahiawa
+11          Substation.
+
+12      •   Hawaiian Electric’s construction, ownership, operation, and maintenance of a 50 megawatt
+13          capacity biofuel-capable power generation plant and 46 kilovolt sub-transmission line
+14          required to connect the Schofield Generating Station to the Hawaiian Electric grid. Hawaiian
+15          Electric would be the sole owner of the plant and the electrical power transmission facilities.
+
+16   Figure 1 shows the location of the SGSP site relative to other existing uses in the region. The
+17   drawing reproduced in Figure 2 depicts the conceptual layout of facilities that comprise the SGSP.
+18   Figure 3 depicts the conceptual alignment of the electrical power transmission facilities that would
+19   link the proposed project to Hawaiian Electric’s existing electrical power transmission and
+20   distribution system.
+
+21   The lease of federal property would be under the authority of 10 United States Code (USC) 2667,
+22   “Leases: non-excess property of military departments.” The easement on federal property would
+23   be under the authority of 10 USC 2668, “Easements for rights-of-way.” The easement over State
+24   land would be as provided for under §171-95, Hawai‘i Revised Statutes (HRS). The conservations
+25   district use authorization would be pursuant to Chapter 183C, HRS, and related regulations. The
+26   proposed facilities would be constructed and operated in accordance with all applicable laws and
+27   regulations.
+
+28   Purpose of and Need for the Proposed Action
+
+29   The purpose of the project is to meet the common needs of Hawaiian Electric and the U.S. Army
+30   Garrison—Hawaii for secure, reliable, and renewable power generation.
+
+31   Hawaiian Electric would operate the SGSP as a peaking/cycling unit to meet load and reliability
+32   requirements of the O‘ahu grid; as such, under normal conditions, it would serve all Hawaiian
+33   Electric customers. The SGSP would benefit Hawaiian Electric and the residents of Oʻahu in a
+34   number of ways. The six biofuel-capable reciprocating engine-generator sets would add 50 MW of
+35   firm, utility-owned renewable energy capacity to the Oʻahu electrical grid. These load-
+36   following/peaking/cycling generating units are quick starting, which makes them particularly
+37   helpful for maintaining grid stability as the amount of power from variable renewable sources
+38   (wind and solar) increases over time. In short, they complement, rather than compete with, other
+39   existing and anticipated renewable energy sources in the system. The SGSP would benefit
+40   Hawaiian Electric’s system in other ways as well: (i) its location away from the coastline protects it
+41   from natural disasters that could affect many of the electrical power sources on the island; (ii) its
+
+                                                                                                    Page 2
+1    ability to provide power directly to Wheeler Army Airfield (a FEMA designated relief airfield and
+2    Hawaii National Guard site) will enhance disaster relief capacity on Oahu; (iii) its central O‘ahu
+3    location places it closer to users who are now relatively far from generating sources, thereby
+4    enhancing grid stability and reducing power restoration times for the Wahiawa community in the
+5    event of an outage; (iv) its position within a guarded military installation reduces its exposure to
+6    man-made threats.; and (v) its use of renewable biofuels will contribute to State Renewable
+7    Portfolio Standard goals.
+
+ 8   The proposed action meets two needs for the Army. The SGSP would be a source of renewable
+ 9   power that would enhance energy security for Schofield Barracks, Wheeler Army Airfield, and Field
+10   Station Kunia if loss of service occurs from the normal sources of electricity supporting these
+11   installations. It would also help achieve the Army goals of producing renewable energy on Army-
+12   owned real property.
+
+13   The Schofield Generating Station would operate on a mix of biofuel and diesel as required to meet
+14   Hawaiian Electric's Renewable Portfolio Standards and the US Army's renewable energy goals, as
+15   well as sustain a local demand for biofuels. Being multi-fuel capable, it would be able to run on a
+16   combination of fuels as necessary to ensure operations are economically viable and can continue
+17   under adverse operating conditions.
+
+18   As the penetration of as-available energy resources, particularly solar photovotaics, increases on
+19   Hawaiian Electric’s grid, the load curve is expected to change in two ways. Firstly, during daylight
+20   hours when photovoltaic production is high total energy demand served by the grid’s firm
+21   generation sources is likely to be reduced. This effect is expected to create a short morning peak
+22   (before the sun rises) for the firm generation sources, and a more pronounced evening peak (after
+23   sunset and coincident with peak total demand) for the firm generation sources. Secondly, as the
+24   proportion of power and energy provided by wind and solar increases, the effects of clouds and
+25   wind variability will have a correspondingly larger impact on grid stability throughout the day.
+
+26   Schofield Generating Station’s combination of quick-starting, flexible, and high efficiency
+27   capabilities would combine traditional definitions of “cycling” and “peaking” units, and would
+28   instead meet both of these needs as a peaking/cycling station. As such, it would allow the grid to
+29   accommodate more fluctuating renewable energy than would otherwise be the case. Accordingly,
+30   the EIS will analyze an intermittent operating scenario in which the facility would operate at loads
+31   that vary between maximum continuous output (all six engines operating at full load) and
+32   minimum load (one engine operating at roughly 50 percent load), for up to 2,200 hours per year
+33   (approximately six (6) hours/day). If it were operated in such a fashion, it would consume up to
+34   eight (8) million gallons of fuel per year.
+
+35   If demand increases, operations of other generating facilities decline, and/or future renewable
+36   resources do not develop, full-time (rather than intermittent) operation could become a viable
+37   operating scenario. As the SGSP would be permitted to operate 7 days a week and 24 hours per
+38   day, this EIS will also analyze the impacts of full (100%) operation as a reasonably foreseeable
+39   upper bound of effects. Under full operation, each engine would operate 8,760 hours per year, and
+40   the SGS would use up to 31.5 million gallons of fuel (a combination of biofuels and fossil fuels) per
+41   year.
+
+42   The agreement under which the SGSP would be constructed and operated would, under certain
+43   conditions such as sustained outages or security threats, give the Army “first call” on the electrical
+44   energy it produces, and the included transmission facilities would allow the power it produces to be
+45   “islanded” to give priority to the Army facilities. SGSP will also shorten the time required to restore
+
+                                                                                                     Page 3
+1    power to the Wahiawa community, and have the capability and capacity to start up other Hawaiian
+2    Electric generation units at Waiau Power Plant, expediting the restoration of the grid in the event of
+3    an island-wide outage. The 50 MW firm power capacity of the SGSP is sufficient to meet the three
+4    Army installations’ peak electrical power requirements for all operational needs, administrative
+5    functions, logistics, and quality of life functions, thereby providing energy security for the
+6    installations if power from the normal source of electricity supporting these Army installations (i.e.,
+7    the Hawaiian Electric island-wide grid) is interrupted. Thus, the proposed action would help to
+8    ensure that the Army’s critical national security and first response missions can be carried on even
+9    when the island wide utility grid has been compromised.
+
+10   DETERMINATION & REASONS SUPPORTING DETERMINATION:
+
+11   The Department of the Army has determined that the SGSP is an action that is subject to the
+12   National Environmental Policy Act (NEPA), as amended, the Council on Environmental Quality
+13   (CEQ) NEPA regulations (40 CFR Parts 1500 through 1508), and the Department of the Army’s
+14   NEPA implementing procedures (32 CFR Part 651). It has further determined that it will prepare
+15   an environmental impact statement for the proposed undertaking.
+
+16   The Department of Land and Natural Resources has determined that the SGSP is an action subject
+17   to Chapter 343 and has further determined that an environmental impact statement should be
+18   prepared. Hawaiian Electric’s proposal calls for construction of a new 6-mile long overhead 46 kV
+19   sub-transmission line that would allow power from the SGSP to be delivered to the existing
+20   Hawaiian Electric 46 kV system. A segment of that route passes over State lands. The granting of
+21   the easement for that land constitutes use of State land that is subject to Chapter 343, and Hawai‘i
+22   Administrative Rules §11-200.
+
+23   In accordance with § 343-5(h), HRS, because this action is subject to both the NEPA and to Chapter
+24   343, the Army, the Department of Land and Natural Resources and Hawaiian Electric are
+25   cooperating to reduce duplication between federal and state requirements by preparing joint
+26   environmental impact statement documents with concurrent public review.
+
+27   In 2012, the State Legislature enacted Act 172, allowing the Chapter 343 process to begin with
+28   preparation of an environmental impact statement preparation notice (EISPN) rather than a draft
+29   environmental assessment (DEA) in cases where the agency determines that an EIS is likely to be
+30   required. This brings the law into alignment with NEPA, which has always allowed for the
+31   preparation of an EIS if a Federal agency believes that the action may have a significant impact on
+32   the environment.
+
+33   It is the Army's and DLNR’s experience that actions with the size and scope of the SGSP have the
+34   potential to have significant environmental effects and benefit from the public review that is
+35   provided by the EIS process; therefore, they have decided to prepare an EIS without the
+36   preparation of an EA. The Army expects to initiate the EIS scoping process in January 2014 with
+37   publication of a Notice of Intent in the Federal Register coinciding with publication of the EISPN.
+
+38   The Joint Federal/State EIS will examine in detail the potential beneficial and adverse effects of
+39   implementing the proposed lease/easement action and the construction/operation of the SGSP.
+40   The EIS will assess the potential for direct, indirect, and cumulative effects on the human, natural,
+41   and cultural environment and identify mitigation measures for adverse effects.
+
+42   The EIS will also report the effects of a No Action Alternative as prescribed by federal and state
+43   regulations to serve as the baseline against which the proposed action and alternatives are
+44   analyzed. Under the No Action Alternative, the Army would not execute the lease/easement, DLNR
+
+                                                                                                     Page 4
+1    would not grant the easement, and Hawaiian Electric would not construct the electrical power
+2    generation and transmission facilities. Under normal conditions, Hawaiian Electric would continue
+3    to use existing electrical generation facilities, fuels, and grid assets to supply power to its
+4    customers, including the Army. During periods when the grid is unable to provide power to the
+5    three Army installations, they would rely on their existing fossil fuel-powered backup generators.
+6    Because those existing units are able to provide less than 10 percent of the amount needed, the vast
+7    majority of the activities on the installations would be interrupted until normal power is restored.
+
+ 8   Finally, in accordance with NEPA and Chapter 343 requirements, the EIS will also discuss whether
+ 9   or not there are additional reasonable alternatives that could meet the purpose of the project and
+10   the needs of both the Army and Hawaiian Electric. If such alternatives are found to exist through
+11   the scoping process, they will be considered in the EIS.
+
+12   The EIS will evaluate the full range of potential environmental, cultural, and socioeconomic impacts
+13   associated with implementing the proposed action and alternatives, including short-term impacts
+14   associated with construction. The following impact categories have been tentatively identified for
+15   consideration in the EIS:
+16       • Cultural and historical resources (including Native Hawaiian resources).
+17       • Air quality (including climate change and greenhouse gas emissions).
+18       • Water resources (including floodplain, wetlands, and stormwater management).
+19       • Geology and soils.
+20       • Land use.
+21       • Biological resources (including threatened and endangered species, special status species,
+22           and related sensitive resources).
+23       • Traffic and transportation.
+24       • Airspace management.
+25       • Public health and safety.
+26       • Noise.
+27       • Hazardous materials and waste management.
+28       • Visual resources.
+29       • Socioeconomics.
+30       • Environmental justice (disproportionately high and adverse impacts to minority and low-
+31           income populations).
+32       • Protection of children (from environmental health risks and safety hazards).
+33       • Utilities and infrastructure.
+
+34   The Army and Hawaiian Electric anticipate that they will conduct several studies in support of the
+35   environmental impact statement. These include:
+36      (i)    a traffic study to analyze the potential impacts to traffic flow during construction and
+37             operation along Kunia Road and within Schofield Barracks;
+38      (ii)   an air quality impact study evaluating the effects of constructing and operating the
+39             SGSP;
+40      (iii)  a stormwater characterization study for the SGSP site;
+41      (iv)   a Phase I cultural resources survey on the SGSP and transmission line properties; and
+42      (v)    a separate Cultural Impact Assessment (CIA) as required by HRS Chapter 343.
+
+43   GOVERNMENT AGENCIES RESPONSIBLE FOR APPROVALS:
+
+44   The EIS will be jointly approved by the Commander of the US Army Garrison—Hawaii and the
+45   Department of Land and Natural Resources.
+
+                                                                                                  Page 5
+1   Figure 1   Location of the Proposed Action.
+
+
+
+
+2
+
+
+
+
+                                                  Page 6
+1   Figure 2   Conceptual Layout of the Proposed Schofield Generating Station.
+
+2
+
+
+
+
+                                                                                 Page 7
+1   Figure 3   Conceptual Alignment of the Proposed 46 kV Transmission Facilities
+
+
+
+
+                                                                                    Page 8
+

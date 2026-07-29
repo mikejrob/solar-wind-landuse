@@ -1,0 +1,2270 @@
+                      DLA Energy Utility Services
+               Quality Assurance Surveillance Plan
+                                        (QASP)
+                                      Template
+(NOTE: In the final QASP document, delete the word “Template” above, and replace with
+contract number and description using the following format:
+
+                             Contract No. SP0600-XX-C-XXXX
+
+                         (Installation Name) – (Name of System(s))
+
+                         System Owner: (Name of System Owner)
+
+Do not include this note as part of the QASP document.)
+
+
+
+
+                                       17 May 2013
+
+
+
+                                        Version 1.0
+                  Defense Logistics Agency Energy, Utility Services Division,
+
+                                  Internal Support Branch
+                                              1
+                                  UP QASP – Contract No. SP0600-XX-C-XXXX 2013
+                                          (Installation Name, State) (system(s))
+
+
+       TABLE OF CONTENTS
+  I.    Introduction
+
+           a. Purpose
+
+           b. Government Roles and Responsibilities
+
+           c. System Owner (SO) Roles and Responsibilities
+
+           d. General Areas to be Monitored During SO Performance
+
+           e. Performance Standards
+
+           f. Surveillance/Monitoring Methods
+
+           g. Performance-Based Rating System to be Used
+
+           h. Performance Documentation
+
+ II.    Specific Plans/Areas to Be Monitored Under the QASP
+
+           a. Operational Transition Plan (NOTE: Remove link and insert “(removed)” after
+              the word “Plan” after successful completion of the Operational Transition
+              Plan…Do not include this note as part of the QASP document.)
+
+           b. Service Interruption Contingency and Catastrophic Loss Plan
+
+           c. Operations and Maintenance/Quality Management Plan
+
+           d. Initial System Deficiency Corrections/Renewals & Replacements Plan
+
+           e. Other Areas to be Monitored
+
+III.    General Methodology Used in Building and Maintaining the Plan-Specific
+        Checklists (Appendices D through H) in the QASP
+
+IV.     QASP Maintenance/Review/Update
+
+ V.     Summary
+                                                 2
+                            UP QASP – Contract No. SP0600-XX-C-XXXX 2013
+                                    (Installation Name, State) (system(s))
+
+
+Appendices
+
+  Appendix A – FORM – QASP Periodic Maintenance, Review & Acceptance
+
+  Appendix B – FORM – Performance Report
+
+  Appendix C – FORM – Contract Discrepancy Report (CDR) (DD Form 2772)
+
+  Appendix D – FORM – COR Monthly Report to the Contracting Officer
+
+  Appendix E – CHECKLIST – Operational Transition Plan (NOTE: Upon successful
+  completion of the Operational Transition Period, remove Appendix E links (including
+  table below), and insert the text: “(removed)” after the word “Plan”…Do not include
+  this note as part of the QASP document.)
+
+       1. Initial Contract Documentation /       7. Joint Inventory
+          Requirements
+
+       2. Conduct Post-Award Orientation         8. Service Requirements
+          Conference
+
+       3. Permits and Leases/Easements           9. Records Management
+
+       4. Security Requirements                  10. Environmental Compliance
+
+       5. Budget / IT Requirements               11. Contingency Operations
+
+       6. SO Personnel Policies
+
+
+
+  Appendix F – CHECKLIST – Service Interruption Contingency and Catastrophic Loss
+  Plan
+
+  Appendix G – CHECKLIST – Operations and Maintenance/Quality Management Plan
+
+       1. Meetings                               4. Data Transfer
+
+       2. Plans and Operation Initiatives        5. Environmental Compliance
+
+       3. System Deficiency Corrections /
+          Renewals / Replacements
+
+
+
+                                             3
+                          UP QASP – Contract No. SP0600-XX-C-XXXX 2013
+                                  (Installation Name, State) (system(s))
+
+
+
+
+Appendix H – CHECKLIST – Initial System Deficiency Corrections / Renewals and
+Replacements Plan
+
+     1. Project Review / Master Planning       3. Post-Project Completion Actions
+
+     2. Specific Project Planning
+
+
+
+Appendix I – CHECKLIST – Other Areas to be Monitored
+
+
+
+
+                                           4
+                            UP QASP – Contract No. SP0600-XX-C-XXXX 2013
+                                    (Installation Name, State) (system(s))
+
+
+I.   Introduction
+        a. Purpose:
+
+           1) This Quality Assurance Surveillance Plan (QASP) is an instructional/guidance
+              document that will assist the Utility Services (US) Contracting Officer’s
+              Representative (COR) in technical observation and contract management
+              duties on this US contract. The QASP also serves as an official document
+              informing the System Owner (SO) of those areas of technical observation and
+              contract management for which the COR will be involved. The QASP uses a
+              combination of surveillance methods to adequately asses the technical and
+              management requirements of this contract. This QASP is an attachment to the
+              US contract. However, it is important to note that this QASP is living
+              document that may change as needed or when the current contract is amended
+              or if changes are needed outside the normal scope of the contract directives.
+
+        b. Government Roles and Responsibilities:
+
+           1) Contracting Officer (KO): Has overall responsibility for overseeing the
+              SO’s performance. The KO, through an assigned COR, monitors the SO’s
+              performance in the areas of contract compliance, contract administration, and
+              cost control. The KO also reviews the quality of the COR’s assessment of the
+              SO’s performance, to include resolving any differences between the COR’s
+              and the SO’s version of events. The KO is the only individual authorized to
+              direct the SO in the performance of his duties under the contract and to make
+              interpretations of, and changes to, the contract that bind the Government. No
+              payments will be made for any unauthorized supplies/services or for any
+              unauthorized changes to the work specified herein. This includes any services
+              performed by the SO of its own volition or at the request of an individual
+              other than the duly appointed Contracting Officer. It is very important to
+              remember that the Contracting Officer is the ONLY person that may obligate
+              US Government for any changes to the contract.
+
+           2) Contracting Officer’s Representative (COR): Has the responsibility for
+              technical monitoring of the SO’s performance, as well as assessing, recording,
+              and reporting on the SO’s compliance with the terms and conditions of the
+              contract. The COR will ensure his/her availability to receive mandatory
+              training prior to performing SO surveillance. The COR will maintain
+              surveillance documentation and will notify the Installation Commander
+              (through the KO) of any significant Performance deficiencies, and recommend
+                                           5
+                     UP QASP – Contract No. SP0600-XX-C-XXXX 2013
+                             (Installation Name, State) (system(s))
+
+
+      improvements to the QASP and Performance Work Statement (PWS)
+      throughout the life of the contract. The COR is appointed to represent the
+      Contracting Officer on technical matters and has no authority to bind the
+      government or direct performance not otherwise authorized and stipulated in
+      this contract. This individual has primary responsibility for accepting,
+      rejecting, or requiring correction of any deficiencies found in deliverables
+      unless otherwise defined in this task order. In the event of rejection of any
+      deliverable, the SO will be notified in writing by the Contracting Officer of
+      the specific reasons why the deliverable was rejected.
+
+   3) Other Key Government Personnel: Contracting Specialist(s), US COR
+      Program Manager and the US Contracting Team will provide contractual
+      guidance and requirements when needed or appropriate. Any unforeseen or
+      potential conflicts or problems can be addressed with the individuals listed but
+      for any contractual changes, the Contracting Officer is the ONLY authority to
+      make any change to the contract. If applicable, this QASP will be revised to
+      include relevant POC information.
+
+c. System Owner (SO) Roles and Responsibilities:
+
+   1) The SO has the responsibility for complying fully with the terms and
+      conditions of the contract, participating as a member of the multi-functional
+      team in the post-award management phase, maintaining and implementing a
+      Quality Control Plan that complements the Performance Plan insuring that
+      non-conforming contract services are identified and corrected. The SO will
+      perform for the Government services that conform to the contract
+      requirements and recommend changes to the contract that will provide more
+      effective operations or eliminate unnecessary costs. The SO will be
+      responsible for the execution of both the contractual and technical aspects of
+      the contract performance. As the owner of the (insert type(s)) utility
+      system(s), and performing under a utility services contract to the Government,
+      the SO is responsible for all ownership, operations, maintenance,
+      renewals/replacements/system deficiency corrections, and applicable
+      compliance issues related to the system(s).
+
+d. General Areas to be Monitored During SO Performance:
+
+   1) Quality of Services Provided
+
+
+                                     6
+                                 UP QASP – Contract No. SP0600-XX-C-XXXX 2013
+                                         (Installation Name, State) (system(s))
+
+
+                         i.   Compliance with Contract Requirements
+                        ii.   Appropriateness of Personnel for the Task
+                       iii.   Technical Excellence
+
+              2) Timeliness of Performance / Adherence to Schedule
+
+                         i.   Responsiveness to Technical Direction
+                        ii.   Completion of Work Requirements
+                       iii.   Reliability
+
+              3) Cost Control
+
+                         i.   Demonstration of Daily Operational Efficiencies
+                        ii.   Execution of Scoped Renewal/Replacement/Upgrade Work
+                       iii.   Incorporation of Value-based Engineering Concepts
+                       iv.    Plan/Approach for Review of Contract Financial Status
+                        v.    Anticipation of Unquantified (yet reasonably expected) Utility-
+                              Related Issues
+                       vi.    Accuracy & Clarity of Billings
+
+              4) Business Relations
+
+                         i.   Management Effectiveness
+                        ii.   Flexibility
+                       iii.   Customer-focus
+                       iv.    Avoidance of Problems
+                        v.    Timeliness of Notification and Mitigation of Problems
+                              o    Effectiveness of SO’s Recommended Solutions
+                              o    Effectiveness of Execution of Problem Resolution
+
+              5) Management of Key Personnel
+
+                         i.   Staffing Stability -- Levels and Key Personnel
+                        ii.   Qualifications & Relevant Experience of Personnel
+
+
+(Note: The five general areas in I.d above may serve to provide helpful structure/direction to
+the COR when submitting input for the annual SO Performance Assessment and Rating
+System (CPARS) assessment required for the contract. Although the above represent major
+areas to be considered when monitoring SO performance, the list should not necessarily be
+considered all inclusive…Do not include this note as part of final QASP document.)
+                                                7
+                                 UP QASP – Contract No. SP0600-XX-C-XXXX 2013
+                                         (Installation Name, State) (system(s))
+
+
+Section II of this QASP provides further technical guidance and lists the specific operational
+plans associated with this Utility Services contract.
+
+           e. Performance Standards
+
+               1) The Description/Specifications/Work Statement identifies Government
+                  objectives and performance standards. The Government will use these
+                  standards to assess SO performance against these objectives to ensure
+                  performance is, at a minimum, satisfactory.
+
+           f. Surveillance/Monitoring Methods
+
+               1) Various methods exist to monitor performance. Below are examples of
+                  surveillance/monitoring methods the COR will use in the administration of
+                  this QASP. Regardless of the surveillance method, the COR will contact the
+                  SO’s designated representative when a problem/defect is identified and
+                  provide the representative the details of the identified problem/defect.
+                  Examples of surveillance/monitoring methods include:
+
+                         i.   Direct Observation (e.g. real-time observation of utility system
+                              activities or meetings being performed by the SO)
+                        ii.   Assessment of Deliverables (e.g. verification of the timeliness and
+                              quality/sufficiency of required submittals, such as monthly outage
+                              reports and the Annual Corrections/Upgrades/ Connections/R&R
+                              Plan)
+                       iii.   Review of Invoices/Payments (e.g. verification of the accuracy of
+                              submitted invoices and payment receipts for all billable costs, to
+                              include travel and miscellaneous expenses)
+                        iv.   Sample Reviews (e.g. review of operation & maintenance
+                              procedures/plans at an unspecified/unannounced frequency)
+
+                      The Inspection and Acceptance clauses (or other applicable clauses)
+                      become the basis for any actions that the Contracting Officer may deem
+                      appropriate when performance requirements are not being met or the
+                      quality is of an unsatisfactory level.
+
+           g. Performance-Based Rating System to be Used
+
+
+
+                                                8
+                 UP QASP – Contract No. SP0600-XX-C-XXXX 2013
+                         (Installation Name, State) (system(s))
+
+
+1) The SO will be annually assessed and rated for their performance and
+   operation of the utility system listed per the contract. The Contractor
+   Performance Assessment Reporting System (CPARS) will be utilized to
+   perform this assessment:
+
+         i.   CPARS training can be accessed at: http://www.cpars.csd.disa.mil/
+              (Use “Assessing Official Representative” role) (Approx. 2 hrs. to
+              complete)
+
+   The COR will establish an account in CPARS in order to officially contribute
+   to the Government’s annual assessment of the SO’s performance. The COR’s
+   input will carry significant weight in the development of the Government’s
+   overall annual rating of the SO’s performance under this contract. The COR
+   will assign a rating to the SO’s performance under the contract using the
+   following table:
+
+
+EXCEPTIONAL            Performance exceeded many of the contract requirements to
+                        the Government’s benefit.
+                       Few minor problems resulted from the performance; any
+                        corrective actions taken were highly effective.
+VERY GOOD              Performance exceeded some of the contract requirements to
+                        the Government’s benefit.
+                       Some minor problems resulted from the performance; any
+                        corrective actions taken were effective.
+SATISFACTORY           Performance met all of the contract requirements.
+                       Some minor problems resulted from the performance;
+                        corrective actions taken were satisfactory.
+MARGINAL               Performance did not meet some of the contract requirements,
+                        causing impact to the Government.
+                       Serious problems resulted from the performance, but recovery
+                        was still possible; corrective actions taken were either
+                        marginally effective or not fully implemented.
+UNSATISFACTORY         Performance did not meet most of the contract requirements,
+                        causing impact to the Government.
+                       Serious problems resulted from the performance, and recovery
+                                9
+                     UP QASP – Contract No. SP0600-XX-C-XXXX 2013
+                             (Installation Name, State) (system(s))
+
+
+                             was not considered likely; corrective actions taken were
+                             ineffective.
+
+
+      The COR’s assessment and recommended rating will be reviewed by the DLA
+      Energy Contract Specialist and Contracting Officer to ensure sufficient
+      justification.
+
+
+   2) Upon completion of the Government’s annual assessment and rating of the
+      SO’s performance, the assessment and rating will be officially recorded in the
+      Past Performance Retrieval System (PPIRS). Information in PPIRS will serve
+      as a valuable Government source of SO past performance information for
+      future solicitations upon which the SO may offer.
+
+             i.   PPIRS training can be accessed at:
+                  http://www.ppirs.gov/webtrain/webtrain.htm
+
+h. Performance Documentation
+
+   1) SO performance on this contract will be documented in the manner described
+      below:
+
+            ii.   Acceptable performance. The Government will document
+                  performance that meets or exceeds minimum task order
+                  expectations. A Performance Report will be used for this
+                  documentation effort, and is to be used whenever the COR
+                  performs monitoring/surveillance (i.e. inspections, visits, etc.) on
+                  the UP contract. A template for this Report can be found at
+                  Appendix B. All Performance Report documentation will be
+                  placed in the COR file. It is important to note that these
+                  Performance Reports can become part of supporting
+                  documentation for appropriate actions taken under this contract.
+
+           iii.   Unacceptable performance. When unacceptable performance is
+                  observed, in addition to completing a Performance Report, the
+                  COR will complete a DD Form 2772, Contract Discrepancy
+                  Report (CDR). An example of this form can be found at Appendix
+                  C. This form serves as the official written notification to the SO of
+                                    10
+          UP QASP – Contract No. SP0600-XX-C-XXXX 2013
+                  (Installation Name, State) (system(s))
+
+
+      an observed contract discrepancy. (Note: Only under unique
+      circumstances will verbal communication be used to initially
+      inform the SO of a potential contract discrepancy. However, in
+      those cases, the COR will follow-up with written notification of the
+      finding as soon as possible, coordinate it through the KO, and
+      provide to the SO.) As part of the CDR process:
+
+      o    The SO shall acknowledge receipt of the CDR in writing.
+      o    The SO will prepare a corrective action plan to document
+           how the SO shall correct the unacceptable performance and
+           avoid recurrence.
+      o    The CDR will clearly indicate a due date by which the SO
+           has to present this corrective action plan to the COR.
+      o    The Government will review the SO’s corrective action plan
+           to determine acceptability.
+
+iv.   Summary of Methodology & Purpose for Performance
+      Documentation. The reports & forms referenced in this QASP are
+      designed to collectively serve as a traceable documented history of
+      SO performance. These will also support recordkeeping
+      requirements mandated by the DoD Contracting Officer’s
+      Representative Training (CORT) tool, as well as annual
+      performance assessments mandated by CPARS. Specifically:
+      o     Performance Report (Appendix B) -- Used by the COR
+            whenever performing contract monitoring/surveillance on the
+            UP contract. Both negative and positive aspects of the SO’s
+            performance are documented. The information recorded in
+            Performance Reports can serve as a significant source of
+            documented SO performance. This information can
+            subsequently be used in developing the COR Monthly Report
+            to the Contracting Officer.
+      o     DD Form 2772, Contract Discrepancy Report (CDR)
+            (Appendix C) -- Used by the COR whenever a contract
+            discrepancy is found as a result of the COR’s
+            monitoring/surveillance activity. CDRs can serves as a
+            significant source of documented deficient SO performance.
+            Subsequently, CDRs can become part of supporting
+
+                       11
+                                UP QASP – Contract No. SP0600-XX-C-XXXX 2013
+                                        (Installation Name, State) (system(s))
+
+
+                                  documentation for appropriate Government actions taken
+                                  under this contract regarding SO performance or failure to
+                                  perform. CDRs, together with Performance Reports, should
+                                  be used in developing the COR Monthly Report to the
+                                  Contracting Officer.
+                            o     COR Monthly Report to the Contracting Officer
+                                  (Appendix D) – Required to be produced by the COR and
+                                  loaded onto the DoD CORT Tool every month. Report
+                                  should serve as a compilation/summary of the results &
+                                  observations from the CORs contract monitoring and
+                                  surveillance activities from the past month. Both negative
+                                  and positive aspects of the SO’s performance are
+                                  documented. The compilation of these monthly reports over
+                                  the course of annual contract period of performance will
+                                  serve as a significant source of documentation supporting the
+                                  Government’s annual CPARS assessment for the SO under
+                                  this contract.
+
+II.   Specific Plans/Areas to Be Monitored Under the QASP
+
+      The QASP layout is generally structured to be consistent with the major plans that
+      comprise the majority of the SO’s tasks/responsibilities under this contract.
+
+         a. Operational Transition Plan
+
+             1) Purpose: This Plan contains the SO’s approach and procedures demonstrating
+                its ability to adequately and effectively maintain continuous utility service and
+                minimize service impacts, while smoothly and effectively transferring
+                responsibility and accountability for utility system capital assets, permits,
+                personnel resources, administration, and other system responsibilities.
+
+             2) COR checklist for this Plan can be found at Appendix E.
+
+
+         b. Service Interruption Contingency and Catastrophic Loss Plan
+
+             1) Purpose: This Plan contains the SO’s approach and procedures demonstrating
+                its ability (during normal daily operations and during disaster/contingency
+                situations) to receive service requests; to classify their severity; to
+                                              12
+                     UP QASP – Contract No. SP0600-XX-C-XXXX 2013
+                             (Installation Name, State) (system(s))
+
+
+      appropriately respond to those requests; to provide status to the customer; and
+      to access proper manning, materials, equipment, and vehicles.
+
+   2) COR checklist for this Plan can be found at Appendix F.
+
+
+c. Operations and Maintenance/Quality Management Plan
+
+   1) Purpose: This Plan contains the SO’s approach and procedures demonstrating
+      its overall quality philosophy and the adequacy of procedures used to ensure
+      that contract requirements are met (or exceeded) and that the system is being
+      operated and maintained in a manner consistent with its long-term ability to
+      provide reliable, cost-effective, and compliant service. The Plan also
+      demonstrates the SO’s ability to modify service practices and quality
+      management actions as necessary to accommodate changes in legal
+      requirements or industry standards.
+
+   2) COR checklist for this Plan can be found at Appendix G.
+
+
+d. Initial System Deficiency Corrections/Renewals and Replacements Plan
+
+   1) Purpose: This Plan contains the SO’s approach and procedures demonstrating
+      the SO’s ability to identify, plan and execute upgrade, renewal, and
+      replacement activities to ensure a long-term efficient utility system. The Plan
+      should demonstrate the comprehensiveness, feasibility, and effectiveness to
+      which these activities are executed.
+
+   2) COR checklist for this Plan can be found at Appendix H.
+
+
+e. Other Areas to be Monitored
+
+   1) In addition to the four major plans above, the QASP will also include
+      applicable areas of responsibility/duties for which the COR – serving as the
+      Contracting Officer’s on-ground representative – should have oversight.
+      These may include, but not be limited to, general activities such as 1) ensuring
+      the appropriate information exchange occurs between the SO and appropriate
+      Government representatives on contract/project-related issues, and 2)
+      validating payment invoices submitted by the SO.
+
+                                   13
+                                UP QASP – Contract No. SP0600-XX-C-XXXX 2013
+                                        (Installation Name, State) (system(s))
+
+
+              2) COR checklist for this Plan can be found at Appendix I.
+
+
+III.   General Methodology Used in Building and Maintaining the Plan-Specific
+       Checklists (Appendices D through H) in the QASP
+
+       (NOTE: As part of the final QASP document, it is beneficial to have a general
+       discussion as to the methodology used in building its content. However, the text below
+       will require modification prior to inclusion in the final QASP document used for a
+       specific contract. Items a through d below, as currently shown, serves as a basis of
+       instruction to aid the COR to initially construct the QASP document, as well as
+       maintain thereafter…Do not include this note as part of final QASP document.)
+
+       A deliberate methodology is used to develop and maintain the content of the QASP. At
+       any particular time, the QASP content should reflect the most current and representative
+       areas that require government monitoring, surveillance, and/or coordination to ensure
+       acceptable SO performance.
+
+          a. Review Section L of the RFP
+
+              1) This will provide an outline of the major areas to be included in each of the
+                 four main Plan-specific checklists (Appendices E though H). (Note: This will
+                 help build the initial structure of the checklists to be used in the template.
+                 Going forward, after the initial QASP is built, the COR should not have to
+                 refer to the RFP for structural guidance on maintaining the contract-
+                 specific QASP…Do not include this note as part of final QASP document.)
+
+              2) Include those identified items in the appropriate Plan checklist(s).
+
+          b. Review Section C of the RFP
+
+              1) This will help identify potential surveillance/monitoring/coordination
+                 activities to be included in any one of the five QASP checklists, as applicable
+                 (Appendices E through I). (Note: These “Section C” requirements become
+                 part of the actual contract upon award.)
+
+              2) Include those identified items in the appropriate Plan checklist(s).
+
+          c. Review the Utility-Specific Section JA Attachment
+
+                                               14
+                                UP QASP – Contract No. SP0600-XX-C-XXXX 2013
+                                        (Installation Name, State) (system(s))
+
+
+             1) This will help identify potential Installation-specific surveillance/monitoring/
+                coordination activities to be included in any one of the five QASP checklists,
+                as applicable (Appendices E through I) (Note: These “Section J”
+                requirements become part of the actual contract upon award.)
+
+             2) Include those identified items in the appropriate Plan checklist(s).
+
+         d. Review each of the four main Plans provided by the SO and included in the
+            contract
+
+             1) Review each of the Plans (using the general initial structure provided by
+                Section L of the RFP – see Section III a. above) and identify any specific
+                items that address products/activities/etc. required of the SO.
+
+             2) Include those identified items in the appropriate Plan checklist(s).
+
+IV.   QASP Maintenance/Review/Update
+
+      The QASP is a living document that will require periodic review and updating.
+
+         a. Revisions to this document may be necessary to adequately reflect associated
+            changes in the contract. The Contracting Officer/Specialist and/or COR will
+            bring to proper attention any potential QASP revisions necessary as a result of
+            any changes in the contract.
+
+         b. As a standard, the QASP will be reviewed by the Contracting Officer at least
+            annually. However, an out-of-cycle review may be accomplished if necessary or
+            requested. A sample of a QASP Periodic Maintenance Review and Acceptance
+            form can be found at Appendix A.
+
+V.    Summary
+
+      The QASP serves as an important guiding document, providing the framework for
+      government monitoring, surveillance, and coordination of the SO’s activities and
+      responsibilities under this Utility Privatization contract. The typical long-life of a UP
+      contract, its many moving parts, and the fact that the SO owns the utility system(s),
+      requires a close, long-term partnership between the government and the SO. The
+      deliberate and methodical approach to the development and maintenance of this QASP
+
+
+                                               15
+                             UP QASP – Contract No. SP0600-XX-C-XXXX 2013
+                                     (Installation Name, State) (system(s))
+
+
+   will help ensure this partnership continues to be nurtured, resulting in long-term quality
+   utility service to (insert installation name).
+
+
+
+
+Appendices
+  Appendix A – FORM – QASP Periodic Maintenance, Review & Acceptance
+  Appendix B – FORM – Performance Report
+  Appendix C – FORM – Contract Discrepancy Report (CDR) (DD Form 2772)
+  Appendix D – FORM – COR Monthly Report to the Contracting Officer
+  Appendix E – CHECKLIST – Operational Transition Plan (NOTE: Remove link and
+  insert “(removed)” after the word “Plan” after successful completion of the
+  Operational Transition Plan…Do not include this note as part of the QASP document.)
+  Appendix F – CHECKLIST – Service Interruption Contingency and Catastrophic Loss
+  Plan
+  Appendix G – CHECKLIST – Operations and Maintenance Plan
+  Appendix H – CHECKLIST – Initial System Deficiency Corrections / Renewals and
+  Replacements Plan
+  Appendix I – CHECKLIST – Other Areas to be Monitored
+
+
+
+
+                                            16
+UP QASP – Contract No. SP0600-XX-C-XXXX 2013
+        (Installation Name, State) (system(s))
+
+
+
+
+APPENDICES
+
+
+
+
+          17
+                                         Appendix A
+
+              QASP PERIODIC MAINTENANCE, REVIEW AND ACCEPTANCE
+
+(NOTE: This Appendix serves as a recommended form to use in formally documenting the
+review, and acceptance, of the contents of the latest QASP version for the UP contract…Do
+not include this note as part of the QASP document.)
+(Back to Table of Contents)
+
+The multi-functional team members’ signatures below indicate their review and acceptance of
+the Quality Assurance & Surveillance Plan, dated _________ , for (insert type utility system)
+services provided at (insert installation name) under contract (insert contract number). These
+signatures indicate coordination on this Government QASP at the time of (insert “development”
+or “revision”) and will remain in effect until the Plan is modified.
+
+
+
+___________________________                               ____________________________
+Signature/Date                                            Signature/Date
+(insert name of Government Contracting Officer)           (insert name of COR)
+(insert title and organization)
+
+
+
+___________________________
+Signature/Date
+(insert name of utility company rep)
+(insert company name & title)
+
+
+
+
+                                              18
+                                          Appendix B
+
+                                 PERFORMANCE REPORT
+
+(NOTE: This Appendix illustrates the form to be used in the documentation of SO
+performance on the UP contract…Do not include this note as part of the QASP document.)
+(Back to Table of Contents)
+
+The COR shall complete a Performance Report (shown below) whenever the COR performs contract
+monitoring/surveillance on the Utility Privatization contract.
+
+
+
+
+                                  Performance Report Form
+
+                                               19
+                                            Appendix C
+
+                 CONTRACT DISCREPANCY REPORT (CDR) (DD Form 2772)
+
+                              (Used to formally document discrepancies)
+
+(NOTE: This Appendix illustrates the form to be used in the formal documentation of specific
+SO performance discrepancies/problems on the UP contract, as they are encountered by the
+COR…Do not include this note as part of the QASP document.)
+(Back to Table of Contents)
+The DD Form 2772, SO Discrepancy Report (CDR), shown below, will be prepared by the COR
+to formally notify the SO of a pending discrepancy. The purpose of the form is to allow the SO
+to correct discrepancies with minimal interference from the Government.
+
+
+
+
+A fillable version of this form can be found at:
+           http://www.dtic.mil/whs/directives/infomgt/forms/dd/ddforms2500-2999.htm
+
+                                                 20
+                                            Appendix D
+
+                COR MONTHLY REPORT TO THE CONTRACTING OFFICER
+
+                               (DoD CORT Tool Reporting Requirement)
+
+(NOTE: This Appendix illustrates the form to be used in the monthly summary of
+documented SO performance on the UP contract. This is a DoD CORT Tool
+requirement…Do not include this note as part of the QASP document.)
+(Back to Table of Contents)
+The COR shall complete a COR Monthly Report to the Contracting Officer (shown below) to document
+both negative and positive aspects of the SO’s performance for the UP contract. The report shall be
+submitted to the KO in accordance with a mutually established submittal schedule.
+
+
+
+
+                        COR Monthly Report to the Contracting Officer (pg. 1)
+
+                                                 21
+                           Appendix D
+
+COR MONTHLY REPORT TO THE CONTRACTING OFFICER (cont’d)
+
+
+
+
+       COR Monthly Report to the Contracting Officer (pg. 2)
+
+
+
+
+                                22
+                                                                              Appendix E
+
+                                                     OPERATIONAL TRANSITION PLAN -- CHECKLIST
+
+            (NOTE: This Appendix serves as a checklist to ensure actions necessary for sufficient monitoring of the SO’s Operational
+            Transition Plan – and the SO’s associated demonstrated actions for compliance – are accomplished by the COR and other
+            Government representatives. Upon successful completion of the Operational Transition Period, this appendix can be removed
+            from future versions of the QASP…Do not include this note as part of final QASP document.)
+            (Back to Table of Contents)
+            1. Initial Contract Documentation/Requirements:
+
+Item #    COR Action / Requirement              SO Requirement          Frequency of             Method of           Contract Reference,      Remarks   Check
+                                                                         Occurrence       Surveillance/Monitoring    Section/Paragraph
+
+  a.     UP Contract Document –              SO ensures that the           Initial        Contract Oversight –KO     All Contract Sections
+         DLA Energy Contracting Staff        current/accurate UP                          Acknowledgement and
+         ensures that the UP Contract        Contract is received and                      receipt of SO’s written       (insert correct
+         document, with any associated       provide written                                 acknowledgement           reference(s) to be
+         modifications, is provided to the   concurrence to this                                                     consistent with actual
+         COR/SO                              requirement                                                                    contract)
+
+  b.     Periodic Deliverables/Report        SO will acknowledge           Initial                 N/A                  J/L/C Sections
+         Submittals – COR will               and provide comments
+         establish operational report        to report requirements                                                      (insert correct
+         requirements with the KO and                                                                                  reference(s) to be
+         SO                                                                                                          consistent with actual
+                                                                                                                            contract)
+          Establish mutual agreement
+           with KO, Installation reps,
+           and SO on the specific
+           format of each required
+           report, as well as
+           confirming frequency of
+           submittal.
+                                                                                     23
+                                                                               Appendix E
+
+                                                OPERATIONAL TRANSITION PLAN -- CHECKLIST (cont’d)
+
+  c.     Initial QASP Development &         SO and the COR will           As required            As required               J Section
+         Implementation – COR and           discuss all details for
+         KO will layout detailed plan for   QASP guidance and how                                                        (insert correct
+         QASP implementation with the       it relates to the current                                                  reference(s) to be
+         SO                                 contract                                                                 consistent with actual
+                                                                                                                            contract)
+
+  d.     Establishment of COR Areas         SO will work with COR           Initial                  All             All Contract Sections
+         of Inspection List – COR           and Government
+         ensures an initial list of         representatives to                                                           (insert correct
+         representative areas of            determine an initial array                                                 reference(s) to be
+         inspections (i.e. facilities and   of mutually acceptable                                                   consistent with actual
+         documentation) is developed.       areas (facilities and                                                           contract)
+         List is developed through          documentation) from
+         meetings with the SO and           which SO performance
+         appropriate Government             can be reasonably
+         representatives.                   assessed.
+
+
+
+
+            2. Conduct Post-Award Orientation Conference:
+
+Item #    COR Action / Requirement             SO Requirement            Frequency of             Method of          Contract Reference,      Remarks   Check
+                                                                          Occurrence       Surveillance/Monitoring   Section/Paragraph
+
+  a.     Post-Award Orientation             The SO prepares and             Initial                 N/A                  C/L Sections
+         Conference and Agenda              organizes for the O&M
+         Development – KO/COR               Transition Meeting, to                                                       (insert correct
+         organizes Post-Award               include provision of                                                       reference(s) to be
+         Orientation Conference.            recommended meeting                                                      consistent with actual
+                                                                                      24
+                                                                                Appendix E
+
+                                                   OPERATIONAL TRANSITION PLAN -- CHECKLIST (cont’d)
+
+         COR coordinates with SO to            topics to the COR.                                                              contract)
+         determine specific SO-
+         recommended agenda items for          The SO ensures that all
+         discussion at conference.             required personnel
+                                               attend this meeting
+
+  b.     COR Review of Operational             The SO verifies that the    As needed              Once a month               C/L Sections
+         Transition Plan – COR                 contract information is
+         reviews the UP Contract               correct                                                                       (insert correct
+         Transitional Plan for accuracy                                                                                    reference(s) to be
+                                                                                                                         consistent with actual
+                                                                                                                                contract)
+
+  c.     Utility System Conveyance             SO will ensure that all       Initial           COR will record a             C/L Sections
+         Meeting – COR sets up a future        key personnel are in                          Memorandum for Record
+         Utility System Conveyance             attendance at this                             (MFR) for this action          (insert correct
+         Meeting between Installation          meeting.                                                                    reference(s) to be
+         Personnel and SO                                                                                                consistent with actual
+                                                                                                                                contract)
+
+
+
+            3. Permits and Leases/Easements:
+
+Item #    COR Action / Requirement                SO Requirement          Frequency of             Method of             Contract Reference,      Remarks   Check
+                                                                           Occurrence       Surveillance/Monitoring      Section/Paragraph
+
+  a.     Identify Permits and                  The UP SO provides a        As required      Assessment of Deliverables    Sections C.3, C.6,
+         Associated SO Responsibility          specific listing to the                                                    C.9. C.10, and L.4
+         – Ensure SO provides specific         COR, along with status,
+         listing of all permits for which it   of all permits the SO                                                         (insert correct
+         has responsibility in the             will be responsible for                                                     reference(s) to be
+                                                                                       25
+                                                                          Appendix E
+
+                                             OPERATIONAL TRANSITION PLAN -- CHECKLIST (cont’d)
+
+     ownership, operation,               under the contract.                                                    consistent with actual
+     maintenance, and/or upgrade of                                                                                   contract)
+     the specific utility system under
+     the contract.
+
+      Coordinate this list with the
+       appropriate Installation
+       office(s) to ensure
+       concurrence and mutual
+       understanding of
+       responsibilities.
+
+b.   Permit/Lease Applications –         The SO prepares all the    As required           As required               C/L Sections
+     KO/COR ensures that the SO          required documentation
+     applies for applicable permits      for obtaining the                                                          (insert correct
+     and leases.                         specified permits/leases                                                 reference(s) to be
+                                         within the necessary                                                   consistent with actual
+      The KO/COR provides               timeframes to                                                                 contract)
+       guidance to the SO, as            ensure/maintain
+       necessary, for obtaining the      compliance.
+       permits/leases.
+
+c.   Line Locates Plan/Procedures        The SO verifies their        Monthly       During and after the Post       C/L Sections
+     – KO/COR ensures all specific       understanding of the       Permit status     Award Orientation
+     procedures associated with the      Installation’s Digging        reports            Conference                (insert correct
+     SO’s responsibilities for           Permit procedures, to                                                    reference(s) to be
+     locating lines in support of the    include:                                                               consistent with actual
+     Installation Digging Permit                                                                                       contract)
+     Process are clarified and            the Installation
+     documented.                           office(s) with which
+                                           to coordinate line
+                                                                               26
+                                                                       Appendix E
+
+                                          OPERATIONAL TRANSITION PLAN -- CHECKLIST (cont’d)
+
+                                        locate actions
+                                       the maximum number
+                                        of free line locate
+                                        actions to be provided
+                                        under the contract
+                                        (i.e. threshold)
+                                       additional costs per
+                                        locate action (if any)
+                                        for providing line
+                                        locates above the
+                                        established threshold
+
+d.   Review of Current                The SO will:               After the Post     As required       C/L Sections
+     Agreements for                                                  award
+     Appurtenances Attached to         confirm                   Orientation                         (insert correct
+     Utility System Infrastructure      understanding of the       Meeting                          reference(s) to be
+     – The COR ensures that all         current agreements                                        consistent with actual
+     applicable Offices of Primary      and associated                                                   contract)
+     Responsibility (OPRs) identify     attachments
+     to the SO all items that are      work with the
+     current attachments to the SO’s    applicable OPRs, as
+     inventory (ex. Cable TV lines,     necessary, to identify
+     Cell phone antennae, fiber optic   any potential issues
+     lines, etc, that are attached      that may need to be
+     through manholes or strung on      addressed as part of
+     top of power poles of the SO’s     any follow-on
+     Utility System Inventory). The     agreement (once
+     appurtenances must be clearly      current agreement
+     identified and documented. The     expires).
+     COR ensures that all current
+                                                                             27
+                                                                              Appendix E
+
+                                               OPERATIONAL TRANSITION PLAN -- CHECKLIST (cont’d)
+
+         agreements associated with
+         each attachment are provided to
+         the SO.
+
+
+
+            4. Security Requirements:
+
+Item #    COR Action / Requirement            SO Requirement           Frequency of             Method of          Contract Reference,      Remarks   Check
+                                                                        Occurrence       Surveillance/Monitoring   Section/Paragraph
+
+  a.     Security Clearances – COR         The SO prepares and          As required            As required             C/L Sections
+         verifies through the Security     submits all required
+         Office that all contracted        documentation for                                                           (insert correct
+         personnel have the required       obtaining a Government                                                    reference(s) to be
+         JPAS verifications, security      Security Clearance; SO                                                  consistent with actual
+         clearances and access badges.     will ensure that security                                                      contract)
+                                           documentation is filled
+                                           out correctly and
+                                           submitted in a timely
+                                           manner.
+
+  b.     SO Vehicle Registration,          The SO ensures that         At the start of         As required             C/L Sections
+         Insurance, Installation Acces     their vehicles are            transition
+         – COR/KO review the SO            currently registered,        period; then                                   (insert correct
+         confirmation that SO vehicles     meet insurance                for every                                   reference(s) to be
+         are registered, meet insurance    requirements, and have        change in                                 consistent with actual
+         requirements, and have access     access stickers for         vehicle and/or                                     contract)
+         stickers for Installation         Installation access then     registration
+                                           notifies COR.                   status
+
+                                                                                    28
+                                                                                Appendix E
+
+                                                  OPERATIONAL TRANSITION PLAN -- CHECKLIST (cont’d)
+
+                                                                            thereafter
+
+
+
+  c.     Physical Security and                Based upon discussions       As required              As required              Section C.5
+         Restricting Access to                and/or information
+         Facilities – COR ensures SO          received from the                                                             (insert correct
+         meets with and/or is provided        Security Office, SO will                                                    reference(s) to be
+         applicable requirements from         demonstrate how it will                                                   consistent with actual
+         the Security Office pertaining to    satisfy the physical                                                             contract)
+         sufficient physical security of,     security requirements for
+         and restrictive access to, utility   its utility system and
+         system and associated facilities     associated facilities.
+
+
+
+            5. Budget/IT Requirements:
+
+Item #    COR Action / Requirement               SO Requirement           Frequency of               Method of          Contract Reference,      Remarks   Check
+                                                                           Occurrence         Surveillance/Monitoring   Section/Paragraph
+
+  a.     Summary Budget/                      The SO will provide a        As required              As required             C/L Sections
+         Expenditure Report                   summary
+         Submittal – COR will ensure          budget/expenditure                                                            (insert correct
+         that the SO provides summary         report to the KO.                                                           reference(s) to be
+         budget/expenditure report to the                                                                               consistent with actual
+         KO                                                                                                                    contract)
+
+  b.     Initial IT Requirements              The SO will inform the       As required              As required             C/L Sections
+         Meeting – The KO/COR                 Govt of all IT
+         conducts initial IT                  requirements that will be                                                     (insert correct
+                                                                                                                          reference(s) to be
+                                                                                         29
+                                                                         Appendix E
+
+                                           OPERATIONAL TRANSITION PLAN -- CHECKLIST (cont’d)
+
+     Communications meeting w/SO       needed/required and                                          consistent with actual
+     to discuss the IT requirements    specify all required IT                                            contract)
+     for Communications under the      software packages; SO
+     Utility Services contract.        confirms its IT
+                                       Communications Plan
+                                       does not interfere with
+                                       the Installation’s
+                                       communications
+                                       frequencies.
+
+c.   IT/Communications Office          The SO and COR will          As required       As required       C/L Sections
+     Coordination – The COR            discuss all IT
+     ensures appropriate               requirements and                                                 (insert correct
+     coordination occurs between the   collaborate on a                                               reference(s) to be
+     SO and Base                       suggested plan of action                                     consistent with actual
+     IT/Communications Office          for the use of all IT                                               contract)
+     regarding the contract’s          systems and software;
+     Information Technology            SO will demonstrate to
+     requirements                      the IT/Communication
+                                       Office’s satisfaction that
+                                       its IT Communications
+                                       Plan does not interfere
+                                       with the Installation’s
+                                       communications
+                                       frequencies.
+
+
+
+        6. SO Personnel Policies:
+
+
+                                                                              30
+                                                                            Appendix E
+
+                                               OPERATIONAL TRANSITION PLAN -- CHECKLIST (cont’d)
+
+Item #    COR Action / Requirement            SO Requirement          Frequency of             Method of             Contract Reference,      Remarks   Check
+                                                                       Occurrence       Surveillance/Monitoring      Section/Paragraph
+
+  a.     Installation Personnel Policy –   The SO will participate       Initial        Review and verification of       C/L Sections
+         KO/COR will inform the SO         in discussions regarding                     personnel policies with SO
+         about personnel policies          applicable personnel                                                          (insert correct
+         pertaining to SO personnel        policy requirements and                                                     reference(s) to be
+         working on the Installation.      will verify                                                               consistent with actual
+                                           understanding of these                                                           contract)
+                                           policies.
+
+  b.     Invoice & Payroll Procedures/     SO shall prepare            As required      Review and verification of       C/L Sections
+         Documentation – KO/COR            invoices and payroll-                           samples/procedures
+         will discuss and reach mutual     related documentation in                         submitted by SO              (insert correct
+         understanding on procedures for   accordance with                                                             reference(s) to be
+         accomplishing invoices and        procedure established                                                     consistent with actual
+         payroll-related documentation.    with the KO/COR.                                                                 contract)
+
+                                           (Note: Any necessary re-
+                                           submittals shall be
+                                           accomplished by the SO
+                                           at own expense.)
+
+
+
+
+                                                                                   31
+                                                                              Appendix E
+
+                                               OPERATIONAL TRANSITION PLAN -- CHECKLIST (cont’d)
+
+            7. Joint Inventory:
+
+Item #    COR Action / Requirement            SO Requirement           Frequency of              Method of          Contract Reference,      Remarks   Check
+                                                                        Occurrence        Surveillance/Monitoring   Section/Paragraph
+
+  a.     Joint Inventory Review and        The SO will ensure the      Initial start of         Constantly             C/J/L Sections
+         Documentation – The               all pertinent inventory         contact
+         KO/COR will conduct and           information is captured                                                      (insert correct
+         document a Government – SO        and recorded and a full                                                    reference(s) to be
+         Joint Inventory of Equipment      concurrence meeting                                                      consistent with actual
+         and Property                      with all parties occur as                                                       contract)
+                                           it relates to this
+                                           inventory
+
+  b.     Points of Demarcation (PODs)      The SO will ensure the      Initial start of        Continuously          Attachment JAX of
+         – Ensure all PODs are             all pertinent POD              contract                                        Contract
+         identified, understood, and       information is captured
+         mutually agreeable. (Note:        and recorded and a full                                                      (insert correct
+         PODs identify the physical and    mutual concurrence is                                                      reference(s) to be
+         geographic limits/boundaries of   obtained.                                                                consistent with actual
+         the utility system being                                                                                          contract)
+         transitioned to the new owner
+         (i.e. SO)).
+
+  c.     Reconciliation of Inventory –     The SO will                 Initial start of     Joint Reconciliation       C/J/L Sections
+         The COR/KO will review,           reconcile/adjust                contact           between Govt/SO
+         verify, and reconcile, as         inventory listing, as                                                        (insert correct
+         necessary, the SO’s field         necessary, to reflect                                                      reference(s) to be
+         verified listing of inventory     mutually agreed                                                          consistent with actual
+         data.                             inventory.                                                                      contract)
+
+                                                                                     32
+                                                                                  Appendix E
+
+                                                 OPERATIONAL TRANSITION PLAN -- CHECKLIST (cont’d)
+
+            8. Service Requirements:
+
+Item #    COR Action / Requirement               SO Requirement             Frequency of           Method of          Contract Reference,      Remarks   Check
+                                                                             Occurrence     Surveillance/Monitoring   Section/Paragraph
+
+  a.     Verification of Service             The SO submits a                As required          As required            C/J/L Sections
+         Support Requirements –              detailed list of all service
+         KO/COR verifies all service         requirements to COR                                                          (insert correct
+         requirements from the SO, i.e.      and KO for review and                                                      reference(s) to be
+         trash, lighting, building           appropriate action.                                                      consistent with actual
+         location, telephone service, etc.                                                                                   contract)
+
+
+
+
+            9. Records Management:
+
+Item #    COR Action / Requirement               SO Requirement             Frequency of           Method of          Contract Reference,      Remarks   Check
+                                                                             Occurrence     Surveillance/Monitoring   Section/Paragraph
+
+  a.     Availability of Government          The SO will submit a            As required          As required            C/J/L Sections
+         Utility System Records – The        detailed list of CADD,
+         COR will ensure that all            GIS, Maintenance                                                             (insert correct
+         CADD, GIS, Maintenance              Records, Manuals and                                                       reference(s) to be
+         Records, Manuals, and As-Built      as-built drawings                                                        consistent with actual
+         drawings are made available to      requests to the COR                                                             contract)
+         the SO upon request.                through the KO.
+
+
+
+
+                                                                                       33
+                                                                                Appendix E
+
+                                                 OPERATIONAL TRANSITION PLAN -- CHECKLIST (cont’d)
+
+            10. Environmental Compliance:
+
+Item #    COR Action / Requirement              SO Requirement            Frequency of             Method of              Contract Reference,      Remarks   Check
+                                                                           Occurrence       Surveillance/Monitoring       Section/Paragraph
+
+  a.     Initial Installation                SO will discuss all             Initial                   N/A                   C/J/L Sections
+         Environmental Meeting – The         applicable
+         COR arranges for an                 environmental                                                                    (insert correct
+         Installation Environmental          concerns/issues with                                                           reference(s) to be
+         meeting between SO and              Installation                                                                 consistent with actual
+         Government                          Environmental                                                                       contract)
+                                             Personnel
+
+  b.     Identification of RCRA and          SO must acknowledge to       After the Post        Meeting minutes and          C/J/L Sections
+         CERCLA-listed Sites on the          COR the receipt of the        Orientation        follow-on memos/letters
+         Installation – The COR ensures      Installation’s RCLA and       Conference       documenting transfer of the       (insert correct
+         the identification of all RCRA-     CERCLA listed site                             information/documentation.      reference(s) to be
+         listed sites (current “cradle-to-   information (maps, site                                                      consistent with actual
+         grave” operations managing          condition information,                                                              contract)
+         generated hazardous wastes)         reports, site agreements,
+         and CERCLA-listed sites             etc).
+         (contaminated from past
+         operations) are clearly             SO will ensure the
+         identified, documented, and         proper arrangements and
+         communicated to the SO.             precautions are taken
+                                             when conducting daily
+          Arrange for an Installation       operations in these areas.
+           Environmental meeting with
+           the SO and Government
+           representatives.
+                                                                                       34
+                                                      Appendix E
+
+                                   OPERATIONAL TRANSITION PLAN -- CHECKLIST (cont’d)
+
+ COR ensures appropriate
+  environmental information
+  supplied by the Installation
+  Environmental Office (maps,
+  site condition information,
+  reports, site agreements, etc)
+  is provided/communicated to
+  the SO.
+
+
+
+
+                                                          35
+                                                                           Appendix E
+
+                                              OPERATIONAL TRANSITION PLAN -- CHECKLIST (cont’d)
+
+            11. Contingency Operations:
+
+Item #    COR Action / Requirement            SO Requirement        Frequency of              Method of            Contract Reference,      Remarks   Check
+                                                                     Occurrence        Surveillance/Monitoring     Section/Paragraph
+
+  a.     Installation Contingency          KO/COR and SO will       Initial start of         Continuous               C/J/L Sections
+         Operations Plan Briefing –        discuss a plan of            contact
+                                                                                                                       (insert correct
+         The COR/KO briefs the             operations for support
+                                                                                                                     reference(s) to be
+         Installation Contingency          of Contingency                                                          consistent with actual
+         Operations Plan to the SO         Operations at the                                                              contract)
+         and discusses specific,           Installation
+         applicable support
+         requirements for execution
+         under the UP contract.
+
+  b.     Installation Contingency          The SO will ensure           Initial           COR will ensure a           C/J/L Sections
+         Operations Formal                 that a detailed                             Memorandum for Record
+                                                                                                                       (insert correct
+         Support Agreement – The           Contingency                                      (MFR) or other
+                                                                                                                     reference(s) to be
+         KO/COR will ensure an             Checklist, consistent                       appropriate document is     consistent with actual
+         appropriate agreement is          with the terms of the                        recorded for this action          contract)
+         conveyed/developed                conveyed/developed
+         describing all pertinent          support agreement, is
+         aspects of Operational            developed, and
+         Contingency Functions             coordinated with the
+         support that is required of the   KO/COR.
+         SO.
+
+
+
+                                                                                  36
+                   Appendix E
+
+OPERATIONAL TRANSITION PLAN -- CHECKLIST (cont’d)
+
+
+
+
+                       37
+                                                                               Appendix F
+
+                             SERVICE INTERRUPTION CONTINGENCY & CATASTROPHIC LOSS PLAN -- CHECKLIST
+
+           (NOTE: This Appendix serves as a checklist to ensure actions necessary for sufficient monitoring of the SO’s Service Interruption
+           Contingency & Catastrophic Loss Plan – and the SO’s associated demonstrated actions for compliance – are accomplished by the
+           COR and other Government representatives…Do not include this note as part of final QASP document.)
+           (Back to Table of Contents)
+
+
+Item #    COR Action / Requirement              SO Requirement            Frequency of          Method of           Contract Reference,      Remarks   Check
+                                                                           Occurrence    Surveillance/Monitoring    Section/Paragraph
+
+  a.     Receipt of Initial Service          SO will ensure its initial   Upon award      COR/KO will perform           C/L Sections
+         Interruption Contingency &          Service Interruption         of contract     review of all submitted
+         Catastrophic Loss Plan –            Contingency &                                      documents               (insert correct
+         KO/COR will ensure receipt of       Catastrophic Loss Plan                                                   reference(s) to be
+         SO’s initial Service Interruption   has been submitted to                                                  consistent with actual
+         Contingency & Catastrophic          the COR.                                                                      contract)
+         Loss Plan.
+
+         (Temporary Editor Note:
+         Ensure yellow-highlighted COR
+         action requirements are
+         consistently displayed in
+         Appendices E, G, and H for the
+         other three major plans.)
+
+  b.     Verification and                    N/A                          Upon award      COR/KO will perform           C/L Sections
+         Coordination of Initial                                          of contract     review of all submitted
+         Service Interruption                (Internal Government                               documents               (insert correct
+         Contingency & Catastrophic          activity)                                                                reference(s) to be
+         Loss Plan – KO/COR will                                                                                    consistent with actual
+         ensure initial Service                                                                                            contract)
+
+                                                                                    38
+                                                                            Appendix F
+
+                   SERVICE INTERRUPTION CONTINGENCY & CATASTROPHIC LOSS PLAN -- CHECKLIST (cont’d)
+
+     Interruption Contigency &
+     Catastrophic Loss Plan is
+     reviewed/verified by the
+     appropriate Installation
+     personnel and
+     comments/feedback are
+     gathered. Installation personnel
+     may include, but not be limited
+     to:
+
+      Fire & Law Enforcement
+      Safety
+      IT/Communications
+      Civil Engineering/DPW
+      Environmental
+      Installation Leadership
+      Hospital
+
+c.   Feedback/Discussion of Initial        SO will ensure it is        Upon award     Assessment of Deliverables       C/L Sections
+     Plan – COR/KO ensures                 available to discuss with   of contract
+     discussions/meetings are              Government                                                                  (insert correct
+     arranged with the SO (as              representatives, as                                                       reference(s) to be
+     necessary) to address any issues      necessary.                                                              consistent with actual
+     or questions related to the initial                                                                                  contract)
+     Plan. The appropriate
+     Installation personnel will also
+     participate in these
+     discussions/meetings, as
+     necessary.
+
+                                                                                 39
+                                                                        Appendix F
+
+                  SERVICE INTERRUPTION CONTINGENCY & CATASTROPHIC LOSS PLAN -- CHECKLIST (cont’d)
+
+d.   Receipt of Proposed Changes        SO will ensure any          As needed        Assessment of Deliverables       C/L Sections
+     to Service Interruption            proposed
+     Contingency & Catastrophic         adjustments/revisions to                                                      (insert correct
+     Loss Plan – KO/COR will            the Service Interruption                                                    reference(s) to be
+     ensure that any                    Contingency &                                                             consistent with actual
+     adjustments/revisions to the       Catastrophic Loss Plan                                                           contract)
+     SO’s Service Interruption          are submitted to the
+     Contingency & Catastrophic         COR in a timely
+     Loss Plan (proposed by the SO)     manner, accompanied
+     are received from the SO.          with clear supporting
+                                        rationale/justification.
+
+e.   Feedback/Discussion of             SO will ensure it is        As needed        Assessment of Deliverables       C/L Sections
+     Proposed Changes to Service        available to discuss with
+     Interruption Contingency &         Government                                                                    (insert correct
+     Catastrophic Loss Plan –           representatives, as                                                         reference(s) to be
+     COR/KO ensures                     necessary.                                                                consistent with actual
+     discussions/meetings are                                                                                            contract)
+     arranged with the SO (as
+     necessary) to address any issues
+     or questions related to proposed
+     changes to the Plan. The
+     appropriate Installation
+     personnel will also participate
+     in these discussions/meetings,
+     as necessary. Installation
+     personnel may include, but not
+     be limited to:
+
+      Fire & Law Enforcement
+
+                                                                                40
+                                                                       Appendix F
+
+                   SERVICE INTERRUPTION CONTINGENCY & CATASTROPHIC LOSS PLAN -- CHECKLIST (cont’d)
+
+        Safety
+        IT/Communications
+        Civil Engineering/DPW
+        Environmental
+        Installation Leadership
+        Hospital
+
+f.   Oversight of Service              SO responded to service    Upon award         Sample Reviews          C/L Sections
+     Interruption Contingency &        requests in accordance     of contract
+     Catastrophic Loss Plan –          with response time                                                    (insert correct
+     COR/KO will provide oversight     requirements identified                                             reference(s) to be
+     of the Plan, to include the       in the contract.                                                  consistent with actual
+     ongoing development of this                                                                                contract)
+     action item checklist.
+
+g.   Coordination of Scheduled         SO will provide            As required       Direct Observation      Section C.X of
+     Utility Service Outages – COR     notification to affected                                                Contract
+     will verify each scheduled        parties IAW established                              &
+     service outage is coordinated     policy as part of the                                                 (insert correct
+                                                                                        Review of          reference(s) to be
+     with all affected parties a       contract.                                    Invoices/Payments
+     minimum of two weeks in                                                                             consistent with actual
+     advance. In addition to the                                                                                contract)
+     directly affected organization,
+     ensure coordination with
+     appropriate Installations reps
+     (i.e. Fire Department,
+     Engineering, etc).
+
+
+
+
+                                                                            41
+                                                                        Appendix F
+
+                  SERVICE INTERRUPTION CONTINGENCY & CATASTROPHIC LOSS PLAN -- CHECKLIST (cont’d)
+
+h.   Re-scheduling of Work              SO will provide            As required          Direct Observation          Section C.X of
+     Requiring Service                  notification to COR, and                                                       Contract
+     Interruption – COR will            affected parties, of the
+     verify, in writing, the SO’s       date/time work can be                                                        (insert correct
+     policy regarding the re-           re-scheduled. Also, SO                                                     reference(s) to be
+     scheduling of service              will notify COR (with                                                    consistent with actual
+     interruptions due to mission       supporting rationale) if                                                        contract)
+     requirements.                      additional charges will
+                                        be requested as a result
+      If additional charges may        of the re-scheduling.
+       result, determine the factors
+       that would lead the SO to
+       request for additional
+       charges.
+      Review this policy with
+       appropriate Installation reps
+       (i.e. Fire Department,
+       Engineering, etc.) as
+       necessary.
+      Verify the proper
+       dissemination of policy to
+       affected parties/
+       organizations (including
+       Facility Managers).
+
+i.   Re-validation of SO’s Service      SO will make available      Annually        Assessment of Deliverables      Section C.X of
+     Request Procedures –COR            to the COR – and meet                                                          Contract
+     will annually coordinate a         to discuss -- all
+     review of the SO procedures in     necessary                                                                    (insert correct
+     place for receiving, processing,   documentation related to                                                   reference(s) to be
+
+                                                                               42
+                                                            Appendix F
+
+             SERVICE INTERRUPTION CONTINGENCY & CATASTROPHIC LOSS PLAN -- CHECKLIST (cont’d)
+
+managing, and acting upon           the SO’s service call                consistent with actual
+service requests.                   operation.                                 contract)
+
+ Review criteria/definitions
+  used for classifying Service
+  requests.
+ Confirm the completeness of
+  typical information taken
+  during initial receipt and
+  follow-up of service call (i.e.
+  the time of call, time of
+  response, cause of the
+  request, action taken, and
+  time and date of completion)
+ Review service call log to
+  assess track record on
+  service call responses.
+    o Identify any
+       positive/negative trends.
+    o Verify whether service
+       calls are being resolved
+       within established time
+       limits.
+
+
+
+
+                                                                43
+                                                                              Appendix G
+
+                                    OPERATIONS & MAINTENANCE / QUALITY MANAGEMENT PLAN -- CHECKLIST
+
+            (NOTE: This Appendix serves as a checklist to ensure actions necessary for sufficient monitoring of the SO’s Operations &
+            Maintenance / Quality Management Plan – and the SO’s associated demonstrated actions for compliance – are accomplished by
+            the COR and other Government representatives…Do not include this note as part of final QASP document.)
+            (Back to Table of Contents)
+
+
+            1. Meetings:
+Item #    COR Action / Requirement            SO Requirement           Frequency of             Method of             Contract Reference,      Remarks   Check
+                                                                        Occurrence       Surveillance/Monitoring      Section/Paragraph
+
+  a.     Establish Post-Award              The SO prepares and              Initial      Assessment of Deliverables       (insert correct
+         Orientation Conference –          organizes for the O&M       activation of O                                  reference(s) to be
+         COR sets up a Post-Award          Transition Meeting, to      & M plan and                  &                consistent with actual
+         Orientation Conference with the   include provision of           as needed          Direct Observation              contract)
+         SO                                recommended meeting
+                                           topics to the COR.                             (Weekly status meetings)
+         COR establishes subsequent
+         follow-on meetings, as
+         necessary.
+
+  b.     Final Inventory                   The SO will reconcile all        Initial      Assessment of Deliverables       (insert correct
+         Reconciliation Meeting –          inventory discrepancies     activation of O                                  reference(s) to be
+         KO/COR will perform a final       noted before activation     & M plan and                  &                consistent with actual
+         Inventory Reconciliation          of O & M plan                  as needed          Direct Observation              contract)
+         Meeting w/SO to ensure            commencement
+         accuracy of system inventory                                                     (Weekly status meetings)
+         being transferred to the SO
+         prior to Contract Start Date.
+
+
+
+
+                                                                                   44
+                                                                          Appendix G
+
+                          OPERATIONS & MAINTENANCE / QUALITY MANAGEMENT PLAN -- CHECKLIST (cont’d)
+
+
+
+
+           2. Plans and Operation Initiatives:
+
+Item #    COR Action / Requirement            SO Requirement        Frequency of           Method of             Contract Reference,      Remarks   Check
+                                                                     Occurrence     Surveillance/Monitoring      Section/Paragraph
+
+  a.     O&M Plan and Schedule –           SO will prepare a        Initial         Assessment of Deliverables       (insert correct
+         KO/COR gives the SO gives         detailed list of         activation of                                  reference(s) to be
+                                                                    O & M plan                  &                consistent with actual
+         the SO timeline for O&M           expected deliverables
+         plan and schedule                 for O&M plan             and as needed       Direct Observation              contract)
+
+                                                                                     (Weekly status meetings)
+
+  b.     Verification of Periodic          SO will provide/submit   Per mutually    Assessment of Deliverables      Sections C/J/L
+         Deliverables/Report               all necessary               agreed
+         Submittals – COR will ensure      deliverables/reports      schedules                                       (insert correct
+         all deliverables/reports are      within the mutually                                                     reference(s) to be
+         submitted by the SO IAW           agreed format and                                                     consistent with actual
+         established schedules             schedules.                                                                   contract)
+
+          Verify timeliness of
+           submitted deliverables/
+           reports
+          Verify sufficiency of
+           deliverable/report content
+           with appropriate Installation
+                                                                               45
+                                                                        Appendix G
+
+                       OPERATIONS & MAINTENANCE / QUALITY MANAGEMENT PLAN -- CHECKLIST (cont’d)
+
+       representatives.
+      If any changes are required
+       (to either content or
+       format), coordinate issues
+       with the SO and the
+       appropriate Installation
+       reps. Arrange meetings as
+       necessary to address.
+
+c.   Utility System Capacity            SO will provide the        Per mutually    Assessment of Deliverables      Sections C/J/L
+     Analysis – COR will establish a    COR/KO a utility              agreed
+     frequency with the SO in which     system capacity report      schedules                                       (insert correct
+     the current capacity of the        within a mutually agreed                                                  reference(s) to be
+     utility system is measured         format and schedules.                                                   consistent with actual
+     (based on best available utility                                                                                  contract)
+     system information) and
+     reported to the appropriate
+     Installation reps for Base
+     Master Planning purposes.
+
+      Verify timeliness of system
+       capacity analysis report
+      Verify sufficiency of report
+       with appropriate Installation
+       reps
+      If any changes are required
+       (to either content or
+       format), coordinate issues
+       with the UP SO and the
+       appropriate Installation
+                                                                              46
+                                                                   Appendix G
+
+                     OPERATIONS & MAINTENANCE / QUALITY MANAGEMENT PLAN -- CHECKLIST (cont’d)
+
+        representatives. Arrange
+        meetings as necessary to
+        address.
+
+d.   Monitoring O&M Plan           SO will start gathering   Initial         Assessment of Deliverables       (insert correct
+     Progress – KO/COR will        all required              activation of                                  reference(s) to be
+                                                             O & M plan                  &                consistent with actual
+     monitor the progress of the   documentation for the
+     SO’s O&M plan                 preparation of the        and as needed       Direct Observation              contract)
+                                   O&M plan
+                                                                              (Weekly status meetings)
+
+e.   O&M Performance Plan          The SO will brief the     Initial         Assessment of Deliverables       (insert correct
+     Review – KO/COR will          KO/COR with               activation of                                  reference(s) to be
+                                                             O & M plan                  &                consistent with actual
+     review the SO’s O&M           execution of the
+     Performance Plan for the      Performance Plan for      and as needed       Direct Observation              contract
+     future Operation and          the utility system
+                                                                              (Weekly status meetings)
+     Maintenance of the utility
+     system
+
+f.   Review of O&M                 The SO will prepare       Initial         Assessment of Deliverables       (insert correct
+     Performance Plan              and submit a detailed     activation of                                  reference(s) to be
+                                                             O & M plan                  &                consistent with actual
+     Requirements – COR and        plan for all operations
+     KO will meet with the SO to   and maintenance           and as needed       Direct Observation              contract)
+                                                             thereafter
+     discuss the requirements in   contract requirements
+                                                                              (Weekly status meetings)
+     O&M plan
+
+     -Schedule Inspections
+
+     -Maintenance and Repairs
+
+                                                                        47
+                                                                       Appendix G
+
+                       OPERATIONS & MAINTENANCE / QUALITY MANAGEMENT PLAN -- CHECKLIST (cont’d)
+
+     -Predictive Maintenance
+
+     -Annual Maintenance Plan
+
+g.   Employee Training Plan            The SO will prepare a     Initial         Assessment of Deliverables       (insert correct
+     Meeting – COR will meet           detailed plan for all     activation of                                  reference(s) to be
+     with SO to discuss the SO’s       employees training        O & M plan                                   consistent with actual
+     Employee Training Plan            and the topics            and as needed                                       contract)
+                                                                 thereafter
+                                       covered.
+
+h.   Quality Assurance Plan            The SO will prepare       Initial         Assessment of Deliverables       (insert correct
+     Review – KO/COR will              and brief the KO/COR      activation of                                  reference(s) to be
+     review the SO’s Quality           on the Quality            O & M plan                                   consistent with actual
+     Assurance Plan                    Assurance Plan            and as needed                                       contract)
+                                                                 thereafter
+
+i.   OSHA-related Safety Plans –       SO Submits applicable     Initial         Assessment of Deliverables      Sections C/J/L
+     KO/COR ensure applicable          OSHA-related Safety       activation of
+     OSHA-related Safety plans         plans to COR for review   O & M plan                                       (insert correct
+     undergo appropriate review by                               and as needed                                  reference(s) to be
+     Government representatives.                                 thereafter                                   consistent with actual
+     OSHA-related plans may                                                                                          contract)
+     include, but not be limited to,
+     the following:
+
+      OSHA Generator
+       Emergency Preparation
+       Plan
+      OSHA Workplace
+       Sanitation Plan
+
+                                                                            48
+                                                                         Appendix G
+
+                        OPERATIONS & MAINTENANCE / QUALITY MANAGEMENT PLAN -- CHECKLIST (cont’d)
+
+      OSHA Office Safety Plan
+      OSHA Personal Protective
+       Equipment Safety Plan
+      OSHA Confined Space Plan
+      OSHA Fire/Electrical
+       Safety/Seismic Plan
+      OSHA Safety Audit
+       Checklist
+
+j.   Other Plans – KO/COR ensure         SO Submits applicable     Initial         Assessment of Deliverables        Sections C/J/L
+     applicable plans undergo            plans to COR for review   activation of
+     appropriate review by                                         O & M plan                                         (insert correct
+     Government representatives.                                   and as needed                                    reference(s) to be
+     These plans may include, but                                  thereafter                                     consistent with actual
+     not be limited to, the following:                                                                                   contract)
+
+      Hazardous Material Safety
+       Plan
+      Hazardous Material Waste
+       Handling Plan
+      Earthquake Preparation
+       Plan
+      Storm Preparation Plan
+
+k.   Cost Proposals and Cost                                                       Assessment of Deliverables
+     Performance Data Review –
+     COR reviews SO’s cost                                                          (Note: Cost Proposal and
+     proposals and cost performance                                                Cost Performance Data may
+     data and provides comments to                                                 be appropriate for inclusion
+                                                                                      in the annual CPARS
+
+                                                                              49
+                                                                                Appendix G
+
+                           OPERATIONS & MAINTENANCE / QUALITY MANAGEMENT PLAN -- CHECKLIST (cont’d)
+
+         the KO.                                                                                assessment.)
+
+  l.     Responsiveness to               SO will meet with COR        As needed              Direct Observation
+         Government Inquiries – COR      to provide prompt
+         will meet with SO to discuss    response to COR, KO,                             (Note: Responsiveness to
+         their prompt responding to      and CS                                          Government inquiries may
+         questions and concerns from                                                     be appropriate for inclusion
+         Customer, COR, KO, and CS                                                          in the annual CPARS
+                                                                                                 assessment.)
+
+
+            3. System Deficiency Corrections/Renewals/Replacements:
+
+Item #    COR Action / Requirement          SO Requirement            Frequency of              Method of               Contract Reference,      Remarks   Check
+                                                                       Occurrence        Surveillance/Monitoring        Section/Paragraph
+
+  a.     Scope Review of System          SO will brief the            Initial            Assessment of Deliverables         (insert correct
+         Deficiency Corrections –        KO/COR on all pending        activation of O                                     reference(s) to be
+         KO/COR will start the review    System Deficiency            & M plan and                    &                 consistent with actual
+         of anticipated System           Corrections needed for       as needed              Direct Observation                contract)
+         Deficiency Corrections to the   current UP system
+         current UP System                                                                (Weekly status meetings)
+
+  b.     Schedule Review of System       The SO will prepare a        Initial            Assessment of Deliverables         (insert correct
+         Deficiency Corrections –        detail plan for the future   activation of O                                     reference(s) to be
+         KO/COR will review future       plan in regards to the       & M plan and                    &                 consistent with actual
+         schedule for all anticipated    System Deficiency            as needed              Direct Observation                contract)
+         System Deficiency Corrections   Corrections to the
+         from the SO                     current UP System                                (Weekly status meetings)
+
+  c.     Review of Renewals and          The SO will brief the        Initial            Assessment of Deliverables        (insert correct
+
+                                                                                    50
+                                                                             Appendix G
+
+                        OPERATIONS & MAINTENANCE / QUALITY MANAGEMENT PLAN -- CHECKLIST (cont’d)
+
+     Replacements/Upgrades               KO/COR on all                activation of O               &                  reference(s) to be
+     Projects – KO/COR will              proposed future Initial      & M plan and                                   consistent with actual
+     review all Initial Upgrades,        Upgrades, Renewals and       as needed             Direct Observation             contract)
+     Renewals and Replacement            Replacement Projects                            (Weekly status meetings)
+     Projects
+
+d.   Service                             SO will make readily         Per mutually      Assessment of Deliverables      Sections C/J/L
+     Connections/Disconnections          available, within            agreed format
+     Specifications – COR will           mutually agreed format       and schedules                                      (insert correct
+     coordinate with SO to ensure        and timetables, all                                                           reference(s) to be
+     design specifications for any       applicable design                                                           consistent with actual
+     service connection or               specifications for service                                                         contract)
+     disconnection are provided to       connections to be used
+     the appropriate Installation        on a facility/utility
+     representatives/third party         construction project that
+     entities at the appropriate time    will ultimately connect
+     period. The purpose will be to      to the SO’s utility
+     eliminate potential disruption to   system.
+     design, funding, and/or
+     construction processes related
+     to the specific construction
+     event, in advance of connection
+     to the SO’s utility system.
+
+      Arrange meetings as
+       necessary to address.
+
+
+        4. Data Transfer:
+
+
+                                                                                  51
+                                                                              Appendix G
+
+                           OPERATIONS & MAINTENANCE / QUALITY MANAGEMENT PLAN -- CHECKLIST (cont’d)
+
+Item #    COR Action / Requirement           SO Requirement            Frequency of             Method of             Contract Reference,      Remarks   Check
+                                                                        Occurrence       Surveillance/Monitoring      Section/Paragraph
+
+  a.     Maps, Building Drawings and      The SO will ensure that      Initial           Assessment of Deliverables       (insert correct
+         Pertinent Facility Files –       all required maps,           activation of O                                  reference(s) to be
+         KO/COR will ensure that the      building drawings and        & M plan and                  &                consistent with actual
+         SO has the all required maps,    all pertaining facility      as needed             Direct Observation              contract)
+         building drawings and all        files are received
+         pertinent facility files                                                         (Weekly status meetings)
+
+  b.     GIS Data – KO/COR will           The SO will ensure that      Initial           Assessment of Deliverables       (insert correct
+         provide the SO with all needed   a list of all required GIS   activation of O                                  reference(s) to be
+         GIS data to support the O & M    requirements are             & M plan and                  &                consistent with actual
+         plan                             submitted to the             as needed             Direct Observation              contract)
+                                          KO/COR
+                                                                                          (Weekly status meetings)
+
+  c.     Transfer of Permits,             The SO will give the              Initial      Assessment of Deliverables       (insert correct
+         Documents, and Manuals –         KO/COR a list of             activation of O                                  reference(s) to be
+         KO/COR will complete the         required permits,            & M plan and                  &                consistent with actual
+         transfer of permits, documents   documents, and manuals          as needed          Direct Observation              contract)
+         and manuals                      that are needed
+                                                                                          (Weekly status meetings)
+
+
+
+            5. Environmental Compliance:
+
+Item #    COR Action / Requirement           SO Requirement            Frequency of             Method of             Contract Reference,      Remarks   Check
+                                                                        Occurrence       Surveillance/Monitoring      Section/Paragraph
+
+                                                                                   52
+                                                                      Appendix G
+
+                     OPERATIONS & MAINTENANCE / QUALITY MANAGEMENT PLAN -- CHECKLIST (cont’d)
+
+a.   Environmental Compliance        The SO will prepare and        Initial      Assessment of Deliverables       (insert correct
+     Plan – KO/COR will review the   brief the KO/COR on       activation of O                                  reference(s) to be
+     SO’s Environmental              the Environmental         & M plan and                  &                consistent with actual
+     Compliance Plan                 Compliance Plan              as needed          Direct Observation              contract)
+
+                                                                                  (Weekly status meetings)
+
+
+
+
+                                                                           53
+                                                                             Appendix H
+
+                   INITIAL SYSTEM DEFICIENCY CORRECTIONS / RENEWALS & REPLACEMENTS PLAN -- CHECKLIST
+
+           (NOTE: This Appendix serves as a checklist to ensure actions necessary for sufficient monitoring of the SO’s Initial System
+           Deficiency Corrections / Renewables & Replacements Plan – and the SO’s associated demonstrated actions for compliance – are
+           accomplished by the COR and other Government representatives…Do not include this note as part of final QASP document.)
+           (Back to Table of Contents)
+
+           1. Project Review/Master Planning:
+Item #    COR Action / Requirement            SO Requirement            Frequency of             Method of            Contract Reference,      Remarks   Check
+                                                                         Occurrence       Surveillance/Monitoring     Section/Paragraph
+
+  a.     Annual Submittal of Five -        The SO will prepare a          Annually        Assessment of Deliverable          C.11.4
+         Year Plan – Ensure the Five -     detailed Plan
+         Year Plan is submitted annually   documenting all                                                                (insert correct
+         IAW the timeframe specified in    required System                                                              reference(s) to be
+         the contract.                     Deficiency Corrections                                                     consistent with actual
+                                           and major                                                                         contract)
+                                           renewals/replacements
+                                           that will need to occur
+                                           for the next 5 years; SO
+                                           identifies and prioritizes
+                                           all necessary
+                                           improvements to reach
+                                           the standards typical
+                                           maintained by the SO on
+                                           its utility system
+
+
+
+
+                                                                                     54
+                                                             Appendix H
+
+         INITIAL SYSTEM DEFICIENCY CORRECTIONS / RENEWALS & REPLACEMENTS PLAN -- CHECKLIST (cont’d)
+
+b.   Government Review of Five -      NA – Internal       Annually        Assessment of Deliverables          C.11.4
+     Year Plan – Ensure the           Government review
+     appropriate Government           activity                                    (Internal                (insert correct
+     representatives review the                                           meetings/communications        reference(s) to be
+     submitted Five -Year Plan                                              among Government           consistent with actual
+     (engineering, environmental,                                             representatives.)               contract)
+     security, etc) to confirm
+     consistency with identified
+     long-term missions/initiatives
+     within their areas of
+     responsibility.
+
+      Ensure, as a minimum, all
+       Government-identified
+       requirements (i.e. upgrades,
+       corrections, and R&R) are
+       addressed by the SO
+
+
+
+
+                                                                     55
+                                                                      Appendix H
+
+         INITIAL SYSTEM DEFICIENCY CORRECTIONS / RENEWALS & REPLACEMENTS PLAN -- CHECKLIST (cont’d)
+
+c.   Government/SO Meeting to        The SO will prepare and     Annually, and      Direct Observation          (insert correct
+     Review, Discuss & Approve       present a priority plan       as needed                                  reference(s) to be
+     Five -year Plan – Ensure the    for project execution and    throughout      (Joint meetings between   consistent with actual
+     appropriate Government          show the exact timeline          year       Government personnel and          contract)
+     representatives meet with the   for project execution;                               the SO)
+     SO to review, discuss, &        detailed                                                                Contract Sections
+     approve the submitted Five -    schedules/scopes/costs                                                    C.11.2.2 and
+     Year Plan. Items include (but   will be presented for                                                       C11.2.5
+     are not limited to):            Year 1; generalized
+                                     schedules/scopes/costs
+      Recently completed            will be presented for
+       Upgrade/Correction/R&R                                                                                Contract Sections
+                                     Years 2 through 5 of the
+       activity                                                                                               C.11.2.1/C.11.2.4
+                                     Plan
+      Upgrade/Correction/R&R
+       Project Schedules & Scopes
+      Interface/compatibility w/
+       Installation Master Plan
+      Utility System capacity
+       modeling (and recommended
+       improvements/adjustments/st
+       udies) to address projected
+       future load
+      Other related issues (ex:
+       regulatory changes, energy
+       conservation, etc)
+
+
+
+
+                                                                            56
+                                                                        Appendix H
+
+         INITIAL SYSTEM DEFICIENCY CORRECTIONS / RENEWALS & REPLACEMENTS PLAN -- CHECKLIST (cont’d)
+
+d.   Prioritization of Projects in     The SO will prepare and      As needed           Direct Observation          (insert correct
+     the Five-Year Plan – The          present a priority plan                                                    reference(s) to be
+     COR/KO will review the            for project execution and                      (Joint meetings between   consistent with actual
+     selection and Prioritization of   show the exact timeline                       Government personnel and          contract)
+     Projects from the SO              for project execution                                  the SO)
+
+
+e.   COR/SO Information                The SO will ensure that      As needed           Direct Observation          (insert correct
+     Gathering Meeting – The           they extract and record                                                    reference(s) to be
+     COR will interface with the SO    all important data from                        (Joint meetings between   consistent with actual
+     to help the SO gather all         the current Government                        Government personnel and          contract)
+     important utility system          personnel, for the                                     the SO)
+     information from the current      turnover instruction of
+     installation staff.               the current utility system
+
+f.   COR/SO Meeting with               The SO will ensure that      As needed           Direct Observation          (insert correct
+     Installation’s Engineering        the Installation’s                                                         reference(s) to be
+     and Planning Staff – COR will     Engineering Staff is                           (Joint meetings between   consistent with actual
+     coordinate with KO and SO to      available and proper                          Government personnel and          contract)
+     ensure that a Meeting takes       coordination occurs with                               the SO)
+     place with the Installation’s     the Government staff for
+     Engineering and Planning Staff    proper dissemination of
+                                       information
+
+
+
+
+                                                                                57
+                                                                              Appendix H
+
+             INITIAL SYSTEM DEFICIENCY CORRECTIONS / RENEWALS & REPLACEMENTS PLAN -- CHECKLIST (cont’d)
+
+  g.     Review of Applicable                The SO will ensure that      As needed           Direct Observation          (insert correct
+         Installation Policies &             all installation policies                                                  reference(s) to be
+         Regulations Review Meeting          & regulations are                              (Joint meetings between   consistent with actual
+         – KO/COR will ensure that all       followed, and                                 Government personnel and          contract)
+         applicable installation policies    compliance with these                                  the SO)
+         & regulations -- with a potential   directives is mandated
+         to interface with associated        (and disseminated) to all
+         utility project activities -- are   contracted personnel
+         covered and explained in detail
+         to the SO.
+
+
+           2. Specific Project Planning:
+Item #    COR Action / Requirement              SO Requirement           Frequency of             Method of           Contract Reference,      Remarks   Check
+                                                                          Occurrence       Surveillance/Monitoring    Section/Paragraph
+
+  a.     ISDC/Upgrades Project Phase         The SO will prepare and      As needed           Direct Observation          (insert correct
+         Timeline Review – The               present a yearly time                                                      reference(s) to be
+         Government and the SO will          phase project plan to the                      (Joint meetings between   consistent with actual
+         review the SO’s plan for project    Government for review                         Government personnel and          contract)
+         phase timeline                      and concurrence                                        the SO)
+
+  b.     ISDC/Upgrades Project               The SO will provide a        As needed           Direct Observation          (insert correct
+         Review Meeting –                    detailed list of all ISDC                                                  reference(s) to be
+                                             and Upgrade projects to                        (Joint meetings between   consistent with actual
+         Government and the SO will
+                                             the Government for                            Government personnel and          contract)
+         review all Initial System
+                                             review and concurrence                                 the SO)
+         Deficiency Correction (ISDC)
+         and Upgrade projects identified
+
+
+
+                                                                                      58
+                                                                         Appendix H
+
+         INITIAL SYSTEM DEFICIENCY CORRECTIONS / RENEWALS & REPLACEMENTS PLAN -- CHECKLIST (cont’d)
+
+c.   Coordination/Transfer of            The SO will be prepared     As needed           Direct Observation          (insert correct
+     Project-Specific                    to discuss with                                                           reference(s) to be
+     Engineering/Technical               Government                                    (Joint meetings between   consistent with actual
+     Information – Ensure the            representative all                           Government personnel and          contract)
+     appropriate Government              appropriate engineering                               the SO)
+     representatives and third parties   technical data related to
+     (if applicable) meet with the SO    specific upcoming
+     to review, discuss, and transfer    projects in order to
+     the appropriate engineering         minimize disruptions
+     technical data related to a         during project execution.
+     specific, upcoming project.
+     Examples include (but are not
+     limited to):
+
+      Review Existing and
+       Planned Future Third-Party
+       Service Connections –
+       technical specifications to
+       ensure compatible &
+       acceptable connection to the
+       SO’s utility system.
+      Inspection Activities –
+       Agreement on the level (and
+       intervals) of construction
+       inspection activities by the
+       UP SO (in cases where a
+       third-party construction
+       agent is involved).
+      Material Submittals
+
+                                                                                 59
+                                                                               Appendix H
+
+              INITIAL SYSTEM DEFICIENCY CORRECTIONS / RENEWALS & REPLACEMENTS PLAN -- CHECKLIST (cont’d)
+
+
+
+
+            3. Post-Project Completion Actions:
+
+Item #    COR Action / Requirement              SO Requirement           Frequency of             Method of             Contract Reference,      Remarks   Check
+                                                                          Occurrence       Surveillance/Monitoring      Section/Paragraph
+
+  a.     O&M / R&R Monthly Rate              The SO will prepare and         Upon          Assessment of Deliverables      Section C.11 of
+         Adjustment – Ensure SO              present a report which      completion of                                        Contract
+         provides applicable equitable       clearly details the          each capital      (SO-produced report and
+         adjustments to the O&M and          changes to the utility       project (i.e.      joint meetings between         (insert correct
+         R&R monthly charge as a result      system inventory, as           system         Government personnel and       reference(s) to be
+         of the completion of the project.   well as the resulting         upgrades,                 the SO)            consistent with actual
+                                             increase/decrease to the        R&R)                                              contract)
+                                             monthly O&M / R&R
+                                             service charge.
+
+  b.     Update of As-Built Utility          The SO will update all       As needed         Direct COR Observation         C.5.1.5, Record
+         System Drawings and GIS             applicable utility system                                                        Drawings
+         Systems and System Utility          drawings (and any                                  Confirmation of
+         Model – Upon completion of          associated documents)                               Deliverables               (insert correct
+         each renewal and                    within (insert timeframe)                                                    reference(s) to be
+         replacement/upgrade project,        and provide the COR a                                                      consistent with actual
+         ensure SO provides updates to       copy of those drawings                                                            contract)
+         applicable system drawings          & documents within
+         according to the methodology        (insert timeframe)
+         and timelines specified in the
+         Contract.
+
+                                                                                      60
+                                                                                 Appendix I
+
+                                                    OTHER AREAS TO BE MONITORED -- CHECKLIST
+
+             (NOTE: This Appendix serves as a checklist to ensure actions necessary for sufficient monitoring of other areas -- in which the
+             SO must demonstrate compliant actions -- are accomplished by the COR and other Government representatives…Do not include
+             this note as part of final QASP document.)
+             (Back to Table of Contents)
+
+
+Item #    COR Action / Requirement               SO Requirement          Frequency of              Method of          Contract Reference,   Remarks   Check
+                                                                          Occurrence        Surveillance/Monitoring   Section/Paragraph
+
+  a.     COR/DLA Energy US COR               The SO will contact the     Initial start of            N/A                 (insert correct
+         Program Manager Initial             DLA Energy UP COR               contact                                   reference(s) to be
+         Contact – The COR will              Program Manager for                                                        consistent with
+         establish initial contact with      initial contact                                                            actual contract)
+         the DLA Energy UP COR
+         Program Manager
+
+  b.     Post-Award Orientation              The SO will ensure that:    Initial start of            N/A                 (insert correct
+         Conference – The COR will                                           contact                                   reference(s) to be
+         ensure:                                The proper SO                                                          consistent with
+                                                 personnel attend the                                                   actual contract)
+               Supporting logistics are         Post-Award
+                arranged (i.e. date/time,        Orientation
+                agenda, conference room,         Conference
+                attendees, etc) for the UP      A recommended list
+                Post-Award Orientation           of meeting agenda
+                Conference (NOTE: This           topics is provided to
+                meeting is the initial           the COR for
+                meeting between the              coordination with
+                Government and the SO --         the KO.
+                the new owner of the
+                utility system).
+
+                                                                                       61
+                                                                       Appendix I
+
+                                          OTHER AREAS TO BE MONITORED -- CHECKLIST (cont’d)
+
+        An agenda of initial
+         meeting topics is
+         developed and coordinated
+         with the UP SO and KO
+
+c.   Points of Demarcation              The SO will ensure that    Annually         Assessment of     Attachment JAX of
+     (PODs) – Ensure all PODs are       all pertinent POD                            Deliverables       Contract (insert
+     identified/updated and             update information is                                         correct Attachment
+     mutually agreeable. (Note:         captured and recorded                                             reference)
+     PODs identify the physical and     and a full mutual
+     geographic limits/boundaries       concurrence is obtained.                                        (insert correct
+     of the SO’s utility system                                                                       reference(s) to be
+     covered in this contract.                                                                         consistent with
+                                                                                                       actual contract)
+
+d.   SO Performance Assessment          The SO will provide a      As needed        Confirmation of   DFARS 242.1502
+     Rating System (CPARS) --           list of all personnel to                     Deliverables
+     Establishment and                  serve in the “SO Rep”                                           (insert correct
+     Maintenance of Assigned            role in CPARS; SO will                                        reference(s) to be
+     Roles – Ensure all appropriate     also provide updates to                                        consistent with
+     Government and SO personnel        this listing as changes                                        actual contract)
+     are enrolled in CPARS upon         occur.
+     award of the contract; Maintain
+     the list of enrollees thereafter
+
+      Provide to the DLA Energy-
+       FEE CPARS Focal Point the
+       name(s) of installation-level
+       Government personnel
+       serving in the “Assessing
+       Official Rep” role
+                                                                               62
+                                                                            Appendix I
+
+                                           OTHER AREAS TO BE MONITORED -- CHECKLIST (cont’d)
+
+      Provide to the DLA Energy-
+       FEE CPARS Focal Point the
+       name(s) of SO personnel
+       serving in the “SO Rep”
+       role
+
+
+
+
+e.   Re-affirm SO Responsibility        The SO provides an              Initially,       Assessment of   Sections C.3, C.6,
+     for Permits (to include            updated specific listing       Annually           Deliverables   C.9. C.10, and L.4
+     Submissions, Schedules and         to the COR, along with        (minimum),
+     Associated Responsibilities) –     status, of all permits for   or as required                        (insert correct
+     Ensure currency and accuracy       which the SO has                                                 reference(s) to be
+     of SO-provided listing of all      responsibility under the                                          consistent with
+     permits for which it has           contract.                                                         actual contract)
+     responsibility in the ownership,
+     operation, maintenance, and/or     The SO provides an
+     upgrade of the specific utility    updated listing
+     system under the contract.         whenever there is a
+                                        change to the
+      Coordinate this list with the    consolidated listing.
+       appropriate Installation
+       office(s) to ensure              The SO prepares all the
+       concurrence and mutual           required documentation
+       understanding of                 for obtaining the
+       responsibilities.                specified permits.
+      As necessary, COR                Digging Permits and
+       confirms that the SO applies     Procedures shall be
+       for any necessary permits at     included. The SO
+       the required timeframes in
+                                                                                 63
+                                                                       Appendix I
+
+                                           OTHER AREAS TO BE MONITORED -- CHECKLIST (cont’d)
+
+       order to remain compliant.       awareness of the
+                                        Contract’s references
+                                        for limitations of free
+                                        line locates shall be
+                                        acknowledged. The
+                                        Contract’s references
+                                        for limitations of non-
+                                        free line locates shall
+                                        also be acknowledged.
+
+
+
+
+f.   Update of Quality Metrics          SO will work with COR     As required       All   All Contract Sections
+     (Established List of COR           and Government
+     Inspection Areas) – COR            representatives to                                   (insert correct
+     ensures a list of representative   maintain a mutually                                reference(s) to be
+     areas of inspections (i.e.         acceptable array of                                 consistent with
+     facilities and documentation) is   areas (facilities and                               actual contract)
+     maintained. List is developed      documentation) from
+     through meetings with the SO       which SO performance
+     and appropriate Government         can be reasonably
+     representatives.                   assessed.
+
+g.   Performance Deadlines –            SO will work with COR     As required       All      (insert correct
+     COR should advise KO about         and Government                                     reference(s) to be
+     the failure of SO to meet          representatives to meet                             consistent with
+     performance deadlines. (Note:      or exceed performance                               actual contract)
+     Complete a Contract                timelines.
+     Discrepancy Report (DD Form
+                                                                            64
+                                                                       Appendix I
+
+                                         OTHER AREAS TO BE MONITORED -- CHECKLIST (cont’d)
+
+     2772) if necessary)
+
+h.   Safety Violations – COR           SO will work with COR      As required       All     (insert correct
+     should advise KO about            and Government                                     reference(s) to be
+     repeated safety violations.       representatives to                                  consistent with
+     (Note: Complete a Contract        minimize or eliminate                               actual contract)
+     Discrepancy Report (DD Form       safety violations.
+     2772) if necessary)
+
+i.   Poor Work Quality – COR           SO will work with COR      As required       All     (insert correct
+     should advise KO about            and Government                                     reference(s) to be
+     repeated incidents of SO’s poor   representatives to                                  consistent with
+     quality work. (Note: Complete     perform quality work.                               actual contract)
+     a Contract Discrepancy Report
+     (DD Form 2772) if necessary)
+
+j.   Prolonged Delays – COR            SO will work with COR      As required       All     (insert correct
+     should advise KO about            and Government                                     reference(s) to be
+     prolonged delays. (Note:          representatives to avoid                            consistent with
+     Complete a Contract               prolonged delays.                                   actual contract)
+     Discrepancy Report (DD Form
+     2772) if necessary)
+
+k.   Persistent Complaints – COR       SO will work with COR      As required       All     (insert correct
+     should advise KO about            and Government                                     reference(s) to be
+     persistent complaints from        representatives to                                  consistent with
+     Government employees,             resolve complaints from                             actual contract)
+     inspectors, and subcontractor’s   Government employees,
+     site workers. (Note: Complete     inspectors,
+     a Contract Discrepancy Report     subcontractors, or site
+     (DD Form 2772) if necessary)      workers.
+                                                                            65
+                                                                       Appendix I
+
+                                         OTHER AREAS TO BE MONITORED -- CHECKLIST (cont’d)
+
+l.   CDR Management – COR              SO will work with COR      As required       All      (insert correct
+     should continuously monitor       and Government                                      reference(s) to be
+     the status of all open/ongoing    representatives to                                   consistent with
+     Contractor Deficiency Reports     resolve each CDR as                                  actual contract)
+     (CDRs), DD Form 2772.             quickly and effectively
+                                       as possible.
+     COR should maintain
+     communication with KO and
+     SO on all open/ongoing CDRs
+     through their resolution.
+
+m.   COR Accessibility (End of         The SO will prepare        As required       All   All Contract Sections
+     the Fiscal Year) – COR            necessary
+     ensures their availability/       documents/information,                                (insert correct
+     accessibility during the last     as needed, to assist in                             reference(s) to be
+     two weeks of the fiscal year in   the execution of                                     consistent with
+     order to assist the KO in the     contract-related end-of-                             actual contract)
+     processing of end-of-year         year actions.
+     contracting actions (i.e.
+     modifications, etc.). This is
+     required to address any year-
+     end developments that may
+     occur, such as availability of
+     project funding.
+
+
+
+
+                                                                            66
+

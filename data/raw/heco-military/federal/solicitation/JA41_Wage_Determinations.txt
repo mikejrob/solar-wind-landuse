@@ -1,0 +1,1961 @@
+ATTACHMENT JA41                                                                 SPE600-16-R-0809
+
+
+
+Wage Determinations
+The following Wage Determinations have been included in this solicitation. The Government
+will update them as necessary;
+
+TABLE OF CONTENTS
+
+JA41.1 Service Contract Act Wage Determination No. 2005-2153, Revision No. 21, 01/05/2016
+JA41.2 Davis-Bacon Act HI160001, 02/05/2016, HI1, Building, Heavy (Heavy and Dredging),
+Highway and Residential
+ATTACHMENT JA41                                    SPE600-16-R-0809
+
+
+
+
+  JA41.1 Service Contract Act Wage Determination No. 2005-
+  2153, Revision No. 21, 01/05/2016
+
+
+
+
+                                                        Page 2 of 33
+   ATTACHMENT JA41                                                      SPE600-16-R-0809
+
+
+ WD 05-2153 (Rev.-21) was first posted on www.wdol.gov on 01/05/2016
+ ************************************************************************************
+ REGISTER OF WAGE DETERMINATIONS UNDER |         U.S. DEPARTMENT OF LABOR
+        THE SERVICE CONTRACT ACT        | EMPLOYMENT STANDARDS ADMINISTRATION
+ By direction of the Secretary of Labor |         WAGE AND HOUR DIVISION
+                                        |         WASHINGTON D.C. 20210
+                                        |
+                                        |
+                                        |
+                                        | Wage Determination No.: 2005-2153
+ Daniel W. Simms          Division of   |           Revision No.: 21
+ Director            Wage Determinations|       Date Of Revision: 12/29/2015
+ _______________________________________|____________________________________________
+ Note: Under Executive Order (EO) 13658, an hourly minimum wage of $10.15 for
+ calendar year 2016 applies to all contracts subject to the Service Contract
+ Act for which the solicitation was issued on or after January 1, 2015. If this
+ contract is covered by the EO, the contractor must pay all workers in any
+ classification listed on this wage determination at least $10.15 per hour (or
+ the applicable wage rate listed on this wage determination, if it is higher)
+ for all hours spent performing on the contract in calendar year 2016. The EO
+ minimum wage rate will be adjusted annually. Additional information on
+ contractor requirements and worker protections under the EO is available at
+ www.dol.gov/whd/govcontracts.
+ ____________________________________________________________________________________
+ States: American Samoa, Hawaii
+
+ Area: American Samoa Statewide
+ Hawaii Statewide
+ OCCUPATION NOTE:
+
+ STEVEDORING AND LONGSHOREMEN:      Wage rates and fringe benefits can be found on
+ Wage Determination 2000-0085
+
+ ____________________________________________________________________________________
+           **Fringe Benefits Required Follow the Occupational Listing**
+ OCCUPATION CODE - TITLE                                  FOOTNOTE               RATE
+ 01000 - Administrative Support And Clerical Occupations
+   01011 - Accounting Clerk I                                                   14.20
+   01012 - Accounting Clerk II                                                  15.93
+   01013 - Accounting Clerk III                                                 17.40
+   01020 - Administrative Assistant                                             26.48
+   01040 - Court Reporter                                                       18.59
+   01051 - Data Entry Operator I                                                13.16
+   01052 - Data Entry Operator II                                               14.36
+   01060 - Dispatcher, Motor Vehicle                                            17.10
+   01070 - Document Preparation Clerk                                           13.15
+   01090 - Duplicating Machine Operator                                         13.79
+   01111 - General Clerk I                                                      12.53
+   01112 - General Clerk II                                                     13.67
+   01113 - General Clerk III                                                    15.45
+   01120 - Housing Referral Assistant                                           23.77
+   01141 - Messenger Courier                                                    12.47
+   01191 - Order Clerk I                                                        13.18
+   01192 - Order Clerk II                                                       14.38
+   01261 - Personnel Assistant (Employment) I                                   15.79
+   01262 - Personnel Assistant (Employment) II                                  17.88
+   01263 - Personnel Assistant (Employment) III                                 19.68
+   01270 - Production Control Clerk                                             18.86
+   01280 - Receptionist                                                         15.40
+   01290 - Rental Clerk                                                         15.79
+   01300 - Scheduler, Maintenance                                               19.05
+
+
+                                                                              Page 3 of 33
+
+http://www.wdol.gov/wdol/scafiles/std/05-2153.txt?v=21                               2/23/2016
+ i ATTACHMENT JA41                                       SPE600-16-R-0809
+
+   01311 - Secretary I                                               19.05
+   01312 - Secretary II                                              21.31
+   01313 - Secretary III                                             23.77
+   01320 - Service Order Dispatcher                                  14.05
+   01410 - Supply Technician                                         25.82
+   01420 - Survey Worker                                             17.10
+   01531 - Travel Clerk I                                            14.78
+   01532 - Travel Clerk II                                           15.97
+   01533 - Travel Clerk III                                          17.12
+   01611 - Word Processor I                                          14.36
+   01612 - Word Processor II                                         16.11
+   01613 - Word Processor III                                        18.03
+ 05000 - Automotive Service Occupations
+   05005 - Automobile Body Repairer, Fiberglass                      22.19
+   05010 - Automotive Electrician                                    22.43
+   05040 - Automotive Glass Installer                                22.00
+   05070 - Automotive Worker                                         22.00
+   05110 - Mobile Equipment Servicer                                 18.99
+   05130 - Motor Equipment Metal Mechanic                            24.41
+   05160 - Motor Equipment Metal Worker                              22.00
+   05190 - Motor Vehicle Mechanic                                    25.65
+   05220 - Motor Vehicle Mechanic Helper                             17.39
+   05250 - Motor Vehicle Upholstery Worker                           20.80
+   05280 - Motor Vehicle Wrecker                                     22.00
+   05310 - Painter, Automotive                                       23.19
+   05340 - Radiator Repair Specialist                                22.00
+   05370 - Tire Repairer                                             13.78
+   05400 - Transmission Repair Specialist                            24.37
+ 07000 - Food Preparation And Service Occupations
+   07010 - Baker                                                     14.87
+   07041 - Cook I                                                    13.17
+   07042 - Cook II                                                   15.29
+   07070 - Dishwasher                                                12.05
+   07130 - Food Service Worker                                       11.14
+   07210 - Meat Cutter                                               18.70
+   07260 - Waiter/Waitress                                           12.01
+ 09000 - Furniture Maintenance And Repair Occupations
+   09010 - Electrostatic Spray Painter                               17.41
+   09040 - Furniture Handler                                         11.71
+   09080 - Furniture Refinisher                                      19.15
+   09090 - Furniture Refinisher Helper                               14.19
+   09110 - Furniture Repairer, Minor                                 16.63
+   09130 - Upholsterer                                               17.41
+ 11000 - General Services And Support Occupations
+   11030 - Cleaner, Vehicles                                         10.89
+   11060 - Elevator Operator                                         12.89
+   11090 - Gardener                                                  16.40
+   11122 - Housekeeping Aide                                         14.00
+   11150 - Janitor                                                   14.00
+   11210 - Laborer, Grounds Maintenance                              13.55
+   11240 - Maid or Houseman                                          14.49
+   11260 - Pruner                                                    12.13
+   11270 - Tractor Operator                                          16.43
+   11330 - Trail Maintenance Worker                                  13.55
+   11360 - Window Cleaner                                            15.25
+ 12000 - Health Occupations
+   12010 - Ambulance Driver                                          20.70
+   12011 - Breath Alcohol Technician                                 20.70
+   12012 - Certified Occupational Therapist Assistant                19.67
+   12015 - Certified Physical Therapist Assistant                    18.41
+   12020 - Dental Assistant                                          14.80
+   12025 - Dental Hygienist                                          30.34
+
+
+                                                              Page 4 of 33
+
+http://www.wdol.gov/wdol/scafiles/std/05-2153.txt?v=21             2/23/2016
+   ATTACHMENT JA41                                                 SPE600-16-R-0809
+
+   12030 - EKG Technician                                                      26.02
+   12035 - Electroneurodiagnostic Technologist                                 26.02
+   12040 - Emergency Medical Technician                                        22.19
+   12071 - Licensed Practical Nurse I                                          18.51
+   12072 - Licensed Practical Nurse II                                         20.70
+   12073 - Licensed Practical Nurse III                                        23.09
+   12100 - Medical Assistant                                                   14.83
+   12130 - Medical Laboratory Technician                                       19.74
+   12160 - Medical Record Clerk                                                17.82
+   12190 - Medical Record Technician                                           19.93
+   12195 - Medical Transcriptionist                                            19.74
+   12210 - Nuclear Medicine Technologist                                       31.72
+   12221 - Nursing Assistant I                                                 11.39
+   12222 - Nursing Assistant II                                                12.81
+   12223 - Nursing Assistant III                                               13.98
+   12224 - Nursing Assistant IV                                                15.69
+   12235 - Optical Dispenser                                                   20.03
+   12236 - Optical Technician                                                  14.91
+   12250 - Pharmacy Technician                                                 17.19
+   12280 - Phlebotomist                                                        15.69
+   12305 - Radiologic Technologist                                             29.04
+   12311 - Registered Nurse I                                                  29.29
+   12312 - Registered Nurse II                                                 35.82
+   12313 - Registered Nurse II, Specialist                                     35.82
+   12314 - Registered Nurse III                                                43.34
+   12315 - Registered Nurse III, Anesthetist                                   43.34
+   12316 - Registered Nurse IV                                                 51.94
+   12317 - Scheduler (Drug and Alcohol Testing)                                25.66
+ 13000 - Information And Arts Occupations
+   13011 - Exhibits Specialist I                                               19.61
+   13012 - Exhibits Specialist II                                              23.29
+   13013 - Exhibits Specialist III                                             28.49
+   13041 - Illustrator I                                                       20.71
+   13042 - Illustrator II                                                      25.67
+   13043 - Illustrator III                                                     31.40
+   13047 - Librarian                                                           28.71
+   13050 - Library Aide/Clerk                                                  14.17
+   13054 - Library Information Technology Systems                              21.89
+   Administrator
+   13058 - Library Technician                                                  17.36
+   13061 - Media Specialist I                                                  15.86
+   13062 - Media Specialist II                                                 17.74
+   13063 - Media Specialist III                                                19.78
+   13071 - Photographer I                                                      14.00
+   13072 - Photographer II                                                     16.54
+   13073 - Photographer III                                                    19.61
+   13074 - Photographer IV                                                     23.99
+   13075 - Photographer V                                                      28.99
+   13110 - Video Teleconference Technician                                     20.30
+ 14000 - Information Technology Occupations
+   14041 - Computer Operator I                                                 17.54
+   14042 - Computer Operator II                                                19.62
+   14043 - Computer Operator III                                               22.80
+   14044 - Computer Operator IV                                                24.81
+   14045 - Computer Operator V                                                 27.45
+   14071 - Computer Programmer I                         (see 1)               27.62
+   14072 - Computer Programmer II                        (see 1)
+   14073 - Computer Programmer III                       (see 1)
+   14074 - Computer Programmer IV                        (see 1)
+   14101 - Computer Systems Analyst I                    (see 1)
+   14102 - Computer Systems Analyst II                   (see 1)
+   14103 - Computer Systems Analyst III                  (see 1)
+
+
+                                                                        Page 5 of 33
+
+http://www.wdol.gov/wdol/scafiles/std/05-2153.txt?v=21                       2/23/2016
+   ATTACHMENT JA41                                                 SPE600-16-R-0809
+
+   14150 - Peripheral Equipment Operator                                       17.54
+   14160 - Personal Computer Support Technician                                24.81
+ 15000 - Instructional Occupations
+   15010 - Aircrew Training Devices Instructor (Non-Rated)                     30.83
+   15020 - Aircrew Training Devices Instructor (Rated)                         37.30
+   15030 - Air Crew Training Devices Instructor (Pilot)                        43.09
+   15050 - Computer Based Training Specialist / Instructor                     30.83
+   15060 - Educational Technologist                                            25.80
+   15070 - Flight Instructor (Pilot)                                           43.09
+   15080 - Graphic Artist                                                      22.97
+   15090 - Technical Instructor                                                19.66
+   15095 - Technical Instructor/Course Developer                               24.05
+   15110 - Test Proctor                                                        19.47
+   15120 - Tutor                                                               19.47
+ 16000 - Laundry, Dry-Cleaning, Pressing And Related Occupations
+   16010 - Assembler                                                           11.72
+   16030 - Counter Attendant                                                   11.72
+   16040 - Dry Cleaner                                                         14.51
+   16070 - Finisher, Flatwork, Machine                                         11.72
+   16090 - Presser, Hand                                                       11.72
+   16110 - Presser, Machine, Drycleaning                                       11.72
+   16130 - Presser, Machine, Shirts                                            11.72
+   16160 - Presser, Machine, Wearing Apparel, Laundry                          11.72
+   16190 - Sewing Machine Operator                                             15.45
+   16220 - Tailor                                                              16.27
+   16250 - Washer, Machine                                                     12.67
+ 19000 - Machine Tool Operation And Repair Occupations
+   19010 - Machine-Tool Operator (Tool Room)                                   24.08
+   19040 - Tool And Die Maker                                                  30.25
+ 21000 - Materials Handling And Packing Occupations
+   21020 - Forklift Operator                                                   20.84
+   21030 - Material Coordinator                                                21.89
+   21040 - Material Expediter                                                  21.89
+   21050 - Material Handling Laborer                                           16.89
+   21071 - Order Filler                                                        13.51
+   21080 - Production Line Worker (Food Processing)                            20.84
+   21110 - Shipping Packer                                                     15.22
+   21130 - Shipping/Receiving Clerk                                            14.69
+   21140 - Store Worker I                                                      13.23
+   21150 - Stock Clerk                                                         18.58
+   21210 - Tools And Parts Attendant                                           20.84
+   21410 - Warehouse Specialist                                                20.84
+ 23000 - Mechanics And Maintenance And Repair Occupations
+   23010 - Aerospace Structural Welder                                         28.74
+   23021 - Aircraft Mechanic I                                                 27.03
+   23022 - Aircraft Mechanic II                                                28.74
+   23023 - Aircraft Mechanic III                                               30.43
+   23040 - Aircraft Mechanic Helper                                            19.51
+   23050 - Aircraft, Painter                                                   25.27
+   23060 - Aircraft Servicer                                                   22.63
+   23080 - Aircraft Worker                                                     24.16
+   23110 - Appliance Mechanic                                                  21.94
+   23120 - Bicycle Repairer                                                    15.16
+   23125 - Cable Splicer                                                       28.39
+   23130 - Carpenter, Maintenance                                              30.99
+   23140 - Carpet Layer                                                        24.86
+   23160 - Electrician, Maintenance                                            28.25
+   23181 - Electronics Technician Maintenance I                                26.83
+   23182 - Electronics Technician Maintenance II                               28.69
+   23183 - Electronics Technician Maintenance III                              30.56
+   23260 - Fabric Worker                                                       20.95
+   23290 - Fire Alarm System Mechanic                                          23.46
+
+
+                                                                        Page 6 of 33
+
+http://www.wdol.gov/wdol/scafiles/std/05-2153.txt?v=21                       2/23/2016
+   ATTACHMENT JA41                                       SPE600-16-R-0809
+
+   23310 - Fire Extinguisher Repairer                                19.40
+   23311 - Fuel Distribution System Mechanic                         27.68
+   23312 - Fuel Distribution System Operator                         21.58
+   23370 - General Maintenance Worker                                18.45
+   23380 - Ground Support Equipment Mechanic                         27.03
+   23381 - Ground Support Equipment Servicer                         22.63
+   23382 - Ground Support Equipment Worker                           24.16
+   23391 - Gunsmith I                                                19.40
+   23392 - Gunsmith II                                               22.51
+   23393 - Gunsmith III                                              25.64
+   23410 - Heating, Ventilation And Air-Conditioning                 24.07
+   Mechanic
+   23411 - Heating, Ventilation And Air Contditioning                25.52
+   Mechanic (Research Facility)
+   23430 - Heavy Equipment Mechanic                                  28.29
+   23440 - Heavy Equipment Operator                                  34.11
+   23460 - Instrument Mechanic                                       29.96
+   23465 - Laboratory/Shelter Mechanic                               24.07
+   23470 - Laborer                                                   16.49
+   23510 - Locksmith                                                 23.45
+   23530 - Machinery Maintenance Mechanic                            24.70
+   23550 - Machinist, Maintenance                                    24.58
+   23580 - Maintenance Trades Helper                                 14.93
+   23591 - Metrology Technician I                                    29.96
+   23592 - Metrology Technician II                                   31.76
+   23593 - Metrology Technician III                                  33.49
+   23640 - Millwright                                                25.64
+   23710 - Office Appliance Repairer                                 21.56
+   23760 - Painter, Maintenance                                      25.29
+   23790 - Pipefitter, Maintenance                                   27.69
+   23810 - Plumber, Maintenance                                      25.71
+   23820 - Pneudraulic Systems Mechanic                              25.64
+   23850 - Rigger                                                    25.64
+   23870 - Scale Mechanic                                            22.51
+   23890 - Sheet-Metal Worker, Maintenance                           28.46
+   23910 - Small Engine Mechanic                                     20.91
+   23931 - Telecommunications Mechanic I                             27.52
+   23932 - Telecommunications Mechanic II                            28.05
+   23950 - Telephone Lineman                                         24.18
+   23960 - Welder, Combination, Maintenance                          25.04
+   23965 - Well Driller                                              25.14
+   23970 - Woodcraft Worker                                          25.64
+   23980 - Woodworker                                                17.67
+ 24000 - Personal Needs Occupations
+   24570 - Child Care Attendant                                      11.62
+   24580 - Child Care Center Clerk                                   15.14
+   24610 - Chore Aide                                                11.40
+   24620 - Family Readiness And Support Services                     16.19
+   Coordinator
+   24630 - Homemaker                                                 20.11
+ 25000 - Plant And System Operations Occupations
+   25010 - Boiler Tender                                             26.42
+   25040 - Sewage Plant Operator                                     21.94
+   25070 - Stationary Engineer                                       26.42
+   25190 - Ventilation Equipment Tender                              19.25
+   25210 - Water Treatment Plant Operator                            21.94
+ 27000 - Protective Service Occupations
+   27004 - Alarm Monitor                                             18.69
+   27007 - Baggage Inspector                                         12.13
+   27008 - Corrections Officer                                       21.67
+   27010 - Court Security Officer                                    23.28
+   27030 - Detection Dog Handler                                     15.35
+
+
+                                                              Page 7 of 33
+
+http://www.wdol.gov/wdol/scafiles/std/05-2153.txt?v=21             2/23/2016
+   ATTACHMENT JA41                                                  SPE600-16-R-0809
+
+   27040 - Detention Officer                                                    21.67
+   27070 - Firefighter                                                          23.69
+   27101 - Guard I                                                              12.13
+   27102 - Guard II                                                             15.35
+   27131 - Police Officer I                                                     23.97
+   27132 - Police Officer II                                                    26.64
+ 28000 - Recreation Occupations
+   28041 - Carnival Equipment Operator                                          12.47
+   28042 - Carnival Equipment Repairer                                          13.26
+   28043 - Carnival Equpment Worker                                              9.93
+   28210 - Gate Attendant/Gate Tender                                           15.40
+   28310 - Lifeguard                                                            15.84
+   28350 - Park Attendant (Aide)                                                17.23
+   28510 - Recreation Aide/Health Facility Attendant                            13.19
+   28515 - Recreation Specialist                                                21.44
+   28630 - Sports Official                                                      13.72
+   28690 - Swimming Pool Operator                                               17.14
+ 30000 - Technical Occupations
+   30010 - Air Traffic Control Specialist, Center (HFO)   (see 2)               35.77
+   30011 - Air Traffic Control Specialist, Station (HFO) (see 2)                24.66
+   30012 - Air Traffic Control Specialist, Terminal (HFO) (see 2)               27.16
+   30021 - Archeological Technician I                                           16.98
+   30022 - Archeological Technician II                                          19.43
+   30023 - Archeological Technician III                                         24.08
+   30030 - Cartographic Technician                                              24.08
+   30040 - Civil Engineering Technician                                         21.55
+   30061 - Drafter/CAD Operator I                                               16.86
+   30062 - Drafter/CAD Operator II                                              19.43
+   30063 - Drafter/CAD Operator III                                             21.67
+   30064 - Drafter/CAD Operator IV                                              26.66
+   30081 - Engineering Technician I                                             15.91
+   30082 - Engineering Technician II                                            18.64
+   30083 - Engineering Technician III                                           22.50
+   30084 - Engineering Technician IV                                            29.74
+   30085 - Engineering Technician V                                             32.60
+   30086 - Engineering Technician VI                                            39.41
+   30090 - Environmental Technician                                             22.21
+   30210 - Laboratory Technician                                                23.01
+   30240 - Mathematical Technician                                              25.78
+   30361 - Paralegal/Legal Assistant I                                          18.66
+   30362 - Paralegal/Legal Assistant II                                         23.13
+   30363 - Paralegal/Legal Assistant III                                        28.30
+   30364 - Paralegal/Legal Assistant IV                                         34.23
+   30390 - Photo-Optics Technician                                              25.78
+   30461 - Technical Writer I                                                   22.86
+   30462 - Technical Writer II                                                  27.96
+   30463 - Technical Writer III                                                 33.84
+   30491 - Unexploded Ordnance (UXO) Technician I                               22.74
+   30492 - Unexploded Ordnance (UXO) Technician II                              27.51
+   30493 - Unexploded Ordnance (UXO) Technician III                             32.97
+   30494 - Unexploded (UXO) Safety Escort                                       22.74
+   30495 - Unexploded (UXO) Sweep Personnel                                     22.74
+   30620 - Weather Observer, Combined Upper Air Or        (see 2)               21.67
+   Surface Programs
+   30621 - Weather Observer, Senior                       (see 2)               24.08
+ 31000 - Transportation/Mobile Equipment Operation Occupations
+   31020 - Bus Aide                                                             12.94
+   31030 - Bus Driver                                                           18.43
+   31043 - Driver Courier                                                       14.10
+   31260 - Parking and Lot Attendant                                             9.16
+   31290 - Shuttle Bus Driver                                                   14.98
+   31310 - Taxi Driver                                                          11.77
+
+
+                                                                         Page 8 of 33
+
+http://www.wdol.gov/wdol/scafiles/std/05-2153.txt?v=21                        2/23/2016
+   ATTACHMENT JA41                                                  SPE600-16-R-0809
+
+   31361 - Truckdriver, Light                                                    14.98
+   31362 - Truckdriver, Medium                                                   17.26
+   31363 - Truckdriver, Heavy                                                    18.27
+   31364 - Truckdriver, Tractor-Trailer                                          18.27
+ 99000 - Miscellaneous Occupations
+   99030 - Cashier                                                               10.93
+   99050 - Desk Clerk                                                            18.46
+   99095 - Embalmer                                                              22.34
+   99251 - Laboratory Animal Caretaker I                                         12.41
+   99252 - Laboratory Animal Caretaker II                                        17.67
+   99310 - Mortician                                                             24.57
+   99410 - Pest Controller                                                       17.33
+   99510 - Photofinishing Worker                                                 13.86
+   99710 - Recycling Laborer                                                     19.19
+   99711 - Recycling Specialist                                                  23.10
+   99730 - Refuse Collector                                                      17.18
+   99810 - Sales Clerk                                                           14.39
+   99820 - School Crossing Guard                                                 15.03
+   99830 - Survey Party Chief                                                    24.01
+   99831 - Surveying Aide                                                        13.13
+   99832 - Surveying Technician                                                  17.99
+   99840 - Vending Machine Attendant                                             12.64
+   99841 - Vending Machine Repairer                                              15.06
+   99842 - Vending Machine Repairer Helper                                       12.64
+
+
+
+
+ ____________________________________________________________________________________
+
+ ALL OCCUPATIONS LISTED ABOVE RECEIVE THE FOLLOWING BENEFITS:
+
+ HEALTH & WELFARE: (Hawaii): $1.69 per hour, or $67.60 per week, or $292.93 per
+ month hour for all employees on whose behalf the contractor provides health care
+ benefits pursuant to the Hawaii prepaid Health Care Act. For those employees who
+ are not receiving health care benefits mandated by the Hawaii prepaid Health Care
+ Act, the new health and welfare benefit rate will be $4.27 per hour.
+
+ VACATION: 2 weeks paid vacation after 1 year of service with a contractor or
+ successor; 3 weeks after 10 years, and 4 after 15 years. Length of service includes
+ the whole span of continuous service with the present contractor or successor,
+ wherever employed, and with the predecessor contractors in the performance of
+ similar work at the same Federal facility. (Reg. 29 CFR 4.173)
+
+ HOLIDAYS: A minimum of ten paid holidays per year, New Year's Day, Martin Luther
+ King Jr's Birthday, Washington's Birthday, Memorial Day, Independence Day, Labor
+ Day, Columbus Day, Veterans' Day, Thanksgiving Day, and Christmas Day. (A
+ contractor may substitute for any of the named holidays another day off with pay in
+ accordance with a plan communicated to the employees involved.) (See 29 CFR 4174)
+
+
+
+ THE OCCUPATIONS WHICH HAVE NUMBERED FOOTNOTES IN PARENTHESES RECEIVE THE FOLLOWING:
+
+ 1) COMPUTER EMPLOYEES: Under the SCA at section 8(b), this wage determination does
+ not apply to any employee who individually qualifies as a bona fide executive,
+ administrative, or professional employee as defined in 29 C.F.R. Part 541. Because
+ most Computer System Analysts and Computer Programmers who are compensated at a rate
+ not less than $27.63 (or on a salary or fee basis at a rate not less than $455 per
+ week) an hour would likely qualify as exempt computer professionals, (29 C.F.R. 541.
+ 400) wage rates may not be listed on this wage determination for all occupations
+ within those job families. In addition, because this wage determination may not
+
+
+                                                                          Page 9 of 33
+
+http://www.wdol.gov/wdol/scafiles/std/05-2153.txt?v=21                         2/23/2016
+   ATTACHMENT JA41                                                  SPE600-16-R-0809
+
+ list a wage rate for some or all occupations within those job families if the survey
+ data indicates that the prevailing wage rate for the occupation equals or exceeds
+ $27.63 per hour conformances may be necessary for certain nonexempt employees. For
+ example, if an individual employee is nonexempt but nevertheless performs duties
+ within the scope of one of the Computer Systems Analyst or Computer Programmer
+ occupations for which this wage determination does not specify an SCA wage rate,
+ then the wage rate for that employee must be conformed in accordance with the
+ conformance procedures described in the conformance note included on this wage
+ determination.
+ Additionally, because job titles vary widely and change quickly in the computer
+ industry, job titles are not determinative of the application of the computer
+ professional exemption. Therefore, the exemption applies only to computer employees
+ who satisfy the compensation requirements and whose primary duty consists of:
+     (1) The application of systems analysis techniques and procedures, including
+ consulting with users, to determine hardware, software or system functional
+ specifications;
+     (2) The design, development, documentation, analysis, creation, testing or
+ modification of computer systems or programs, including prototypes, based on and
+ related to user or system design specifications;
+     (3) The design, documentation, testing, creation or modification of computer
+ programs related to machine operating systems; or
+     (4) A combination of the aforementioned duties, the performance of which
+ requires the same level of skills. (29 C.F.R. 541.400).
+
+ 2) AIR TRAFFIC CONTROLLERS AND WEATHER OBSERVERS - NIGHT PAY & SUNDAY PAY: If you
+ work at night as part of a regular tour of duty, you will earn a night differential
+ and receive an additional 10% of basic pay for any hours worked between 6pm and 6am.
+  If you are a full-time employed (40 hours a week) and Sunday is part of your
+ regularly scheduled workweek, you are paid at your rate of basic pay plus a Sunday
+ premium of 25% of your basic rate for each hour of Sunday work which is not overtime
+ (i.e. occasional work on Sunday outside the normal tour of duty is considered
+ overtime work).
+
+
+ HAZARDOUS PAY DIFFERENTIAL: An 8 percent differential is applicable to employees
+ employed in a position that represents a high degree of hazard when working with or
+ in close proximity to ordinance, explosives, and incendiary materials. This
+ includes work such as screening, blending, dying, mixing, and pressing of sensitive
+ ordance, explosives, and pyrotechnic compositions such as lead azide, black powder
+ and photoflash powder. All dry-house activities involving propellants or explosives.
+   Demilitarization, modification, renovation, demolition, and maintenance operations
+ on sensitive ordnance, explosives and incendiary materials. All operations
+ involving regrading and cleaning of artillery ranges.
+
+ A 4 percent differential is applicable to employees employed in a position that
+ represents a low degree of hazard when working with, or in close proximity to
+ ordance, (or employees possibly adjacent to) explosives and incendiary materials
+ which involves potential injury such as laceration of hands, face, or arms of the
+ employee engaged in the operation, irritation of the skin, minor burns and the
+ like; minimal damage to immediate or adjacent work area or equipment being used.
+ All operations involving, unloading, storage, and hauling of ordance, explosive, and
+ incendiary ordnance material other than small arms ammunition. These differentials
+ are only applicable to work that has been specifically designated by the agency for
+ ordance, explosives, and incendiary material differential pay.
+
+ ** UNIFORM ALLOWANCE **
+
+ If employees are required to wear uniforms in the performance of this contract
+ (either by the terms of the Government contract, by the employer, by the state or
+ local law, etc.), the cost of furnishing such uniforms and maintaining (by
+ laundering or dry cleaning) such uniforms is an expense that may not be borne by an
+
+
+                                                                         Page 10 of 33
+
+http://www.wdol.gov/wdol/scafiles/std/05-2153.txt?v=21                         2/23/2016
+   ATTACHMENT JA41                                                  SPE600-16-R-0809
+
+ employee where such cost reduces the hourly rate below that required by the wage
+ determination. The Department of Labor will accept payment in accordance with the
+ following standards as compliance:
+
+ The contractor or subcontractor is required to furnish all employees with an
+ adequate number of uniforms without cost or to reimburse employees for the actual
+ cost of the uniforms. In addition, where uniform cleaning and maintenance is made
+ the responsibility of the employee, all contractors and subcontractors subject to
+ this wage determination shall (in the absence of a bona fide collective bargaining
+ agreement providing for a different amount, or the furnishing of contrary
+ affirmative proof as to the actual cost), reimburse all employees for such cleaning
+ and maintenance at a rate of $3.35 per week (or $.67 cents per day). However, in
+ those instances where the uniforms furnished are made of "wash and wear"
+ materials, may be routinely washed and dried with other personal garments, and do
+ not require any special treatment such as dry cleaning, daily washing, or commercial
+ laundering in order to meet the cleanliness or appearance standards set by the terms
+ of the Government contract, by the contractor, by law, or by the nature of the work,
+ there is no requirement that employees be reimbursed for uniform maintenance costs.
+
+ The duties of employees under job titles listed are those described in the
+ "Service Contract Act Directory of Occupations", Fifth Edition, April 2006,
+ unless otherwise indicated. Copies of the Directory are available on the Internet. A
+ links to the Directory may be found on the WHD home page at http://www.dol.
+ gov/esa/whd/ or through the Wage Determinations On-Line (WDOL) Web site at
+ http://wdol.gov/.
+
+ REQUEST FOR AUTHORIZATION OF ADDITIONAL CLASSIFICATION AND WAGE RATE {Standard Form
+ 1444 (SF 1444)}
+
+ Conformance Process:
+
+ The contracting officer shall require that any class of service employee which is
+ not listed herein and which is to be employed under the contract (i.e., the work to
+ be performed is not performed by any classification listed in the wage
+ determination), be classified by the contractor so as to provide a reasonable
+ relationship (i.e., appropriate level of skill comparison) between such unlisted
+ classifications and the classifications listed in the wage determination. Such
+ conformed classes of employees shall be paid the monetary wages and furnished the
+ fringe benefits as are determined. Such conforming process shall be initiated by
+ the contractor prior to the performance of contract work by such unlisted class(es)
+ of employees. The conformed classification, wage rate, and/or fringe benefits shall
+ be retroactive to the commencement date of the contract. {See Section 4.6 (C)(vi)}
+ When multiple wage determinations are included in a contract, a separate SF 1444
+ should be prepared for each wage determination to which a class(es) is to be
+ conformed.
+
+ The process for preparing a conformance request is as follows:
+
+ 1) When preparing the bid, the contractor identifies the need for a conformed
+ occupation(s) and computes a proposed rate(s).
+
+ 2) After contract award, the contractor prepares a written report listing in order
+ proposed classification title(s), a Federal grade equivalency (FGE) for each
+ proposed classification(s), job description(s), and rationale for proposed wage
+ rate(s), including information regarding the agreement or disagreement of the
+ authorized representative of the employees involved, or where there is no authorized
+ representative, the employees themselves. This report should be submitted to the
+ contracting officer no later than 30 days after such unlisted class(es) of employees
+ performs any contract work.
+
+ 3) The contracting officer reviews the proposed action and promptly submits a report
+ of the action, together with the agency's recommendations and pertinent
+
+
+                                                                         Page 11 of 33
+
+http://www.wdol.gov/wdol/scafiles/std/05-2153.txt?v=21                           2/23/2016
+   ATTACHMENT JA41                                                  SPE600-16-R-0809
+
+
+information including the position of the contractor and the employees, to the Wage
+and Hour Division, Employment Standards Administration, U.S. Department of Labor,
+for review. (See section 4.6(b)(2) of Regulations 29 CFR Part 4).
+ 4) Within 30 days of receipt, the Wage and Hour Division approves, modifies, or
+ disapproves the action via transmittal to the agency contracting officer, or
+ notifies the contracting officer that additional time will be required to process
+ the request.
+
+ 5) The contracting officer transmits the Wage and Hour decision to the contractor.
+
+ 6) The contractor informs the affected employees.
+
+ Information required by the Regulations must be submitted on SF 1444 or bond paper.
+
+ When preparing a conformance request, the "Service Contract Act Directory of
+ Occupations" (the Directory) should be used to compare job definitions to insure
+ that duties requested are not performed by a classification already listed in the
+ wage determination. Remember, it is not the job title, but the required tasks that
+ determine whether a class is included in an established wage determination.
+ Conformances may not be used to artificially split, combine, or subdivide
+ classifications listed in the wage determination.
+
+
+
+
+                                                                         Page 12 of 33
+
+http://www.wdol.gov/wdol/scafiles/std/05-2153.txt?v=21                         2/23/2016
+ATTACHMENT JA41                                     SPE600-16-R-0809
+
+
+
+  JA41.2 Davis-Bacon Contract Act Wage Determination
+  HI160001, 02/05/2016, HI1, Building, Heavy (Heavy and
+  Dredging), Highway and Residential
+
+
+
+
+                                                          Page 13 of 33
+   ATTACHMENT JA41                                                   SPE600-16-R-0809
+
+
+ General Decision Number: HI160001 02/05/2016        HI1
+
+ Superseded General Decision Number: HI20150001
+
+ State: Hawaii
+
+ Construction Types: Building, Heavy (Heavy and Dredging),
+ Highway and Residential
+
+
+ Counties: Hawaii Statewide.
+
+ BUILDING CONSTRUCTION PROJECTS; RESIDENTIAL CONSTRUCTION
+ PROJECTS (consisting of single family homes and apartments up
+ to and including 4 stories); HEAVY AND HIGHWAY CONSTRUCTION
+ PROJECTS AND DREDGING
+
+ Note: Under Executive Order (EO) 13658, an hourly minimum wage
+ of $10.15 for calendar year 2016 applies to all contracts
+ subject to the Davis-Bacon Act for which the solicitation was
+ issued on or after January 1, 2015. If this contract is covered
+ by the EO, the contractor must pay all workers in any
+ classification listed on this wage determination at least
+ $10.15 (or the applicable wage rate listed on this wage
+ determination, if it is higher) for all hours spent performing
+ on the contract in calendar year 2016. The EO minimum wage rate
+ will be adjusted annually. Additional information on contractor
+ requirements and worker protections under the EO is available
+ at www.dol.gov/whd/govcontracts.
+
+
+ Modification Number        Publication Date
+           0                 01/08/2016
+           1                 01/15/2016
+           2                 01/22/2016
+           3                 02/05/2016
+
+  ASBE0132-001 08/29/2010
+
+                                        Rates              Fringes
+
+ Asbestos Workers/Insulator
+      Includes application of
+      all insulating materials,
+      protective coverings,
+      coatings and finishes to
+      all types of mechanical
+      systems. Also the
+      application of
+      firestopping material for
+      wall openings and
+      penetrations in walls,
+      floors, ceilings and
+      curtain walls...............$ 36.65            22.24
+ ----------------------------------------------------------------
+  BOIL0627-005 01/01/2013
+
+                                        Rates              Fringes
+
+
+
+                                                                         Page 14 of 33
+
+http://www.wdol.gov/wdol/scafiles/davisbacon/HI1.dvb?v=3                       2/23/2016
+   ATTACHMENT JA41                                                   SPE600-16-R-0809
+
+ BOILERMAKER......................$ 35.20            27.35
+ ----------------------------------------------------------------
+  BRHI0001-001 09/03/2012
+
+                                        Rates              Fringes
+
+ BRICKLAYER
+      Bricklayers and Stonemasons.$ 35.35            22.92
+      Pointers, Caulkers and
+      Weatherproofers.............$ 35.60            22.92
+ ----------------------------------------------------------------
+  BRHI0001-002 09/02/2013
+
+                                        Rates              Fringes
+
+ Tile, Marble & Terrazzo Worker
+      Terrazzo Base Grinders......$ 35.29            23.22
+      Terrazzo Floor Grinders
+      and Tenders.................$ 32.24            23.22
+      Tile, Marble and Terrazzo
+      Workers.....................$ 37.10            23.22
+ ----------------------------------------------------------------
+  CARP0745-001 08/31/2015
+
+                                        Rates              Fringes
+
+ Carpenters:
+      Carpenters; Hardwood Floor
+      Layers; Patent Scaffold
+      Erectors (14 ft. and
+      over); Piledrivers;
+      Pneumatic Nailers; Wood
+      Shinglers and Transit
+      and/or Layout Man...........$ 43.90            20.92
+      Millwrights and Machine
+      Erectors....................$ 44.15            20.92
+      Power Saw Operators (2
+      h.p. and over)..............$ 44.05            20.92
+ ----------------------------------------------------------------
+  CARP0745-002 08/31/2015
+
+                                        Rates              Fringes
+
+ Drywall and Acoustical
+ Workers and Lathers..............$ 44.15            20.92
+ ----------------------------------------------------------------
+  ELEC1186-001 08/22/2015
+
+                                        Rates              Fringes
+
+ Electricians:
+      Cable Splicers..............$ 47.36            28.53
+      Electricians................$ 43.05            27.22
+      Telecommunication worker....$ 26.30            11.58
+ ----------------------------------------------------------------
+  ELEC1186-002 08/22/2015
+
+                                        Rates              Fringes
+
+ Line Construction:
+
+
+                                                                         Page 15 of 33
+
+http://www.wdol.gov/wdol/scafiles/davisbacon/HI1.dvb?v=3                       2/23/2016
+   ATTACHMENT JA41                                                   SPE600-16-R-0809
+
+      Cable Splicers..............$ 47.36            28.53
+      Groundmen/Truck Drivers.....$ 32.29            23.93
+      Heavy Equipment Operators...$ 38.75            25.91
+      Linemen.....................$ 43.05            27.22
+      Telecommunication worker....$ 26.30            11.58
+ ----------------------------------------------------------------
+  ELEV0126-001 01/01/2015
+
+                                        Rates              Fringes
+
+ ELEVATOR MECHANIC................$ 53.07                    28.38
+
+   a. VACATION: Employer contributes 8% of basic hourly rate for
+   5 years service and 6% of basic hourly rate for 6 months to
+   5 years service as vacation pay credit.
+
+   b. PAID HOLIDAYS: New Year's Day, Memorial Day, Independence
+   Day, Labor Day, Veterans' Day, Thanksgiving Day, the Friday
+   after Thanksgiving Day and Christmas Day.
+
+ ----------------------------------------------------------------
+ * ENGI0003-002 08/31/2015
+
+                                        Rates              Fringes
+
+ Diver (Aqua Lung) (Scuba))
+      Diver (Aqua Lung) (Scuba)
+      (over a depth of 30 feet)...$ 62.50                    27.98
+      Diver (Aqua Lung) (Scuba)
+      (up to a depth of 30 feet)..$ 53.13                    27.98
+      Stand-by Diver (Aqua Lung)
+       (Scuba)....................$ 43.75                    27.98
+ Diver (Other than Aqua Lung)
+      Diver (Other than Aqua
+      Lung).......................$ 62.50                    27.98
+      Diver Tender (Other than
+      Aqua Lung)..................$ 40.72                    27.98
+      Stand-by Diver (Other than
+      Aqua Lung)..................$ 43.75                    27.98
+ Helicopter Work
+      Airborne Hoist Operator
+      for Helicopter..............$ 42.30                    27.98
+      Co-Pilot of Helicopter......$ 42.44                    27.98
+      Pilot of Helicopter.........$ 42.61                    27.98
+ Power equipment operator -
+ tunnel work
+      GROUP 1....................$ 38.74                     27.98
+      GROUP 2....................$ 38.85                     27.98
+      GROUP 3....................$ 39.02                     27.98
+      GROUP 4....................$ 39.29                     27.98
+      GROUP 5....................$ 39.60                     27.98
+      GROUP 6....................$ 40.25                     27.98
+      GROUP 7....................$ 40.57                     27.98
+      GROUP 8....................$ 40.68                     27.98
+      GROUP 9....................$ 40.79                     27.98
+      GROUP 9A...................$ 41.02                     27.98
+      GROUP 10....................$ 41.08                    27.98
+      GROUP 10A...................$ 41.23                    27.98
+      GROUP 11....................$ 41.38                    27.98
+      GROUP 12....................$ 41.74                    27.98
+
+
+                                                                         Page 16 of 33
+
+http://www.wdol.gov/wdol/scafiles/davisbacon/HI1.dvb?v=3                       2/23/2016
+   ATTACHMENT JA41                                                 SPE600-16-R-0809
+
+      GROUP 12A...................$ 42.10                  27.98
+ Power equipment operators:
+      GROUP 1....................$ 38.44                   27.98
+      GROUP 2....................$ 38.55                   27.98
+      GROUP 3....................$ 38.72                   27.98
+      GROUP 4....................$ 38.99                   27.98
+      GROUP 5....................$ 39.30                   27.98
+      GROUP 6....................$ 39.95                   27.98
+      GROUP 7....................$ 40.27                   27.98
+      GROUP 8....................$ 40.38                   27.98
+      GROUP 9....................$ 40.49                   27.98
+      GROUP 9A...................$ 40.72                   27.98
+      GROUP 10....................$ 40.78                  27.98
+      GROUP 10A...................$ 40.93                  27.98
+      GROUP 11....................$ 41.08                  27.98
+      GROUP 12....................$ 41.44                  27.98
+      GROUP 12A...................$ 41.80                  27.98
+      GROUP 13....................$ 38.72                  27.98
+      GROUP 13A...................$ 38.99                  27.98
+      GROUP 13B...................$ 39.30                  27.98
+      GROUP 13C...................$ 39.95                  27.98
+      GROUP 13D...................$ 40.27                  27.98
+      GROUP 13E...................$ 40.38                  27.98
+
+ POWER EQUIPMENT OPERATORS CLASSIFICATIONS
+
+   GROUP 1: Fork Lift (up to and including 10 tons); Partsman
+   (heavy duty repair shop parts room when needed).
+
+   GROUP 2: Conveyor Operator (Handling building material);
+   Hydraulic Monitor; Mixer Box Operator (Concrete Plant).
+
+   GROUP 3: Brakeman; Deckhand; Fireman; Oiler;
+   Oiler/Gradechecker; Signalman; Switchman; Highline Cableway
+   Signalman; Bargeman; Bunkerman; Concrete Curing Machine
+   (self-propelled, automatically applied unit on streets,
+   highways, airports and canals); Leveeman; Roller (5 tons
+   and under); Tugger Hoist.
+
+   GROUP 4: Boom Truck or dual purpose "A" Frame Truck (5 tons
+   or less); Concrete Placing Boom (Building Construction);
+   Dinky Operator; Elevator Operator; Hoist and/or Winch (one
+   drum); Straddle Truck (Ross Carrier, Hyster and similar).
+
+   GROUP 5: Asphalt Plant Fireman; Compressors, Pumps,
+   Generators and Welding Machines ("Bank" of 9 or more,
+   individually or collectively); Concrete Pumps or Pumpcrete
+   Guns; Lubrication and Service Engineer (Grease Rack);
+   Screedman.
+
+   GROUP 6: Boom Truck or Dual Purpose "A"Frame Truck (over 5
+   tons); Combination Loader/Backhoe (up to and including 3/4
+   cu. yd.); Concrete Batch Plants (wet or dry); Concrete
+   Cutter, Groover and/or Grinder (self-propelled unit on
+   streets, highways, airports, and canals); Conveyor or
+   Concrete Pump (Truck or Equipment Mounted); Drilling
+   Machinery (not to apply to waterliners, wagon drills or
+   jack hammers); Fork Lift (over 10 tons); Loader (up to and
+   including 3 and 1/2 cu. yds); Lull High Lift (under 40
+   feet); Lubrication and Service Engineer (Mobile); Maginnis
+
+
+                                                                       Page 17 of 33
+
+http://www.wdol.gov/wdol/scafiles/davisbacon/HI1.dvb?v=3                     2/23/2016
+   ATTACHMENT JA41                                                 SPE600-16-R-0809
+
+
+ Internal Full Slab Vibrator (on airports, highways, canals
+ and warehouses); Man or Material Hoist; Mechanical Concrete
+ Finisher (Large Clary, Johnson Bidwell, Bridge Deck and
+ similar); Mobile Truck Crane Driver; Portable Shotblast
+ Concrete Cleaning Machine; Portable Boring Machine (under
+ streets, highways, etc.); Portable Crusher; Power Jumbo
+ Operator (setting slip forms, etc., in tunnels); Rollers
+   (over 5 tons); Self-propelled Compactor (single engine);
+ Self-propelled Pavement Breaker; Skidsteer Loader with
+ attachments; Slip Form Pumps (Power driven by hydraulic,
+ electric, air, gas, etc., lifting device for concrete
+ forms); Small Rubber Tired Tractors; Trencher (up to and
+ including 6 feet); Underbridge Personnel Aerial Platform
+   (50 feet of platform or less).
+   GROUP 7: Crusher Plant Engineer, Dozer (D-4, Case 450, John
+   Deere 450, and similar); Dual Drum Mixer, Extend Lift;
+   Hoist and/or Winch (2 drums); Loader (over 3 and 1/2 cu.
+   yds. up to and including 6 yards.); Mechanical Finisher or
+   Spreader Machine (asphalt), (Barber Greene and similar)
+   (Screedman required); Mine or Shaft Hoist; Mobile Concrete
+   Mixer (over 5 tons); Pipe Bending Machine (pipelines only);
+   Pipe Cleaning Machine (tractor propelled and supported);
+   Pipe Wrapping Machine (tractor propelled and supported);
+   Roller Operator (Asphalt); Self-Propelled Elevating Grade
+   Plane; Slusher Operator; Tractor (with boom) (D-6, or
+   similar); Trencher (over 6 feet and less than 200 h.p.);
+   Water Tanker (pulled by Euclids, T-Pulls, DW-10, 20 or 21,
+   or similar); Winchman (Stern Winch on Dredge).
+
+   GROUP 8: Asphalt Plant Operator; Barge Mate (Seagoing);
+   Cast-in-Place Pipe Laying Machine; Concrete Batch Plant
+   (multiple units); Conveyor Operator (tunnel); Deckmate;
+   Dozer (D-6 and similar); Finishing Machine Operator
+   (airports and highways); Gradesetter; Kolman Loader (and
+   similar); Mucking Machine (Crawler-type); Mucking Machine
+   (Conveyor-type); No-Joint Pipe Laying Machine; Portable
+   Crushing and Screening Plant; Power Blade Operator (under
+   12); Saurman Type Dragline (up to and including 5 yds.);
+   Stationary Pipe Wrapping, Cleaning and Bending Machine;
+   Surface Heater and Planer Operator, Tractor (D-6 and
+   similar); Tri-Batch Paver; Tunnel Badger; Tunnel Mole
+   and/or Boring Machine Operator Underbridge Personnel Aerial
+   Platform (over 50 feet of platform).
+
+   GROUP 9: Combination Mixer and Compressor (gunite); Do-Mor
+   Loaderand Adams Elegrader; Dozer (D-7 or equal); Wheel
+   and/or Ladder Trencher (over 6 feet and 200 to 749 h.p.).
+
+   GROUP 9A: Dozer (D-8 and similar); Gradesetter (when required
+   by the Contractor to work from drawings, plans or
+   specifications without the direct supervision of a foreman
+   or superintendent); Push Cat; Scrapers (up to and including
+   20 cu. yds); Self-propelled Compactor with Dozer;
+   Self-Propelled, Rubber-Tired Earthmoving Equipment (up to
+   and including 20 cu. yds) (621 Band and similar); Sheep's
+   Foot; Tractor (D-8 and similar); Tractors with boom (larger
+   than D-6, and similar).
+
+   GROUP 10: Chicago Boom; Cold Planers; Heavy Duty Repairman or
+
+
+                                                                       Page 18 of 33
+
+http://www.wdol.gov/wdol/scafiles/davisbacon/HI1.dvb?v=3                     2/23/2016
+   ATTACHMENT JA41                                                 SPE600-16-R-0809
+
+   Welder; Hoist and/or Winch (3 drums); Hydraulic Skooper
+   (Koehring and similar); Loader (over 6 cu. yds. up to and
+   including 12 cu. yds.); Saurman type Dragline (over 5 cu.
+   yds.); Self-propelled, rubber-tired Earthmoving Equipment
+   (over 20 cu. yds. up to and including 31 cu. yds.) (637D
+   and similar); Soil Stabilizer (P & H or equal); Sub-Grader
+   (Gurries or other automatic type); Tractors (D-9 or
+   equivalent, all attachments); Tractor (Tandem Scraper);
+   Watch Engineer.
+
+   GROUP 10A: Boat Operator; Cable-operated Crawler Crane (up to
+   and including 25 tons); Cable-operated Power Shovel,
+   Clamshell, Dragline and Backhoe (up to and including 1 cu.
+   yd.); Dozer D9-L; Dozer (D-10, HD41 and similar) (all
+   attachments); Gradall (up to and including 1 cu. yd.);
+   Hydraulic Backhoe (over 3/4 cu. yds. up to and including 2
+   cu. yds.); Mobile Truck Crane Operator (up to and including
+   25 tons) (Mobile Truck Crane Driver Required);
+   Self-propelled Boom Type Lifting Device (Center Mount) (up
+   to and including 25 tons) (Grove, Drott, P&H, Pettibone and
+   similar; Trencher (over 6 feet and 750 h.p. or more); Watch
+   Engineer (steam or electric).
+
+   GROUP 11: Automatic Slip Form Paver (concrete or asphalt);
+   Band Wagon (in conjunction with Wheel Excavator);
+   Cable-operated Crawler Cranes (over 25 tons but less than
+   50 tons); Cable-operated Power Shovel, Clamshell, Dragline
+   and Backhoe (over 1 cu. yd. up to 7 cu. yds.); Gradall
+   (over 1 cu. yds. up to 7 cu. yds.); DW-10, 20, etc.
+   (Tandem); Earthmoving Machines (multiple propulsion power
+   units and 2 or more Scrapers) (up to and including 35 cu.
+   yds.," struck" m.r.c.); Highline Cableway; Hydraulic
+   Backhoe (over 2 cu. yds. up to and including 4 cu. yds.);
+   Leverman; Lift Slab Machine; Loader (over 12 cu. yds);
+   Master Boat Operator; Mobile Truck Crane Operator (over 25
+   tons but less than 50 tons); (Mobile Truck Crane Driver
+   required); Pre-stress Wire Wrapping Machine; Self-propelled
+   Boom-type Lifting Device (Center Mount) (over 25 tons
+   m.r.c); Self-propelled Compactor (with multiple-propulsion
+   power units); Single Engine Rubber Tired Earthmoving
+   Machine (with Tandem Scraper); Tandem Cats; Trencher
+   (pulling attached shield).
+
+   GROUP 12: Clamshell or Dipper Operator; Derricks; Drill Rigs;
+   Multi-Propulsion Earthmoving Machines (2 or more Scrapers)
+   (over 35 cu. yds "struck"m.r.c.); Operators (Derricks,
+   Piledrivers and Cranes); Power Shovels and Draglines (7 cu.
+   yds. m.r.c. and over); Self-propelled rubber-tired
+   Earthmoving equipment (over 31 cu. yds.) (657B and
+   similar); Wheel Excavator (up to and including 750 cu. yds.
+   per hour); Wheel Excavator (over 750 cu. yds. per hour).
+
+   GROUP 12A: Dozer (D-11 or similar or larger); Hydraulic
+   Excavators (over 4 cu. yds.); Lifting cranes (50 tons and
+   over); Pioneering Dozer/Backhoe (initial clearing and
+   excavation for the purpose of providing access for other
+   equipment where the terrain worked involves 1-to-1 slopes
+   that are 50 feet in height or depth, the scope of this work
+   does not include normal clearing and grubbing on usual
+   hilly terrain nor the excavation work once the access is
+
+
+                                                                       Page 19 of 33
+
+http://www.wdol.gov/wdol/scafiles/davisbacon/HI1.dvb?v=3                     2/23/2016
+   ATTACHMENT JA41                                                   SPE600-16-R-0809
+
+   provided); Power Blade Operator (Cat 12 or equivalent or
+   over); Straddle Lifts (over 50 tons); Tower Crane, Mobile;
+   Traveling Truss Cranes; Universal, Liebher, Linden, and
+   similar types of Tower Cranes (in the erection,
+   dismantling, and moving of equipment there shall be an
+   additional Operating Engineer or Heavy Duty Repairman);
+   Yo-Yo Cat or Dozer.
+
+ GROUP 13: Truck Driver (Utility, Flatbed, etc.)
+
+   GROUP 13A: Dump Truck, 8 cu.yds. and under (water level);
+   Water Truck (up to and including 2,000 gallons).
+
+   GROUP 13B: Water Truck (over 2,000 gallons); Tandem Dump
+   Truck, over 8 cu. yds. (water level).
+
+   GROUP 13C: Truck Driver (Semi-trailer. Rock Cans, Semi-Dump
+   or Roll-Offs).
+
+ GROUP 13D: Truck Driver (Slip-In or Pup).
+
+   GROUP 13E: End Dumps, Unlicensed (Euclid, Mack, Caterpillar
+   or similar); Tractor Trailer (Hauling Equipment); Tandem
+   Trucks hooked up to Trailer (Hauling Equipment)
+
+
+ BOOMS AND/OR LEADS (HOURLY PREMIUMS):
+
+   The Operator of a crane (under 50 tons) with a boom of 80
+   feet or more (including jib), or of a crane (under 50 tons)
+   with leads of 100 feet or more, shall receive a per hour
+   premium for each hour worked on said crane (under 50 tons)
+   in accordance with the following schedule:
+
+ Booms of 80 feet up to but
+  not including 130 feet or
+  Leads of 100 feet up to but
+  not including 130 feet                          0.50
+ Booms and/or Leads of 130 feet
+  up to but not including 180 feet                0.75
+ Booms and/or Leads of 180 feet up
+  to and including 250 feet                       1.15
+ Booms and/or Leads over 250 feet                 1.50
+
+   The Operator of a crane (50 tons and over) with a boom of 180
+   feet or more (including jib) shall receive a per hour
+   premium for each hour worked on said crane (50 tons and
+   over) in accordance with the following schedule:
+
+ Booms of 180 feet up to
+  and including 250 feet                          1.25
+ Booms over 250 feet                              1.75
+
+ ----------------------------------------------------------------
+ * ENGI0003-004 09/01/2015
+
+                                        Rates              Fringes
+
+ Dredging: (Boat Operators)
+      Boat Deckhand...............$ 38.72                    27.98
+
+
+                                                                         Page 20 of 33
+
+http://www.wdol.gov/wdol/scafiles/davisbacon/HI1.dvb?v=3                       2/23/2016
+   ATTACHMENT JA41                                                   SPE600-16-R-0809
+
+      Boat Operator...............$ 40.93                    27.98
+      Master Boat Operator........$ 41.08                    27.98
+ Dredging: (Clamshell or
+ Dipper Dredging)
+      GROUP 1.....................$ 41.44                    27.98
+      GROUP 2.....................$ 40.78                    27.98
+      GROUP 3.....................$ 40.38                    27.98
+      GROUP 4.....................$ 38.72                    27.98
+ Dredging: (Derricks)
+      GROUP 1.....................$ 41.44                    27.98
+      GROUP 2.....................$ 40.78                    27.98
+      GROUP 3.....................$ 40.38                    27.98
+      GROUP 4.....................$ 38.72                    27.98
+ Dredging: (Hydraulic Suction
+ Dredges)
+      GROUP 1.....................$ 41.08                    27.98
+      GROUP 2.....................$ 40.93                    27.98
+      GROUP 3.....................$ 40.78                    27.98
+      GROUP 4.....................$ 40.72                    27.98
+      GROUP 5.....................$ 37.88                    26.76
+      Group 5.....................$ 40.38                    27.98
+      GROUP 6.....................$ 37.77                    26.76
+      Group 6.....................$ 40.27                    27.98
+      GROUP 7.....................$ 36.22                    26.76
+      Group 7.....................$ 38.72                    27.98
+
+ CLAMSHELL OR DIPPER DREDGING CLASSIFICATIONS
+
+ GROUP   1: Clamshell or Dipper Operator.
+ GROUP   2: Mechanic or Welder; Watch Engineer.
+ GROUP   3: Barge Mate; Deckmate.
+ GROUP   4: Bargeman; Deckhand; Fireman; Oiler.
+
+ HYDRAULIC SUCTION DREDGING CLASSIFICATIONS
+
+ GROUP 1: Leverman.
+ GROUP 2: Watch Engineer (steam or electric).
+ GROUP 3: Mechanic or Welder.
+ GROUP 4: Dozer Operator.
+ GROUP 5: Deckmate.
+ GROUP 6: Winchman (Stern Winch on Dredge)
+   GROUP 7: Deckhand (can operate anchor scow under direction of
+   Deckmate); Fireman; Leveeman; Oiler.
+
+ DERRICK CLASSIFICATIONS
+
+ GROUP 1: Operators (Derricks, Piledrivers and Cranes).
+ GROUP 2: Saurman Type Dragline (over 5 cubic yards).
+   GROUP 3: Deckmate; Saurman Type Dragline (up to and
+   including 5 yards).
+ GROUP 4: Deckhand, Fireman, Oiler.
+
+ ----------------------------------------------------------------
+ * ENGI0003-044 08/31/2015
+
+                                        Rates              Fringes
+
+ Power Equipment Operators
+ (PAVING)
+      (10) Cold Planer............$ 40.25                    27.87
+
+
+                                                                         Page 21 of 33
+
+http://www.wdol.gov/wdol/scafiles/davisbacon/HI1.dvb?v=3                       2/23/2016
+   ATTACHMENT JA41                                                   SPE600-16-R-0809
+
+      (10)Loader (2 1/2 cu. yds.
+      and under)..................$ 39.42            27.87
+      (10)Soil Stabilizer.........$ 40.25            27.87
+      (11)Loader (over 2 1/2 cu.
+      yds. to and including 5
+      cu. yds.)...................$ 39.74            27.87
+      (3)Roller Operator (five
+      tons and under).............$ 38.19            27.87
+      (5)Screed Person............$ 39.42            27.87
+      (6)Combination
+      Loader/Backhoe (up to 3/4
+      cu.yd.).....................$ 37.48            27.87
+      (6)Concrete Saws and/or
+      Grinder (self-propelled
+      unit on streets, highways,
+      airports and canals)........$ 39.42            27.87
+      (6)Roller Operator (over
+      five tons)..................$ 39.62            27.87
+      (7)Combination
+      Loader/Backhoe (over 3/4
+      cu.yd.).....................$ 38.46            27.87
+      (8) Asphalt Plant Operator..$ 39.89            27.87
+      Asphalt Concrete Material
+      Transfer....................$ 39.42            27.87
+      Asphalt Raker...............$ 38.46            27.87
+      Asphalt Spreader Operator...$ 39.94            27.87
+      Grader......................$ 40.25            27.87
+      Laborer, Hand Roller........$ 37.96            27.87
+ ----------------------------------------------------------------
+  IRON0625-001 09/01/2014
+
+                                        Rates              Fringes
+
+ Ironworkers:.....................$ 35.75            29.01
+   a. Employees will be paid $.50 per hour more while working in
+   tunnels and coffer dams; $1.00 per hour more when required to
+   work under or are covered with water (submerged) and when they
+   are required to work on the summit of Mauna Kea, Mauna Loa or
+   Haleakala.
+ ----------------------------------------------------------------
+  LABO0368-001 08/31/2015
+
+                                        Rates              Fringes
+
+ Laborers:
+      Driller.....................$ 35.35                    17.51
+      Final Clean Up..............$ 25.75                    13.34
+      Gunite/Shotcrete Operator
+      and High Scaler.............$ 34.85                    17.51
+      Laborer I...................$ 34.35                    17.51
+      Laborer II..................$ 31.75                    17.51
+      Mason Tender/Hod Carrier....$ 34.85                    17.51
+      Powderman...................$ 35.35                    17.51
+      Window Washer (bosun chair).$ 33.85                    17.51
+
+ LABORERS CLASSIFICATIONS
+
+   Laborer I: Air Blasting run by electric or pneumatic
+   compressor; Asphalt Laborer, Ironer, Raker, Luteman, and
+   Handroller, and all types of Asphalt Spreader Boxes;
+
+
+                                                                         Page 22 of 33
+
+http://www.wdol.gov/wdol/scafiles/davisbacon/HI1.dvb?v=3                       2/23/2016
+   ATTACHMENT JA41                                               SPE600-16-R-0809
+
+   Asphalt Shoveler; Assembly and Installation of Multiplates,
+   Liner Plates, Rings, Mesh, Mats; Batching Plant (portable
+   and temporary); Boring Machine Operator (under streets and
+   sidewalks); Buggymobile; Burning and Welding; Chainsaw,
+   Faller, Logloader, and Bucker; Compactors (Jackson Jumping
+   Jack and similar); Concrete Bucket Dumpman; Concrete
+   Chipping; Concrete Chuteman/Hoseman (pouring concrete) (the
+   handling of the chute from ready-mix trucks for such jobs
+   as walls, slabs, decks, floors, foundations, footings,
+   curbs, gutters, and sidewalks); Concrete Core Cutter
+   (Walls, Floors, and Ceiling); Concrete Grinding or Sanding;
+   Concrete: Hooking on, signaling, dumping of concrete for
+   treme work over water on caissons, pilings, abutments,
+   etc.; Concrete: Mixing, handling, conveying, pouring,
+   vibrating, otherwise placing of concrete or aggregates or
+   by any other process; Concrete: Operation of motorized
+   wheelbarrows or buggies or machines of similar character,
+   whether run by gas, diesel, or electric power; Concrete
+   Placement Machine Operator: operation of Somero Hammerhead,
+   Copperheads, or similar machines; Concrete Pump Machine
+   (laying, coupling, uncoupling of all connections and
+   cleaning of equipment); Concrete and/or Asphalt Saw
+   (Walking or Handtype) (cutting walls or flatwork) (scoring
+   old or new concrete and/or asphalt) (cutting for expansion
+   joints) (streets and ways for laying of pipe, cable or
+   conduit for all purposes); Concrete Shovelers/Laborers (Wet
+   or Dry); Concrete Screeding for Rough Strike-Off: Rodding
+   or striking-off, by hand or mechanical means prior to
+   finishing; Concrete Vibrator Operator; Coring Holes: Walls,
+   footings, piers or other obstructions for passage of pipes
+   or conduits for any purpose and the pouring of concrete to
+   secure the hole; Cribbers, Shorer, Lagging, Sheeting, and
+   Trench Jacking and Bracing, Hand-Guided Lagging Hammer
+   Whaling Bracing; Curbing (Concrete and Asphalt); Curing of
+   Concrete (impervious membrane and form oiler) mortar and
+   other materials by any mode or method; Cut Granite Curb
+   Setter (setting, leveling and grouting of all precast
+   concrete or stone curbs); Cutting and Burning Torch
+   (demolition); Dri Pak-It Machine; Environmental Abatement:
+   removal of asbestos, lead, and bio hazardous materials (EPA
+   and/or OSHA certified); Falling, bucking, yarding, loading
+   or burning of all trees or timber on construction site;
+   Forklift (9 ft. and under); Gas, Pneumatic, and Electric
+   tools; Grating and Grill work for drains or other purposes;
+   Green Cutter of concrete or aggregate in any form, by hand,
+   mechanical means, grindstone or air and/or water; Grout:
+   Spreading for any purpose; Guinea Chaser (Grade Checker)
+   for general utility trenches, sitework, and excavation;
+   Headerboard Man (Asphalt or Concrete); Heat Welder of
+   Plastic (Laborers' AGC certified workers) (when work
+   involves waterproofing for waterponds, artificial lakes and
+   reservoir) heat welding for sewer pipes and fusion of HDPE
+   pipes; Heavy Highway Laborer (Rigging, signaling, handling,
+   and installation of pre-cast catch basins, manholes, curbs
+   and gutters); High Pressure Nozzleman - Hydraulic Monitor
+   (over 100# pressure); Jackhammer Operator; Jacking of slip
+   forms: All semi and unskilled work connected therewithin;
+   Laying of all multi-cell conduit or multi-purpose pipe;
+   Magnesite and Mastic Workers (Wet or Dry)(including mixer
+   operator);Mortar Man; Mortar Mixer (Block, Brick, Masonry,
+
+
+                                                                     Page 23 of 33
+
+http://www.wdol.gov/wdol/scafiles/davisbacon/HI1.dvb?v=3                   2/23/2016
+   ATTACHMENT JA41                                               SPE600-16-R-0809
+
+   and Plastering); Nozzleman (Sandblasting and/or Water
+   Blasting): handling, placing and operation of nozzle;
+   Operation, Manual or Hydraulic jacking of shields and the
+   use of such other mechanical equipment as may be necessary;
+   Pavement Breakers; Paving, curbing and surfacing of
+   streets, ways, courts, under and overpasses, bridges,
+   approaches, slope walls, and all other labor connected
+   therewith; Pilecutters; Pipe Accessment in place, bolting
+   and lining up of sectional metal or other pipe including
+   corrugated pipe; Pipelayer performing all services in the
+   laying and installation of pipe from the point of receiving
+   pipe in the ditch until completion of operation, including
+   any and all forms of tubular material, whether pipe, HDPE,
+   metallic or non-metallic, conduit, and any other
+   stationary-type of tubular device used for conveying of any
+   substance or element, whether water, sewage, solid, gas,
+   air, or other product whatsoever and without regard to the
+   nature of material from which tubular material is
+   fabricated; No-joint pipe and stripping of same,
+   Pipewrapper, Caulker, Bander, Kettlemen, and men applying
+   asphalt, Laykold, treating Creosote and similar-type
+   materials (6-inch) pipe and over); Piping: resurfacing and
+   paving of all ditches in preparation for laying of all
+   pipes; Pipe laying of lateral sewer pipe from main or side
+   sewer to buildings or structure (except Contactor may
+   direct work be done under proper supervision); Pipe laying,
+   leveling and marking of the joint used for main or side
+   sewers and storm sewers; Laying of all clay, terra cotta,
+   ironstone, vitrified concrete, HDPE or other pipe for
+   drainage; Placing and setting of water mains, gas mains and
+   all pipe including removal of skids; Plaster Mortar
+   Mixer/Pump; Pneumatic Impact Wrench; Portable Sawmill
+   Operation: Choker setters, off bearers, and lumber handlers
+   connected with clearing; Posthole Digger (Hand Held, Gas,
+   Air and Electric); Powderman's Tender; Power Broom Sweepers
+   (Small); Preparation and Compaction of roadbeds for
+   railroad track laying, highway construction, and the
+   preparation of trenches, footings, etc., for cross-country
+   transmission by pipelines, electrical transmission or
+   underground lines or cables (by mechanical means); Raising
+   of structure by manual or hydraulic jacks or other methods
+   and resetting of structure in new locations, including all
+   concrete work; Ramming or compaction; Rigging in connection
+   with Laborers' work (except demolition), Signaling
+   (including the use of walkie talkie) Choke Setting, tag
+   line usage; Tagging and Signaling of building materials
+   into high rise units; Riprap, Stonepaver, and Rock Slinger
+   (includes placement of stacked concrete, wet or dry and
+   loading, unloading, signaling, slinging and setting of
+   other similar materials); Rotary Scarifier (including
+   multiple head concrete chipping Scarifier); Salamander
+   Heater, Drying of plaster, concrete mortar or other
+   aggregate; Scaffold Erector Leadman; Scaffolds: (Swing and
+   hanging) including maintenance thereof; Scaler; Septic
+   Tank/Cesspool and Drain Fields Digger and Installer;
+   Shredder/Chipper (tree branches, brush, etc.); Stripping
+   and Setting Forms; Stripping of Forms: Other than panel
+   forms which are to be re-used in their original form, and
+   stripping of forms on all flat arch work; Tampers (Barko,
+   Wacker, and similar type); Tank Scaler and Cleaners;
+
+
+                                                                     Page 24 of 33
+
+http://www.wdol.gov/wdol/scafiles/davisbacon/HI1.dvb?v=3                   2/23/2016
+   ATTACHMENT JA41                                               SPE600-16-R-0809
+
+   Tarman; Tree Climbers and Trimmers; Trencher (includes
+   hand-held, Davis T-66 and similar type); Trucks (flatbed up
+   to and including 2 1/2 tons when used in connection with
+   on-site Laborers'work; Trucks (Refuse and Garbage Disposal)
+   (from job site to dump); Vibra-Screed (Bull Float in
+   connection with Laborers' work); Well Points, Installation
+   of or any other dewatering system.
+
+   Laborer II: Asphalt Plant Laborer; Boring Machine Tender;
+   Bridge Laborer; Burning of all debris (crates, boxes,
+   packaging waste materials); Chainman, Rodmen, and Grade
+   Markers; Cleaning, clearing, grading and/or removal for
+   streets, highways, roadways, aprons, runways, sidewalks,
+   parking areas, airports, approaches, and other similar
+   installations; Cleaning or reconditioning of streets, ways,
+   sewers and waterlines, all maintenance work and work of an
+   unskilled and semi-skilled nature; Concrete Bucket Tender
+   (Groundman) hooking and unhooking of bucket; Concrete
+   Forms; moving, cleaning, oiling and carrying to the next
+   point of erection of all forms; Concrete Products Plant
+   Laborers; Conveyor Tender (conveying of building
+   materials); Crushed Stone Yards and Gravel and Sand Pit
+   Laborers and all other similar plants; Demolition, Wrecking
+   and Salvage Laborers: Wrecking and dismantling of buildings
+   and all structures, with use of cutting or wrecking tools,
+   breaking away, cleaning and removal of all fixtures, All
+   hooking, unhooking, signaling of materials for salvage or
+   scrap removed by crane or derrick; Digging under streets,
+   roadways, aprons or other paved surfaces; Driller's Tender;
+   Chuck Tender, Outside Nipper; Dry-packing of concrete
+   (plugging and filling of she-bolt holes); Fence and/or
+   Guardrail Erector: Dismantling and/or re-installation of
+   all fence; Finegrader; Firewatcher; Flagman (Coning,
+   preparing, stablishing and removing portable roadway
+   barricade devices); Signal Men on all construction work
+   defined herein, including Traffic Control Signal Men at
+   construction site; General Excavation; Backfilling, Grading
+   and all other labor connected therewith; Digging of
+   trenches, ditches and manholes and the leveling, grading
+   and other preparation prior to laying pipe or conduit for
+   any purpose; Excavations and foundations for buildings,
+   piers, foundations and holes, and all other construction.
+   Preparation of street ways and bridges; General Laborer:
+   Cleaning and Clearing of all debris and surplus material.
+   Clean-up of right-of-way. Clearing and slashing of brush or
+   trees by hand or mechanical cutting. General Clean up:
+   sweeping, cleaning, wash-down, wiping of construction
+   facility and equipment (other than "Light Clean up
+   (Janitorial) Laborer. Garbage and Debris Handlers and
+   Cleaners. Appliance Handling (job site) (after delivery
+   unlading in storage area); Ground and Soil Treatment Work
+   (Pest Control); Gunite/Shotcrete Operator Tender; Junk Yard
+   Laborers (same as Salvage Yard); Laser Beam "Target Man" in
+   connection with Laborers' work; Layout Person for Plastic
+   (when work involves waterproofing for waterponds,
+   artificial lakes and reservoirs); Limbers, Brush Loaders,
+   and Pilers; Loading, Unloading, carrying, distributing and
+   handling of all rods and material for use in reinforcing
+   concrete construction (except when a derrick or outrigger
+   operated by other than hand power is used); Loading,
+
+
+                                                                     Page 25 of 33
+
+http://www.wdol.gov/wdol/scafiles/davisbacon/HI1.dvb?v=3                   2/23/2016
+   ATTACHMENT JA41                                                   SPE600-16-R-0809
+
+   unloading, sorting, stockpiling, handling and distribution
+   of water mains, gas mains and all pipes; Loading and
+   unloading of all materials, fixtures, furnishings and
+   appliances from point of delivery to stockpile to point of
+   installation; hooking and signaling from truck, conveyance
+   or stockpile; Material Yard Laborers; Pipelayer Tender;
+   Pipewrapper, Caulker, Bander, Kettlemen, and men applying
+   asphalt, Laykold, Creosote, and similar-type materials
+   (pipe under 6 inches); Plasterer Laborer; Preparation,
+   construction and maintenance of roadbeds and sub-grade for
+   all paving, including excavation, dumping, and spreading of
+   sub-grade material; Prestressed or precast concrete slabs,
+   walls, or sections: all loading, unloading, stockpiling,
+   hooking on of such slabs, walls or sections; Quarry
+   Laborers; Railroad, Streetcar, and Rail Transit Maintenance
+   and Repair; Roustabout; Rubbish Trucks in connection with
+   Building Construction Projects (excluding clearing,
+   grubbing, and excavating); Salvage Yard: All work connected
+   with cutting, cleaning, storing, stockpiling or handling of
+   materials, all cleanup, removal of debris, burning,
+   back-filling and landscaping of the site; Sandblasting
+   Tender (Pot Tender): Hoses and pots or markers; Scaffolds:
+   Erection, planking and removal of all scaffolds used for
+   support for lathers, plasters, brick layers, masons, and
+   other construction trades crafts; Scaffolds: (Specially
+   designed by carpenters) laborers shall tend said carpenter
+   on erection and dismantling thereof, preparation for
+   foundation or mudsills, maintenance; Scraping of floors;
+   Screeds: Handling of all screeds to be reused; handling,
+   dismantling and conveyance of screeds; Setting, leveling
+   and securing or bracing of metal or other road forms and
+   expansion joints; Sheeting Piling/trench shoring (handling
+   and placing of skip sheet or wood plank trench shoring);
+   Ship Scalers; Shipwright Tender; Sign Erector (subdivision
+   traffic, regulatory, and street-name signs); Sloper; Slurry
+   Seal Crews (Mixer Operator, Applicator, Squeegee Man,
+   Shuttle Man, Top Man); Snapping of wall ties and removal of
+   tie rods; Soil Test operations of semi and unskilled labor
+   such as filling sand bags; Striper (Asphalt, Concrete or
+   other Paved Surfaces); Tool Room Attendant (Job Site);
+   Traffic Delineating Device Applicator; Underpinning,
+   lagging, bracing, propping and shoring, loading, signaling,
+   right-of-way clearance along the route of movement, The
+   clearance of new site, excavation of foundation when moving
+   a house or structure from old site to new site; Utilities
+   employees; Water Man; Waterscape/Hardscape Laborers; Wire
+   Mesh Pulling (all concrete pouring operations); Wrecking,
+   stripping, dismantling and handling concrete forms an false
+   work.
+
+ ----------------------------------------------------------------
+  LABO0368-002 09/01/2015
+
+                                        Rates              Fringes
+
+ Landscape & Irrigation
+ Laborers
+      GROUP 1.....................$ 23.70                    10.67
+      GROUP 2.....................$ 24.30                    10.67
+      GROUP 3.....................$ 19.95                    10.67
+
+
+                                                                         Page 26 of 33
+
+http://www.wdol.gov/wdol/scafiles/davisbacon/HI1.dvb?v=3                       2/23/2016
+   ATTACHMENT JA41                                               SPE600-16-R-0809
+
+
+ LABORERS CLASSIFICATIONS
+
+   GROUP 1: Installation of non-potable permanent or temporary
+   irrigation water systems performed for the purposes of
+   Landscaping and Irrigation architectural horticultural
+   work; the installation of drinking fountains and permanent
+   or temporary irrigation systems using potable water for
+   Landscaping and Irrigation architectural horticultural
+   purposes only. This work includes (a) the installation of
+   all heads, risers, valves, valve boxes, vacuum breakers
+   (pressure and non-pressure), low voltage electrical lines
+   and, provided such work involves electrical wiring that
+   will carry 24 volts or less, the installation of sensors,
+   master control panels, display boards, junction boxes,
+   conductors, including all other components for controllers,
+   (b) and metallic (copper, brass, galvanized, or similar)
+   pipe, as well as PVC or other plastic pipe including all
+   work incidental thereto, i.e., unloading, handling and
+   distribution of all pipes fittings, tools, materials and
+   equipment, (c) all soldering work in connection with the
+   above whether done by torch, soldering iron, or other
+   means; (d) tie-in to main lines, thrust blocks (both
+   precast and poured in place), pipe hangers and supports
+   incidental to installation of the entire irrigation system,
+   (e) making of pressure tests, start-up testing, flushing,
+   purging, water balancing, placing into operation all
+   irrigation equipment, fixtures and appurtenances installed
+   under this agreement, and (f) the fabrication, replacement,
+   repair and servicing oflandscaping and irrigation systems.
+   Operation of hand-held gas, air, electric, or self-powered
+   tools and equipment used in the performance of Landscape
+   and Irrigation work in connection with architectural
+   horticulture; Choke-setting, signaling, and rigging for
+   equipment operators on job-site in the performance of such
+   Landscaping and Irrigation work; Concrete work (wet or dry)
+   performed in connection with such Landscaping and
+   Irrigation work. This work shall also include the setting
+   of rock, stone, or riprap in connection with such
+   Landscape, Waterscape, Rockscape, and Irrigation work;
+   Grubbing, pick and shovel excavation, and hand rolling or
+   tamping in connection with the performance of such
+   Landscaping and Irrigation work; Sprigging, handseeding,
+   and planting of trees, shrubs, ground covers, and other
+   plantings and the performance of all types of gardening and
+   horticultural work relating to said planting; Operation of
+   flat bed trucks (up to and including 2 1/2 tons).:
+
+   GROUP 2. Layout of irrigation and other non-potable
+   irrigation water systems and the layout of drinking
+   fountains and other potable irrigation water systems in
+   connection with such Landscaping and Irrigation work. This
+   includes the layout of all heads, risers, valves, valve
+   boxes, vacuum breakers, low voltage electrical lines,
+   hydraulic and electrical controllers, and metallic
+   (coppers, brass, galvanized, or similar) pipe, as well as
+   PVC or other plastic pipe. This work also includes the
+   reading and interpretation of plans and specifications in
+   connection with the layout of Landscaping, Rockscape,
+   Waterscape, and Irrigation work; Operation of
+
+
+                                                                     Page 27 of 33
+
+http://www.wdol.gov/wdol/scafiles/davisbacon/HI1.dvb?v=3                   2/23/2016
+   ATTACHMENT JA41                                                   SPE600-16-R-0809
+
+   Hydro-Mulching machines (sprayman and driver), Drillers,
+   Trenchers (riding type, Davis T-66, and similar) and fork
+   lifts used in connection with the performance of such
+   Landscaping and Irrigation work; Tree climbers and chain
+   saw tree trimmers, Sporadic operation (when used in
+   connection with Landscaping, Rockscape, Waterscape, and
+   Irrigation work) of Skid-Steer Loaders (Bobcat and
+   similar), Cranes (Bantam, Grove, and similar), Hoptos,
+   Backhoes, Loaders, Rollers, and Dozers (Case, John Deere,
+   and similar), Water Trucks, Trucks requiring a State of
+   Hawaii Public Utilities Commission Type 5 and/or type 7
+   license, sit-down type and "gang" mowers, and other
+   self-propelled, sit-down operated machines not listed under
+   Landscape & Irrigation Maintenance Laborer; Chemical
+   spraying using self-propelled power spraying equipment (200
+   gallon capacity or more).
+
+   GROUP 3: Maintenance of trees, shrubs, ground covers, lawns
+   and other planted areas, including the replanting of trees,
+   shrubs, ground covers, and other plantings that did not
+   "take" or which are damaged; provided, however, that
+   re-planting that requires the use of equipment, machinery,
+   or power tools shall be paid for at the rate of pay
+   specified under Landscape and Irrigation Laborer, Group 1;
+   Raking, mowing, trimming, and runing, including the use of
+   "weed eaters", hedge trimmers, vacuums, blowers, and other
+   hand-held gas, air, electric, or self-powered tools, and
+   the operation of lawn mowers (Note: The operation of
+   sit-down type and "gang" mowers shall be paid for at the
+   rate of pay specified under Landscape & Irrigation Laborer,
+   Group 2); Guywiring, staking, propping, and supporting
+   trees; Fertilizing, Chemical spraying using spray equipment
+   with less than 200 gallon capacity, Maintaining irrigation
+   and sprinkler systems, including the staking, clamping, and
+   adjustment of risers, and the adjustment and/or replacement
+   of sprinkler heads, (Note: the cleaning and gluing of pipe
+   and fittings shall be paid for at the rate of pay specified
+   under Landscape & Irrigation Laborer(Group 1); Watering by
+   hand or sprinkler system and the peformance of other types
+   of gardening, yardman, and horticultural-related work.
+
+ ----------------------------------------------------------------
+  LABO0368-003 08/31/2015
+
+                                        Rates              Fringes
+
+ Underground Laborer
+      GROUP 1.....................$ 34.95                    17.51
+      GROUP 2.....................$ 36.45                    17.51
+      GROUP 3.....................$ 36.95                    17.51
+      GROUP 4.....................$ 37.95                    17.51
+      GROUP 5.....................$ 38.30                    17.51
+      GROUP 6.....................$ 38.55                    17.51
+      GROUP 7.....................$ 39.00                    17.51
+
+ GROUP 1: Watchmen; Change House Attendant.
+
+   GROUP 2: Swamper; Brakeman; Bull Gang-Muckers, Trackmen;
+   Dumpmen (any method); Concrete Crew (includes rodding and
+   spreading); Grout Crew; Reboundmen
+
+
+                                                                         Page 28 of 33
+
+http://www.wdol.gov/wdol/scafiles/davisbacon/HI1.dvb?v=3                       2/23/2016
+   ATTACHMENT JA41                                                   SPE600-16-R-0809
+
+
+   GROUP 3: Chucktenders and Cabletenders; Powderman (Prime
+   House); Vibratorman, Pavement Breakers
+
+   GROUP 4: Miners - Tunnel (including top and bottom man on
+   shaft and raise work); Timberman, Retimberman (wood or
+   steel or substitute materials thereof); Blasters, Drillers,
+   Powderman (in heading); Microtunnel Laborer; Headman;
+   Cherry Pickerman (where car is lifted); Nipper; Grout
+   Gunmen; Grout Pumpman & Potman; Gunite, Shotcrete Gunmen &
+   Potmen; Concrete Finisher (in tunnel); Concrete Screed Man;
+   Bit Grinder; Steel Form Raisers & Setters; High Pressure
+   Nozzleman; Nozzleman (on slick line); Sandblaster-Potman
+   (combination work assignment interchangeable); Tugger
+
+   GROUP 5: Shaft Work & Raise (below actual or excavated ground
+   level); Diamond Driller; Gunite or Shotcrete Nozzleman;
+   Rodman; Groundman
+
+   GROUP 6: Shifter
+
+   GROUP 7: Shifter (Shaft Work & Raiser)
+
+ ----------------------------------------------------------------
+  PAIN1791-001 01/01/2016
+
+                                        Rates              Fringes
+
+ Painters:
+      Brush.......................$ 34.85            27.57
+      Sandblaster; Spray..........$ 34.85            27.57
+ ----------------------------------------------------------------
+  PAIN1889-001 07/01/2015
+
+                                        Rates              Fringes
+
+ Glaziers.........................$ 34.78            27.37
+ ----------------------------------------------------------------
+  PAIN1926-001 03/01/2015
+
+                                        Rates              Fringes
+
+ Soft Floor Layers................$ 31.15            25.75
+ ----------------------------------------------------------------
+  PAIN1944-001 01/01/2016
+
+                                        Rates              Fringes
+
+ Taper............................$ 41.50            21.55
+ ----------------------------------------------------------------
+  PLAS0630-001 08/31/2015
+
+                                        Rates              Fringes
+
+ PLASTERER........................$ 37.90            25.33
+ ----------------------------------------------------------------
+  PLAS0630-002 08/31/2015
+
+                                        Rates              Fringes
+
+
+
+                                                                         Page 29 of 33
+
+http://www.wdol.gov/wdol/scafiles/davisbacon/HI1.dvb?v=3                       2/23/2016
+   ATTACHMENT JA41                                                   SPE600-16-R-0809
+
+ Cement Masons:
+      Cement Masons...............$ 37.90            25.33
+      Trowel Machine Operators....$ 38.05            25.33
+ ----------------------------------------------------------------
+  PLUM0675-001 01/03/2016
+
+                                        Rates              Fringes
+
+ Plumber, Pipefitter,
+ Steamfitter & Sprinkler Fitter...$ 40.35            24.73
+ ----------------------------------------------------------------
+  ROOF0221-001 09/06/2015
+
+                                        Rates              Fringes
+
+ Roofers (Including Built Up,
+ Composition and Single Ply)......$ 38.85            17.53
+ ----------------------------------------------------------------
+  SHEE0293-001 08/01/2015
+
+                                        Rates              Fringes
+
+ Sheet metal worker...............$ 42.96            20.58
+ ----------------------------------------------------------------
+   SUHI1997-002 09/15/1997
+
+                                        Rates              Fringes
+
+ Drapery Installer................$ 13.60                     1.20
+
+ FENCE ERECTOR (Chain Link
+ Fence)...........................$ 9.33              1.65
+ ----------------------------------------------------------------
+
+ WELDERS - Receive rate prescribed for craft performing
+ operation to which welding is incidental.
+
+ ================================================================
+
+
+ Unlisted classifications needed for work not included within
+ the scope of the classifications listed may be added after
+ award only as provided in the labor standards contract clauses
+ (29CFR 5.5 (a) (1) (ii)).
+
+
+ ----------------------------------------------------------------
+
+
+ The body of each wage determination lists the classification
+ and wage rates that have been found to be prevailing for the
+ cited type(s) of construction in the area covered by the wage
+ determination. The classifications are listed in alphabetical
+ order of "identifiers" that indicate whether the particular
+ rate is a union rate (current union negotiated rate for local),
+ a survey rate (weighted average rate) or a union average rate
+ (weighted union average rate).
+
+ Union Rate Identifiers
+
+
+
+                                                                         Page 30 of 33
+
+http://www.wdol.gov/wdol/scafiles/davisbacon/HI1.dvb?v=3                       2/23/2016
+   ATTACHMENT JA41                                                  SPE600-16-R-0809
+
+ A four letter classification abbreviation identifier enclosed
+ in dotted lines beginning with characters other than "SU" or
+ "UAVG" denotes that the union classification and rate were
+ prevailing for that classification in the survey. Example:
+ PLUM0198-005 07/01/2014. PLUM is an abbreviation identifier of
+ the union which prevailed in the survey for this
+ classification, which in this example would be Plumbers. 0198
+ indicates the local union number or district council number
+ where applicable, i.e., Plumbers Local 0198. The next number,
+ 005 in the example, is an internal number used in processing
+ the wage determination. 07/01/2014 is the effective date of the
+ most current negotiated rate, which in this example is July 1,
+ 2014.
+
+ Union prevailing wage rates are updated to reflect all rate
+ changes in the collective bargaining agreement (CBA) governing
+ this classification and rate.
+
+ Survey Rate Identifiers
+
+ Classifications listed under the "SU" identifier indicate that
+ no one rate prevailed for this classification in the survey and
+ the published rate is derived by computing a weighted average
+ rate based on all the rates reported in the survey for that
+ classification. As this weighted average rate includes all
+ rates reported in the survey, it may include both union and
+ non-union rates. Example: SULA2012-007 5/13/2014. SU indicates
+ the rates are survey rates based on a weighted average
+ calculation of rates and are not majority rates. LA indicates
+ the State of Louisiana. 2012 is the year of survey on which
+ these classifications and rates are based. The next number, 007
+ in the example, is an internal number used in producing the
+ wage determination. 5/13/2014 indicates the survey completion
+ date for the classifications and rates under that identifier.
+
+ Survey wage rates are not updated and remain in effect until a
+ new survey is conducted.
+
+ Union Average Rate Identifiers
+
+ Classification(s) listed under the UAVG identifier indicate
+ that no single majority rate prevailed for those
+ classifications; however, 100% of the data reported for the
+ classifications was union data. EXAMPLE: UAVG-OH-0010
+ 08/29/2014. UAVG indicates that the rate is a weighted union
+ average rate. OH indicates the state. The next number, 0010 in
+ the example, is an internal number used in producing the wage
+ determination. 08/29/2014 indicates the survey completion date
+ for the classifications and rates under that identifier.
+
+ A UAVG rate will be updated once a year, usually in January of
+ each year, to reflect a weighted average of the current
+ negotiated/CBA rate of the union locals from which the rate is
+ based.
+
+
+
+ ----------------------------------------------------------------
+
+                      WAGE DETERMINATION APPEALS PROCESS
+
+
+                                                                        Page 31 of 33
+
+http://www.wdol.gov/wdol/scafiles/davisbacon/HI1.dvb?v=3                      2/23/2016
+     ATTACHMENT JA41                                                SPE600-16-R-0809
+
+
+ 1.) Has there been an initial decision in the matter? This can
+ be:
+
+ *   an existing published wage determination
+ *   a survey underlying a wage determination
+ *   a Wage and Hour Division letter setting forth a position on
+     a wage determination matter
+ *   a conformance (additional classification and rate) ruling
+
+ On survey related matters, initial contact, including requests
+ for summaries of surveys, should be with the Wage and Hour
+ Regional Office for the area in which the survey was conducted
+ because those Regional Offices have responsibility for the
+ Davis-Bacon survey program. If the response from this initial
+ contact is not satisfactory, then the process described in 2.)
+ and 3.) should be followed.
+
+ With regard to any other matter not yet ripe for the formal
+ process described here, initial contact should be with the
+ Branch of Construction Wage Determinations. Write to:
+
+              Branch of Construction Wage Determinations
+              Wage and Hour Division
+              U.S. Department of Labor
+              200 Constitution Avenue, N.W.
+              Washington, DC 20210
+
+ 2.) If the answer to the question in 1.) is yes, then an
+ interested party (those affected by the action) can request
+ review and reconsideration from the Wage and Hour Administrator
+ (See 29 CFR Part 1.8 and 29 CFR Part 7). Write to:
+
+              Wage and Hour Administrator
+              U.S. Department of Labor
+              200 Constitution Avenue, N.W.
+              Washington, DC 20210
+
+ The request should be accompanied by a full statement of the
+ interested party's position and by any information (wage
+ payment data, project description, area practice material,
+ etc.) that the requestor considers relevant to the issue.
+
+ 3.) If the decision of the Administrator is not favorable, an
+ interested party may appeal directly to the Administrative
+ Review Board (formerly the Wage Appeals Board). Write to:
+
+              Administrative Review Board
+              U.S. Department of Labor
+              200 Constitution Avenue, N.W.
+              Washington, DC 20210
+
+ 4.) All decisions by the Administrative Review Board are final.
+
+ ================================================================
+
+            END OF GENERAL DECISION
+
+
+
+
+                                                                        Page 32 of 33
+
+http://www.wdol.gov/wdol/scafiles/davisbacon/HI1.dvb?v=3                      2/23/2016
+

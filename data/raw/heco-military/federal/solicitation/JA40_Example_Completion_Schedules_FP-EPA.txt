@@ -1,0 +1,2281 @@
+COMPETITIVE RFP TEMPLATE                                                                                                 UTILITIES PRIVATIZATION
+
+
+
+ATTACHMENT JA40
+
+Example Completion of Schedules for FP-EPA
+Type Contracts
+
+TABLE OF CONTENTS
+
+EXAMPLE COMPLETION OF SCHEDULES FOR FP-EPA TYPE CONTRACTS .............. I
+
+EXAMPLE COMPLETION OF SCHEDULES FOR FP-EPA TYPE CONTRACTS .............. 1
+  JA40.1 EXAMPLE #1 [DISTRIBUTED RENEWALS & REPLACEMENTS] .......................................... 2
+     JA40.1.1 EXAMPLE 1 SCHEDULE B-2 ...................................................................................... 4
+     JA40.1.2 EXAMPLE 1 SUPPORTING CALCULATIONS ................................................................. 5
+         JA40.1.2.1 Example 1 CLIN 0001 Utility Service Charge Supporting Calculations ..... 5
+         JA40.1.2.2 Example 1 CLIN 0001 Monthly Credit as Payment for Purchase Price
+         Supporting Calculations ................................................................................................. 12
+         JA40.1.2.3 Example 1 CLIN 0002 Initial System Deficiency Corrections/Connection
+         Charges Supporting Calculations................................................................................... 13
+         JA40.1.2.4 Example 1 CLIN 0003 Recoverable Portion of the Purchase Price Supporting
+         Calculations ................................................................................................................... 14
+         JA40.1.2.4 Example 1 CLIN 0004 Transition Period Supporting Calculations ........... 15
+  JA40.2 EXAMPLE #2 [FRONT-END LOADED RENEWALS & REPLACEMENTS] ............................ 16
+     JA40.2.1 EXAMPLE 2 SCHEDULE B-2 ..................................................................................... 17
+     JA40.2.2 EXAMPLE 2 SUPPORTING CALCULATIONS ............................................................... 18
+         JA40.2.2.1 Example 2 CLIN 0001 Utility Service Charge Supporting Calculations ... 18
+         JA40.1.2.2 Example 1 CLIN 0001 Monthly Credit as Payment for Purchase Price
+         Supporting Calculations ................................................................................................. 24
+         JA40.2.2.3 Example 1 CLIN 0002 Initial System Deficiency Corrections/Connection
+         Charges Supporting Calculations................................................................................... 25
+         JA40.2.2.4 Example 2 CLIN 0003 Recoverable Portion of the Purchase Price Supporting
+         Calculations ................................................................................................................... 27
+         JA40.2.2.4 Example 2 CLIN 0004 Transition Period Supporting Calculations ........... 28
+  JA40.3 EXAMPLE #3 [BACK-END LOADED RENEWALS & REPLACEMENTS] .............................. 29
+     JA40.3.1 EXAMPLE 3 SCHEDULE B-2 .................................................................................... 30
+     JA40.3.2 EXAMPLE 3 SUPPORTING CALCULATIONS ............................................................... 31
+         JA40.3.2.1 Example 3 CLIN 0001 Utility Service Charge Supporting Calculations ... 31
+         JA40.3.2.2 Example 3 CLIN 0001 Payment for Purchase Price Supporting Calculations
+          ....................................................................................................................................... 39
+         JA40.3.2.3 Example 3 CLIN 0002 Initial System Deficiency Corrections/Connection
+         Charges Supporting Calculations................................................................................... 40
+         JA40.3.2.4 Example 3 CLIN 0003 Monthly Charge for the Recoverable Portion of the
+         Purchase Price Supporting Calculations ........................................................................ 41
+         JA40.3.2.4 Example 3 CLIN 0004 Transition Period Supporting Calculations ........... 42
+
+
+
+
+                                                                                                                                                   i
+COMPETITIVE RFP TEMPLATE                                                                                                     UTILITIES PRIVATIZATION
+
+
+
+
+TABLES AND FIGURES
+
+Example 1 Wastewater System Inventory .............................................................................................. 3
+Example 1 Government Recognized System Deficiencies .................................................................... 4
+Example 1 Schedule 2, Renewals and Replacements – 50 Year Schedule ............................................ 7
+Example 1 Income and Cost Forecast by Year..................................................................................... 10
+Example 1 Schedule 1, Utility Service Charge .................................................................................... 12
+Example 1 Schedule 3, Initial System Deficiency Correction(s) / Connection Charge(s)/Transition
+    Period............................................................................................................................................ 14
+Example 1 Schedule 4, Recoverable Portion of Purchase Price........................................................... 14
+Example 2 Wastewater System Inventory ............................................................................................ 16
+Example 2 Government Recognized System Deficiencies .................................................................. 17
+Example 2 Schedule 2, Renewals and Replacements – 50 Year Schedule .......................................... 20
+Example 2 Income and Cost Forecast by Year..................................................................................... 22
+Example 2 Schedule 1, Utility Service Charge .................................................................................... 24
+Example 2 Schedule 3, Initial System Deficiency Correction(s) / Connection Charge(s)/Transition
+    Period............................................................................................................................................ 27
+Example 2 Schedule 4, Recoverable Portion of Purchase Price........................................................... 28
+Example 3 Wastewater System Inventory ............................................................................................ 29
+Example 3 Government Recognized System Deficiencies .................................................................. 30
+Example 3 Schedule 2, Renewals and Replacements – 50 Year Schedule .......................................... 33
+Example 3 Income and Cost Forecast by Year..................................................................................... 36
+Example 3 Schedule 1, Utility Service Charge .................................................................................... 37
+Example 3 Schedule 3, Initial System Deficiency Correction(s) / Connection Charge(s)/Transition
+    Period............................................................................................................................................ 39
+Example 3 Schedule 4, Recoverable Portion of the Purchase Price ..................................................... 40
+
+
+
+
+                                                                                                                                                        ii
+COMPETITIVE RFP TEMPLATE                                                                              UTILITIES PRIVATIZATION
+
+
+
+ATTACHMENT JA40
+
+Example Completion of Schedules for FP-EPA
+Type Contract
+
+The objective of this document is to illustrate through examples how to complete the
+required schedules in the request for proposal (RFP) for Fixed Price with Economic Price
+Adjustment (FP-EPA) type contracts. The schedules covered in these examples are Schedule
+B-2, Payment by the Government for Utility Services, Schedule 1, Utility Service Charge, Schedule
+2, Renewals and Replacements – 50 Year Schedule, Schedule 3, Initial System Deficiency
+Correction(s) / Connection Charge(s)/Transition Period, and Schedule 4, Recoverable Portion of
+Purchase Price.
+Offerors proposing a FP-EPA contract must prepare their schedules in accordance
+with the methodology set forth in this Section.
+The timing of renewal and replacement (R&R) investments is critical to the development of
+the schedules required for a FP-EPA type contract. The timing of investments is a function
+of the age and condition of the utility systems, which is illustrated in the following
+examples. Depending on the timing of investments, the required capital may be provided by
+the Government (i.e., R&R payments by Government in excess of investments made by the
+contractor), by the Contractor (i.e., investments by Contractor exceeding R&R payments
+from Government), or by the Government and Contractor alternately over the contract
+term. 1
+In projecting R&R investments, offerors need to make explicit assumptions with respect to
+the cost, timing, and components of Contractor and Government provided capital. The
+“annual interest rate” used in the JA40 calculations must also transparently reflect the
+Offeror’s assumptions regarding the Contractor’s cost of capital for funding these
+replacements. (For example, the Offeror must clearly identify whether they anticipate
+borrowing funds, relying on internal reserves, or unexpended funds saved from prior
+Government payments, to pay for their forecast renewals and replacements). The most
+important part of this JA40 exercise is for the Offeror to outline their detailed assumptions
+and calculations that go into their schedules.
+All proposals utilizing Schedule B-2 must develop a residual value as described herein and
+must remove that calculated amount from the total amount used to calculate the proposed
+R&R annual/monthly charge.
+Any proposal utilizing Schedule B-2 must provide the following information with the initial
+and final proposal revisions:
+1. The profit level and mark-ups used in development of the R&R and Operations and
+Maintenance (O&M) charges. Also indicate if the same interest rate is used throughout the
+
+1 The terms Offeror and Contractor are used somewhat interchangeably, but are intended to be the same entity, e.g., defined
+as the Offeror prior to contract award and as the Contractor after contract award.
+
+
+
+                                                                                                                        J40-1
+COMPETITIVE RFP TEMPLATE                                                     UTILITIES PRIVATIZATION
+
+
+
+proposal (e.g., Purchase Price and Purchase Price Recovery, Initial System Deficiency
+Correction(s) / Connection Charge(s)/Transition Period, and service charge for R&R).
+2. The source of any necessary funding required to complete the R&R work and any
+associated interest or return on capital used in the rate development.
+3. Any and all assumptions used to develop an adequate cash flow for both R&R and O&M,
+to include any inflationary effects built into pricing. Prices proposed for the utility service
+charge (CLIN 0001) in Schedules 1 and 2 shall be based on expected price levels during the
+first year of operation.
+The following examples are for illustration purposes only and should not be taken
+as representative of any DoD utility system. Similarly, the values used or
+assumptions presented herein are hypothetical and offerors should not place any
+importance on them.
+
+JA40.1 Example #1 [Distributed Renewals & Replacements]
+The Government is considering privatization of a wastewater collection system at one of its
+installations. It plans to complete the privatization in year 2012, resulting in a 50-year
+contract for utility service. The Government has issued an RFP that, among other things,
+requires Offerors submitting an FP-EPA proposal to complete Schedule B-2 presented in
+Section B.4.2 of the RFP and Schedules 1, 2, 3, and 4 presented in section B.7 of the RFP. The
+Government’s inventory of the wastewater system is shown in Table JA40-1.1.
+
+
+
+
+                                                                                               J40-2
+COMPETITIVE RFP TEMPLATE                                                   UTILITIES PRIVATIZATION
+
+
+
+
+TABLE JA40-1.1
+Example 1 Wastewater System Inventory
+Utility Privatization
+
+Component/Item             Size         Quantity   Unit   Approximate Year of Installation
+
+Concrete Pipe              4-in.         2,000      Lf                 1962
+
+Concrete Pipe              12-in.        2,000      Lf                 1962
+
+Concrete Pipe              24-in.        4,000      Lf                 1962
+
+
+
+CI Pipe                    4-in.         1,000      Lf                 1975
+
+CI Pipe                    12-in.        4,000      Lf                 1975
+
+
+
+PVC Pipe                   4-in.         3,000      Lf                 1990
+
+PVC Pipe                   12-in.        8,000      Lf                 1990
+
+PVC Pipe                   24-in.        4,000      Lf                 1990
+
+
+
+PVC Pipe                   4-in.         3,000      Lf                 2005
+
+PVC Pipe                   12-in.        8,000      Lf                 2005
+
+PVC Pipe                   24-in.        4,000      Lf                 2005
+
+
+
+Manhole                                     20     Ea                  1962
+
+Manhole                                     10     Ea                  1975
+
+Manhole                                     30     Ea                  1990
+
+Manhole                                     30     Ea                  2005
+
+
+
+Lift Station #1                              1     Ea                  1975
+
+Lift Station #2                              1     Ea                  1990
+
+Lift Station #3                              1     Ea                  2005
+
+
+
+
+In addition to the inventory, the RFP indicated there are no existing meters and no new
+meters need to be installed. The Government-recognized system deficiencies, including the
+approach the Government would take to remedy them if the system is not privatized, are
+shown in Table JA40-1.2.
+
+
+
+
+                                                                                             J40-3
+COMPETITIVE RFP TEMPLATE                                                                       UTILITIES PRIVATIZATION
+
+
+
+
+TABLE JA40-1.2
+Example 1 Government Recognized System Deficiencies
+Utility Privatization
+
+ System Component                            Description of Deficiency                              Type
+
+Collection System          The system has excessive infiltration and inflow (I&I)             Initial System
+                                                                                              Deficiency
+                                                                                              Correction
+
+Lift Station #2            Lift Station #2 is inappropriately sized and causes overflows of   Initial System
+                           sewage into the street                                             Deficiency
+                                                                                              Correction
+
+Table Notes: Deficiencies may be categorized as an Initial System Deficiency Correction, renewal and
+replacements and/or operation and maintenance.
+
+
+JA40.1.1 Example 1 Schedule B-2
+Schedule B-2 is prepared based on the amortized purchase price credit and the data
+presented in Schedule 1, Utility Service Charge, Schedule 2, Renewals and Replacements – 50
+Year Schedule, and Schedule 4, Recoverable Portion of Purchase Price. Projects shown in
+Schedule 3, Initial System Deficiency Correction(s) / Connection Charge(s)/Transition Period, are
+not included in the totals shown in Schedule B-2, but are added to the monthly charge in
+accordance with the amortization schedule for each Initial System Deficiency Correction(s) /
+Connection Charge(s) project. The completed Schedule B-2 for Example 1 is presented in
+Exhibit JA40-1.1.
+
+                                                  Installation name, State
+                    Wastewater System:              ____________________
+CLINS                                           SUPPLIES/SERVICES                                  MONTHLY SERVICE
+                                                                                                   CREDIT/CHARGE
+
+0001                Utility Service Charge (see B.6.1 and B.7.2)                                   $6,032.34
+                    The Contractor shall provide utility service in accordance with
+                    Section C, Descriptions, Specifications, and Work Statement.b
+
+                    Monthly Credit as Payment for Purchase Price. (see B.6.2)                      ($4,219.28)
+                    ($4,219.28)_____ Monthly Credit
+                    600____________ # of months
+                    6%_____________ Interest Rate
+                                                                                                   $1,813.06
+                    TOTAL FOR CLIN 0001:
+
+0002                Initial System Deficiency Corrections / Connection Charges –            $Varies –
+                     (See B.6.3 and B.7.4 (Schedule 3)). This amount should not be included
+                    price offered for CLIN 0001.)                                                   See Schedule 3
+0003                Recoverable Portion of Purchase Price (see B.6.4 and B.7.5              $3,586.39
+                     (Schedule 4). This amount should not be included in the price offered
+                    for CLIN 0001                                                                   See Schedule 4
+
+
+
+                                                                                                                 J40-4
+  COMPETITIVE RFP TEMPLATE                                                                               UTILITIES PRIVATIZATION
+
+
+
+
+                                                        Installation name, State
+                      Wastewater System:                  ____________________
+ 0004                 Transition Period                                                       $5,000
+                      (See B.6.5 and B.7.4 (Schedule 3). This amount should not be included i
+                      price offered for CLIN 0001).                                                  See Schedule 3
+
+a Utility system to be filled in by the Offeror.
+                                               A B-2 must be completed for each utility system offered.
+  Utility systems are shown in Schedule A, Paragraph B.3, Systems to be Privatized.
+b The Offeror should enter the Utility Services Charge, as computed in Schedule 1 (see B.7.2). See B.6,
+
+  Economic Price Adjustment Price Index Utility Privatization.
+
+ NOTE:
+ The Purchase Price, Recoverable Portion of the Purchase Price, interest rate and amortization period a
+ proposed by the Offeror.
+
+
+
+
+  JA40.1.2 Example 1 Supporting Calculations
+  The following sections describe the calculations used to determine the values for CLINs
+  0001, 0002, 0003 and 0004 in Schedules B-2.
+
+  JA40.1.2.1 Example 1 CLIN 0001 Utility Service Charge Supporting Calculations
+ The Utility Service Charge (CLIN 0001) is comprised of two components – O&M and R&R.
+ Based on their assessment of the requirements in the RFP, their evaluation of the system,
+ and their experience with wastewater systems, Party X determines the utility service charge for
+ O&M to be $2,500. 2 This amount includes all costs for operations, maintenance, repair, and
+ associated administration and general costs. Party X is a public entity; therefore, it pays no
+ U.S. Federal taxes.
+  The utility service charge for R&R is developed starting with the example Schedule 2
+  developed by Party X shown in Table JA40-1.3. R&R project costs are entered into Schedule
+  2 in constant dollars. The useful life is based on Party X’s experience. The Present Value is
+  calculated using the current Real Discount Rate, 2.7 percent as of January 2010, as published
+  in OMB Circular A-94, Guidelines and Discount Rates for Benefit Cost Analysis of Federal
+  Programs, Appendix C and middle of the year discounting. The Residual Value is the
+  unrecovered investment in the utility system remaining at the end of the contract term. 3 It is
+  calculated based on the remaining useful life at the end of the contract term (% of Useful
+  Life remaining x R&R Project Cost). The present value of the cumulative Residual Value is
+  subtracted from the cumulative present value of R&R project costs to determine the total
+  present value of the R&R investment.
+
+
+
+
+  2 Demonstrating how to develop the monthly charge for O&M is beyond the intent of this guidance document.
+  3 The Government recognizes the residual value as a Government liability at the end of the contract term representing the
+  Contractor’s unrecovered investment in the utility system.
+
+
+
+                                                                                                                              J40-5
+COMPETITIVE RFP TEMPLATE                                                       UTILITIES PRIVATIZATION
+
+
+
+Please note: The description of Renewal or Replacement must be specific enough to identify
+the exact component/item from the inventory listing. The R&R schedule for each of the
+inventory items is clearly delineated. As shown in Table JA40-1.3 Parts 1, the following
+must be clearly listed:
+    -    The specific inventory line item (including component/item, size, quantity and
+         installation date) undergoing R&R
+    -    The type of replacement component/item if different from the original inventory
+         item (i.e. if steel pipe is being replaced by PVC)
+    -    The lifespan and expected replacement date(s) for the inventory line item and its
+         replacement
+    -    The cost per unit for the inventory line item and its replacement if different
+    -    The impact of any Initial System Deficiency Correction(s) / Connection Charge(s)
+         projects on the R&R schedule
+    -    The residual value for each inventory line item (or respective replacement) at the end
+         of the contract period
+
+
+
+
+                                                                                                 J40-6
+COMPETITIVE RFP TEMPLATE                                                                                                         UTILITIES PRIVATIZATION
+
+
+Table JA40-1.3 Part 1: Example 1 Schedule 2, Renewals and Replacements – 50 Year Schedule
+
+                A             B       C       D        E           F            G              H          I       J          K              L              M
+                                                                                                                 New
+                                                     Approx     Existing     Existing        First               Item                    New          Next
+                                                      Year       Unit         Item         Expected      New    Service   New Unit       Item        Replace
+              Item          Size     Quant   Unit   Installed    RCN       Service Life   Replace Date   Item    Life     Cost RCN       RCN          Dates
+Row 1     Concrete Pipe     4-in.    2,000   Lf       1962        $15          50            2012        PVC      50         $10        $20,000       2062
+Row 2     Concrete Pipe     12-in.   2,000   Lf       1962        $20          50            2012        PVC      50         $20        $40,000       2062
+Row 3     Concrete Pipe     24-in.   4,000   Lf       1962        $60          50            2012        PVC      50         $50        $200,000      2062
+Row 4         CI Pipe       4-in.    1,000   Lf       1975        $25          50            2025        PVC      50         $10        $10,000       2075
+Row 5         CI Pipe       12-in.   4,000   Lf       1975       $100          50            2025        PVC      50         $20        $80,000       2075
+Row 6       PVC Pipe        4-in.    3,000   Lf       1990        $10          50            2040        same     50         $10        $30,000       2090
+Row 7       PVC Pipe        12-in.   8,000   Lf       1990        $20          50            2040        same     50         $20        $160,000      2090
+Row 8       PVC Pipe        24-in.   4,000   Lf       1990        $50          50            2040        same     50         $50        $200,000      2090
+Row 9       PVC Pipe        4-in.    3,000   Lf       2005        $10          50            2055        same     50         $10        $30,000       2105
+Row 10      PVC Pipe        12-in.   8,000   Lf       2005        $20          50            2055        same     50         $20        $160,000      2105
+Row 11      PVC Pipe        24-in.   4,000   Lf       2005        $50          50            2055        same     50         $50        $200,000      2105
+Row 12       Manhole                  20     Ea       1965      $3,500         60            2025        same     60       $3,500       $70,000       2085
+Row 13       Manhole                  10     Ea       1975      $3,500         60            2035        same     60       $3,500       $35,000       2095
+Row 14       Manhole                  30     Ea       1990      $3,500         60            2050        same     60       $3,500       $105,000      2110
+Row 15       Manhole                  30     Ea       2005      $3,500         60            2065        same     60       $3,500       $105,000      2125
+Row 16    Lift Station #1              1     Ea       1975      $25,000        50            2025        same     50       $25,000      $25,000       2075
+Row 17    LS Controls,#1               1     Ea       1975      $50,000        20            2012        same     20       $50,000      $50,000     2032, 2052
+Row 18    Lift Station #2              1     Ea       1990      $25,000        50            2012*       same     50       $25,000      $25,000       2062
+Row 19    LS Controls #2               1     Ea       1990      $50,000        20            2012        same     20       $50,000      $50,000     2032, 2052
+Row 20    Lift Station #3              1     Ea       2005      $25,000        50            2055        same     50       $25,000      $25,000       2105
+Row 21    LS Controls,#3               1     Ea       2005      $50,000        20            2025        same     20       $50,000      $50,000       2045
+This table represents a sample R&R plan. For display purposes, the R&R table is split into two parts. The first part shows the inventory
+items, the associated costs and the respective replacement costs of the replacement items, if different from the original. The second part
+shown in Table JA40-1.3 Part 2, shows the annual cost breakouts. Impacts of Initial System Deficiency Correction(s) / Connection
+Charge(s) projects on inventory must be accounted for in R&R plan.
+    • Columns A-E: Lists the original inventory description
+    • Columns F: Details the cost at the unit level
+    • Column G: Lists the service/design life of the existing component/item
+    • Column H: Lists the expected replacement date. Replacement date = Approx year Installed + Service Life
+    • Column I-J: Describes the replacement component/item and the replacement component’s service life
+    • Columns K-L: Details the cost of the replacement component/item at the unit and total quantity levels
+    • Column M: Lists the next expected R&R dates. Replacement date = Approx year Installed + Service Life
+    • *Row 18: Per Table JA40-1.2 Lift Station #2 is listed as a deficiency. Contractor chose to replace LS #2 via R&R in first year.
+                                                                                                                                                   J40-7
+COMPETITIVE RFP TEMPLATE                                                                                                               UTILITIES PRIVATIZATION
+
+
+Table JA40-1.3 Part 2: Example 1 Schedule 2, Renewals and Replacements – 50 Year Schedule
+                   A               B         C          D          E         F          G         H          I          J          K              L                M
+                                            2012      2025       2032       2035      2040       2045      2050       2052       2055                         Residual Value
+                                                                                                                                             Cumulative
+                 Item            Size     Const $    Const $    Const $    Const $   Const $    Const $   Const $    Const $    Const $                        Const $ Year
+                                                                                                                                               Total
+                                           Year 1    Year 14    Year 21    Year 24   Year 29    Year 34   Year 39    Year 41    Year 44                              50
+Row 1        Concrete Pipe       4-in.    $20,000                                                                                             $20,000               $400
+Row 2        Concrete Pipe       12-in.   $40,000                                                                                             $40,000               $800
+Row 3        Concrete Pipe       24-in.   $200,000                                                                                            $200,000             $4000
+Row 4            CI Pipe         4-in.               $10,000                                                                                  $10,000             $2,800
+Row 5            CI Pipe         12-in.              $80,000                                                                                  $80,000             $22,400
+Row 6          PVC Pipe          4-in.                                               $30,000                                                  $30,000             $17,400
+Row 7          PVC Pipe          12-in.                                              $160,000                                                 $160,000            $92,800
+Row 8          PVC Pipe          24-in.                                              $200,000                                                 $200,000           $116,000
+Row 9          PVC Pipe          4-in.                                                                                          $30,000       $30,000             $26,400
+Row 10         PVC Pipe          12-in.                                                                                         $160,000      $160,000           $140,800
+Row 11         PVC Pipe          24-in.                                                                                         $200,000      $200,000           $176,000
+Row 12          Manhole                              $70,000                                                                                  $70,000             $28,000
+Row 13          Manhole                                                    $35,000                                                            $35,000             $19,833
+Row 14          Manhole                                                                                   $105,000                            $105,000            $85,750
+Row 15          Manhole                                                                                                                          $0               $5,250
+Row 16      Lift Station #1                          $25,000                                                                                  $25,000             $7,000
+Row 17      LS Controls #1                $50,000               $50,000                                              $50,000                  $150,000            $27,500
+Row 18      Lift Station #2*              $25,000                                                                                             $25,000               $500
+Row 19      LS Controls #2                $50,000               $50,000                                              $50,000                  $150,000            $27,500
+Row 20      Lift Station #3                                                                                                     $25,000       $25,000             $22,000
+Row 21      LS Controls #3                           $50,000                                    $50,000                                       $100,000            $10,000
+Row A              Total Const $          $385,000   $235,000   $100,000   $35,000   $390,000   $50,000   $105,000   $100,000   $415,000     $1,815,000          $833,133
+Row B             Present Values          $379,905   $164,009   $57,917    $18,714   $182,519   $20,481   $37,647    $33,994    $130,237     $1,025,422          $222,832
+    This is the second part of the R&R schedule. It shows the annual R&R totals for each inventory line item.
+    • Columns A-B: Lists original inventory as described in Part 1
+    • Columns C-K: Corresponds to the year that R&R occurs. In accordance with B.5.2.1, dollar amounts are in constant year dollars based
+       on the expected price levels during the first two years of the utility privatization service contract.
+    • Column L: Totals of Columns C-K
+    • Column M: The Residual Value (RV) is the value of the investment, in constant year dollars, at the end of the contract term. RV =
+       Future Value x (Contract Year item installed + Design Life – Remaining Contract length) / Design Life. Contract Year is 1thru 50.
+    • Row A: Lists the R&R totals in Const $per column
+    • Row B: Present Value of Row A, where Present Value = Future Value x [ 1 / (1 + i)^n ] with Future Value is the R&R cost in const year
+       dollars, i = the current Real (constant dollar) Discount Rate, 2.7%, as published in OMB Circular A-94, Appendix C (see for most recent
+       rate) and n representing middle of the year discounting (i.e 2012 is year one so n = 0.5, in 2013 n =1.5 and so on)
+    • *Row 18: Per Table JA40-1.2 Lift Station #2 is listed as a deficiency. Contractor chose to replace LS #2 via R&R in first year.
+
+                                                                                                                                                          J40-8
+COMPETITIVE RFP TEMPLATE                                                                UTILITIES PRIVATIZATION
+
+
+         Example Residual Value Calculation based on Table JA40-1.3 Part 2
+                   A               B         C         D          E          F         G           H              I          J         K            L              M
+                                            2012      2025       2032       2035      2040        2045          2050       2052       2055                   Residual Value
+                                                                                                                                                Cumulative
+                 Item            Size     Const $    Const $    Const $    Const $   Const $     Const $       Const $    Const $    Const $                  Const $ Year
+                                                                                                                                                  Total
+                                           Year 1    Year 14    Year 21    Year 24   Year 29     Year 34       Year 39    Year 41    Year 44                       50
+Row 1        Concrete Pipe       4-in.    $20,000                                                                                                $20,000          $400
+Row 2        Concrete Pipe       12-in.   $40,000                                                                                                $40,000          $800
+Row 3        Concrete Pipe       24-in.   $200,000                                                                                               $200,000        $4,000
+Row 4            CI Pipe         4-in.               $10,000                                                                                     $10,000         $2,800
+Row 5            CI Pipe         12-in.              $80,000                                                                                     $80,000         $22,400
+Row 6          PVC Pipe          4-in.                                               $30,000                                                     $30,000         $17,400
+Row 7          PVC Pipe          12-in.                                              $160,000                                                    $160,000        $92,800
+Row 8          PVC Pipe          24-in.                                              $200,000                                                    $200,000       $116,000
+Row 9          PVC Pipe          4-in.                                                                                               $30,000     $30,000         $26,400
+Row 10         PVC Pipe          12-in.                                                                                              $160,000    $160,000       $140,800
+Row 11         PVC Pipe          24-in.                                                                                              $200,000    $200,000       $176,000
+Row 12          Manhole                              $70,000                                                                                     $70,000         $28,000
+Row 13          Manhole                                                    $35,000                                                               $35,000         $19,833
+Row 14          Manhole                                                                                        $105,000                          $105,000        $85,750
+Row 15          Manhole                                                                                                                             $0           $5,250
+Row 16      Lift Station #1                          $25,000                                                                                     $25,000         $7,000
+Row 17      LS Controls #1                $50,000               $50,000                                                   $50,000                $150,000        $27,500
+Row 18      Lift Station #2*              $25,000                                                                                                $25,000          $500
+Row 19      LS Controls #2                $50,000               $50,000                                                   $50,000                $150,000        $27,500
+Row 20      Lift Station #3                                                                                                          $25,000     $25,000         $22,000
+Row 21      LS Controls #3                           $50,000                                     $50,000                                         $100,000        $10,000
+Row A              Total Const $          $385,000   $235,000   $100,000   $35,000   $390,000    $50,000       $105,000   $100,000   $415,000   $1,815,000      $833,133
+Row B             Present Values          $379,905   $164,009   $57,917    $18,714   $182,519    $20,481       $37,647    $33,994    $130,237   $1,025,422      $222,832
+    •    Column M: The Residual Value (RV) is the value of the investment, in constant year dollars, at the end of the contract term. RV =
+         Future Value x (Contract Year item installed + Design Life – Remaining Contract length) / Design Life. Contract Year is 1thru 50.
+    •    Future Value = R&R Component Value (in constant year dollars) at time of last replacement
+    •    Contract Year item installed = Year of contract (1 through 50) when item is scheduled for its last replacement
+    •    Design Life = Time, in years, which the item is expected to last
+    •    Remaining Contract length = Time, in years, left in the contract at the point this Residual Value calculation is being performed. For
+         initial proposals, a value of 50 years needs to be used.
+    •    Example: Calculation of Residual Value at contract start based on Row 17 LS Controls
+         Future Value is $50,000, Contract Year of last replacement is year 41, Design life is 20 years and Remaining Contract length is 50 years.
+         RV = Future Value x (Contract Year item installed + Design Life – Remaining Contract length) / Design Life
+         RV = $50,000 x (41 + 20 – 50) / 20 = $27,500
+
+
+                                                                                                           J40-9
+COMPETITIVE RFP TEMPLATE                                                                                           UTILITIES PRIVATIZATION
+
+
+
+As shown in Table JA40-1.3, Party X proposes to spend $1,815,000.00 (in constant year
+dollars) on planned R&R over the 50-year contract term. The cumulative present value of
+R&R investments is $1,025,422, using the 2.7 percent Real Discount Rate published in
+January 2010 OMB Circular A-94, Guidelines and Discount Rates for Benefit Cost Analysis
+of Federal Programs, Appendix C, and middle of the year discounting. The cumulative
+residual value at the end of the contract term is $833,133. The present value of the
+cumulative residual value is $222,832. Therefore, the present value of Party X’s total
+investment in R&R during the contract term is $802,590 (=$1,025,422 - $222,832). 4
+Exhibit JA40-1.2 shows the projected R&R investment by year. This chart shows a
+distribution of investments (costs) over the entire 50-year term of the contract, including
+early, middle and late investments.
+
+EXHIBIT JA40-1.2
+Example 1 Renewals and Replacements Investment by Year
+Utility Privatization
+
+
+                                       Sum of R&R Project Cost (Constant Dollars)
+
+
+   $450,000
+   $400,000
+   $350,000
+   $300,000
+   $250,000
+   $200,000
+   $150,000
+   $100,000
+    $50,000
+         $0
+               1    3    5   7   9   11   13   15   17   19   21   23   25     27   29   31   33   35   37   39   41   43   45   47   49
+                                                                        Year
+
+
+
+Party X must develop a utility service charge for R&R to pay for the investments proposed in
+Schedule 2. The utility service charge is calculated by amortizing the Present Value of Total
+Investment in R&R ($802,590) over 600 months, using an interest rate that results in a
+monthly charge sufficient for Party X to pay for all of its R&R investments. It is important to
+emphasize that the interest rate must be carefully chosen. Some of the key factors that must
+be considered include the timing of investments (e.g., distributed, front-end loaded or back-
+end loaded) and the source(s) of capital to be used (borrowed funds, internal capital, an
+"escrow account," etc.). The basis (reasoning) for the interest rate chosen must
+be documented in, or as supporting documentation to, the proposed schedules. Based on
+the timing of the investments as shown in Exhibit JA40-1.2, and their access to capital and
+financing, Party X uses a 4.80 percent annual interest rate to develop their utility service
+charge for R&R:
+
+
+
+
+4 The present value of the cumulative residual value is subtracted from the present value of R&R investments to account for
+the value in the system at the end of the contract term.
+
+
+
+                                                                                                                                       J40-10
+COMPETITIVE RFP TEMPLATE                                                                                 UTILITIES PRIVATIZATION
+
+
+
+
+                                       Calculation                                                        Result
+
+                        Present Value of Proposed R&R Cost (from Schedule 2) =>                      $1,025,422.03
+
+       Cumulative Residual Value due to R&R Investments (from Schedule 2) =>                          $222,832.00
+
+    ( PV )Present Value of Total Investment in R&R = 1,025,422.03 – 222,832 =>                        $802,590.04
+
+                                              ( n ) # Months to Recover R&R Cost =>                        600
+
+                                                                Annual Interest Rate =>                   4.80%
+
+                                          ( i ) Monthly Interest Rate = 0.0480 / 12 =>                    0.40%
+                                                                                      a
+                                                       ( A ) Monthly R&R Charge           =>            $3,532.34
+
+Table Notes:
+a                                                                                         n             n
+ Monthly R&R Charge calculated based on uniform series of payments. A = PV x [ I x (1 + i) ] / [ (1 + i) – 1 ]
+
+
+Exhibit JA40-1.3 shows the projected income and cost based on Party X’s utility service charge
+for R&R and Schedule 2 respectively. The balance is the year to year cumulative sum of the
+income and cost. The chart shows an initial negative balance where costs exceed income,
+followed by a longer period of income exceeding costs, ending with a near zero balance. The
+resulting near zero balance is provided to illustrate the example and should not be
+construed as a de facto requirement. For an actual proposal, it may be reasonable for the
+ending balance to be negative, positive or zero. 5 It is incumbent upon the Offeror to
+consider all pertinent factors when developing their schedules, to include the resulting
+forecast of income and costs. 6
+
+EXHIBIT JA40-1.3
+Example 1 Income and Cost Forecast by Year
+Utility Privatization
+
+
+                                           Income and Cost Forecast
+
+    $500,000.00
+    $400,000.00
+    $300,000.00
+    $200,000.00                                                                                                     Income
+    $100,000.00                                                                                                     Cost
+           $0.00                                                                                                    Balance
+    $100,000.00 1        4    7    10 13 16 19 22 25 28 31 34 37 40 43 46 49
+    $200,000.00
+    $300,000.00
+                                                            Year
+
+
+
+
+5 The Offeror should explain their reasoning for the resulting income and cost forecast based on their proposed service charge
+for R&R and their forecast of R&R investments from Schedule 2. I.e., why a net gain, loss or zero balance?
+6 The Government would expect the residual value to be part of the subsequent contract for utility service (after the 50 year
+term) or that the Contractor would be due compensation if the contract was not renewed.
+
+
+
+                                                                                                                           J40-11
+ COMPETITIVE RFP TEMPLATE                                                                             UTILITIES PRIVATIZATION
+
+
+
+
+ The Total Utility Service Charge (CLIN 0001) proposed by Party X is calculated as
+ demonstrated in the example Schedule 1 shown in Table JA40-1.4.
+
+ TABLE JA40-1.4
+ Example 1 Schedule 1, Utility Service Charge
+ Utility Privatization
+
+                               Component                                                      Monthly Charge
+
+ 1. Operations and Maintenance (O&M)                                                                $2,500.00
+
+ 2. Renewals and Replacements                                                                       $3,532.34
+Total Utility Service Charge
+                                                                                                    $6,032.34
+ (to be entered into CLIN 0001 for Schedule B-2)
+
+
+
+ JA40.1.2.2 Example 1 CLIN 0001 Monthly Credit as Payment for Purchase Price Supporting
+ Calculations
+ The Monthly Credit as Payment for Purchase Price (CLIN 0001) is calculated by amortizing
+ the purchase price over the number of contract periods (months) the Offeror proposes to
+ credit the purchase price.
+
+ •    Party X proposes to purchase the wastewater system for $500,000.00.
+
+ •    The $4,219.28 monthly credit is calculated by amortizing the $500,000.00 Purchase Price
+      over 15 years (180 months) at a 6.0 percent annual interest rate (1.2 percentage points
+      over the U.S. Treasury Bond rate of 4.8% assumed for this example) 7. The $50,631.36
+      annual credit is calculated by multiplying the monthly credit by 12 months.
+
+                                         Calculation                                                     Results
+
+                                                               Proposed Purchase Price =>                   $500,000.00
+
+                                            ( n ) # Months to Amortize Purchase Price =>                              180
+
+                                                                     Annual Interest Rate =>                       6.00%
+
+                                                  ( i ) Monthly Interest Rate = 0.06 / 12 =>                       0.50%
+
+                                  CLIN 0001, ( A ) Monthly Credit for Purchase Price =>
+                                                                                          a                    $4,219.28
+
+                                      Annual Credit for Purchase Price = 12 x 4,219.28=>                     $50,631.36
+
+ Table Notes:
+ a
+   Monthly Credit as Payment for Purchase Price is calculated based on uniform series of payments.
+                       n             n
+ A = PV x [ i x (1 + i) ] / [ (1 + i) – 1 ]
+
+
+
+
+ 7 Source: 4.8% based on 4.93% for the 20-year U.S. Treasury Bond rate (www.federalreserve.gov/releases/H15/update/) plus
+ the -0.13% adjustment for estimating the 30-year rate (www.treas.gov/offices/domestic-finance/debt-management/interest-
+ rate/ltcompositeindex.html).
+
+
+
+                                                                                                                       J40-12
+COMPETITIVE RFP TEMPLATE                                                       UTILITIES PRIVATIZATION
+
+
+
+
+JA40.1.2.3 Example 1 CLIN 0002 Initial System Deficiency Corrections/Connection Charges
+Supporting Calculations
+Initial System Deficiency Correction(s) / Connection Charge(s) are documented in Schedule
+3. Transition costs are also included in Schedule 3; however, these costs are addressed in
+CLIN 0004—see section JA40.1.2.4. Additions include Initial System Deficiency Corrections
+to remedy deficiencies. Based on their assessment of the utility system, Party X identified
+three deficiencies in the wastewater system.
+
+•   All of the 1960s-era collection system piping needs to be replaced because it has reached
+    the end of its useful life, requires excessive maintenance, and has unacceptable
+    infiltration and inflow (I&I). The cost to replace the collection piping was determined to
+    be $260,000. The replacement is to be done in year 1 of the contract term as planned
+    renewal and replacement (R&R) costs. Even though this project may be a deficiency,
+    Party X determined that it was actually the result of the system reaching the end of its
+    useful life and therefore addressed it as a R&R project by including it in Schedule 2.
+
+•   Cross connections between the Installation’s wastewater system and stormwater system
+    were determined to be the cause of the I&I problem. The cost to remedy the cross
+    connections was determined to be $125,000. Party X included an Initial System
+    Deficiency Correction(s) / Connection Charge(s) project in Schedule 3 to address this
+    deficiency. The project is amortized over 15 years at a 6.0 percent annual interest rate.
+    Party X also determines a program to periodically televise and test the system for I&I
+    needs to be implemented. Party X determines the annual cost for this program will be
+    $2,000 per year, which is included in the $2,500 monthly operating cost.
+
+•   The inappropriately sized lift station was evaluated and determined to be relatively new
+    (built in 1990), in good condition, but inappropriately sized for the facilities served. The
+    cost to replace the lift station was determined to be $25,000 and was incorporated into
+    the first year of privatization as a planned R&R cost. Even though this project may be a
+    deficiency, Party X accounted for it under R&R because it is a replacement and impacts
+    the overall schedule of replacements.
+Two of the deficiencies, replacing the 1962-era collection piping and lift station #2, were
+included in the first five years of planned R&R. A portion of the other deficiency was
+accounted for in the O&M component of the utility service charge. Remedying the cross-
+connections in the system was not included as R&R and it must be included in the Initial
+System Deficiency Corrections in Schedule 3.
+
+•   Party X proposes a $125,000.00 Initial System Deficiency Correction to remedy the cross
+    connections in the system. This project is scheduled to be completed in the 12th month of
+    privatization and amortized over the next 60 months (months 13 through 73) at a 6.0
+    percent annual interest rate. Therefore, the addition to the utility service charge is based
+    on a $125,000.00 investment, amortized over 60 months at a constant interest rate of 0.50
+    percent per month:
+
+
+
+
+                                                                                                J40-13
+COMPETITIVE RFP TEMPLATE                                                                                  UTILITIES PRIVATIZATION
+
+
+
+
+                               Calculation                                                       Result
+
+                                                     (PV) Project Cost =>                     $ 125,000.00
+
+                            ( n ) # Months to Amortize Project Cost =>                                   60
+
+                                                 Annual Interest Rate =>                         6.00%
+
+                              ( i ) Monthly Interest Rate = 0.06 / 12 =>                         0.50%
+                                                                      a
+                                              ( A ) Monthly Charge =>                          $2,416.60
+
+Table Notes:
+a                                                                                      n             n
+  Monthly Charge calculated based on uniform series of payments. A = PV x [ i x (1 + i) ] / [ (1 + i) – 1 ]
+
+
+The example Schedule 3 developed for Initial System Deficiency Correction(s) / Connection
+Charge(s)/Transition Period (CLIN 0002) is shown in Table JA40-1.5.
+
+TABLE JA40-1.5
+Example 1 Schedule 3, Initial System Deficiency
+Correction(s) / Connection Charge(s)/Transition Period
+Utility Privatization
+
+                                                         Project     First Full Month       Amortization
+                           Interest    Project Cost                                                               Monthly
+    Project Name                                          Start      Project will Be In     Period
+                            Rate        (Constant $)a                                                              Charge
+                                                         Month              Service         (Months)
+
+Project 1 - Remedy
+                            6.0%          $125,000                            12                 60               $2,416.60
+Cross Connections
+
+       Transition           0.0%           $5,000                             0                      1             $5,000
+
+
+
+JA40.1.2.4 Example 1 CLIN 0003 Recoverable Portion of the Purchase Price Supporting
+Calculations
+The Monthly Charge for the Recoverable Portion of the Purchase Price (CLIN 0003) is
+calculated by amortizing the recoverable amount of the purchase price over the number of
+contract periods (months) the Offeror proposes to recover the purchase price. 8
+
+•   Party X proposes to purchase the wastewater system for $500,000.00.
+
+•   Party X identifies excess capacity in the system that can potentially be used for
+    customers other than the Government. This excess capacity is determined to be worth 15
+    percent of the system FMV; therefore, Party X proposes to recover $425,000.00 (85
+    percent of the purchase price).
+
+•   The $3,586.39 monthly charge is calculated by amortizing the $425,000.00 Recoverable
+    Portion of the Purchase Price over 15 years (180 months) at a 6.0 percent annual interest
+
+
+8 The Recoverable amount cannot exceed the Purchase Price. Additionally, recovery terms (interest rate, number of periods)
+should be the same as used when calculating the monthly credit for the Purchase Price (CLIN 0001).
+
+
+
+                                                                                                                            J40-14
+COMPETITIVE RFP TEMPLATE                                                                             UTILITIES PRIVATIZATION
+
+
+
+    rate (1.2 percentage points over the U.S. Treasury Bond rate of 4.8% assumed for this
+    example) 9. The $43,036.68 annual charge is calculated by multiplying the monthly credit
+    by 12 months.
+
+                                        Calculation                                                     Results
+
+                               (PV) Proposed Recoverable Portion of Purchase Price =>                      $425,000.00
+
+                                                  ( n ) # Months to Amortize Recovery =>                             180
+
+                                                                    Annual Interest Rate =>                       6.00%
+
+                                                 ( i ) Monthly Interest Rate = 0.06 / 12 =>                       0.50%
+                                                                                         a
+                               CLIN 0003, ( A ) Monthly Charge for Purchase Price =>                          $3,586.39
+
+                    Annual Credit for Purchase Price Less Recovery = 12 x -632.89 =>                        $43,036.68
+
+Table Notes:
+a
+  Monthly Credit as Payment for Purchase Price is calculated based on uniform series of payments.
+                      n             n
+A = PV x [ i x (1 + i) ] / [ (1 + i) – 1 ]
+
+
+
+
+TABLE JA40-1.6
+Example 1 Schedule 4, Recoverable Portion of Purchase Price
+Utility Privatization
+
+                                                           Amortization
+                            Interest         Amount                               Monthly
+         Item                                                 Period
+                             Rate             a                                   Charge
+                                                            (Months)
+ Recoverable Portion
+         of                   6.0%          $425,000             180              $3,586.39
+   Purchase Price
+
+
+
+JA40.1.2.4 Example 1 CLIN 0004 Transition Period Supporting Calculations
+The Transition Period charge (CLIN 0004) comes directly from Schedule 3 (TABLE JA40-
+1.5). . If the Contractor chooses to amortize the transition period payments, the same
+methodology as used to calculate the Initial System Deficiency Correction(s) / Connection
+Charge(s) must be used. Refer to Example 1 CLIN 0002 Supporting Calculations.
+
+
+
+
+9 Source: 4.8% based on 4.93% for the 20-year U.S. Treasury Bond rate (www.federalreserve.gov/releases/H15/update/) plus
+the -0.13% adjustment for estimating the 30-year rate (www.treas.gov/offices/domestic-finance/debt-management/interest-
+rate/ltcompositeindex.html).
+
+
+
+                                                                                                                      J40-15
+COMPETITIVE RFP TEMPLATE                                                    UTILITIES PRIVATIZATION
+
+
+
+
+JA40.2 Example #2 [Front-end Loaded Renewals &
+Replacements]
+The Government is considering privatization of a wastewater collection system at one of its
+installations. It plans to complete the privatization in year 2012, resulting in a 50-year
+contract for utility service. The Government has issued an RFP that, among other things,
+requires Offerors submitting an FP-PPR proposal to complete Schedule B-2 presented in
+Section B of the RFP and Schedules 1, 2, and 3 presented in section B.7 of the RFP. The
+Government’s inventory of the wastewater system is shown in Table JA40-2.1.
+
+TABLE JA40-2.1
+Example 2 Wastewater System Inventory
+Utility Privatization
+
+Component/item             Size         Quantity   Unit    Approximate Year of Installation
+
+Concrete Pipe              4-in.         2,000      Lf                  1962
+
+Concrete Pipe              12-in.        2,000      Lf                  1962
+
+Concrete Pipe              24-in.        4,000      Lf                  1962
+
+
+
+CI Pipe                    4-in.         1,000      Lf                  1970
+
+CI Pipe                    12-in.        4,000      Lf                  1970
+
+
+
+PVC Pipe                   4-in.         3,000      Lf                  1975
+
+PVC Pipe                   12-in.        8,000      Lf                  1975
+
+PVC Pipe                   24-in.        4,000      Lf                  1975
+
+
+
+PVC Pipe                   4-in.         3,000      Lf                  1980
+
+PVC Pipe                   12-in.        8,000      Lf                  1980
+
+PVC Pipe                   24-in.        4,000      Lf                  1980
+
+
+
+Manhole                                     20     Ea                   1960
+
+Manhole                                     10     Ea                   1970
+
+Manhole                                     30     Ea                   1975
+
+Manhole                                     30     Ea                   1980
+
+
+
+Lift Station #1                              1     Ea                   1970
+
+Lift Station #2                              1     Ea                   1975
+
+Lift Station #3                              1     Ea                   1980
+
+
+
+
+                                                                                              J40-16
+COMPETITIVE RFP TEMPLATE                                                                       UTILITIES PRIVATIZATION
+
+
+
+
+In addition to the inventory, the RFP indicated there are no existing meters and no new
+meters need to be installed. The Government-recognized system deficiencies, including the
+approach the Government would take to remedy them if the system is not privatized, are
+shown in Table JA40-2.2.
+
+TABLE JA40-2.2
+Example 2 Government Recognized System Deficiencies
+Utility Privatization
+
+System Component                             Description of Deficiency                              Type
+
+Collection System          The system has excessive infiltration and inflow (I&I)             Initial System
+                                                                                              Deficiency
+                                                                                              Correction
+
+Lift Station #2            Lift Station #2 is inappropriately sized and causes overflows of   Initial System
+                           sewage into the street                                             Deficiency
+                                                                                              Correction
+
+Table Notes: Deficiencies may be categorized as an Initial System Deficiency Correction, renewal and
+replacements and/or operation and maintenance.
+
+
+
+
+JA40.2.1 Example 2 Schedule B-2
+Schedule B-2 is prepared based on the amortized purchase price credit and the data
+presented in Schedule 1, Utility Service Charge, Schedule 2, Renewals and Replacements – 50
+Year Schedule, and Schedule 4, Recoverable Portion of Purchase Price. Projects shown in
+Schedule 3, Initial System Deficiency Correction(s) / Connection Charge(s)/Transition Period, are
+not included in the totals shown in Schedule B-2, but are added to the monthly charge in
+accordance with the amortization schedule for each Initial System Deficiency Correction(s) /
+Connection Charge(s)/Transition Period project. The completed Schedule B-2 for Example 2
+is presented in Exhibit JA40-2.1.
+
+
+
+
+                                                                                                                J40-17
+ COMPETITIVE RFP TEMPLATE                                                             UTILITIES PRIVATIZATION
+
+
+
+
+                                                Installation name, State
+                    Wastewater System:           ____________________
+ CLINS                                       SUPPLIES/SERVICES                            MONTHLY SERVICE
+                                                                                          CREDIT/CHARGE
+
+ 0001               Utility Service Charge (see B.6.1 and B.7.2)                          $6,893.77
+                    The Contractor shall provide utility service in accordance with
+                    Section C, Descriptions, Specifications, and Work Statement.b
+                                                                                          ($4,219.28)
+                    Monthly Credit as Payment for Purchase Price. (see B.6.2)
+
+                    ($4,219.28)_____ Monthly Credit
+                    600____________ # of months
+                    6%_____________ Interest Rate                                         $2,674.49
+
+                    TOTAL FOR CLIN 0001:
+
+ 0002               Initial System Deficiency Corrections / Connection Charges –           $ Varies –
+                    (See B.6.3 and B.7.4 (Schedule 3)). This amount should not be
+                     included in the price offered for CLIN 0001.)                                 See Schedule 3
+ 0003               Recoverable Portion of Purchase Price (see B.6.4 and B.7.5             $3,586.39
+                     (Schedule 4). This amount should not be included in the price offered
+                    for CLIN 0001                                                                  See Schedule 4
+ 0004               Transition Period                                                      $5,000__
+                    (See B.6.5 and B.7.4 (Schedule 3). This amount should not be included
+                    price offered for CLIN 0001).                                                  See Schedule 3
+
+a Utility system to be filled in by the Offeror.
+                                               A B-2 must be completed for each utility system offered
+  Utility systems are shown in Schedule A paragraph B.3, Systems to be Privatized.
+b The Offeror should enter the Utility Services Charge, as computed in Schedule 1 (see B.7.2). See B.6,
+
+  Economic Price Adjustment Price Index Utility Privatization.
+
+ NOTE:
+ The Purchase Price, Recoverable Portion of the Purchase Price, interest rate and amortization period
+ proposed by the Offeror.
+
+
+
+
+ JA40.2.2 Example 2 Supporting Calculations
+ The following sections describe the calculations used to determine the values for CLINs
+ 0001, 0002, 0003 and 0004 in Schedule B-2.
+
+ JA40.2.2.1 Example 2 CLIN 0001 Utility Service Charge Supporting Calculations
+ The Utility Service Charge (CLIN 0001) is comprised of two components – O&M and R&R.
+ Based on their assessment of the requirements in the RFP, their evaluation of the system,
+ and their experience with wastewater systems, Party X determines the utility service charge
+
+
+
+
+                                                                                                       J40-18
+COMPETITIVE RFP TEMPLATE                                                                              UTILITIES PRIVATIZATION
+
+
+
+for O&M to be $2,500. 10 This amount includes all costs for operations, maintenance, repair,
+and associated administration and general costs. Party X is a public entity; therefore, it pays
+no U.S. Federal taxes.
+The utility service charge for R&R is developed starting with the example Schedule 2
+developed by Party X shown in Table JA40-2.3. R&R project costs are entered into Schedule
+2 in constant dollars. The useful life is based on Party X’s experience. The Present Value is
+calculated using the current Real Discount Rate, 2.7 percent as of January 2010, as published
+in OMB Circular A-94, Guidelines and Discount Rates for Benefit Cost Analysis of Federal
+Programs, Appendix C and middle of the year discounting. The Residual Value is the
+unrecovered investment in the utility system remaining at the end of the contract term. 11 It
+is calculated based on the remaining useful life at the end of the contract term (% of Useful
+Life remaining x R&R Project Cost). The present value of the cumulative Residual Value is
+subtracted from the cumulative present value of R&R project costs to determine the total
+present value of the R&R investment.
+Please note: The description of Renewal or Replacement must be specific enough to identify
+the exact component/item from the inventory listing. The R&R schedule for each of the
+inventory items is clearly delineated. As shown in Table JA40-2.3 Parts 1 and the following
+must be clearly listed:
+     -    The specific inventory line item (including component, size, quantity and installation
+          date) undergoing R&R
+     -    The type of replacement component/item if different from the original inventory
+          item (i.e. if steel pipe is being replaced by PVC)
+     -    The lifespan and expected replacement date(s) for the inventory line item and its
+          replacement
+     -    The cost per unit for the inventory line item and its replacement if different
+     -    The impact of any Initial System Deficiency Correction(s) / Connection Charge(s)
+          projects on the R&R schedule
+     -    The residual value for each inventory line item (or respective replacement) at the end
+          of the contract period
+
+
+
+
+10 Demonstrating how to develop the monthly charge for O&M is beyond the intent of this guidance document.
+11 The Government recognizes the residual value as a Government liability at the end of the contract term representing the
+Contractor’s unrecovered investment in the utility system.
+
+
+
+                                                                                                                        J40-19
+COMPETITIVE RFP TEMPLATE                                                                                                         UTILITIES PRIVATIZATION
+
+
+Table JA40-2.3 Part 1: Example 2 Schedule 2, Renewals and Replacements – 50 Year Schedule
+
+                A             B       C       D        E           F            G              H          I       J          K              L               M
+                                                                                                                 New
+                                                     Approx     Existing     Existing        First               Item                    New           Next
+                                                      Year       Unit         Item         Expected      New    Service   New Unit       Item         Replace
+              Item          Size     Quant   Unit   Installed    RCN       Service Life   Replace Date   Item    Life     Cost RCN       RCN           Dates
+Row 1     Concrete Pipe     4-in.    2,000   Lf       1962        $15          50            2012        PVC      50         $10        $20,000        2062
+Row 2     Concrete Pipe     12-in.   2,000   Lf       1962        $20          50            2012        PVC      50         $20        $40,000        2062
+Row 3     Concrete Pipe     24-in.   4,000   Lf       1962        $60          50            2012        PVC      50         $50        $200,000       2062
+Row 4         CI Pipe       4-in.    1,000   Lf       1970        $25          50            2020        PVC      50         $10        $10,000        2070
+Row 5         CI Pipe       12-in.   4,000   Lf       1970       $100          50            2020        PVC      50         $20        $80,000        2070
+Row 6       PVC Pipe        4-in.    3,000   Lf       1975        $10          50            2025        same     50         $10        $30,000        2075
+Row 7       PVC Pipe        12-in.   8,000   Lf       1975        $20          50            2025        same     50         $20        $160,000       2075
+Row 8       PVC Pipe        24-in.   4,000   Lf       1975        $50          50            2025        same     50         $50        $200,000       2075
+Row 9       PVC Pipe        4-in.    3,000   Lf       1980        $10          50            2030        same     50         $10        $30,000        2080
+Row 10      PVC Pipe        12-in.   8,000   Lf       1980        $20          50            2030        same     50         $20        $160,000       2080
+Row 11      PVC Pipe        24-in.   4,000   Lf       1980        $50          50            2030        same     50         $50        $200,000       2080
+Row 12       Manhole                  20     Ea       1960      $3,500         60            2020        same     60       $3,500       $70,000        2080
+Row 13       Manhole                  10     Ea       1970      $3,500         60            2030        same     60       $3,500       $35,000        2090
+Row 14       Manhole                  30     Ea       1975      $3,500         60            2035        same     60       $3,500       $105,000       2095
+Row 15       Manhole                  30     Ea       1980      $3,500         60            2040        same     60       $3,500       $105,000       2100
+Row 16    Lift Station #1              1     Ea       1970      $25,000        50            2020        same     50       $25,000      $25,000        2070
+Row 17    LS Controls,#1               1     Ea       1970      $50,000        20            2012        same     20       $50,000      $50,000      2032, 2052
+Row 18    Lift Station #2              1     Ea       1975      $25,000        50            2012*       same     50       $25,000      $25,000        2062
+Row 19    LS Controls #2               1     Ea       1975      $50,000        20            2012        same     20       $50,000      $50,000      2032, 2052
+Row 20    Lift Station #3              1     Ea       1980      $25,000        50            2030        same     50       $25,000      $25,000        2080
+Row 21    LS Controls,#3               1     Ea       1980      $50,000        20            2012        same     20       $50,000      $50,000      2032, 2052
+This table represents a sample R&R plan. For display purposes, the R&R table is split into two parts. The first part shows the inventory
+items, the associated costs and the respective replacement costs of the replacement items, if different from the original. The second part
+shown in Table JA40-2.3 Part 2, shows the annual cost breakouts. Impacts of Initial System Deficiency Correction(s) / Connection
+Charge(s) projects on inventory must be accounted for in R&R plan.
+    • Columns A-E: Lists the original inventory description
+    • Columns F: Details the cost at the unit level
+    • Column G: Lists the service/design life of the existing component/item
+    • Column H: Lists the expected replacement date. Replacement date = Approx year Installed + Service Life
+    • Column I-J: Describes the replacement component/item and the replacement component’s service life
+    • Columns K-L: Details the cost of the replacement component/item at the unit and total quantity levels
+    • Column M: Lists the next expected R&R dates. Replacement date = Approx year Installed + Service Life
+    • *Row 18: Per Table JA40-2.2 Lift Station #2 is listed as a deficiency. Contractor chose to replace LS #2 via R&R in first year.
+                                                                                                                                                   J40-20
+COMPETITIVE RFP TEMPLATE                                                                                                                  UTILITIES PRIVATIZATION
+
+
+Table JA40-2.3 Part 2: Example 2 Schedule 2, Renewals and Replacements Schedule – 50 Year Schedule
+                  A               B         C         D          E          F          G          H           I          J           K              L
+                                           2012      2020       2025       2030       2032       2035       2040       2052                     Residual
+                                                                                                                                 Cumulative
+                Item            Size     Const $    Const $    Const $    Const $    Const $    Const $    Const $    Const $                 Value Const $
+                                                                                                                                   Total
+                                          Year 1    Year 9     Year 14    Year 19    Year 21    Year 24    Year 29    Year 41                   Year 50
+Row 1       Concrete Pipe       4-in.    $20,000                                                                                  $20,000         $400
+Row 2       Concrete Pipe       12-in.   $40,000                                                                                  $40,000         $800
+Row 3       Concrete Pipe       24-in.   $200,000                                                                                 $200,000       $4,000
+Row 4           CI Pipe         4-in.               $10,000                                                                       $10,000        $1,800
+Row 5           CI Pipe         12-in.              $80,000                                                                       $80,000        $14,400
+Row 6         PVC Pipe          4-in.                          $30,000                                                            $30,000        $8,400
+Row 7         PVC Pipe          12-in.                         $160,000                                                           $160,000       $44,800
+Row 8         PVC Pipe          24-in.                         $200,000                                                           $200,000       $56,000
+Row 9         PVC Pipe          4-in.                                     $30,000                                                 $30,000        $11,400
+Row 10        PVC Pipe          12-in.                                    $160,000                                                $160,000       $60,800
+Row 11        PVC Pipe          24-in.                                    $200,000                                                $200,000       $76,000
+Row 12         Manhole                              $70,000                                                                       $70,000        $22,167
+Row 13         Manhole                                                    $35,000                                                 $35,000        $16,917
+Row 14         Manhole                                                                          $105,000                          $105,000       $59,500
+Row 15         Manhole                                                                                     $105,000               $105,000       $68,250
+Row 16     Lift Station #1                          $25,000                                                                       $25,000        $4,500
+Row 17     LS Controls #1                $50,000                                     $50,000                          $50,000     $150,000       $27,500
+Row 18     Lift Station #2*              $25,000                                                                                  $25,000         $500
+Row 19     LS Controls #2                $50,000                                     $50,000                          $50,000     $150,000       $27,500
+Row 20     Lift Station #3                                                $25,000                                                 $25,000        $9,500
+Row 21     LS Controls #3                $50,000                                     $50,000                          $50,000     $150,000       $27,500
+Row A             Total Const $          $435,000   $185,000   $390,000   $450,000   $150,000   $105,000   $105,000   $150,000   $1,970,000     $542,633
+Row B            Present Values          $429,244   $147,511   $272,185   $274,890    $86,875    $56,141    $49,140    $50,990   $1,366,976     $145,134
+    This is the second part of the R&R schedule. It shows the annual R&R totals for each inventory line item.
+    • Columns A-B: Lists original inventory as described in Part 1
+    • Columns C-J: Corresponds to the year that R&R occurs. In accordance with B.5.2.1, dollar amounts are in constant year dollars
+       based on the expected price levels during the first two years of the utility privatization service contract.
+    • Column K: Totals of Columns C-J
+    • Column L: The Residual Value (RV) is the value of the investment, in constant year dollars, at the end of the contract term. RV =
+       Future Value x (Contract Year item installed + Design Life – Remaining Contract length) / Design Life. Contract Year is 1thru 50.
+    • See Table JA40-1.3 Part 2 for example of Residual Value calculation
+    • Row A: Lists the R&R totals in Const $per column
+    • Row B: Present Value of Row A, where Present Value = Future Value x [ 1 / (1 + i)^n ] with Future Value is the R&R cost in const
+       year dollars, i = the current Real (constant dollar) Discount Rate, 2.7%, as published in OMB Circular A-94, Appendix C (see for
+       most recent rate) and n representing middle of the year discounting (i.e 2012 is year one so n = 0.5, in 2013 n =1.5 and so on)
+    • *Row 18: Per Table JA40-2.2 Lift Station #2 is listed as a deficiency. Contractor chose to replace LS #2 via R&R in first year.
+                                                                                                                                                           J40-21
+COMPETITIVE RFP TEMPLATE                                                                                           UTILITIES PRIVATIZATION
+
+
+
+As shown in Table JA40-2.3, Party X proposes to spend $1,970,000 (in constant year dollars)
+on planned R&R over the 50-year contract term. The cumulative present value of R&R
+investments is $1,366,976 using the 2.7 percent Real Discount Rate published in January 2010
+OMB Circular A-94, Guidelines and Discount Rates for Benefit Cost Analysis of Federal
+Programs, Appendix C, and middle of the year discounting. The cumulative residual value
+at the end of the contract term is $542,633. The present value of the cumulative residual
+value is $145,134. Therefore, the present value of Party X’s total investment in R&R during
+the contract term is $1,221,842 (=$1,366,976- $145,134). 12
+Exhibit JA40-2.2 shows the projected R&R investment by year. This chart shows a
+distribution of investments (costs) over the entire 50-year term of the contract, with a heavy
+concentration of early investments.
+
+EXHIBIT JA40-2.2
+Example 2 Renewals and Replacements Investment by Year
+Utility Privatization
+
+
+                                       Sum of R&R Project Cost (Constant Dollars)
+
+
+
+    $450,000
+    $400,000
+    $350,000
+    $300,000
+    $250,000
+    $200,000
+    $150,000
+    $100,000
+     $50,000
+          $0
+                 1   3    5   7    9   11   13   15   17   19   21   23   25   27   29   31   33   35   37   39   41   43   45   47   49
+                                                                          Year
+
+
+
+
+Party X must develop a utility service charge for R&R to pay for the investments proposed in
+Schedule 2. The utility service charge is calculated by amortizing the Present Value of Total
+Investment in R&R ($1,221,842) over 600 months, using an interest rate that results in a
+monthly charge sufficient for Party X to pay for all of its R&R investments. It is important to
+emphasize that the interest rate must be carefully chosen. Some of the key factors that must
+be considered include the timing of investments (e.g., distributed, front-end loaded or back-
+end loaded) and the source(s) of capital to be used (borrowed funds, internal capital, an
+"escrow account," etc.). The basis (reasoning) for the interest rate chosen must
+be documented in, or as supporting documentation to, the proposed schedules. Based on
+the timing of the investments as shown in Exhibit JA40-2.2, and their access to capital and
+financing, Party X uses a 3.60 percent annual interest rate to develop their utility service
+charge for R&R:
+
+
+
+
+12 The present value of the cumulative residual value is subtracted from the present value of R&R investments to account for
+the value in the system at the end of the contract term.
+
+
+
+                                                                                                                                           J40-22
+COMPETITIVE RFP TEMPLATE                                                                                 UTILITIES PRIVATIZATION
+
+
+
+
+                                      Calculation                                                        Result
+
+                       Present Value of Proposed R&R Cost (from Schedule 2) =>                       $1,366,976.13
+
+       Cumulative Residual Value due to R&R Investments (from Schedule 2) =>                          $145,134.12
+
+( PV ) Present Value of Total Investment in R&R = 1,366,976.13 - 145,134.12 =>                       $1,221,842.01
+
+                                              ( n ) # Months to Recover R&R Cost =>                        600
+
+                                                                Annual Interest Rate =>                   3.60%
+
+                                          ( i ) Monthly Interest Rate = 0.0360 / 12 =>                    0.30%
+                                                                                      a
+                                                       ( A ) Monthly R&R Charge           =>            $4,393.77
+
+Table Notes:
+a                                                                                         n             n
+ Monthly R&R Charge calculated based on uniform series of payments. A = PV x [ i x (1 + i) ] / [ (1 + i) – 1 ]
+
+
+Exhibit JA40-2.3 shows the projected income and cost based on Party X’s utility service charge
+for R&R and Schedule 2 respectively. The balance is the year to year cumulative sum of the
+income and cost. The chart shows an initial negative balance where costs exceed income,
+followed by a longer period of income exceeding costs, ending with a near zero balance. The
+resulting near zero balance is provided to illustrate the example and should not be
+construed as a de facto requirement. For an actual proposal, it may be reasonable for the
+ending balance to be negative, positive or zero. 13 It is incumbent upon the Offeror to
+consider all pertinent factors when developing their schedules, to include the resulting
+forecast of income and costs. 14
+
+
+
+
+13 The Offeror should explain their reasoning for the resulting income and cost forecast based on their proposed service
+charge for R&R and their forecast of R&R investments from Schedule 2. I.e., why a net gain, loss or zero balance?
+14 The Government would expect the residual value to be part of the subsequent contract for utility service (after the 50 year
+term) or that the Contractor would be due compensation if the contract was not renewed.
+
+
+
+                                                                                                                           J40-23
+ COMPETITIVE RFP TEMPLATE                                                     UTILITIES PRIVATIZATION
+
+
+
+
+ EXHIBIT JA40-2.3
+ Example 2 Income and Cost Forecast by Year
+ Utility Privatization
+
+
+                                         Income and Cost Forecast
+
+      $400,000.00
+      $200,000.00
+              $0.00
+                                                                                        Income
+      $200,000.00 1         4    7 10 13 16 19 22 25 28 31 34 37 40 43 46 49
+                                                                                        Cost
+      $400,000.00
+                                                                                        Balance
+      $600,000.00
+      $800,000.00
+     $1,000,000.00
+                                                   Year
+
+
+
+
+ The Total Utility Service Charge (CLIN 0001) proposed by Party X is calculated as
+ demonstrated in the example Schedule 1 shown in Table JA40-2.4.
+
+ TABLE JA40-2.4
+ Example 2 Schedule 1, Utility Service Charge
+ Utility Privatization
+
+                                Component                              Monthly Charge
+
+ 1. Operations and Maintenance (O&M)                                           $2,500
+
+ 2. Renewals and Replacements                                               $4,393.77
+Total Utility Service Charge
+                                                                            $6,893.77
+ (to be entered into CLIN 0001 for Schedule B-2)
+
+
+
+ JA40.1.2.2 Example 1 CLIN 0001 Monthly Credit as Payment for Purchase Price Supporting
+ Calculations
+ The Monthly Credit as Payment for Purchase Price (CLIN 0001) is calculated by amortizing
+ the purchase price over the number of contract periods (months) the Offeror proposes to
+ credit the purchase price.
+
+ •    Party X proposes to purchase the wastewater system for $500,000.00.
+
+ •    The $4,219.28 monthly credit is calculated by amortizing the $500,000.00 Purchase Price
+      over 15 years (180 months) at a 6.0 percent annual interest rate (1.2 percentage points
+
+
+
+
+                                                                                               J40-24
+COMPETITIVE RFP TEMPLATE                                                                             UTILITIES PRIVATIZATION
+
+
+
+    over the U.S. Treasury Bond rate of 4.8% assumed for this example) 15. The $50,631.36
+    annual credit is calculated by multiplying the monthly credit by 12 months.
+
+                                        Calculation                                                     Results
+
+                                                              Proposed Purchase Price =>                   $500,000.00
+
+                                            ( n ) # Months to Amortize Purchase Price =>                             180
+
+                                                                    Annual Interest Rate =>                       6.00%
+
+                                                 ( i ) Monthly Interest Rate = 0.06 / 12 =>                       0.50%
+                                                                                         a
+                                 CLIN 0001, ( A ) Monthly Credit for Purchase Price =>                        $4,219.28
+
+                                     Annual Credit for Purchase Price = 12 x 4,219.28=>                     $50,631.36
+
+Table Notes:
+a
+  Monthly Credit as Payment for Purchase Price is calculated based on uniform series of payments.
+                      n             n
+A = PV x [ i x (1 + i) ] / [ (1 + i) – 1 ]
+
+
+
+
+JA40.2.2.3 Example 1 CLIN 0002 Initial System Deficiency Corrections/Connection Charges
+Supporting Calculations
+Initial System Deficiency Correction(s) / Connection Charge(s)/Transition Period projects
+are documented in Schedule 3. Transition costs are also included in Schedule 3, however,
+these costs are addressed in CLIN0004—see section JA40.2.2.4. Additions include Initial
+System Deficiency Corrections to remedy deficiencies. Based on their assessment of the
+utility system, Party X identified three deficiencies in the wastewater system.
+
+•   All of the 1960s-era collection system piping needs to be replaced because it has reached
+    the end of its useful life, requires excessive maintenance, and has unacceptable
+    infiltration and inflow (I&I). The cost to replace the collection piping was determined to
+    be $260,000. The replacement is to be done in year 1 of the contract term as planned
+    renewal and replacement (R&R) costs. Even though this project may be a deficiency,
+    Party X determined that it was actually the result of the system reaching the end of its
+    useful life and therefore addressed it as a R&R project by including it in Schedule 2.
+
+•   Cross connections between the Installation’s wastewater system and stormwater system
+    were determined to be the cause of the I&I problem. The cost to remedy the cross
+    connections was determined to be $125,000. Party X included an Initial System
+    Deficiency Correction(s) / Connection Charge(s) project in Schedule 3 to address this
+    deficiency. The project is amortized over 15 years at a 6.0 percent annual interest rate.
+    Party X also determines a program to periodically televise and test the system for I&I
+    needs to be implemented. Party X determines the annual cost for this program will be
+    $2,000 per year, which is included in the $2,500 monthly operating cost.
+
+•   The inappropriately sized lift station was evaluated and determined to be old but in
+    relatively good condition (built in 1975), but inappropriately sized for the facilities
+
+15 Source: 4.8% based on 4.93% for the 20-year U.S. Treasury Bond rate (www.federalreserve.gov/releases/H15/update/)
+plus the -0.13% adjustment for estimating the 30-year rate (www.treas.gov/offices/domestic-finance/debt-management/interest-
+rate/ltcompositeindex.html).
+
+
+
+                                                                                                                      J40-25
+COMPETITIVE RFP TEMPLATE                                                                            UTILITIES PRIVATIZATION
+
+
+
+      served. The cost to replace the lift station was determined to be $25,000 and was
+      incorporated into the first year of privatization as a planned R&R cost. Even though this
+      project may be a deficiency, Party X accounted for it under R&R because it is a
+      replacement and impacts the overall schedule of replacements.
+Two of the deficiencies, replacing the 1962-era collection piping and lift station #2, were
+included in the first five years of planned R&R. A portion of the other deficiency was
+accounted for in the O&M component of the utility service charge. Remedying the cross-
+connections in the system was not included as R&R and it must be included in the Initial
+System Deficiency Corrections in Schedule 3.
+
+•     Party X proposes a $125,000.00 Initial System Deficiency Correction to remedy the cross
+      connections in the system. This project is scheduled to be completed in the 12th month of
+      privatization and amortized over the next 60 months (months 13 through 73) at a 6.0
+      percent annual interest rate. Therefore, the addition to the utility service charge is based
+      on a $125,000.00 investment, amortized over 60 months at a constant interest rate of 0.50
+      percent per month:
+
+                              Calculation                                                       Result
+
+                                                   (PV) Project Cost =>                       $ 125,000.00
+
+                            ( n ) # Months to Amortize Project Cost =>                            60
+
+                                                Annual Interest Rate =>                          6.00%
+
+                              ( i ) Monthly Interest Rate = 0.06 / 12 =>                         0.50%
+                                                                     a
+                                             ( A ) Monthly Charge =>                           $2,416.60
+
+Table Notes:
+a                                                                                      n             n
+  Monthly Charge calculated based on uniform series of payments. A = PV x [ i x (1 + i) ] / [ (1 + i) – 1 ]
+
+
+The example Schedule 3 developed for Initial System Deficiency Correction(s) / Connection
+Charge(s)/Transition Period (CLIN 0002) is shown in Table JA40-2.5.
+
+
+TABLE JA40-2.5
+Example 2 Schedule 3, Initial System Deficiency
+Correction(s) / Connection Charge(s)/Transition Period
+Utility Privatization
+
+                                                           Project       First Full Month     Amortization
+                              Interest     Project Cost                                                        Monthly
+       Project Name                                        Start         Project will Be In   Period
+                               Rate        (Constant $)a                                                        Charge
+                                                           Month               Service        (Months)
+
+    Project 1 - Remedy
+                               6.0%         $125,000                             12                60         $2,416.60
+    Cross Connections
+
+         Transition            0.0%           $5,000                              0                1            $5,000
+
+
+
+
+                                                                                                                     J40-26
+COMPETITIVE RFP TEMPLATE                                                                             UTILITIES PRIVATIZATION
+
+
+
+JA40.2.2.4 Example 2 CLIN 0003 Recoverable Portion of the Purchase Price Supporting
+Calculations
+The Monthly Charge for the Recoverable Portion of the Purchase Price (CLIN 0003) is
+calculated by amortizing the recoverable amount of the purchase price over the number of
+contract periods (months) the Offeror proposes to recover the purchase price. 16
+
+•   Party X proposes to purchase the wastewater system for $500,000.00.
+
+•   Party X identifies excess capacity in the system that can potentially be used for
+    customers other than the Government. This excess capacity is determined to be worth 15
+    percent of the system FMV; therefore, Party X proposes to recover $425,000.00 (85
+    percent of the purchase price).
+
+•   The $3,586.39 monthly charge is calculated by amortizing the $425,000.00 Recoverable
+    Portion of the Purchase Price over 15 years (180 months) at a 6.0 percent annual interest
+    rate (1.2 percentage points over the U.S. Treasury Bond rate of 4.8% assumed for this
+    example) 17. The $43,036.68 annual charge is calculated by multiplying the monthly
+    credit by 12 months.
+
+                                        Calculation                                                     Results
+
+                               (PV) Proposed Recoverable Portion of Purchase Price =>                      $425,000.00
+
+                                                  ( n ) # Months to Amortize Recovery =>                             180
+
+                                                                    Annual Interest Rate =>                       6.00%
+
+                                                 ( i ) Monthly Interest Rate = 0.06 / 12 =>                       0.50%
+                                                                                         a
+                               CLIN 0003, ( A ) Monthly Charge for Purchase Price =>                          $3586.39
+
+                    Annual Credit for Purchase Price Less Recovery = 12 x -632.89 =>                        $43,036.68
+
+Table Notes:
+a
+  Monthly Credit as Payment for Purchase Price is calculated based on uniform series of payments.
+                      n             n
+A = PV x [ i x (1 + i) ] / [ (1 + i) – 1 ]
+
+
+TABLE JA40-2.6
+Example 2 Schedule 4, Recoverable Portion of Purchase Price
+Utility Privatization
+
+                                                           Amortization
+                            Interest       Amount                                 Monthly
+         Item                                                 Period
+                              Rate       (Constant $)a                            Charge
+                                                             (Months)
+
+Recoverable Portion of        6.0%          $425,000             180              $3,586.39
+Purchase Price
+
+
+
+
+16 The Recoverable amount cannot exceed the Purchase Price. Additionally, recovery terms (interest rate, number of periods)
+should be the same as used when calculating the monthly credit for the Purchase Price (CLIN 0001).
+17 Source: 4.8% based on 4.93% for the 20-year U.S. Treasury Bond rate (www.federalreserve.gov/releases/H15/update/)
+plus the -0.13% adjustment for estimating the 30-year rate (www.treas.gov/offices/domestic-finance/debt-management/interest-
+rate/ltcompositeindex.html).
+
+
+
+                                                                                                                      J40-27
+COMPETITIVE RFP TEMPLATE                                                   UTILITIES PRIVATIZATION
+
+
+
+JA40.2.2.4 Example 2 CLIN 0004 Transition Period Supporting Calculations
+The Transition Period charge (CLIN 0004) comes directly from Schedule 3 (TABLE JA40-
+2.5). . If the Contractor chooses to amortize the transition period payments, the same
+methodology as used to calculate the Initial System Deficiency Correction(s) / Connection
+Charge(s) must be used. Refer to Example 2 CLIN 0002 Supporting Calculations.
+
+
+
+
+                                                                                            J40-28
+COMPETITIVE RFP TEMPLATE                                                    UTILITIES PRIVATIZATION
+
+
+
+
+JA40.3 Example #3 [Back-end Loaded Renewals &
+Replacements]
+The Government is considering privatization of a wastewater collection system at one of its
+installations. It plans to complete the privatization in year 2012, resulting in a 50-year
+contract for utility service. The Government has issued an RFP that, among other things,
+requires Offerors submitting an FP-PPR proposal to complete Schedule B-2 presented in
+Section B of the RFP and Schedules 1, 2, 3 and 4 presented in section B.7 of the RFP.. The
+Government’s inventory of the wastewater system is shown in Table JA40-3.1.
+
+TABLE JA40-3.1
+Example 3 Wastewater System Inventory
+Utility Privatization
+
+Component/item             Size         Quantity   Unit    Approximate Year of Installation
+
+Concrete Pipe              4-in.         2,000      Lf                  1985
+
+Concrete Pipe              12-in.        2,000      Lf                  1985
+
+Concrete Pipe              24-in.        4,000      Lf                  1985
+
+
+
+CI Pipe                    4-in.         1,000      Lf                  1990
+
+CI Pipe                    12-in.        4,000      Lf                  1990
+
+
+
+PVC Pipe                   4-in.         3,000      Lf                  1995
+
+PVC Pipe                   12-in.        8,000      Lf                  1995
+
+PVC Pipe                   24-in.        4,000      Lf                  1995
+
+
+
+PVC Pipe                   4-in.         3,000      Lf                  2005
+
+PVC Pipe                   12-in.        8,000      Lf                  2005
+
+PVC Pipe                   24-in.        4,000      Lf                  2005
+
+
+
+Manhole                                     20     Ea                   1985
+
+Manhole                                     10     Ea                   1990
+
+Manhole                                     30     Ea                   1995
+
+Manhole                                     30     Ea                   2005
+
+
+
+Lift Station #1                              1     Ea                   1990
+
+Lift Station #2                              1     Ea                   1995
+
+Lift Station #3                              1     Ea                   2005
+
+
+
+
+                                                                                              J40-29
+COMPETITIVE RFP TEMPLATE                                                                       UTILITIES PRIVATIZATION
+
+
+
+In addition to the inventory, the RFP indicated there are no existing meters and no new
+meters need to be installed. The Government-recognized system deficiencies, including the
+approach the Government would take to remedy them if the system is not privatized, are
+shown in Table JA40-3.2.
+
+TABLE JA40-3.2
+Example 3 Government Recognized System Deficiencies
+Utility Privatization
+
+System Component                             Description of Deficiency                              Type
+
+Collection System          The system has excessive infiltration and inflow (I&I)             Initial System
+                                                                                              Deficiency
+                                                                                              Correction
+
+Lift Station #2            Lift Station #2 is inappropriately sized and causes overflows of   Initial System
+                           sewage into the street                                             Deficiency
+                                                                                              Correction
+
+Table Notes: Deficiencies may be categorized as an Initial System Deficiency Correction, renewal and
+replacements and/or operation and maintenance.
+
+
+
+
+JA40.3.1 Example 3 Schedule B-2
+Schedule B-2 is prepared based on the amortized purchase price credit and the data
+presented in Schedule 1, Utility Service Charge , Schedule 2, Renewals and Replacements – 50
+Year Schedule, and Schedule 4, Recoverable Portion of Purchase Price. Projects shown in
+Schedule 3, Initial System Deficiency Correction(s) / Connection Charge(s)/Transition Period, are
+not included in the totals shown in Schedule B-2, but are added to the monthly charge in
+accordance with the amortization schedule for each Initial System Deficiency Correction(s) /
+Connection Charge(s)/Transition Period project. The completed Schedule B-2 for Example 3
+is presented in Exhibit JA40-3.1.
+
+
+
+
+                                                                                                                J40-30
+ COMPETITIVE RFP TEMPLATE                                                             UTILITIES PRIVATIZATION
+
+
+
+
+                                                Installation name, State
+                    Wastewater System:           ____________________
+ CLINS                                       SUPPLIES/SERVICES                            MONTHLY SERVICE
+                                                                                          CREDIT/CHARGE
+
+ 0001               Utility Service Charge (see B.6.1 and B.7.2)                          $5,354.35
+                    The Contractor shall provide utility service in accordance with
+                    Section C, Descriptions, Specifications, and Work Statement.b
+                                                                                          ($4,219.28)
+                    Monthly Credit as Payment for Purchase Price. (see B.6.2)
+
+                    ($4,219.28)_____ Monthly Credit
+                    600____________ # of months
+                    6%_____________ Interest Rate                                         $1,135.07
+
+                    TOTAL FOR CLIN 0001:
+
+ 0002               Initial System Deficiency Corrections / Connection Charges –           $ Varies –
+                    (See B.6.3 and B.7.4 (Schedule 3)). This amount should not be
+                    included in the price offered for CLIN 0001.)                                  See Schedule 3
+ 0003               Recoverable Portion of Purchase Price (see B.6.4 and B.7.5             $3,586.39
+                     (Schedule 4). This amount should not be included in the price offered
+                    for CLIN 0001                                                                  See Schedule 4
+ 0004               Transition Period                                                      $5,000
+                    (See B.6.5 and B.7.4 (Schedule 3). This amount should not be included
+                    price offered for CLIN 0001).                                                  See Schedule 3
+
+a Utility system to be filled in by the Offeror.A B-2 must be completed for each utility system offered
+   Utility systems are shown in Schedule A paragraph B.3, Systems to be Privatized.
+b The Offeror should enter the Utility Services Charge, as computed in Schedule 1 (see B.7.2). See B.6,
+
+   Economic Price Adjustment Price Index Utility Privatization.
+  NOTE:
+  The Purchase Price, Recoverable Portion of the Purchase Price, interest rate and amortization period
+  proposed by the Offeror.
+
+
+
+
+ JA40.3.2 Example 3 Supporting Calculations
+ The following sections describe the calculations used to determine the values for CLINs
+ 0001, 0002, 0003 and 0004 in Schedule B-2.
+
+ JA40.3.2.1 Example 3 CLIN 0001 Utility Service Charge Supporting Calculations
+ The Utility Service Charge (CLIN 0001) is comprised of two components – O&M and R&R.
+ Based on their assessment of the requirements in the RFP, their evaluation of the system,
+ and their experience with wastewater systems, Party X determines the utility service charge
+
+
+
+
+                                                                                                       J40-31
+COMPETITIVE RFP TEMPLATE                                                                              UTILITIES PRIVATIZATION
+
+
+
+for O&M to be $2,500. 18 This amount includes all costs for operations, maintenance, repair,
+and associated administration and general costs. Party X is a public entity; therefore, it pays
+no U.S. Federal taxes.
+The utility service charge for R&R is developed starting with the example Schedule 2
+developed by Party X shown in Table JA40-3.3. R&R project costs are entered into Schedule
+2 in constant dollars. The useful life is based on Party X’s experience. The Present Value is
+calculated using the current Real Discount Rate, 2.7 percent as of January 2010, as published
+in OMB Circular A-94, Guidelines and Discount Rates for Benefit Cost Analysis of Federal
+Programs, Appendix C and middle of the year discounting. The Residual Value is the
+unrecovered investment in the utility system remaining at the end of the contract term. 19 It
+is calculated based on the remaining useful life at the end of the contract term (% of Useful
+Life remaining x R&R Project Cost). The present value of the cumulative Residual Value is
+subtracted from the cumulative present value of R&R project costs to determine the total
+present value of the R&R investment.
+Please note: The description of Renewal or Replacement must be specific enough to identify
+the exact component/item from the inventory listing. The R&R schedule for each of the
+inventory items is clearly delineated. As shown in Table JA40-3.3 Parts 1 and the following
+must be clearly listed:
+     -    The specific inventory line item (including component, size, quantity and installation
+          date) undergoing R&R
+     -    The type of replacement component/item if different from the original inventory
+          item (i.e. if steel pipe is being replaced by PVC)
+     -    The lifespan and expected replacement date(s) for the inventory line item and its
+          replacement
+     -    The cost per unit for the inventory line item and its replacement if different
+     -    The impact of any Initial System Deficiency Correction(s) / Connection Charge(s)
+          projects on the R&R schedule
+     -    The residual value for each inventory line item (or respective replacement) at the end
+          of the contract period
+
+
+
+
+18 Demonstrating how to develop the monthly charge for O&M is beyond the intent of this guidance document.
+19 The Government recognizes the residual value as a Government liability at the end of the contract term representing the
+Contractor’s unrecovered investment in the utility system.
+
+
+
+                                                                                                                        J40-32
+COMPETITIVE RFP TEMPLATE                                                                                                         UTILITIES PRIVATIZATION
+
+
+Table JA40-3.3 Part 1: Example 3 Schedule 2, Renewals and Replacements – 50 Year Schedule
+
+                A             B       C       D        E           F            G              H          I       J          K              L               M
+                                                                                                                 New
+                                                     Approx     Existing     Existing        First               Item                    New           Next
+                                                      Year       Unit         Item         Expected      New    Service   New Unit       Item         Replace
+              Item          Size     Quant   Unit   Installed    RCN       Service Life   Replace Date   Item    Life     Cost RCN       RCN           Dates
+Row 1     Concrete Pipe     4-in.    2,000   Lf       1985        $15          50            2035        PVC      50         $10        $20,000        2085
+Row 2     Concrete Pipe     12-in.   2,000   Lf       1985        $20          50            2035        PVC      50         $20        $40,000        2085
+Row 3     Concrete Pipe     24-in.   4,000   Lf       1985        $60          50            2035        PVC      50         $50        $200,000       2085
+Row 4         CI Pipe       4-in.    1,000   Lf       1990        $25          50            2040        PVC      50         $10        $10,000        2090
+Row 5         CI Pipe       12-in.   4,000   Lf       1990       $100          50            2040        PVC      50         $20        $80,000        2090
+Row 6       PVC Pipe        4-in.    3,000   Lf       1995        $10          50            2045        same     50         $10        $30,000        2095
+Row 7       PVC Pipe        12-in.   8,000   Lf       1995        $20          50            2045        same     50         $20        $160,000       2095
+Row 8       PVC Pipe        24-in.   4,000   Lf       1995        $50          50            2045        same     50         $50        $200,000       2095
+Row 9       PVC Pipe        4-in.    3,000   Lf       2005        $10          50            2055        same     50         $10        $30,000        2105
+Row 10      PVC Pipe        12-in.   8,000   Lf       2005        $20          50            2055        same     50         $20        $160,000       2105
+Row 11      PVC Pipe        24-in.   4,000   Lf       2005        $50          50            2055        same     50         $50        $200,000       2105
+Row 12       Manhole                  20     Ea       1985      $3,500         60            2045        same     60       $3,500       $70,000        2105
+Row 13       Manhole                  10     Ea       1990      $3,500         60            2050        same     60       $3,500       $35,000        2110
+Row 14       Manhole                  30     Ea       1995      $3,500         60            2055        same     60       $3,500       $105,000       2115
+Row 15       Manhole                  30     Ea       2005      $3,500         60            2065        same     60       $3,500       $105,000       2125
+Row 16    Lift Station #1              1     Ea       1990      $25,000        50            2040        same     50       $25,000      $25,000        2090
+Row 17    LS Controls,#1               1     Ea       1990      $50,000        20            20012       same     20       $50,000      $50,000      2032, 2052
+Row 18    Lift Station #2              1     Ea       1995      $25,000        50            2012*       same     50       $25,000      $25,000        2062
+Row 19    LS Controls #2               1     Ea       1995      $50,000        20            2012*       same     20       $50,000      $50,000      2032, 2052
+Row 20    Lift Station #3              1     Ea       2005      $25,000        50            2055        same     50       $25,000      $25,000        2105
+Row 21    LS Controls,#3               1     Ea       2005      $50,000        20            2025        same     20       $50,000      $50,000        2045
+This table represents a sample R&R plan. For display purposes, the R&R table is split into two parts. The first part shows the inventory
+items, the associated costs and the respective replacement costs of the replacement items, if different from the original. The second part
+shown in Table JA40-3.3 Part 2, shows the annual cost breakouts. Impacts of Initial System Deficiency Correction(s) / Connection
+Charge(s) projects on inventory must be accounted for in R&R plan.
+    • Columns A-E: Lists the original inventory description
+    • Columns F: Details the cost at the unit level
+    • Column G: Lists the service/design life of the existing component/item
+    • Column H: Lists the expected replacement date. Replacement date = Approx year Installed + Service Life
+    • Column I-J: Describes the replacement component/item and the replacement component’s service life
+    • Columns K-L: Details the cost of the replacement component/item at the unit and total quantity levels
+    • Column M: Lists the next expected R&R dates. Replacement date = Approx year Installed + Service Life
+
+
+                                                                                                                                                   J40-33
+COMPETITIVE RFP TEMPLATE                                                      UTILITIES PRIVATIZATION
+
+
+
+    •    *Rows 18 and 19: Per Table JA40-3.2 Lift Station #2 is listed as a deficiency. Contractor chose to replace LS #2 via R&R in first
+         year.
+
+
+
+
+                                                                                               J40-34
+COMPETITIVE RFP TEMPLATE                                                                                                                 UTILITIES PRIVATIZATION
+
+
+Table JA40-3.3 Part 2: Example 3 Schedule 2, Renewals and Replacements – 50 Year Schedule
+                 A               B        C          D         E           F         G          H           I         J         K              L                M
+                                         2012       2025      2032        2035      2040       2045       2050      2052       2055                       Residual Value
+                                                                                                                                         Cumulative
+                Item           Size     Const $    Const $   Const $    Const $    Const $    Const $    Const $   Const $    Const $                         Const $
+                                                                                                                                           Total
+                                        Year 1     Year 14   Year 21    Year 24    Year 29    Year 34    Year 39   Year 41    Year 44                        Year 50
+Row 1      Concrete Pipe       4-in.                                    $20,000                                                               $20,000         $9,600
+Row 2      Concrete Pipe       12-in.                                   $40,000                                                               $40,000         $19,200
+Row 3      Concrete Pipe       24-in.                                   $200,000                                                            $200,000          $96,000
+Row 4          CI Pipe         4-in.                                               $10,000                                                    $10,000         $5,800
+Row 5          CI Pipe         12-in.                                              $80,000                                                    $80,000         $46,400
+Row 6        PVC Pipe          4-in.                                                          $30,000                                         $30,000         $20,400
+Row 7        PVC Pipe          12-in.                                                         $160,000                                      $160,000         $108,800
+Row 8        PVC Pipe          24-in.                                                         $200,000                                      $200,000         $136,000
+Row 9        PVC Pipe          4-in.                                                                                          $30,000         $30,000         $26,400
+Row 10       PVC Pipe          12-in.                                                                                         $160,000      $160,000         $140,800
+Row 11       PVC Pipe          24-in.                                                                                         $200,000      $200,000         $176,000
+Row 12        Manhole                                                                         $70,000                                         $70,000         $51,333
+Row 13        Manhole                                                                                    $35,000                              $35,000         $28,583
+Row 14        Manhole                                                                                                         $105,000      $105,000          $94,500
+Row 15        Manhole                                                                                                                              $0         $5,250
+Row 16     Lift Station #1                                                         $25,000                                                    $25,000         $14,500
+Row 17    LS Controls #1                $50,000              $50,000                                               $50,000                  $150,000          $27,500
+Row 18    Lift Station #2*              $25,000                                                                                               $25,000          $500
+Row 19    LS Controls #2*               $50,000              $50,000                                               $50,000                  $150,000          $27,500
+Row 20     Lift Station #3                                                                                                    $25,000         $25,000         $22,000
+Row 21     LS Controls #3                          $50,000                                     $50,000                                      $100,000          $10,000
+Row A            Total Const $          $125,000   $50,000   $100,000   $260,000   $115,000   $510,000   $35,000   $100,000   $520,000    $1,815,000        $1,067,067
+Row B           Present Values          $123,346   $34,895   $57,917    $139,017   $53,820    $208,911   $12,549   $33,934    $163,188      $827,636         $285,400
+    This is the second part of the R&R schedule. It shows the annual R&R totals for each inventory line item.
+    • Columns A-B: Lists original inventory as described in Part 1
+    • Columns C-K: Corresponds to the year that R&R occurs. In accordance with B.5.2.1, dollar amounts are in constant year dollars
+       based on the expected price levels during the first two years of the utility privatization service contract.
+    • Column L: Totals of Columns C-K
+    • Column M: The Residual Value (RV) is the value of the investment, in constant year dollars, at the end of the contract term. RV =
+       Future Value x (Contract Year item installed + Design Life – Remaining Contract length) / Design Life. Contract Year is 1thru 50.
+    • See Table JA40-1.3 Part 2 for example of Residual Value calculation
+    • Row A: Lists the R&R totals in Const $ per column
+    • Row B: Present Value of Row A, where Present Value = Future Value x [ 1 / (1 + i)^n ] with Future Value is the R&R cost in const
+       year dollars, i = the current Real (constant dollar) Discount Rate, 2.7%, as published in OMB Circular A-94, Appendix C (see for
+       most recent rate) and n representing middle of the year discounting (i.e 2012 is year one so n = 0.5, in 2013 n =1.5 and so on)
+
+                                                                                                                                                          J40-35
+COMPETITIVE RFP TEMPLATE                                                      UTILITIES PRIVATIZATION
+
+
+    •    *Rows 18 and 19: Per Table JA40-3.2 Lift Station #2 is listed as a deficiency. Contractor chose to replace LS #2 via R&R in first
+         year.
+
+
+
+
+                                                                                               J40-36
+COMPETITIVE RFP TEMPLATE                                                                               UTILITIES PRIVATIZATION
+
+
+
+As shown in Table JA40-3.3, Party X proposes to spend $1,815,000 (in constant year dollars)
+on planned R&R over the 50-year contract term. The cumulative present value of R&R
+investments is $827,636, using the 2.7 percent Real Discount Rate published in January 2010
+OMB Circular A-94, Guidelines and Discount Rates for Benefit Cost Analysis of Federal
+Programs, Appendix C, and middle of the year discounting. The cumulative residual value
+at the end of the contract term is $1,067,067. The present value of the cumulative residual
+value is $285,400. Therefore, the present value of Party X’s total investment in R&R during
+the contract term is $542,236 (=$827,636 - $285,400). 20
+Exhibit JA40-3.2 shows the projected R&R investment by year. This chart shows a
+distribution of investments (costs) over the entire 50-year term of the contract, with a heavy
+concentration of late investments.
+
+EXHIBIT JA40-3.2
+Example 3 Renewals and Replacements Investment by Year
+Utility Privatization
+
+
+                                        Sum of R&R Project Cost (Constant Dollars)
+
+     $600,000
+     $500,000
+     $400,000
+     $300,000
+     $200,000
+     $100,000
+             $0
+                   1    3   5   7   9   11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49
+                                                                   Year
+
+
+
+
+Party X must develop a utility service charge for R&R to pay for the investments proposed in
+Schedule 2. The utility service charge is calculated by amortizing the Present Value of Total
+Investment in R&R ($542,235) over 600 months, using an interest rate that results in a
+monthly charge sufficient for Party X to pay for all of its R&R investments. It is important to
+emphasize that the interest rate must be carefully chosen. Some of the key factors that must
+be considered include the timing of investments (e.g., distributed, front-end loaded or back-
+end loaded) and the source(s) of capital to be used (borrowed funds, internal capital, an
+"escrow account," etc.). The basis (reasoning) for the interest rate chosen must
+be documented in, or as supporting documentation to, the proposed schedules. Based on
+the timing of the investments as shown in Exhibit JA40-3.2, and their access to capital and
+financing, Party X uses a 6.00 percent annual interest rate to develop their utility service
+charge for R&R:
+
+
+
+
+20 The present value of the cumulative residual value is subtracted from the present value of R&R investments to account for
+the value in the system at the end of the contract term.
+
+
+
+                                                                                                                        J40-37
+COMPETITIVE RFP TEMPLATE                                                                                 UTILITIES PRIVATIZATION
+
+
+
+
+                                      Calculation                                                        Result
+
+                       Present Value of Proposed R&R Cost (from Schedule 2) =>                        $827,636.27
+
+       Cumulative Residual Value due to R&R Investments (from Schedule 2) =>                          $285,400.41
+
+( PV ) Present Value of Total Investment in R&R = 827,636.27 – 285,400.41 =>                          $542,235.86
+
+                                              ( n ) # Months to Recover R&R Cost =>                        600
+
+                                                                Annual Interest Rate =>                   6.00%
+
+                                          ( i ) Monthly Interest Rate = 0.0600 / 12 =>                    0.50%
+                                                                                      a
+                                                       ( A ) Monthly R&R Charge           =>            $2,854.36
+
+Table Notes:
+a                                                                                         n             n
+ Monthly R&R Charge calculated based on uniform series of payments. A = PV x [ i x (1 + i) ] / [ (1 + i) – 1 ]
+
+
+Exhibit JA40-3.3 shows the projected income and cost based on Party X’s utility service charge
+for R&R and Schedule 2 respectively. The balance is the year to year cumulative sum of the
+income and cost. The chart shows an initial negative balance where costs exceed income,
+followed by a longer period of income exceeding costs, ending with a near zero balance. The
+resulting near zero balance is provided to illustrate the example and should not be
+construed as a de facto requirement. For an actual proposal, it may be reasonable for the
+ending balance to be negative, positive or zero. 21 It is incumbent upon the Offeror to
+consider all pertinent factors when developing their schedules, to include the resulting
+forecast of income and costs. 22
+
+EXHIBIT JA40-3.3
+Example 3 Income and Cost Forecast by Year
+Utility Privatization
+
+
+                                      Income and Cost Forecast
+
+    $800,000.00
+
+    $600,000.00
+
+    $400,000.00                                                                                        Income
+                                                                                                       Cost
+    $200,000.00                                                                                        Balance
+
+          $0.00
+                   1   4   7   10 13 16 19 22 25 28 31 34 37 40 43 46 49
+    $200,000.00
+                                                     Year
+
+
+
+
+21 The Offeror should explain their reasoning for the resulting income and cost forecast based on their proposed service
+charge for R&R and their forecast of R&R investments from Schedule 2. I.e., why a net gain, loss or zero balance?
+22 The Government would expect the residual value to be part of the subsequent contract for utility service (after the 50 year
+term) or that the Contractor would be due compensation if the contract was not renewed.
+
+
+
+                                                                                                                           J40-38
+ COMPETITIVE RFP TEMPLATE                                                                             UTILITIES PRIVATIZATION
+
+
+
+
+ The Total Utility Service Charge (CLIN 0001) proposed by Party X is calculated as
+ demonstrated in the example Schedule 1 shown in Table JA40-3.4.
+
+ TABLE JA40-3.4
+ Example 3 Schedule 1, Utility Service Charge
+ Utility Privatization
+
+                               Component                                                      Monthly Charge
+
+ 1. Operations and Maintenance (O&M)                                                                $2,500.00
+
+ 2. Renewals and Replacements                                                                          $2,854
+Total Utility Service Charge
+                                                                                                       $5,354
+ (to be entered into CLIN 0001 for Schedule B-2)
+
+
+
+ JA40.3.2.2 Example 3 CLIN 0001 Payment for Purchase Price Supporting Calculations
+ The Monthly Credit as Payment for Purchase Price (CLIN 0001) is calculated by amortizing
+ the purchase price over the number of contract periods (months) the Offeror proposes to
+ credit the purchase price.
+ •    Party X proposes to purchase the wastewater system for $500,000.00.
+
+ •    The $4,219.28 monthly credit is calculated by amortizing the $500,000.00 Purchase Price
+      over 15 years (180 months) at a 6.0 percent annual interest rate (1.2 percentage points
+      over the U.S. Treasury Bond rate of 4.8% assumed for this example) 23. The $50,631.36
+      annual credit is calculated by multiplying the monthly credit by 12 months.
+
+                                         Calculation                                                     Results
+
+                                                               Proposed Purchase Price =>                   $500,000.00
+
+                                             ( n ) # Months to Amortize Purchase Price =>                             180
+
+                                                                     Annual Interest Rate =>                       6.00%
+
+                                                  ( i ) Monthly Interest Rate = 0.06 / 12 =>                       0.50%
+                                                                                          a
+                                  CLIN 0001, ( A ) Monthly Credit for Purchase Price =>                        $4,219.28
+
+                                      Annual Credit for Purchase Price = 12 x 4,219.28=>                     $50,631.36
+
+ Table Notes:
+ a
+   Monthly Credit as Payment for Purchase Price is calculated based on uniform series of payments.
+                       n             n
+ A = PV x [ i x (1 + i) ] / [ (1 + i) – 1 ]
+
+
+
+
+ 23 Source: 4.8% based on 4.93% for the 20-year U.S. Treasury Bond rate (www.federalreserve.gov/releases/H15/update/)
+ plus the -0.13% adjustment for estimating the 30-year rate (www.treas.gov/offices/domestic-finance/debt-management/interest-
+ rate/ltcompositeindex.html).
+
+
+
+                                                                                                                       J40-39
+COMPETITIVE RFP TEMPLATE                                                       UTILITIES PRIVATIZATION
+
+
+
+JA40.3.2.3 Example 3 CLIN 0002 Initial System Deficiency Corrections/Connection Charges
+Supporting Calculations
+Initial System Deficiency Correction(s) / Connection Charge(s) projects are documented in
+Schedule 3. Transition costs are also included in Schedule 3, however, these costs are
+addressed in CLIN 0004—see section JA40.3.2.4. Additions include Initial System
+Deficiency Corrections to remedy deficiencies. Based on their assessment of the utility
+system, Party X identified three deficiencies in the wastewater system.
+
+•   All of the 1980s-era collection system piping needs to be replaced because of early
+    material failure, requires excessive maintenance, and has unacceptable infiltration and
+    inflow (I&I). The cost to replace the collection piping was determined to be $260,000. The
+    replacement is to be done in year 1 of the contract term as planned renewal and
+    replacement (R&R) costs. Even though this project may be a deficiency, Party X
+    determined that it was actually the result of the system reaching the end of its useful life
+    and therefore addressed it as a R&R project by including it in Schedule 2.
+
+•   Cross connections between the Installation’s wastewater system and stormwater system
+    were determined to be the cause of the I&I problem. The cost to remedy the cross
+    connections was determined to be $125,000. Party X included an Initial System
+    Deficiency Correction(s) / Connection Charge(s) project in Schedule 3 to address this
+    deficiency. The project is amortized over 15 years at a 6.0 percent annual interest rate.
+    Party X also determines a program to periodically televise and test the system for I&I
+    needs to be implemented. Party X determines the annual cost for this program will be
+    $2,000 per year, which is included in the $2,500 monthly operating cost.
+
+•   The inappropriately sized lift station was evaluated and determined to be relatively new
+    (built in 1995), in good condition, but inappropriately sized for the facilities served. The
+    cost to replace the lift station was determined to be $25,000 and was incorporated into
+    the first year of privatization as a planned R&R cost. Even though this project may be a
+    deficiency, Party X accounted for it under R&R because it is a replacement and impacts
+    the overall schedule of replacements.
+Two of the deficiencies, replacing the 1985-era collection piping and lift station #2, were
+included in the first five years of planned R&R. A portion of the other deficiency was
+accounted for in the O&M component of the utility service charge. Remedying the cross-
+connections in the system was not included as R&R and it must be included in the Initial
+System Deficiency Corrections in Schedule 3.
+
+•   Party X proposes a $125,000.00 Initial System Deficiency Correction to remedy the cross
+    connections in the system. This project is scheduled to be completed in the 12th month of
+    privatization and amortized over the next 60 months (months 13 through 73) at a 6.0
+    percent annual interest rate. Therefore, the addition to the utility service charge is based
+    on a $125,000.00 investment, amortized over 60 months at a constant interest rate of 0.50
+    percent per month:
+
+
+
+
+                                                                                                J40-40
+COMPETITIVE RFP TEMPLATE                                                                               UTILITIES PRIVATIZATION
+
+
+
+
+                              Calculation                                                         Result
+
+                                                   (PV) Project Cost =>                      $ 125,000.00
+
+                            ( n ) # Months to Amortize Project Cost =>                                60
+
+                                                 Annual Interest Rate =>                          6.00%
+
+                              ( i ) Monthly Interest Rate = 0.06 / 12 =>                          0.50%
+                                                                      a
+                                              ( A ) Monthly Charge =>                          $2,416.60
+
+Table Notes:
+a                                                                                      n             n
+  Monthly Charge calculated based on uniform series of payments. A = PV x [ i x (1 + i) ] / [ (1 + i) – 1 ]
+
+
+The example Schedule 3 developed for Initial System Deficiency Correction(s) / Connection
+Charge(s)/Transition Period (CLIN 0002) is shown in Table JA40-3.5.
+
+TABLE JA40-3.5
+Example 3 Schedule 3, Initial System Deficiency Correction(s) / Connection Charge(s)/Transition
+Period
+Utility Privatization
+
+                            Interest     Project Cost       Project       First Full Month           Amortization     Monthly
+
+                              Rate     (Constant $)a        Start         Project will Be In           Period         Charge
+    Project Name
+                                                            Month              Service                (Months)
+
+
+    Project 1 - Remedy
+                             6.0%          $125,000                                12                      60          $2,416.60
+    Cross Connections
+
+        Transition           0.0%            $5,000                               N/A                      1            $5,000
+
+
+
+JA40.3.2.4 Example 3 CLIN 0003 Monthly Charge for the Recoverable Portion of the Purchase
+Price Supporting Calculations
+The Monthly Charge for the Recoverable Portion of the Purchase Price (CLIN 0003) is
+calculated by amortizing the recoverable amount of the purchase price over the number of
+contract periods (months) the Offeror proposes to recover the purchase price. 24
+
+•   Party X proposes to purchase the wastewater system for $500,000.00.
+
+•   Party X identifies excess capacity in the system that can potentially be used for
+    customers other than the Government. This excess capacity is determined to be worth 15
+    percent of the system FMV; therefore, Party X proposes to recover $425,000.00 (85
+    percent of the purchase price).
+
+•   The $3,586.39 monthly charge is calculated by amortizing the $425,000.00 Recoverable
+    Portion of the Purchase Price over 15 years (180 months) at a 6.0 percent annual interest
+    rate (1.2 percentage points over the U.S. Treasury Bond rate of 4.8% assumed for this
+
+
+
+24 The Recoverable amount cannot exceed the Purchase Price. Additionally, recovery terms (interest rate, number of periods)
+should be the same as used when calculating the monthly credit for the Purchase Price (CLIN 0001).
+
+
+
+                                                                                                                        J40-41
+COMPETITIVE RFP TEMPLATE                                                                             UTILITIES PRIVATIZATION
+
+
+
+    example) 25. The $43,036.68 annual charge is calculated by multiplying the monthly
+    credit by 12 months.
+
+
+
+                                        Calculation                                                     Results
+
+                               (PV) Proposed Recoverable Portion of Purchase Price =>                      $425,000.00
+
+                                                    ( n ) # Months to Amortize Recovery =>                           180
+
+                                                                     Annual Interest Rate =>                      6.00%
+
+                                                    ( i ) Monthly Interest Rate = 0.06 / 12 =>                    0.50%
+                                                                                         a
+                               CLIN 0003, ( A ) Monthly Charge for Purchase Price =>                          $3,586.39
+
+                    Annual Credit for Purchase Price Less Recovery = 12 x -632.89 =>                        $43,036.68
+
+Table Notes:
+a
+  Monthly Credit as Payment for Purchase Price is calculated based on uniform series of payments.
+                      n             n
+A = PV x [ i x (1 + i) ] / [ (1 + i) – 1 ]
+
+
+
+
+TABLE JA40-3.6
+Example 3 Schedule 4, Recoverable Portion of Purchase Price
+Utility Privatization
+
+                                                             Amortization
+                            Interest       Amount                                 Monthly
+         Item                                                   Period
+                              Rate              a                                 Charge
+                                                              (Months)
+
+Recoverable Portion of        6.0%          $425,000              180             $3,586.39
+Purchase Price
+
+
+
+JA40.3.2.4 Example 3 CLIN 0004 Transition Period Supporting Calculations
+The Transition Period charge (CLIN 0004) comes directly from Schedule 3 (TABLE JA40-
+3.5). If the Contractor chooses to amortize the transition period payments, the same
+methodology as used to calculate the Initial System Deficiency Correction(s) / Connection
+Charge(s) must be used. Refer to Example 3 CLIN 0002 Supporting Calculations.
+
+
+
+
+25 Source: 4.8% based on 4.93% for the 20-year U.S. Treasury Bond rate (www.federalreserve.gov/releases/H15/update/)
+plus the -0.13% adjustment for estimating the 30-year rate (www.treas.gov/offices/domestic-finance/debt-management/interest-
+rate/ltcompositeindex.html).
+
+
+
+                                                                                                                      J40-42
+

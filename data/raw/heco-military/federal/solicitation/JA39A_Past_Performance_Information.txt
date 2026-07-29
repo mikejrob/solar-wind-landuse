@@ -1,0 +1,180 @@
+ATTACHMENT JA39
+
+
+PAST PERFORMANCE PROJECT INFORMATION
+Provide the information requested in this form for each program being described. Provide frank, concise
+comments regarding your performance on the contracts/work you identify.
+A. OFFEROR NAME (COMPANY/DIVISION) AND LOCATION (CITY/STATE):
+
+
+(NOTE: IF THE COMPANY OR DIVISION PERFORMING THIS EFFORT IS DIFFERENT THAN THE OFFEROR, OR THE
+RELEVANCE OF THIS EFFORT TO THE ACQUISITION IS IMPACTED BY ANY COMPANY/CORPORATE
+ORGANIZATIONAL CHANGE, NOTE THOSE DIFFERENCES/CHANGES AND EXPLAIN WHY THE PAST PERFORMANCE
+SHOULD BE ATTRIBUTED TO THE OFFEROR. REFER TO THE “ORGANIZATIONAL STRUCTURE CHANGE HISTORY”
+YOU PROVIDED AS PART OF YOUR RELEVANT PRESENT AND PAST PERFORMANCE VOLUME.)
+
+
+
+B. PROGRAM TITLE: _________________________________________
+
+
+C. DESCRIPTION:
+        1. Contract* Number: _______________________________
+        2. Contract Type: _________________________________________
+        3. Period of Performance: ______________________________________
+        4. Original Contract $ Value: ___________________________________
+        5. Current Contract $ Value: ______________________________
+If Amounts for 4 and 5 above are different, provide a brief description of the reasons for the difference
+*If describing a service account rather than a contract or discrete project, provide account number, type
+of account/work, and total value over the period of performance.
+
+
+D. BRIEF DESCRIPTION OF OFFEROR’S DUTIES AS PRIME CONTRACTOR, SUBCONTRACTOR, OR SERVICE
+PROVIDER.
+
+(Please highlight portions considered most relevant to current acquisition)
+
+
+E. COMPLETION DATE:
+        1. Original Contractual Date:            ____________________
+        2. Current Scheduled Completion Date:___________________
+        3. Estimated Date of Completion:         ____________________
+        4. How Many Times Changed:               ____________________
+        5. Primary Causes of Change:             ___________________________________________________
+__________________________________________________________________________________________
+__________________________________________________________________________________________
+__________________________________________________________________________________________
+__________________________________________________________________________________________
+__________________________________________________________________________________________
+
+
+F. PRIMARY AND SECONDARY REFERENCE POINTS OF CONTACT:
+(Please provide current information on all individuals)
+        1. Primary POC:                  Name:            ______________________________________
+
+
+                                         Company:         ______________________________________
+
+
+                                         Job Title:       ______________________________________
+                                         Office:          ______________________________________
+                                         Address:         ______________________________________
+                                                          ______________________________________
+                                         Telephone:       ______________________________________
+                                         E-mail:          ______________________________________
+                                         Fax:             ______________________________________
+                                         Relationship to Project: _____________________________
+
+
+        2. Secondary POC:                Name:            ______________________________________
+
+                                         Company:         ______________________________________
+
+
+                                         Job Title:       ______________________________________
+                                         Office:          ______________________________________
+                                         Address:         ______________________________________
+                                                          ______________________________________
+                                         Telephone:       ______________________________________
+                                         E-mail:          ______________________________________
+                                         Fax:             ______________________________________
+                                         Relationship to Project: ______________________________
+
+
+G. ADDRESS ANY TECHNICAL (OR OTHER) AREA ABOUT THIS PROGRAM CONSIDERED UNIQUE.
+H. SPECIFY BY NAME ANY KEY INDIVIDUAL(S) WHO PARTICIPATED IN THIS PROGRAM AND IS/ARE
+PROPOSED TO SUPPORT THIS ACQUISITION. ALSO, INDICATE THEIR ROLES FOR BOTH ACQUISITIONS.
+
+
+
+I. ADDRESS SIGNIFICANT PROBLEMS ENCOUNTERED ON THIS CONTRACT/ACCOUNT AND YOUR SOLUTIONS
+TO THOSE PROBLEMS.
+
+
+
+J. IDENTIFY IF A SMALL BUSINESS OR DISADVANTAGED BUSINESS PLAN OR GOAL WAS REQUIRED FOR THIS
+CONTRACT/ACCOUNT. IF SO, IDENTIFY IN TERMS OF A PERCENTAGE THE PLANNED VERSUS ACHIEVED
+GOAL DURING THE CONTRACT. PLEASE EXPLAIN IF THE ABOVE GOALS WERE NOT MET.
+
+
+
+K. DESCRIBE/DISCUSS THE RELEVANCY OF THE SERVICES YOU PROVIDED ON YOUR REFERENCED
+CONTRACT/ACCOUNT TO THE WORK BEING SOLICITED UNDER THIS RFP.
+
+
+
+L. PLEASE COMPLETE THE FOLLOWING:
+
+
+General
+1. Indicate (yes or no) if you owned, operated, maintained the system for the referenced customer. Indicate (yes
+    or no) if the systems were located on the customer’s site.
+
+                                   OWN            OPERATE          MAINTAIN           ON SITE
+
+ Sewer Lines
+
+ Pump Stations
+
+ WWTP
+
+ Industrial WWTP
+
+ Water Lines
+
+ Water Storage Tanks
+
+ Water Treatment Plants
+
+ Overhead Electrical
+ Distribution System
+
+ Underground Electrical
+ Distribution System
+
+ Power Generation Facility
+
+ Substations
+
+ Natural Gas Distribution
+ System
+Wastewater System
+1. What is the average daily flow (gallons per day) for the referenced system?
+2. What is the capacity of the WWTP?
+3. What is the capacity of the Industrial WWTP?
+4. How many pump stations are operated/maintained?
+5. How many linear feet of sewage lines are maintained?
+6. What is the dollar value of the capital improvements you made to the system during the total period of time
+   service has been rendered?
+        Time_____(yrs)     $_____
+7. Have capital improvements been completed that directly or indirectly reduced the amount of
+   Inflow/Infiltration for the system serving the referenced customer?
+        Capital Improvements $_____       Inflow/Infiltration Reduction_____(%)
+
+
+Water System
+1. What is the average daily flow (gallons per day) for the referenced customer?
+2. What type of treatment occurs at the Water Treatment Plant?
+3. What type of storage tanks are operated/maintained (ground/elevated, capacity)?
+4. What is the dollar value of the capital improvements you made to the system during the total period of time
+   service has been rendered?
+        Time_____(yrs)     $_____
+
+
+Electrical System
+1. What is the voltage of the system you operate/maintain?
+2. How many facilities are served by the system you operate/maintain?
+3. What is the length (linear feet) of the overhead distribution system you operate/maintain?
+4. What is the length (linear feet) of the underground distribution system you operate/maintain?
+5. What is the dollar value of the capital improvements you made to the system during the total period of time
+   service has been rendered?
+        Time_____(yrs)     $_____
+
+Natural Gas System
+
+1. What is the length (linear feet) of the distribution system you own/operate?
+2. How many meters are on the system you own/operate?
+3. What is the dollar value of the capital improvements you made to the system during the total period of time
+   service has been rendered?
+        Time_____(yrs)     $_____
+

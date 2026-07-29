@@ -445,7 +445,9 @@ public record may not support. Revealed conduct on the record:
   contract (10 U.S.C. §2688) under which it OWNS and operates the on-base
   electric distribution systems at 12 Army installations — billed to the Army
   separately and walled off from the general rate base by PUC condition (PUC
-  Docket 2019-0349; ownership transferred 2022-03-01;
+  Docket 2019-0349, D&O 37413; ownership transferred 2022-03-01; the contract
+  RFP obliges HECO to facilitate interconnection of government- or third-party-
+  owned renewable generation on the bases — no exclusivity (§C.3.4);
   [Army Technology](https://www.army-technology.com/news/dla-hawaiian-electric-us-army-system/);
   full sourcing in `notes/heco-military-relationship.md`).
 - Kupono is a Navy enhanced-use lease with an IPP developer (Ameresco / Bright

@@ -1,0 +1,1901 @@
+             United States Government Accountability Office
+             Report to Congressional Committees
+
+
+
+
+             DOD UTILITIES
+April 2020
+
+
+
+
+             PRIVATIZATION
+
+             Improved Data
+             Collection and
+             Lessons Learned
+             Archive Could Help
+             Reduce Time to
+             Award Contracts
+
+
+
+
+GAO-20-104
+                                                April 2020
+
+                                                DOD UTILITIES PRIVATIZATION
+                                                Improved Data Collection and Lessons Learned
+                                                Archive Could Help Reduce Time to Award Contracts
+Highlights of GAO-20-104, a report to
+congressional committees
+
+
+
+
+Why GAO Did This Study                          What GAO Found
+Since 1988, military departments                From fiscal years 2016 through 2018, Department of Defense (DOD)
+have privatized utility systems—such            components awarded 21 new contracts for privatized utility services on military
+as electricity, water, natural gas, and         installations. The contracting process generally took an average of 4 years
+wastewater—on military installations.           from solicitation to contract award. However, the entire pre-award contracting
+DOD awards privatized utility                   process could be longer, as GAO found that DOD does not maintain complete
+services contracts to companies who             data on the time to conduct key steps in the acquisition planning phase (see
+upgrade, maintain, and operate the              table).
+systems. Members of Congress and
+stakeholders have expressed                     Average Time to Award Privatized Utility Services Contract by Contracting Agent
+concerns over the length of time it                                                    Average Time to Complete Contracting Pre-award
+takes to award these contracts. DOD                                                                    Phases (months)
+has a goal of reducing the time                                        Number of          Acquisition     Solicitation to Total acquisition
+                                                 Contracting agent      contracts           planning    contract award                time
+frames.                                          Defense Logistics                           Data not                              Data not
+A House committee asked GAO to                   Agency Energy                  19           available               44.9         available
+                                                 Naval Facilities
+review DOD’s utilities privatization.            Engineering Command             1                 7.5               92.4              99.9
+This report examines (1) the length of           Air National Guard                          Data not                              Data not
+time to award contracts for privatized                                           1           available                5.6         available
+utility services, and (2) the extent to         Source: GAO analysis of DOD data. | GAO-20-104
+which DOD is demonstrating leading
+practices to collect and disseminate            GAO found that DOD does not maintain data on when military departments
+lessons learned.                                begin to consider privatization and when a complete inventory of the
+GAO reviewed data on all 21 new                 associated infrastructure, such as pipes and valves, is available to use in the
+utility services contracts awarded              solicitation. While no DOD regulation or policy that GAO reviewed requires the
+from fiscal years 2016 through 2018;            collection of data on the time to complete all pre-award activities, in 2014,
+compared DOD’s lessons learned                  Defense Logistics Agency Energy officials established milestones to plan and
+activities with GAO’s leading                   monitor key pre-award activities. GAO found that the length of time from receipt
+practices; and interviewed DOD and              of requirements to contract award was reduced from an average of 61 months
+utility company officials.                      pre-2014 to an average of 35 months post-2014.
+What GAO Recommends                             The lessons learned efforts of DOD to shorten the time to award contracts
+                                                have fully or partially demonstrated four of five leading practices. DOD’s efforts
+GAO recommends that (1) DOD and                 include:
+the military departments collect
+information on the time to complete             •     collecting information through working groups and conferences;
+key steps when awarding these                   •     analyzing past privatization efforts to focus management oversight;
+contracts, and (2) DOD develop a                •     validating changes by demonstrating new processes;
+mechanism to store and archive                  •     storing lessons learned through revised guidance; and
+lessons learned from across the
+                                                •     sharing lessons learned through working groups and training.
+department. DOD partially concurred
+with both recommendations, noting               However, as DOD does not collect consistent information on the total time to
+that it would be beneficial to expand           award utility services contracts, DOD is missing opportunities to use lessons
+the actions GAO had recommended.                learned to reduce the time. Further, DOD does not have a repository for
+GAO agrees that such an expansion               archiving specific lessons learned from utilities privatization efforts. Rather,
+would be helpful in efforts to collect          DOD officials note they consider lessons learned as they develop updated
+more data.                                      guidance, templates, and handbooks. Without a repository of specific lessons
+                                                learned, such as conducting the privatization process, DOD is missing
+                                                opportunities to collect and share lessons learned to assist stakeholders on the
+View GAO-20-104. For more information,
+contact Timothy J. DiNapoli at (202) 512-4841
+                                                remaining 580 utility systems it considers available for privatization.
+or dinapolit@gao.gov.
+                                                                                                 United States Government Accountability Office
+Contents
+
+
+Letter                                                                                          1
+               Background                                                                       4
+               Time to Award Privatized Utility Services Contracts Is Lengthy and
+                 Affected by a Number of Factors                                               14
+               DOD Generally Demonstrated Leading Practices for Lessons
+                 Learned to Improve the Utilities Privatization Pre-award
+                 Process, but Lacks Key Data and Archive for Lessons                           23
+               Conclusions                                                                     32
+               Recommendations for Executive Action                                            32
+               Agency Comments                                                                 33
+
+Appendix I     Objectives, Scope, and Methodology                                              35
+
+
+
+Appendix II    Comments from the Department of Defense                                         39
+
+
+
+Appendix III   GAO Contact and Staff Acknowledgments                                           41
+
+
+
+Tables
+               Table 1: Number of DOD New Privatized Utility Services Contracts
+                       Awarded from Fiscal Years 2016 through 2018 by
+                       Contracting Agent                                                        2
+               Table 2: Status of Department of Defense Utilities Privatization, as
+                       of December 2019                                                         8
+               Table 3: Average Time for Privatized Utility Services Contracts
+                       Awarded from Fiscal Years 2016 through 2018 by
+                       Contracting Agent                                                       15
+               Table 4: GAO Assessment of DOD’s Demonstration of Leading
+                       Practices for Lessons Learned in Pre-award Activities                   23
+
+
+Figures
+               Figure 1: Types of Utility Systems Privatized on Military
+                        Installations                                                           5
+               Figure 2: Electrical Panel on a Military Installation before (left) and
+                        after (right) the Utility System was Privatized                         7
+
+
+
+               Page i                                        GAO-20-104 DOD Utilities Privatization
+Figure 3: Five Phases of the Pre-Award Contracting Process
+         Identified by GAO                                                                 9
+Figure 4: Leading Practices of a Lessons Learned Process                                  12
+Figure 5: DLA Energy Utilities Privatization Milestones and Time
+         Frames for Phases of Pre-award Contracting Process                               17
+Figure 6: Length of Time from Receipt of Requirements to Award
+         for Defense Logistics Agency Energy Competitive
+         Privatized Utility Services Contracts (in months)                                19
+
+
+
+
+Abbreviations
+
+ASD(Sustainment)           Office of the Assistant Secretary of Defense for
+                           Sustainment
+DLA Energy                 Defense Logistics Agency Energy
+DOD                        Department of Defense
+FAR                        Federal Acquisition Regulation
+NAVFAC                     Naval Facilities Engineering Command
+
+
+
+
+This is a work of the U.S. government and is not subject to copyright protection in the
+United States. The published product may be reproduced and distributed in its entirety
+without further permission from GAO. However, because this work may contain
+copyrighted images or other material, permission from the copyright holder may be
+necessary if you wish to reproduce this material separately.
+
+
+
+
+Page ii                                              GAO-20-104 DOD Utilities Privatization
+                       Letter
+
+
+
+
+441 G St. N.W.
+Washington, DC 20548
+
+
+
+
+                       April 2, 2020
+
+                       The Honorable James M. Inhofe
+                       Chairman
+                       The Honorable Jack Reed
+                       Ranking Member
+                       Committee on Armed Services
+                       United States Senate
+
+                       The Honorable Adam Smith
+                       Chairman
+                       The Honorable Mac Thornberry
+                       Ranking Member
+                       Committee on Armed Services
+                       House of Representatives
+
+                       The military departments have been privatizing utility systems at military
+                       installations since 1988. As of December 2019, the Department of
+                       Defense (DOD) had privatized 614 of 2,590 utility systems on military
+                       installations worldwide. Utilities privatization is the process of transferring
+                       ownership and operations of utility systems from the government to a
+                       private or public entity. Utilities include electric, water, wastewater, and
+                       natural gas systems, among others. DOD has acknowledged that it has
+                       not maintained the systems in accordance with industry standards due to
+                       competing funding priorities, resulting in systems badly in need of repair
+                       and upgrades. According to the Office of the Assistant Secretary of
+                       Defense for Sustainment, utilities privatization enables military
+                       installations to obtain safe, reliable, and technologically current utility
+                       systems at a lower cost than under continued government ownership.
+
+                       Members of Congress, DOD, and industry have expressed concerns
+                       about the length of time it takes to award contracts to privatize utility
+                       systems on military installations; reducing the time frames is a stated goal
+                       of DOD. A House Armed Services Committee report accompanying the
+                       National Defense Authorization Act for Fiscal Year 2019 included a
+                       provision that we review DOD’s utilities privatization pre-award
+                       contracting process (which includes awarding a contract), including
+                       lessons learned to improve the process. This report examines (1) the
+                       length of time to award contracts for utility services and factors that affect
+                       it, and (2) the extent to which DOD is demonstrating leading practices to
+                       collect and disseminate lessons learned for utilities privatization.
+
+
+
+                       Page 1                                         GAO-20-104 DOD Utilities Privatization
+To determine the length of time to award contracts for utility services
+under the privatization process, we obtained data on new utility services
+contracts awarded from fiscal years 2016 through 2018, the latest full
+year of available data when we began our audit. To review the
+privatization process, we examined the pre-award activities because that
+period encompasses the military departments’ decision-making to convey
+utility systems through privatization. The time frame captured at least one
+privatized utility services contract for each military department—Army, Air
+Force, and Navy. Collectively, DOD awarded 21 new contracts that
+privatized a total of 28 utility services at 15 military installations over the
+3-year time frame as shown in table 1.
+
+Table 1: Number of DOD New Privatized Utility Services Contracts Awarded from
+Fiscal Years 2016 through 2018 by Contracting Agent
+
+Contracting agent                DOD                    Number of      Number of          Number of
+                                 component               contracts       utilities           military
+                                                                                        installations
+Defense Logistics                Army                          10               13                  7
+Agency Energy
+Defense Logistics                Air Force                      9               13                  6
+Agency Energy
+Naval Facilities                 Navya                          1                1                  1
+Engineering
+Command
+Air National Guard               Air National                   1                1                  1
+                                 Guard
+Total                                                          21               28                 15
+Source: GAO analysis of DOD information. I GAO-20-104
+a
+ The Department of the Navy also includes the U.S. Marine Corps. The U.S. Marine Corps did not
+award any new utility services contracts from fiscal years 2016 through 2018.
+
+
+For the purposes of our review, we define the pre-award contracting
+process to start when a military department begins to consider privatizing
+an installation’s utility system(s) by, for example, formally designating
+which utilities at which installations could be privatized. We define the end
+of the process when the military department awards one or more utility
+services contracts.
+
+We reviewed relevant statutes; applicable sections of federal, defense,
+and agency acquisition regulations and guidance; and military department
+and Defense Logistics Agency Energy (DLA Energy) documentation. DLA
+Energy served as the contracting agent on behalf of the Army and Air
+
+
+
+
+Page 2                                                          GAO-20-104 DOD Utilities Privatization
+Force during our review period. 1 We also reviewed contract files
+maintained by DLA Energy, Naval Facilities Engineering Command
+(NAVFAC), and the Air National Guard to determine the time to complete
+the process. We verified information maintained by each of these
+organizations on the length of time it takes to complete certain steps in
+the contracting process with information contained in the contract files.
+After correcting certain errors, such as incorrectly recorded dates, we
+determined that this information was sufficiently reliable for purposes of
+reporting on the length of time to conduct pre-award contracting activities.
+We also interviewed knowledgeable officials at the Office of the Deputy
+Assistant Secretary of Defense for Energy, which is part of the Office of
+the Assistant Secretary of Defense for Sustainment (ASD(Sustainment)),
+DLA Energy, the military departments, installations, and the contractors
+providing utility services. We selected a non-generalizable sample of
+three military installations with completed utilities privatization projects to
+gather information about the factors that affect the time to complete the
+pre-award contracting process. The selection was based on
+characteristics such as the fiscal year the contract was awarded and the
+number and type of utility systems privatized. We visited the following
+military installations: (1) Naval Air Station Key West, Florida; (2) Wright-
+Patterson Air Force Base, Ohio; and (3) Fort Riley, Kansas. The results of
+this selection are not generalizable to all utility services contracts or
+military installations, but provide insights and illustrative examples
+regarding factors that affect timing in the contract award process used to
+privatize utility systems.
+
+To determine the extent to which DOD demonstrated leading practices
+identified by GAO and others for collecting and disseminating lessons
+learned, we compared DOD’s activities related to lessons learned to
+leading practices we identified in prior work. 2 We analyzed DOD’s lessons
+
+
+1DLA Energy’s responsibilities as a contracting agent are generally found in agency-level
+memorandums of agreement for contracting support.
+2GAO, Federal Real Property Security: Interagency Security Committee Should Implement
+a Lessons-Learned Process, GAO-12-901 (Washington, D.C.: Sept. 10, 2012); and
+Project Management: DOE and NNSA Should Improve Their Lessons Learned Process
+for Capital Asset Projects, GAO-19-25 (Washington, D.C.: Dec. 21, 2018). GAO-19-25
+identified some lessons-learned practices from reports by both the Project Management
+Institute and the Department of the Army, Combined Arms Center, Center for Army
+Lessons Learned. Project Management Institute, Inc., A Guide to the Project Management
+Body of Knowledge (PMBOK® Guide), Sixth Edition, 2017; Project Management Institute,
+Inc., Implementing Organizational Project Management: A Practice Guide, First Edition,
+2014; and Center for Army Lessons Learned, Establishing a Lessons Learned Program:
+Observations, Insights, and Lessons (Fort Leavenworth, KS: June 2011).
+
+
+
+
+Page 3                                               GAO-20-104 DOD Utilities Privatization
+                          learned documentation including: military department and DLA Energy
+                          contracting process, policies, procedures, and operating manuals; DLA
+                          Energy’s utilities privatization website; Air Force and Navy utilities
+                          privatization handbooks; and the Air Force’s lessons learned database.
+                          Based on our analysis, we assessed whether DOD fully, partially, or did
+                          not demonstrate the leading practices. We also interviewed officials from
+                          these organizations, obtained and analyzed documents, and attended the
+                          2019 DLA Energy Worldwide Energy Conference to gain an
+                          understanding about utilities privatization. Appendix I has more details on
+                          our scope and methodology.
+
+                          We conducted this performance audit from March 2019 to April 2020 in
+                          accordance with generally accepted government auditing standards.
+                          Those standards require that we plan and perform the audit to obtain
+                          sufficient, appropriate evidence to provide a reasonable basis for our
+                          findings and conclusions based on our audit objectives. We believe that
+                          the evidence obtained provides a reasonable basis for our findings and
+                          conclusions based on our audit objectives.
+
+
+Background
+Utilities Privatization   The military departments have been privatizing utility systems at military
+Authorities               installations since 1988. In 1997, Congress provided the military
+                          departments permanent statutory authority, codified at 10 U.S.C. § 2688,
+                          as amended, to convey, or privatize, utility systems under military
+                          jurisdiction, such as those on military installations. 3 The authority defines
+                          a utility system as a system for the generation and supply of electric
+                          power; the treatment or supply of water; the collection or treatment of
+                          wastewater; and the supply of natural gas, among others. When
+                          privatizing a utility, the Secretary of a military department makes a
+                          decision to convey a system to a private or public entity, and then a utility
+                          services contract is awarded. Figure 1 shows examples of common utility
+                          systems found on military installations.
+
+
+
+
+                          3National Defense Authorization Act for Fiscal Year 1998, Pub. L. No. 105-85, § 2812
+                          (1997), codified as amended at 10 U.S.C. § 2688. Additionally, since 1988, the military
+                          departments have used other authorities for specific utilities privatization efforts. For
+                          example, the Army had privatized some systems after obtaining congressional authority
+                          for each specific case.
+
+
+
+
+                          Page 4                                               GAO-20-104 DOD Utilities Privatization
+Figure 1: Types of Utility Systems Privatized on Military Installations
+
+
+
+
+                                           Page 5                         GAO-20-104 DOD Utilities Privatization
+A utility system includes the associated equipment, fixtures, and
+structures, as well as easements and rights-of-way. 10 U.S.C. § 2688
+states that the Secretary of a military department may convey a utility
+system, or part of a system, to a municipal, private, regional, district, or
+cooperative utility company or other entity. DOD’s policy states that the
+military departments may maintain ownership of utility systems and
+decide not to privatize them for security reasons, or when privatization is
+determined to be uneconomical. 4 According to officials, once DOD
+conveys a utility system and awards a contract for utility services, the
+contractor is responsible for replacing, repairing, and maintaining the
+associated equipment and structures as needed. Figure 2 provides
+photos of the before and after condition of a privatized utility system
+component at Fort Riley, Kansas where the electrical system was
+modernized to replace analog monitoring equipment with digital
+equipment.
+
+
+
+
+4During the period covered by our review, Department of Defense Instruction 4170.11,
+Installation Energy Management, Encl. 3 (Mar. 16, 2016) was in effect until superseded by
+Department of Defense Instruction 4170.11, Installation Energy Management, Encl. 3
+(Dec. 11, 2009 (Incorporating Change 2, Aug. 31, 2018)). Enclosure 3, Sec. 3e, Utilities
+Privatization, has since been superseded by Under Secretary of Defense for Acquisition &
+Sustainment, Supplemental Guidance for the Utilities Privatization Program (Feb. 7,
+2019). In the past, DOD has said that a system might be exempted from privatization for
+security reasons in situations where non-federal ownership would create an unacceptable
+risk to a military department’s mission or compromise classified operations or property. A
+system was deemed uneconomical to privatize only when there is a demonstrated lack of
+market interest or when the costs to the government exceed the benefits. Deputy
+Secretary of Defense, Department of Defense Reform Initiative Directive #49 – Privatizing
+Utility Systems, Attachment (Dec. 23, 1998).
+
+
+
+
+Page 6                                              GAO-20-104 DOD Utilities Privatization
+                          Figure 2: Electrical Panel on a Military Installation before (left) and after (right) the
+                          Utility System was Privatized
+
+
+
+
+Utilities Privatization   The Office of the ASD(Sustainment), within the Office of the Secretary of
+Program Management        Defense, develops policies for and oversees DOD’s utilities privatization
+                          program. There are two main sources of DOD policy for utilities
+                          privatization—a DOD instruction on energy management at the
+                          installation level and a supplemental guidance specific to utilities
+                          privatization. During the period covered by our review, the instruction
+                          directed the military departments to attempt to privatize all utility systems,
+                          unless the Secretary of the military department determines that the
+                          system is exempt from privatization for security or economic reasons. In
+                          February 2019, DOD released supplemental guidance, which, among
+                          other things, superseded the relevant portions of the instruction (and
+                          cancelled prior supplemental guidance), and did not include a preference
+                          for privatization or the direction to complete privatization decisions on all
+                          covered utility systems. Instead, utilities privatization may now be
+                          performed at the discretion of the military departments. 5
+
+                          The military departments have the responsibility for program
+                          implementation, as the statutory authority to privatize utility systems is
+                          granted to the Secretaries of the military departments. As such, the
+                          military departments determine which systems will be privatized and
+
+                          5Office of the Under Secretary of Defense for Acquisition and Sustainment Memorandum,
+                          Supplemental Guidance for the Utilities Privatization Program (Feb. 7, 2019). According to
+                          this guidance, changes were made to account for alternative financing options for
+                          infrastructure improvements, among other things.
+
+
+
+
+                          Page 7                                               GAO-20-104 DOD Utilities Privatization
+                                                        which systems may be exempted from privatization. Once a military
+                                                        department begins to consider an installation for privatization, the
+                                                        installation command assists and facilitates in carrying out the
+                                                        privatization effort. According to officials, DLA Energy is the contracting
+                                                        agent for the majority of privatized utility services contracts awarded on
+                                                        behalf of the Army since 2004 and for the Air Force since 2008. Navy
+                                                        officials noted that NAVFAC is the contracting agent and administrator for
+                                                        the Navy and Marine Corps privatized utility services contracts.
+
+                                                        As of December 2019, the military departments have privatized roughly a
+                                                        quarter of the utility systems on military installations (614 of the 2,590
+                                                        systems); roughly a third of the systems were already owned by entities
+                                                        other than the federal government (733 of 2,590) (see table 2).
+
+Table 2: Status of Department of Defense Utilities Privatization, as of December 2019
+
+  Military department                    Privatized utility         Utility systems         Utility systems           Utility systems               Total utility
+                                                 systems            exempted from         owned by othersb               available for                systems
+                                                                      privatizationa                                    privatization
+  Army                                                 386                           0                     483                      247c                   1,116
+  Air Force                                           194d                        174                        59                     233                      660
+  Navy                                                  34                        489                      191                      100                      814
+  Total                                                614                        663                      733                      580                    2,590
+Source: Department of Defense. I GAO-20-104
+                                                        a
+                                                            Military departments may determine not to privatize utility systems for economic or security reasons.
+                                                        b
+                                                         Utility systems owned by others include systems that were built and are maintained by an entity
+                                                        other than the United States government.
+                                                        c
+                                                            Defense Logistics Agency Energy owns 16 utility systems located on Army installations.
+                                                        d
+                                                         Includes one Wisconsin Air National Guard utility system privatized during fiscal years 2016 through
+                                                        2018.
+
+
+                                                        As reflected in the table, the military departments have identified 580
+                                                        utility systems that are available for future utilities privatization. As of
+                                                        September 2018, DLA Energy reported that it had 18 ongoing utilities
+                                                        privatization efforts—12 for Army and six for Air Force. Also, the Navy
+                                                        noted that it has three ongoing utilities privatization efforts. According to
+                                                        Air Force and Navy officials, their departments took a “strategic pause” on
+                                                        new utilities privatization efforts in 2015 to determine if privatization is the
+                                                        best option for recapitalizing their deteriorating utility systems. The Navy
+                                                        and Air Force resumed new utilities privatization efforts in fiscal year 2017
+                                                        and fiscal year 2019, respectively. DLA Energy will act as contracting
+                                                        agent for the Navy on a pilot basis, as well as continuing to do so for the
+                                                        Army and Air Force for future contract awards.
+
+
+
+                                                        Page 8                                                         GAO-20-104 DOD Utilities Privatization
+DOD’s Contracting                       The process for privatizing a utility system culminates in two actions: the
+Process                                 award of a utility services contract and conveyance of the physical assets
+                                        of the utility from the military department to the awardee. Once the
+                                        military department has decided to consider privatizing a utility system at
+                                        an installation, the department initiates efforts to award one or more utility
+                                        services contracts. This contracting process is governed by federal
+                                        statutes, the Federal Acquisition Regulation (FAR), the DOD and military
+                                        department supplements to the FAR, and military department and agency
+                                        guidance. For example, DOD is generally required to award utility
+                                        services contracts using competitive procedures, but can award contracts
+                                        through other than competitive procedures when authorized by an
+                                        exception, which we refer to as non-competitive. 6 Figure 3 depicts the five
+                                        phases of the pre-award contracting process identified by GAO.
+
+Figure 3: Five Phases of the Pre-Award Contracting Process Identified by GAO
+
+
+
+
+                                        •   Acquisition Planning: Acquisition planning includes developing
+                                            requirements, preparing cost estimates, and conducting market
+                                            research to determine market interest, among other activities. 7 For
+                                            utilities privatization efforts, requirements also include the inventory of
+                                            equipment—such as pipes, valves, and wires—and structures
+                                            associated with the utility system. For privatized utility services
+                                            contracts this phase begins with the decision to consider the
+                                            privatization of utilities at a given installation and generally ends with
+                                            the approval of an acquisition strategy.
+
+                                        610 U.S.C. § 2688(b); 10 U.S.C. § 2304; and Federal Acquisition Regulation (FAR) part 6.
+
+                                        7For additional information, see GAO, Service Contracts: Agencies Should Take Steps to
+                                        More Effectively Use Independent Government Cost Estimates, GAO-17-398
+                                        (Washington, D.C.: May 17, 2017); Market Research: Better Documentation Needed to
+                                        Inform Future Procurements at Selected Agencies, GAO-15-8 (Washington, D.C.: Oct. 9,
+                                        2014); and Acquisition Planning: Opportunities to Build Strong Foundations for Better
+                                        Services Contracts, GAO-11-672 (Washington, D.C.: Aug. 9, 2011).
+
+
+
+
+                                        Page 9                                              GAO-20-104 DOD Utilities Privatization
+•   Solicitation: Military departments may solicit offers from prospective
+    contractors by issuing a request for proposals. The request for
+    proposals informs the prospective contractors of the government’s
+    requirements, the anticipated terms and conditions that will apply to
+    the contract, the information required in a proposal, and the factors
+    used to evaluate proposals and their relative importance. Those who
+    wish to respond must submit their proposal to the contracting office in
+    the time and manner stated in the request for proposals. We consider
+    the solicitation phase to begin with solicitation issuance and end at the
+    deadline to submit the initial proposals, although the solicitation can
+    be amended later and proposals revised.
+•   Initial Evaluation: Proposal evaluation is an assessment of the
+    proposals based on stated evaluation factors and the offerors’ ability
+    to perform the prospective work successfully. For example, proposals
+    undergo technical evaluation to determine offerors’ ability to meet the
+    technical requirements and cost or price evaluation to determine
+    whether the price is fair and reasonable. We consider the initial
+    evaluation phase to begin when potential offerors submit initial
+    proposals and end once government contracting personnel receive
+    approval to enter into negotiations or discussions.
+•   Discussion/Negotiation: Negotiations are exchanges, in either a
+    competitive or non-competitive environment, between the government
+    and offerors that are undertaken with the intent of allowing the offerors
+    to revise proposals and obtaining the best value for the government.
+    Negotiations allow, among other things, the offerors to address any
+    government concerns with the proposals. We consider this phase to
+    begin when the contracting officer receives approval to enter into
+    negotiation and end when contracting personnel receive approval to
+    award the contract.
+•   Contract Award: We consider the contract award phase to begin
+    when the approval to award the contract is given and to end when the
+    contracting officer signs the contract. In utilities privatization, as a part
+    of the contract award phase, the Secretary of the military department
+    makes a decision to convey the utility systems after the awardee has
+    been selected.
+While the utilities privatization process must comply with relevant statutes
+and regulations, it has certain unique attributes. 8 According to DLA
+Energy and military department officials, installations must conduct a
+thorough inventory of the physical assets associated with the utility
+8The specific regulations that pertain to the acquisition of utility services are under FAR
+Part 41 and Defense Federal Acquisition Regulation Supplement Part 241.
+
+
+
+
+Page 10                                                GAO-20-104 DOD Utilities Privatization
+                        system (e.g., linear feet of water pipes and location, number and location
+                        of gas valves, and the number and location of lift station pumps) as well
+                        as the system’s workload data to inform the requirements document. This
+                        is due to the fact that ownership of these physical assets will convey—
+                        i.e., be legally transferred—to the contractor after contract award.
+                        Conveyance from the military installation to a regulated public sector
+                        utility, such as a municipal water and wastewater authority, requires
+                        additional approval from the state’s utility regulatory commission. Finally,
+                        privatized utility services contracts are generally long-term, up to 50 years
+                        in some cases. According to DLA Energy and military department
+                        officials, these factors affect the consideration of requirements and
+                        structure of the utilities privatization process in a way not normally found
+                        in standard contracts and can affect the time required for discussions and
+                        negotiations.
+
+Leading Practices for   The use of lessons learned is a principal component of an organizational
+Lessons Learned         culture committed to continuous improvement. Through lessons learned,
+                        DOD can continuously look for ways to make improvements to the utilities
+                        privatization program to shorten the time to award and enhance
+                        effectiveness and efficiency. Collecting and sharing lessons learned serve
+                        to communicate knowledge more effectively and to ensure that beneficial
+                        information is factored into planning, work processes, and activities. This
+                        process also provide a powerful method of sharing ideas for improving
+                        work processes, facility or equipment design and operation, quality, and
+                        cost-effectiveness. Leading practices of a lessons learned process
+                        identified by GAO and others include collecting, analyzing, validating,
+                        saving or archiving, and disseminating and sharing information and
+                        knowledge gained on positive and negative experiences. 9 Figure 4 shows
+                        this process.
+
+
+
+
+                        9GAO-12-901 and GAO-19-25.
+
+
+
+
+                        Page 11                                      GAO-20-104 DOD Utilities Privatization
+Figure 4: Leading Practices of a Lessons Learned Process
+
+
+
+
+Prior GAO Work                          Since 2005, we have issued four reports that assessed various aspects of
+                                        DOD’s utilities privatization efforts:
+
+                                        •   In May 2005, we identified several management weaknesses in
+                                            DOD’s implementation of the utilities privatization program. For
+                                            example, we identified a number of concerns, such as the reliability of
+                                            the economic analyses associated with privatization decisions and the
+                                            adequacy of contract oversight. We made eight recommendations to
+                                            help ensure the reliability of economic analyses and improve the
+                                            utilities privatization guidance and procedures, among other things.
+                                            DOD non-concurred with seven recommendations and partially
+                                            concurred with one recommendation in its response to the report;
+                                            however, DOD has since implemented all but one recommendation. 10
+                                        •   In September 2006, we reported that DOD’s progress in implementing
+                                            the utilities privatization program had been slower than expected and
+                                            management concerns remained. 11 For example, the targeted time
+                                            frame for program implementation was delayed by 6 years and
+
+                                        10GAO, Defense Infrastructure: Management Issues Requiring Attention in Utility
+                                        Privatization, GAO-05-433 (Washington, D.C.: May 12, 2005). The one recommendation
+                                        DOD did not implement was to revise the guidance for preparing economic analyses.
+                                        11GAO, Defense Infrastructure: Actions Taken to Improve the Management of Utility
+                                        Privatization, but Some Concerns Remain, GAO-06-914 (Washington, D.C.: Sept. 5,
+                                        2006).
+
+
+
+
+                                        Page 12                                             GAO-20-104 DOD Utilities Privatization
+    concerns remained about the reliability of economic analyses used to
+    support privatization decisions. We made seven recommendations to
+    improve DOD’s management of utilities privatization. DOD generally
+    concurred with and implemented six of these recommendations. 12
+•   In July 2015, we identified that DOD faces challenges in implementing
+    utility resilience efforts, such as collecting and reporting
+    comprehensive utility disruption data, and developing cybersecurity
+    policies for its industrial control systems. 13 We made four
+    recommendations to clarify utility disruption reporting guidance,
+    improve data validation steps, and address challenges to
+    cybersecurity industrial control systems. DOD concurred or partially
+    concurred with all but one recommendation and implemented three
+    recommendations.
+•   In September 2018, we reported that DOD lacked guidance to
+    develop performance metrics and implement cybersecurity
+    requirements for privatized utility services contracts. 14 We made two
+    recommendations to provide guidance for development of metrics to
+    track utilities privatization contract performance, and what constitutes
+    covered defense information as it related to utility services contracts.
+    DOD concurred with and implemented both recommendations.
+Concerns about the length of time to award contracts are not limited to
+utilities privatization. For example, in July 2018, we reported that although
+DOD proposed reducing the time it takes to award weapon systems
+contracts, the department has limited understanding of how long it
+currently took and therefore lacked a baseline to measure success. We
+also found that, according to contracting officials, factors such as the
+quality of proposals, prospective offeror responsiveness to agency
+request for additional information, and complexity of the technical
+
+12GAO-06-914. The one recommendation DOD did not implement was to require each
+project’s economic analysis to include the system’s current annual costs and the actual
+expected annual cost if the system is not privatized.
+13GAO, Defense Infrastructure: Improvements in DOD Reporting and Cybersecurity
+Implementation Needed to Enhance Utility Resilience Planning, GAO-15-749
+(Washington, D.C.: July 23, 2015). The one recommendation DOD did not implement was
+to revise the data collection template instructions to include reporting of disruptions
+caused by DOD-owned infrastructure. In fiscal year 2015, however, Congress passed
+legislation requiring DOD to collect data on non-commercial utility outages involving DOD-
+owned infrastructure.
+14GAO, Defense Infrastructure: Guidance Needed to Develop Metrics and Implement
+Cybersecurity Requirements for Utilities Privatization Contracts, GAO-18-558
+(Washington, D.C.: Sept. 4, 2018).
+
+
+
+
+Page 13                                              GAO-20-104 DOD Utilities Privatization
+                             requirements can add or reduce the time required for evaluation of
+                             proposals. We recommended that, to assess time frames for awarding
+                             contracts, DOD should develop a strategy to determine what information
+                             it should collect and how to use that information. DOD concurred and
+                             implemented the recommendation. 15
+
+                             The time to complete the utilities privatization pre-award process
+Time to Award                generally took an average of 4 years from issuing the solicitation to
+Privatized Utility           awarding a contract for utility services for the contracts we assessed.
+                             Utilities privatization officials acknowledged that the process is lengthy,
+Services Contracts Is        but DOD does not maintain complete data on key steps in the process,
+Lengthy and Affected         including when the process to consider privatization of a utility system
+                             began and the time needed to conduct acquisition planning.
+by a Number of               Consequently, it is not possible to determine the entire time to complete
+Factors                      privatization of a utility system. In addition, the time to complete a specific
+                             utilities privatization effort may be affected by a number of factors. These
+                             factors can include changes to internal or external requirements, the
+                             technical complexity of the individual effort, the continuity of personnel
+                             involved in the effort, and command support for privatization.
+
+Time to Complete Utilities   The 21 new contracts for privatized utility services awarded from fiscal
+Privatization Is Lengthy     years 2016 through 2018 generally took an average of 4 years from the
+                             time the DOD component issued a solicitation to when the contract was
+and Data for Each Phase
+                             awarded. Utilities privatization officials acknowledged that the process is
+of the Process Is Not        lengthy. They stated that it is due, in part, to the long-term nature of the
+Available                    contracts—that can be up to 50 years—and the complexity of the
+                             contracts. The entire pre-award contracting process could be longer, as
+                             we found that, with the exception of the one Navy-awarded contract we
+                             reviewed, DOD does not maintain complete data for every phase of the
+                             process. The data DOD does not maintain includes key events in the
+                             acquisition planning phase, specifically, when the military departments
+                             began considering privatizing a specific utility and when the requirements
+                             packages—a complete inventory of the associated infrastructure, such as
+                             pipes, wires, and valves—were available to use in the solicitation. Table 3
+                             presents the available information on the average time to complete the
+                             five phases of the pre-award contracting process identified by GAO for
+                             the contracts we assessed.
+
+
+
+
+                             15GAO, Defense Contracts: DOD Should Develop a Strategy for Assessing Contract
+                             Award Time Frames, GAO-18-467 (Washington, D.C.: July 16, 2018).
+
+
+
+
+                             Page 14                                          GAO-20-104 DOD Utilities Privatization
+Table 3: Average Time for Privatized Utility Services Contracts Awarded from Fiscal Years 2016 through 2018 by Contracting
+Agent
+
+                                                                  Average Time to Complete Contracting Pre-award Phases (months)
+  Contracting             Number of            Acquisition           Solicitation             Initial   Discussion/       Contract           Total     Solicitation
+  agent                    contracts             planning                                evaluation     negotiation         award                        to award
+  Defense                             19           Data not                       7.2           14.0             22.5            1.2     Data not               44.9
+  Logistics                                       availablea                                                                             available
+  Agency Energy
+  (DLA Energy)
+  Naval Facilities                      1                   7.5                47.8b             Not             40.2            4.4          99.9             92.4b
+  Engineering                                                                             applicable
+  Command
+  (NAVFAC)
+  Air National                          1           Data not                      0.7      Data not         Data not             4.9     Data not                 5.6
+  Guard                                             available                              available        available                    available
+Sources: GAO analysis of DLA Energy, NAVFAC, and Air National Guard data. | GAO-20-104
+                                                              a
+                                                               According to DLA Energy officials, the military departments are generally responsible for tracking of
+                                                              the dates in this phase.
+                                                              b
+                                                               DOD officials disagreed with our calculations of the time required to privatize the wastewater system
+                                                              at Naval Air Station Key West. DOD officials noted that it took a 30-month pause during the
+                                                              solicitation phase after the State of Florida extended the date by which the installation needed to
+                                                              comply with new wastewater regulations. During this 30-month pause, the Navy evaluated alternative
+                                                              paths to comply with these regulations and therefore did not allow any additional work to be
+                                                              accomplished towards contract award. After determining that privatizing the utility system remained
+                                                              the most effective approach, however, the Navy resumed evaluating revised proposals that had been
+                                                              received in response to the amended original solicitation. As such, we consider Florida’s extension
+                                                              and the resulting pause to be an example of an external factor that can affect the time needed to
+                                                              privatize utilities at military installations.
+
+
+                                                              As indicated in table 3, even after excluding the time needed to conduct
+                                                              acquisition planning, there is wide variation in the average time taken
+                                                              from when contracting officials issued the solicitation to when they
+                                                              awarded the privatized utility services contracts. For example, NAVFAC
+                                                              took more than 92 months—or more than 7 years—to award its contract
+                                                              to privatize the Naval Air Station Key West wastewater system. The total
+                                                              time required to award the contract included a 30-month period during
+                                                              which the privatization effort was paused to evaluate alternative paths to
+                                                              meet new Florida wastewater regulations. Navy officials stated that our
+                                                              timeline should not include the 30-month period because the pause did
+                                                              allow any additional work to be accomplished to prepare for contract
+                                                              award. After determining that privatizing the utility system remained the
+                                                              most effective approach, however, the Navy resumed evaluating revised
+                                                              proposals that had been received in response to the amended original
+                                                              solicitation. DLA Energy took, on average, about 45 months—or nearly 4
+                                                              years—to privatize utility systems and make awards for the 19 contracts it
+                                                              was responsible for. In contrast, the Air National Guard awarded a non-
+
+
+
+                                                              Page 15                                                     GAO-20-104 DOD Utilities Privatization
+competitive contract to privatize the wastewater system at Truax Field in
+Wisconsin to a local utility provider in about 6 months. However,
+according to Air National Guard officials, the local utility provider already
+maintained the infrastructure for the installation and had previously
+conducted an assessment of the installation wastewater system used to
+finalize the privatization requirements. While Air National Guard officials
+could not provide a date as to when they began to consider utilities
+privatization, they stated that they spent more than 70 months in
+acquisition planning before issuing the solicitation due, in part, to
+unfamiliarity with the utilities privatization process.
+
+While no provision of the regulations or policies governing utilities
+privatization that we reviewed require DOD contracting activities to collect
+data on the time to complete each phase of the pre-award process, since
+2014, DLA Energy officials have attempted to maintain such data for all
+the contracts for which they were the contracting agent. However, DLA
+Energy did not maintain data for the completion of milestones within the
+acquisition planning phase carried out by the military departments. In
+2014, DLA Energy officials, with input from Army and Air Force utilities
+privatization officials, established milestones to plan and monitor key pre-
+award contracting activities, including a target time to complete each
+milestone. DLA Energy and military department officials noted that these
+data help provide insight into, and accountability for, the progress made
+or challenges encountered during the pre-award process. However, the
+usefulness of these data are limited because the military departments
+must provide time frames for the front end of the process and have not
+done so. We found that a number of factors can affect the time to
+complete pre-award contracting activities, but for the purpose of
+establishing milestones to monitor these activities, DLA Energy varied the
+number of milestones and time frames to complete specific activities
+depending on whether the contract was competitively awarded and the
+number of proposals received. While table 3 shows the average time it
+took to complete pre-award phases by contracting agent for the contracts
+in our audit scope, figure 5 shows the milestones used by DLA Energy for
+competitive and non-competitive awards and the target time frames DLA
+Energy established for each milestone.
+
+
+
+
+Page 16                                       GAO-20-104 DOD Utilities Privatization
+Figure 5: DLA Energy Utilities Privatization Milestones and Time Frames for Phases of Pre-award Contracting Process
+
+
+
+
+                                         Page 17                                         GAO-20-104 DOD Utilities Privatization
+DLA Energy officials noted that the time frames for the first three steps in
+the process—determining that one or more utility systems on an
+installation should be considered for privatization through when the
+military department provides DLA Energy a complete requirements
+package—are determined by the military departments. The military
+departments have not established target time frames for these activities,
+but have taken steps to understand factors that affect the time frames,
+which we discuss later in this report.
+
+DLA Energy and military department officials noted that despite the
+limitations in the data, this information has helped them provide better
+management oversight of the process. A DLA Energy official stressed
+that the target time frames are meant to improve contract award time
+frames, incentivize performance, and provide accountability, and that they
+do not expect every contract to meet targets due to the complex nature of
+utilities privatization. Nevertheless, DLA Energy and military department
+officials stated that implementation of the milestones helped reduce the
+amount of time needed to award privatized utility services contracts. Our
+analysis of the 18 competitive utility services contracts awarded by DLA
+Energy from fiscal years 2016 through 2018 indicates that the average
+time from receipt of requirements to contract award has decreased. For
+example, our analysis indicated that DLA Energy took an average of
+nearly 61 months from receipt of requirements to competitively award
+eight contracts related to solicitations issued prior to 2014. Once the
+milestone tracking process was initiated in 2014, our analysis indicates
+that DLA Energy took an average of about 35 months from receipt of
+requirements to competitively award 10 privatized utility services
+contracts (see fig. 6).
+
+
+
+
+Page 18                                      GAO-20-104 DOD Utilities Privatization
+Figure 6: Length of Time from Receipt of Requirements to Award for Defense Logistics Agency Energy Competitive Privatized
+Utility Services Contracts (in months)
+
+
+
+
+                                        Note: The figure does not reflect seven solicitations issued between fiscal years 2013 and 2018.
+                                        These seven solicitations had not resulted in an award as of September 30, 2018. The awards or
+                                        projected awards of the remaining solicitations generally follow the trend shown in this analysis.
+
+
+                                        Of the 10 privatized utility services contracts DLA Energy awarded since
+                                        the process was initiated in 2014,
+
+                                        •    two met or exceeded DLA Energy’s target time frame;
+                                        •    six were awarded within 6 months of the target time frame; and
+                                        •    two were awarded over a year longer than the target time frame.
+
+Multiple Factors Affected               DLA Energy and military department officials identified several factors
+Length of Time to Award                 that, individually or collectively, could affect the time to award a privatized
+                                        utility services contract. These factors include the extent to which internal
+Privatized Utility Services
+                                        or external requirements remain stable, the technical complexity of the
+Contracts                               privatization efforts, the continuity of personnel involved in the effort, and
+                                        command support for privatization.
+
+                                        •    Changes to Internal or External Requirements. According to a
+                                             utilities privatization official we interviewed, unexpected changes to
+                                             requirements may affect the time to award a utility services contract.
+
+
+
+                                        Page 19                                                     GAO-20-104 DOD Utilities Privatization
+    For example, Navy officials stated that Naval Air Station Key West
+    initiated efforts to privatize its wastewater treatment facilities in August
+    2007 to meet new Florida wastewater regulations by the compliance
+    deadline of July 2010. A Navy installation official stated that they
+    determined that they would be challenged to meet the new regulations
+    with existing facilities and could not upgrade those facilities to meet
+    the new standards due to inadequate personnel and funding. After the
+    Navy issued the original wastewater solicitation in March 2008, the
+    state extended the required compliance date to December 2015. As a
+    result, installation and Navy officials reconsidered utilities privatization
+    and assessed whether the extended deadline would allow them to
+    reach compliance without privatization. After evaluating alternative
+    paths of action to ensure compliance with the new Florida wastewater
+    regulations, installation and Navy officials determined it remained in
+    the best interest of the installation to proceed with the solicitation and
+    contract award.
+    Wright-Patterson Air Force Base officials stated that after they issued
+    their solicitation for privatization of water systems, installation officials
+    discovered that two of the wells were contaminated by firefighting
+    foam. This foam, used to extinguish aircraft fires, contained chemicals
+    which washed off runways and seeped into the groundwater.
+    According to installation officials, concentrations of these chemicals
+    exceeded non-regulatory lifetime health advisory levels, prompting the
+    installation to remove the chemicals before distributing the water for
+    use on base. To address the problem immediately, installation officials
+    reported that they engaged with the Air Force Civil Engineer Center to
+    fund a project to modify the existing water treatment plant to remove
+    the chemicals before distributing the water for use; they could not wait
+    for the award of the utility services contract. Installation officials stated
+    the modification to the water treatment plant included the construction
+    of a building to house a large filtration system to remove the
+    contaminant. These officials also stated the modified water treatment
+    plant was then included in the requirements package for the utilities
+    privatization effort.
+    DLA Energy officials stated that a change to the requirements
+    included in utilities privatization efforts was a frequent occurrence. As
+    this information is central to determining the technical requirements
+    and the cost estimate, changes to an inventory can affect the length of
+    time spent in acquisition planning and in discussions and negotiations.
+    Army officials stated that completion of the list of inventory to be
+    privatized is a time-consuming process as records of the amount of
+    pipes, valves, wires, facilities, or other items is often incomplete. Army
+    and Air Force officials indicated that often multiple surveys of
+
+
+
+Page 20                                        GAO-20-104 DOD Utilities Privatization
+    inventory are conducted by both the military departments and the
+    contractor selected to maintain the utility system to finalize
+    requirements. Officials reported that this is because, in part, a final
+    and complete inventory is required so that after award the government
+    can finalize the bill of sale and convey those systems to the utility
+    services contract(s) provider(s).
+•   Technical Complexity. According to utilities privatization officials, the
+    technical complexity of the utilities privatization effort can also affect
+    how long it takes to award a utility services contract. At Fort Riley,
+    DLA Energy officials, installation officials, and contractor
+    representatives shared with us that the complexity of the regulated
+    environment of some utilities had an effect on the time to award. For
+    example, a contractor representative stated his regulated utility
+    company was one of the potential contractors vying for a utility
+    services contract at Fort Riley, and this required additional approval
+    from the state’s utility regulatory commission. DLA Energy officials
+    stated and the contractor representative stated that this additional
+    complexity led to a prolonged negotiation and discussion effort as his
+    company sought additional information about the asset inventory to
+    create what it perceived to be a quality proposal for both the utility
+    services contract and its utility regulatory commission. Our analysis of
+    DLA Energy data found that for the majority of the contracts, the
+    discussion/negotiation phase required the longest amount of time
+    during the pre-award contracting process. The time to award for this
+    utility system took one year longer than other utility systems privatized
+    on the same installation.
+•   Continuity of Personnel. Utilities privatization officials we
+    interviewed stated that the continuity of personnel involved in the
+    process is critical to awarding a contract in a timely manner. For
+    example, at Naval Air Station Key West, officials told us that staff
+    turnover was prevalent at all levels multiple times during the utilities
+    privatization process. These officials noted this turnover was due, in
+    part, to the isolated location of the installation, which made it difficult
+    to recruit and retain both civilian and military staff. They also noted
+    that in turn, this turnover of staff led to loss of knowledge and
+    dispersion of data. During our visit, we observed that installation staff
+    had difficulty locating documentation and had limited knowledge of
+    what occurred during the pre-award contracting process at the
+    installation. Officials explained that this was due, in part, to the loss of
+    some documentation due to flooding and the management of the
+    process by other commands. In contrast, installation and contracting
+    officials at Fort Riley stated that there was no turnover in the
+    installation staff during the pre-award contracting process and no
+
+
+
+Page 21                                        GAO-20-104 DOD Utilities Privatization
+    turnover in the DLA Energy contracting staff once they took
+    responsibility for administering the utility services contracts. Officials
+    at Fort Riley stated that with continuity of staff, knowledge and
+    working relationships were built and maintained. DLA Energy awarded
+    utility services contracts for three utility systems in a comparatively
+    quick time frame compared to the other contracts in our analysis.
+•   Command Support for Privatization. Utilities privatization officials
+    stated that the support of the installation’s command leadership can
+    facilitate award of a utility services contract. For example, officials at
+    Fort Riley said the installation commander and director of public works
+    department fully supported utilities privatization as the solution to the
+    installation’s failing utility systems. These officials noted that due to
+    this desire to privatize utility systems, the senior installation leadership
+    openly communicated its goals and support of privatization throughout
+    the pre-award contracting process. For example, Fort Riley officials
+    stated that public works department staff assigned to work on the
+    utilities privatization effort were sequestered or removed from all other
+    assigned responsibilities. Installation officials stated this allowed the
+    employees to focus on the utilities privatization tasks. According to
+    Fort Riley officials, this leadership support was a factor in reducing the
+    time to contract award. According to our analysis, the utility services
+    contracts for Fort Riley were awarded more quickly than the majority
+    of the utility services contracts we assessed at other installations. In
+    contrast, officials at Wright-Patterson Air Force Base said their
+    leadership was reluctant to fully support utilities privatization. While
+    senior military department leadership directed the installation to
+    privatize its utility systems, installation leadership was reluctant to do
+    so due to concerns of job loss for public works department employees
+    and perceived loss of flexibility in installation operations and
+    maintenance funding. Installation officials stated that this reluctance
+    was one factor in the amount of time it took to make the contract
+    awards. According to our analysis, the contracting award process for
+    the three utility systems at that location took longer than the majority
+    of the utility services contracts we assessed at other installations.
+
+
+
+
+Page 22                                       GAO-20-104 DOD Utilities Privatization
+                                                         DOD is generally applying leading practices in its efforts to improve the
+DOD Generally                                            timeliness of the utilities privatization pre-award contracting process, but
+Demonstrated                                             is missing opportunities to analyze the effects of its changes and to better
+                                                         share the information with stakeholders. ASD(Sustainment), the military
+Leading Practices for                                    departments, and DLA Energy have taken, or plan to take, actions that
+Lessons Learned to                                       demonstrate or partially demonstrate four of the five leading practices
+                                                         identified by GAO and others. However, despite the breadth of activities
+Improve the Utilities                                    performed and planned by DOD, the department lacks key data it needs
+Privatization Pre-                                       for further analysis and validation of the pre-award contracting process as
+                                                         well as a repository for archiving lessons learned for future stakeholders
+award Process, but                                       to access.
+Lacks Key Data and                                       ASD(Sustainment), the military departments, and DLA Energy have taken
+Archive for Lessons                                      actions to implement lessons learned, in part, to reduce the time it takes
+                                                         to award contracts. We assessed whether these actions demonstrated,
+                                                         partially demonstrated, or do not demonstrate each of the five leading
+                                                         practices for implementation of lessons learned identified by GAO and
+                                                         others. 16 Demonstration of these leading practices is critical to ensuring
+                                                         that lessons learned endure and that processes are improved. In
+                                                         reviewing ASD(Sustainment), military department, and DLA Energy pre-
+                                                         award documentation and interviewing knowledgeable officials, we found
+                                                         that all the DOD entities fully demonstrated the third leading practice—
+                                                         which is to validate the applicability of lessons—and demonstrated three
+                                                         other leading practices to varying degrees. None of these entities,
+                                                         however, demonstrated the store and archive leading practice (see table
+                                                         4).
+
+Table 4: GAO Assessment of DOD’s Demonstration of Leading Practices for Lessons Learned in Pre-award Activities
+
+ Leading practice                               Office of the Assistant Secretary   Army    Navy       Air Force     Defense Logistics
+                                                  of Defense for Sustainment                                          Agency Energy
+ Collect information                                           ◓                       ◓      ●           ◓                   ◓
+ Analyze information                                           ◓                       ●      ●           ●                   ●
+ Validate applicability of lessons                             ●                       ●      ●           ●                   ●
+ Store and archive lessons                                     ○                       ○      ○           ○                   ○
+ Disseminate and share lessons                                 ◓                       ◓      ◓           ◓                   ●
+
+Legend:
+● = fully demonstrated means met all of the criteria.
+◓ = partially demonstrated means met part of the criteria.
+○ = not demonstrated means met none of the criteria.
+Source: GAO analysis of DOD information. l GAO-20-104
+
+
+                                                         16GAO-12-901 and GAO-19-25.
+
+
+
+
+                                                         Page 23                                     GAO-20-104 DOD Utilities Privatization
+Collect information. The collect information leading practice involves
+capturing information about events in the area of interest, which can be
+achieved through various methods. ASD(Sustainment), the military
+departments, and DLA Energy officials told us that they collect
+information for utilities privatization lessons learned through activities
+such as data calls, working groups, workshops, studies, conferences, and
+meetings.
+
+Specific examples of DOD demonstrating this leading practice are as
+follows:
+
+•   According to an ASD(Sustainment) official, since about 1997, their
+    office has sponsored a monthly Utilities Privatization Working Group
+    attended by representatives of the military departments and DLA
+    Energy officials. The purpose of the working group is to provide a
+    collaborative forum to adjudicate issues and share lessons learned
+    from utilities privatization activities. For example, topics of discussion
+    on the April 2019 agenda included issues or challenges associated
+    with developing an execution framework, methodologies to implement
+    utilities privatization guidance, and updates on current utilities
+    privatization activities from the military departments and DLA Energy.
+•   In 2019, ASD(Sustainment) added a requirement to its guidance for
+    an annual utilities privatization program review with each military
+    department to address portfolio lessons learned. According to
+    ASD(Sustainment) officials, their office, the military departments, and
+    DLA Energy officials plan to work together to develop a strategy for
+    complying with the guidance.
+•   According to an Army official, the Army established a tri-military
+    department annual Utilities Privatization Post-award Workshop in
+    2014 that discusses post-award issues among the military
+    departments, DLA Energy, and contractors. Each military department
+    has hosted a workshop. For example, the Navy hosted the November
+    2018 post-award workshop, which included updates by the military
+    departments and DLA Energy on their utilities privatization activities,
+    including some lessons learned.
+•   The Navy commissioned a study in 2016 to help reestablish its utilities
+    privatization program and reduce life-cycle expenditures on
+    infrastructure, including utility systems. 17 The study examined the
+    costs, benefits, and existing policies for private versus government
+
+17METRON and Booz Allen Hamilton, Facility Privatization Strategies and Cost Benefit
+Analysis Study, Final Report (2016).
+
+
+
+
+Page 24                                            GAO-20-104 DOD Utilities Privatization
+    facilities ownership and recommended changes to the Navy’s
+    processes for utilities privatization. The study led to, among other
+    things, the creation of Navy-specific utilities privatization guidance.
+    According to a Navy official, they will establish a community of
+    practice in partnership with DLA Energy to provide a quarterly forum
+    for NAVFAC officials to share lessons learned and discuss utilities
+    privatization problems and solutions.
+•   DLA Energy hosts the biannual DLA Energy Worldwide Energy
+    Conference to provide personnel of the military departments, DLA
+    Energy, and contractors the opportunity to learn from each other and
+    top industry experts on the latest trends and initiatives in energy,
+    including utilities privatization. DLA Energy also participates in the
+    annual Department of Energy Annual Energy Exchange Conference.
+    For example, in 2019 it participated in a discussion panel on utilities
+    privatization.
+These efforts to collect information and lessons learned are positive;
+however, as discussed earlier in this report, DOD lacks complete and
+consistent information on the time to award utility services contracts.
+Reducing the amount of time to award these contracts is a stated goal of
+DOD. ASD(Sustainment) issues annual data calls to the military
+departments to collect information such as the number of utility systems
+privatized by military department, the authority under which a privatization
+took place, and award dates for the utility services contracts. DLA Energy
+and military department officials indicated that collecting this information
+has contributed to efforts to reduce the amount of time needed to award
+utility services contracts. They acknowledge, however, that the military
+departments do not collect information on the formal decision to consider
+privatization of utility systems and the length of time to conduct key
+acquisition planning activities, such as developing a complete inventory of
+physical assets to document its requirements. The requirements package
+is a key component in the pre-award contracting process and includes an
+inventory of the utility system. This inventory includes items such as the
+pipes, valves, and wires that make up the utility system. Consequently,
+neither DLA Energy nor the military departments, with the exception of
+the Navy, had reliable information on the entire time it took to complete
+the pre-award contracting process. Without data on the key tasks that
+need to be completed during the pre-award contracting phase, DOD is
+missing an opportunity to assess the extent to which updated guidance,
+training, and other ongoing efforts are having an effect on the time to
+award utility services contracts. In recognition of this, an Air Force official
+stated that the Air Force Civil Engineer Center recently implemented a
+schedule-tracking mechanism to capture these dates, which will be used
+
+
+
+Page 25                                       GAO-20-104 DOD Utilities Privatization
+with all new utilities privatization efforts. Collecting this information
+consistently across all military departments would allow for a more
+thorough analysis of contracting process information and could support
+future process improvement efforts.
+
+Analyze information. The next leading practice is to analyze the
+information collected to determine root causes and identify appropriate
+actions.
+
+Examples of DOD demonstrating the information analysis leading practice
+include:
+
+•   According to DLA Energy officials, in 2014, they reviewed and
+    analyzed historical data from utility services contracts to revise the
+    utilities privatization procurement time frame. As mentioned
+    previously, this analysis led to the development of milestones and
+    associated time-based targets to achieve each milestone, based on
+    the number of proposals received, to reduce the pre-award
+    contracting process. According to a DLA Energy official, the agency
+    coordinated with its contractor support, and Army and Air Force
+    program management offices to establish the time-based targets. In
+    May 2014, the Air Force conducted a utilities privatization process
+    improvement review with DLA Energy, among others, to streamline
+    the utilities privatization process. The review allowed the Air Force to
+    reduce the planned timelines for the utilities privatization pre-award
+    contracting process, which DLA Energy administers on behalf of the
+    Air Force, between the issuance of competitive solicitations to award
+    by 14 months to 33 months. Similarly, in October 2014, the Army
+    conducted a utilities privatization process improvement review with
+    DLA Energy with a goal to reduce the time needed from issuance of a
+    competitive solicitation to award of utility services contracts to less
+    than 36 months. Army and DLA Energy officials identified
+    opportunities for process or program improvement during the review.
+    Overall, adopted changes reduced the planned timelines for the
+    utilities privatization pre-award contracting process by approximately 5
+    months to 31 months.
+•   An Air Force official stated that lessons learned are collaboratively
+    shared annually and have revealed lessons learned to improve the
+    contracting process. This has led to updates of Air Force request for
+    proposals template.
+•   The 2016 Navy study not only collected data on utilities privatization
+    but also provided analysis to understand the opportunities, costs, and
+    benefits associated with privatization. The Navy used the study to
+
+
+Page 26                                     GAO-20-104 DOD Utilities Privatization
+    enable decisions about whether privatization is the appropriate
+    strategy to reduce life-cycle expenditures on utility infrastructure. The
+    analysis performed for the study resulted in multiple products and
+    findings. For example, the Navy created an Excel-based tool to
+    consolidate utility data, organize data, and prioritize installations for
+    evaluation of the potential to privatize.
+•   ASD(Sustainment) revises its utilities privatization guidance and
+    procedures based on lessons learned and changes in laws and
+    regulations. For example, we found that DOD responded to industry
+    feedback by standardizing and clarifying request for proposal
+    templates used in utilities privatization.
+Based on our analysis, the military departments and DLA Energy fully
+demonstrated the leading practice for analyzing information, and
+ASD(Sustainment) partially demonstrated the leading practice. According
+to DOD, ASD(Sustainment) is responsible for overseeing progress
+tracking and goal setting for utilities privatization across the department.
+Therefore, analysis for performance across the department on the time it
+takes to award utility services contracts is its responsibility. As mentioned
+previously, while ASD(Sustainment) collects data on the number of utility
+systems privatized by military departments and award dates for the utility
+services contracts, it is missing information about key pre-award
+contracting activities. In the absence of this information,
+ASD(Sustainment) cannot fully analyze the department’s utilities
+privatization activities for further lessons learned to help reduce time
+frames for awarding contracts.
+
+Validate applicability of lessons. Once collection and analysis have
+identified the lessons learned, the next leading practice is to validate that
+the right lessons have been identified and determine the scope of their
+applicability. Subject matter experts or other stakeholders may be
+involved in this step of the process.
+
+Examples of DOD’s demonstration of the validation leading practice
+include:
+
+•   ASD(Sustainment) officials noted that they assess the applicability of
+    lessons by periodically revisiting and revising utilities privatization
+    guidance. These officials said they revised such guidance, for
+    example, in 2002, 2005, 2010, and 2019 to incorporate lessons
+    learned from stakeholders across the process.
+•   According to an Army official, the Army periodically assesses the
+    applicability of lessons learned by revising its utilities privatization
+
+
+Page 27                                        GAO-20-104 DOD Utilities Privatization
+    acquisition process based on the Army’s strategic direction, military
+    department meetings, and utilities privatization policy changes. This
+    included the utilities privatization acquisition process improvement
+    review with DLA Energy to reduce the time needed to award utility
+    services contracts.
+•   According to the 2016 Navy study, contractors conducted interviews
+    to validate data, obtain supplementary data, and ascertain qualitative
+    information. In addition, contractors interviewed Air Force and Army
+    utilities privatization representatives to garner lessons learned and
+    understand other DOD components’ approaches to utilities
+    privatization. One result of the study was development of a repeatable
+    methodology and framework, based on specific lessons learned, that
+    can be used to evaluate candidate sites for utilities privatization. In
+    addition, according to an official, the Navy is using the lessons
+    learned from its study to develop its new utilities privatization
+    handbook, a draft of which emphasizes the need throughout the
+    process for the collection, documentation, and sharing of lessons
+    learned to help future installations and refine the utilities privatization
+    program. According to the Navy, it plans to update the handbook on
+    an ongoing basis to reflect lessons learned from its pilot program with
+    DLA Energy, and with the Army and Air Force utilities privatization
+    programs.
+•   An Air Force official stated that over an 18-month period they
+    assessed their utilities privatization process and developed a new,
+    comprehensive utilities privatization process for pre-award contracting
+    activities. The Air Force determined the scope of the applicability of
+    lessons learned when it revised its draft utilities privatization playbook
+    to incorporate this new process.
+•   DLA Energy revised how it monitors the utilities privatization process
+    based on its analysis of historical utilities privatization data. DLA
+    Energy officials said they validated these changes by testing the
+    milestones and associated targets on a 2014 Army utility services
+    contract and found them to be reasonable. Army and Air Force
+    officials agreed with the assessment. DLA Energy officials stated that
+    they also determined the scope of the applicability of lessons learned
+    by determining to whom and what the lessons learned applied, and by
+    taking actions to continually revisit and revise its templates and
+    procedures. For example, we found that the fiscal years 2012 and
+    2016 versions of the request for proposals template reflected changes
+    for both the Army and Air Force but we could not determine if they
+    were the result of lessons learned. We also identified revisions DLA
+    Energy made to incorporate lessons learned into operating manuals it
+
+
+
+Page 28                                       GAO-20-104 DOD Utilities Privatization
+    uses for the utilities privatization process. For example, a DLA Energy
+    official noted that the agency revised its risk evaluation manual to
+    improve the quality of the risk evaluations the source selection
+    evaluation board performs.
+Store and archive lessons. The archiving of lessons learned involves
+the use of a repository, used to disseminate and share information. As
+appropriate, these repositories should have the capability to store and
+share data and to secure classified, sensitive, or proprietary data.
+Archiving lessons learned should remain an ongoing process; otherwise,
+it risks becoming cumbersome and irrelevant.
+
+Our observations on DOD’s efforts to store and archive information on
+utilities privatization include:
+
+•   According to Air Force officials, the Air Force does not currently store
+    or archive lessons learned for pre-award contracting activities. The Air
+    Force Portfolio and Asset Control and Evaluation System stores and
+    archives lessons learned for post-award contracting activities. The
+    system is available to Air Force, DLA Energy, and other stakeholder
+    agencies like the General Services Administration, but not to other
+    military departments. To populate the database, the Air Force Civil
+    Engineer Center portfolio management division uploads utilities
+    privatization documents into the system, including weekly status
+    reports, briefings, and meeting notes for post-award contracting
+    activities. The system also records lessons learned and provides a
+    social media discussion platform, known as the Contracting Officer’s
+    Representative Toolbox. Our review of the system determined that it
+    is not widely populated. Specifically, as of December 2019, the
+    system contained seven lessons learned, three discussion postings,
+    and five documents in the Toolbox. According to Air Force officials,
+    however, this system was not intended to be a repository for storing
+    and archiving lessons learned for pre-award contracting activities and
+    acknowledged that the Air Force does not currently have another
+    means to do so.
+•   According to DLA Energy officials, they do not maintain a specific
+    repository for storing and archiving lessons learned for utilities
+    privatization pre-award contracting activities but make their revised
+    templates and procedures—that they believe generally reflect key
+    lessons learned—available to stakeholders for utilities privatization on
+    a website. According to a DLA Energy official, the website is open to
+    anyone that can access DLA.mil, but most of the content is intended
+    to assist contracting officer’s representatives in conducting their post-
+    award contracting responsibilities.
+
+
+Page 29                                      GAO-20-104 DOD Utilities Privatization
+•   The Army has one key official who has managed its utilities
+    privatization program activities for many years and has a substantial
+    amount of experience and institutional knowledge. This official
+    maintains utilities privatization files in hard copy—such as guidance,
+    memorandums, and relevant studies—therefore this information is not
+    readily available to all relevant stakeholders, such as the other military
+    departments. According to the Army official, the Army does not
+    maintain a repository for storing and archiving lessons learned for
+    utilities privatization pre-award contracting activities.
+•   According to Navy officials, NAVFAC has a business management
+    system that provides for the management of business processes,
+    common practices, and process and quality improvement for NAVFAC
+    products and services. The system’s documentation is available for
+    use by all NAVFAC commands and links to applicable policies,
+    guidance, forms, and information so that work will be conducted in a
+    consistent manner. According to officials, this system is updated
+    annually or at significant process changes. However, the Navy is
+    currently developing a module for the business management system
+    for utilities privatization with an estimated completion date of March
+    2020. Navy officials stated that the module is expected to include pre-
+    award contracting lessons learned when it becomes operational.
+•   According to ASD(Sustainment) officials, they do not maintain a
+    repository for storing and archiving lessons learned for utilities
+    privatization pre-award contracting activities.
+While ASD(Sustainment), the military departments, and DLA Energy
+officials stated they incorporate lessons learned in various ways, including
+when they revise policies and/or operating manuals, these officials
+acknowledge that they do not maintain a repository for storing and
+archiving lessons learned on specific utilities privatization pre-award
+contracting efforts. DLA Energy officials, who support both the Army and
+Air Force utilities privatization efforts, stated that revisions to templates
+and guidance were sufficient to implement lessons learned. The leading
+practices for lessons learned indicate that the use of a repository to store
+lessons learned allows agencies to disseminate and share the lessons
+learned. Without such a capability, ASD(Sustainment), the military
+departments, and DLA Energy may be missing opportunities to capture
+and share lessons learned that could benefit future utilities privatization
+efforts, including helping DOD achieve its goal of reducing the length of
+time to contract award.
+
+Disseminate and share lessons. A critical step in any lessons learned
+process is the sharing and disseminating of the knowledge gained.
+
+
+
+Page 30                                      GAO-20-104 DOD Utilities Privatization
+Agencies can disseminate lessons in many ways, such as briefings,
+bulletins, reports, emails, websites, database entries, the revision of work
+processes or procedures, and training. Lessons can be “pushed,” or
+automatically delivered to a user, or “pulled,” where a user searches for
+them in an archive of lessons learned information.
+
+Examples of DOD demonstrating the disseminating and sharing leading
+practice include:
+
+•   As previously noted when discussing the collection criteria, the DOD
+    officials we spoke with told us that they distribute lessons learned
+    during annual reviews, industry conferences, regular meetings,
+    workshops, training sessions, and working groups. The lack of
+    documentation and archiving of the lessons learned, however, limits
+    the ability of future users to search for and retrieve them.
+•   DLA Energy officials stated that they share templates created for the
+    utilities privatization program with the military departments and
+    industry. According to an ASD(Sustainment) official, these users find
+    the information helpful and efficient as the templates can be
+    customized where necessary depending on the type of potential
+    contractor and solicitation and updated for lessons learned.
+    Additionally, DLA Energy revises its standard operating procedures
+    for the pre-award contracting process to incorporate lessons learned
+    and disseminate changes. DLA Energy also provides training for the
+    utilities privatization process, for example on the procedures
+    contracting officials should use to conduct negotiations and past
+    performance evaluations for utility services contracts.
+•   As previously discussed, the Air Force Portfolio and Asset Control and
+    Evaluation System is a system used to store and disseminate lessons
+    learned for the post-award utilities privatization process. While used in
+    a limited fashion, the Contracting Officer’s Representative Toolbox
+    consists of a newsfeed and a documents file. The documents section
+    allows users to save and share helpful utilities privatization documents
+    with others. The system also contains a resource center to maintain
+    updated training tools and resources for project oversight including
+    frequently asked questions, best practices, and resolutions to project
+    issues. While the system has the ability to both “push” information to
+    users and allows for users to “pull” data by acting as an archive for
+    documentation, it is not available to Army and Navy utilities
+    privatization staff and does not currently contain lessons learned on
+    the pre-award contracting process.
+
+
+
+
+Page 31                                      GAO-20-104 DOD Utilities Privatization
+                      We assessed DLA Energy as fully demonstrating, and ASD(Sustainment)
+                      and the military departments as partially demonstrating, this lessons
+                      learned criteria. While ASD(Sustainment) and military department officials
+                      do disseminate and share lessons learned, the inability of future users to
+                      search for and retrieve lessons learned limits their utility. For example, Air
+                      National Guard officials stated that they were unfamiliar with the utilities
+                      privatization process and encountered delays prior to releasing the
+                      solicitation, in part, due to the need to obtain information about how to
+                      execute the process. Having the capability for others to retrieve archived
+                      lessons learned could potentially assist future stakeholders in the process
+                      and help further shorten contracting award time frames.
+
+                      DOD is taking steps to improve the effectiveness and efficiency of the
+Conclusions           utilities privatization pre-award contracting process and these efforts have
+                      contributed to decreasing the time needed to award utility services
+                      contracts. In particular, Army and Air Force officials consistently noted
+                      that DLA Energy’s establishment of a milestone-based system to track
+                      the time to complete key steps in the pre-award contracting process in
+                      2014 has helped provide better management oversight and improve
+                      accountability. DOD, however, does not collect consistent information on
+                      the time to complete key phases needed to award utility services
+                      contracts. Specifically, DOD does not have information on when the
+                      military departments identify that one or more utility systems on an
+                      installation should be considered for privatization and when the
+                      installation delivers a completed requirements package as part of the
+                      acquisition planning phase. The lack of consistent data on these two key
+                      events may hinder DOD’s efforts to identify additional opportunities to
+                      reduce the length of time needed to award utility services contracts.
+                      Similarly, DOD recognizes the importance of collecting and disseminating
+                      lessons learned for the utilities privatization program, but currently lacks a
+                      mechanism to archive lessons learned during the pre-award contracting
+                      phase. As DOD has identified 580 utility systems that still may be
+                      privatized, having such a capability for others to retrieve archived lessons
+                      learned could potentially assist future stakeholders in the process and
+                      help further shorten contracting time frames.
+
+                      We are making two recommendations to the Secretary of Defense:
+Recommendations for
+Executive Action      The Secretary of Defense should ensure that the Assistant Secretary of
+                      Defense for Sustainment collaborates with the military departments and
+                      the Defense Logistics Agency to collect consistent information on the time
+                      to complete key steps in the pre-award contracting process for privatizing
+                      utility services. (Recommendation 1)
+
+
+                      Page 32                                      GAO-20-104 DOD Utilities Privatization
+                  The Secretary of Defense should ensure that the Assistant Secretary of
+                  Defense for Sustainment collaborates with the military departments and
+                  the Defense Logistics Agency to develop a mechanism to store and
+                  archive lessons learned regarding the pre-award contracting process for
+                  privatizing utility services. (Recommendation 2)
+
+                  We provided a draft of this report to DOD for review and comment. DOD’s
+Agency Comments   written comments are reproduced in appendix II. DOD partially concurred
+                  with both recommendations and provided technical comments, which we
+                  incorporated as appropriate.
+
+                  DOD partially concurred with our first recommendation to collect
+                  consistent information on the time to complete key steps in the pre-award
+                  contracting process for privatizing utility services. DOD suggested that we
+                  modify our recommendation to include other DOD contracting activities
+                  that may support privatization efforts. Our recommendation, based on the
+                  scope of our audit work, was intended to cover recent privatized utility
+                  services contracting activities within the military departments, such as
+                  Naval Facilities Engineering Command. But we agree that DOD should
+                  include any activity that provides support for utilities privatization in its
+                  efforts to collect better data.
+
+                  Similarly, DOD partially concurred with our second recommendation to
+                  develop a mechanism to store and archive lessons learned regarding the
+                  pre-award contracting process for privatization of utility services. DOD
+                  suggested that we modify our recommendation to include other DOD
+                  contracting activities besides DLA and to recommend that DOD add the
+                  lessons learned from the post-award contract process, as post-award
+                  contract actions play a critical role in informing pre-award contracting
+                  processes. As noted above, we agree that DOD should include any
+                  contracting activities that support pre-award utilities privatization efforts.
+                  Similarly, while our work did not specifically assess how post-award
+                  activities could be incorporated into the lessons learned efforts, we agree
+                  that doing so may provide additional insights that would benefit future
+                  utilities privatization efforts.
+
+                  In its technical comments, DOD disagreed with our presentation of the
+                  time required by the Navy to privatize utilities at Naval Air Station Key
+                  West. Specifically, DOD officials believed that we should exclude from our
+                  calculations a 30-month period that occurred during the solicitation phase
+                  in which it evaluated alternative paths to comply with new Florida
+                  wastewater regulations. DOD noted that this pause did not allow any
+                  additional work to be accomplished towards contract award. We had
+                  identified this pause and the rationale underlying the Navy’s decision to
+
+
+                  Page 33                                       GAO-20-104 DOD Utilities Privatization
+do so in the draft report. We continue to believe it is appropriate to reflect
+this period in our calculations as the Navy did not cancel the original
+solicitation and, after deciding to continue to pursue the privatization
+efforts, evaluated the offerors’ proposals that had been previously
+received prior to the pause and subsequently awarded the utility services
+contract based on that solicitation. In that regard, we consider the change
+in the date by which the Navy had to comply with Florida’s wastewater
+regulations to be a relevant example of one of the many external factors
+that can affect the time needed to privatize utilities at a military
+installation. We did, however, reflect DOD’s disagreement with our
+characterization where appropriate in the report.
+
+We are sending copies of this report to the Secretary of Defense; the
+Under Secretary of Defense for Acquisition and Sustainment; the
+Assistant Secretary of Defense for Sustainment; the Secretaries of the
+Army, Navy, and Air Force; the Director, Defense Logistics Agency;
+appropriate congressional committees; and other interested parties. This
+report will also be available at no charge on the GAO website at
+http://www.gao.gov.
+
+If you or your staff have any questions concerning this report, please
+contact me at (202) 512-4841 or by e-mail at dinapolit@gao.gov. Contact
+points for our Offices of Congressional Relations and Public Affairs may
+be found on the last page of this report. Key contributors to this report are
+listed in appendix III.
+
+
+
+
+Timothy J. DiNapoli
+Director, Contracting and National Security Acquisitions
+
+
+
+
+Page 34                                       GAO-20-104 DOD Utilities Privatization
+Appendix I: Objectives, Scope, and
+              Appendix I: Objectives, Scope, and
+              Methodology
+
+
+Methodology
+
+              A House Armed Services Committee report accompanying the National
+              Defense Authorization Act for Fiscal Year 2019 included a provision that
+              we review the Department of Defense’s (DOD) utilities privatization pre-
+              award contracting process (which includes awarding a contract), including
+              lessons learned to improve the process. This report examines (1) the
+              length of time to award contracts for utility services and factors that affect
+              it, and (2) the extent to which DOD is demonstrating leading practices to
+              collect and disseminate lessons learned for utilities privatization.
+
+              To determine the length of time to complete the pre-award contracting
+              process to award a privatized utility services contract, we focused on
+              utility services contracts awarded from fiscal years 2016 through 2018,
+              the latest full year of available data when we began our audit. The time
+              frame captured at least one privatized utility services contract for each
+              military department—Army, Air Force, and Navy. To identify these
+              contracts, we used information maintained by the Office of the Deputy
+              Assistant Secretary of Defense for Energy, which is part of the Office of
+              the Assistant Secretary of Defense for Sustainment (ASD(Sustainment))
+              on its utilities privatization master list, which includes such information as
+              installation name and location, and when the contract was awarded.
+
+              For fiscal years 2016 through 2018, a comparison of the
+              ASD(Sustainment) information and solicitation details provided by the
+              awarding contracting agents identified 28 utility systems at 15 military
+              installations that were privatized during our time frame through 21
+              contracts. Nineteen of the 21 contracts were awarded using competitive
+              procedures and the remaining two were awarded without providing for full
+              and open competition, which we refer to as non-competitive. Of the 19
+              competitive awards, 18 were awarded by the Defense Logistics Agency
+              Energy (DLA Energy), which served as the contracting agent for the
+              majority of the Army and Air Force utility services contracts during our
+              review period; and one was awarded by the Naval Facilities Engineering
+              Command, the contracting agent for the Navy and Marine Corps. The two
+              non-competitive contracts were awarded by DLA Energy and the Air
+              National Guard, respectively.
+
+              For the purposes of our review, we define the pre-award contracting
+              process as the date from when a military department begins to consider
+              privatizing an installation’s utility system(s) to the contract award date. For
+              all 21 privatized utility services contracts awarded between fiscal years
+              2016 through 2018, we obtained copies of the award documents. In
+              addition, for the 19 competitively awarded utility services contracts, we
+              conducted contract file reviews to record completion dates of pre-award
+
+
+              Page 35                                       GAO-20-104 DOD Utilities Privatization
+Appendix I: Objectives, Scope, and
+Methodology
+
+
+
+
+contracting phases and number of proposals received by utility. For the
+18 DLA Energy competitive awards, we conducted two on-site reviews of
+the contract files at a DLA Energy facility to verify the dates and
+proposals. At the final DLA Energy contract file review, one analyst
+located and recorded each relevant document and date confirming
+completion of the pre-award contracting phase, as well as the offer
+information. A second analyst verified the accuracy of the information.
+After correcting certain errors, such as incorrectly recorded dates, we
+determined that this information was sufficiently reliable for purposes of
+reporting on the length of time to conduct pre-award contracting activities.
+
+The Navy provided electronic documents for us to review for its one
+competitive award. A similar verification process was conducted for the
+Navy information. For the Air National Guard contract, we obtained the
+contract and additional information from contracting officials on the time to
+complete the pre-award contracting process. To supplement this data, we
+interviewed Air National Guard contracting officials involved in the
+contract.
+
+To compare information on the factors that affected the length of time to
+award utility services contracts, we:
+
+•   Analyzed dates of comparable events throughout the pre-award
+    contracting process found in the utilities privatization award contract
+    files; and
+•   Conducted site visits to speak with DLA Energy, installation, and
+    military department officials, and contractor representatives about
+    their experiences with the utilities privatization pre-award contracting
+    process.
+We combined a record of all utilities privatization pre-award contracting
+information into one file. We used this file to compare time to award for all
+pre-award contracting activities. This data was further compared by
+competitive and non-competitive status, contracting agent, military
+department, type of utilities in the proposals, number of utilities in the
+proposals, and the size of the installation by acreage. The size of each
+installation was found in the DOD Base Structure Report – Fiscal Year
+2017 Baseline, A Summary of the Real Property Inventory. However, due
+to the small number of contracts we assessed, we were unable to
+determine if there were any patterns to corroborate whether the factors
+such as the type of utilities in the proposals, number of utilities in the
+proposals, and the size of the installation did or did not affect time to
+contract award.
+
+
+
+Page 36                                      GAO-20-104 DOD Utilities Privatization
+Appendix I: Objectives, Scope, and
+Methodology
+
+
+
+
+To determine if there was a change in time to award after the
+implementation of DLA Energy’s 2014 time frames for pre-award
+contracting activities, we compared the time elapsed between receipt of
+requirements and award for competitively awarded privatized utility
+services contracts. The analysis does not reflect seven solicitations
+issued between fiscal years 2013 and 2018 as they were awarded, or
+were expected to be awarded after September 30, 2018, and are outside
+our audit scope. Using data obtained from DLA Energy, however, we
+determined that the awards or projected awards of these seven contracts
+generally follow the trend shown in our analysis.
+
+To gather information on the factors that affected the time from the
+decision to enter the utilities privatization process to contract award, we
+selected a non-generalizable sample of three installations to visit. The
+installations were selected from a list supplied by the Office of the Deputy
+Assistant Secretary of Defense for Energy of installations privatized from
+fiscal years 2016 through 2018. To obtain a variety of utilities privatization
+characteristics, we selected the installation visits based on the following
+criteria: (1) representation of each military department; (2) types of utility
+system privatized (electric, natural gas, water, and wastewater); (3)
+geographic location of installation; and (4) fiscal year of award. The
+contract awards for all installations visited were awarded using
+competitive procedures.
+
+Prior to our visit to the three installations, we analyzed contract file
+documentation and spoke with utilities privatization individuals at military
+department and DLA Energy headquarters. At the three installations, we
+conducted interviews with officials at the installation command, public
+works department, and contracting officials, and contractor
+representatives to obtain perspectives on their utilities privatization in
+general and specifically on the factors that affected the time to contract
+award. We conducted our non-generalizable site visits from May 2019 to
+July 2019 at (1) Naval Air Station Key West, Florida, (2) Wright-Patterson
+Air Force Base, Ohio, and (3) Fort Riley, Kansas. No Marine Corps
+installations were privatized from fiscal years 2016 through 2018. In
+addition, we spoke with contracting officials from the Air National Guard at
+Truax Field in Wisconsin. The results of this selection are not
+generalizable to all utility services contracts or military installations, but
+provide insights and illustrative examples regarding factors that affect
+timing in the contract award process used to privatize utility systems.
+
+To determine the extent to which DOD demonstrated leading practices
+identified by GAO and others for collecting and disseminating lessons
+
+
+Page 37                                       GAO-20-104 DOD Utilities Privatization
+Appendix I: Objectives, Scope, and
+Methodology
+
+
+
+
+learned, we compared DOD’s activities related to lessons learned against
+the five leading practices identified in our prior work to determine whether
+DOD demonstrated actions consistent with these practices. We then had
+a second analyst check the same documents and activities to verify our
+initial results. These leading practices for lessons learned are discussed
+in a September 2012 GAO report, Federal Real Property Security:
+Interagency Security Committee Should Implement a Lessons-Learned
+Process; and a December 2018 GAO report, Project Management: DOE
+and NNSA Should Improve Their Lessons-Learned Process for Capital
+Asset Projects. 1 We compared DOD’s lessons learned documentation,
+including the Air Force’s lessons learned database, DLA Energy’s utilities
+privatization website and operating manuals, the military departments and
+DLA Energy contracting process policies and procedures, and Air Force
+and Navy utilities privatization handbooks against these practices. Based
+on our analysis, we assessed whether DOD fully (met all of the criteria),
+partially (met part of the criteria), or did not (met none of the criteria)
+demonstrate the leading practices. To determine the actions that DOD
+has taken to learn lessons from the utilities privatization pre-award
+contracting process and demonstrate leading practices, we interviewed
+officials from ASD(Sustainment), the military departments, and DLA
+Energy; obtained and analyzed documents; and attended the 2019 DLA
+Energy Worldwide Energy Conference to gain a greater understanding of
+utilities privatization.
+
+We conducted this performance audit from March 2019 to April 2020 in
+accordance with generally accepted government auditing standards.
+Those standards require that we plan and perform the audit to obtain
+sufficient, appropriate evidence to provide a reasonable basis for our
+findings and conclusions based on our audit objectives. We believe that
+the evidence obtained provides a reasonable basis for our findings and
+conclusions based on our audit objectives.
+
+
+
+
+1GAO-12-901 and GAO-19-25
+
+
+
+
+Page 38                                     GAO-20-104 DOD Utilities Privatization
+Appendix II: Comments from the Department
+             Appendix II: Comments from the Department
+             of Defense
+
+
+of Defense
+
+
+
+
+             Page 39                                     GAO-20-104 DOD Utilities Privatization
+Appendix II: Comments from the Department
+of Defense
+
+
+
+
+Page 40                                     GAO-20-104 DOD Utilities Privatization
+Appendix III: GAO Contact and Staff
+                  Appendix III: GAO Contact and Staff
+                  Acknowledgments
+
+
+Acknowledgments
+
+                  Timothy J. DiNapoli, (202) 512-4841 or dinapolit@gao.gov
+GAO Contact
+                  In addition to the contact named above, J. Kristopher Keener (Assistant
+Staff             Director), Joe E. Hunter (Analyst-in-Charge), Stephanie Gustafson, Gina
+Acknowledgments   Hoover, Tamera Lockley, Roxanna T. Sun, Anne Louise Taylor, Kari
+                  Terrio, and Kristy Williams made key contributions to this report.
+
+
+
+
+(103356)
+                  Page 41                                   GAO-20-104 DOD Utilities Privatization
+                         The Government Accountability Office, the audit, evaluation, and investigative
+GAO’s Mission            arm of Congress, exists to support Congress in meeting its constitutional
+                         responsibilities and to help improve the performance and accountability of the
+                         federal government for the American people. GAO examines the use of public
+                         funds; evaluates federal programs and policies; and provides analyses,
+                         recommendations, and other assistance to help Congress make informed
+                         oversight, policy, and funding decisions. GAO’s commitment to good government
+                         is reflected in its core values of accountability, integrity, and reliability.
+
+                         The fastest and easiest way to obtain copies of GAO documents at no cost is
+Obtaining Copies of      through our website. Each weekday afternoon, GAO posts on its website newly
+GAO Reports and          released reports, testimony, and correspondence. You can also subscribe to
+                         GAO’s email updates to receive notification of newly posted products.
+Testimony
+Order by Phone           The price of each GAO publication reflects GAO’s actual cost of production and
+                         distribution and depends on the number of pages in the publication and whether
+                         the publication is printed in color or black and white. Pricing and ordering
+                         information is posted on GAO’s website, https://www.gao.gov/ordering.htm.
+                         Place orders by calling (202) 512-6000, toll free (866) 801-7077, or
+                         TDD (202) 512-2537.
+                         Orders may be paid for using American Express, Discover Card, MasterCard,
+                         Visa, check, or money order. Call for additional information.
+
+                         Connect with GAO on Facebook, Flickr, Twitter, and YouTube.
+Connect with GAO         Subscribe to our RSS Feeds or Email Updates. Listen to our Podcasts.
+                         Visit GAO on the web at https://www.gao.gov.
+
+                         Contact FraudNet:
+To Report Fraud,
+                         Website: https://www.gao.gov/fraudnet/fraudnet.htm
+Waste, and Abuse in
+                         Automated answering system: (800) 424-5454 or (202) 512-7700
+Federal Programs
+                         Orice Williams Brown, Managing Director, WilliamsO@gao.gov, (202) 512-4400,
+Congressional            U.S. Government Accountability Office, 441 G Street NW, Room 7125,
+Relations                Washington, DC 20548
+
+                         Chuck Young, Managing Director, youngc1@gao.gov, (202) 512-4800
+Public Affairs           U.S. Government Accountability Office, 441 G Street NW, Room 7149
+                         Washington, DC 20548
+
+                         James-Christian Blockwood, Managing Director, spel@gao.gov, (202) 512-4707
+Strategic Planning and   U.S. Government Accountability Office, 441 G Street NW, Room 7814,
+External Liaison         Washington, DC 20548
+
+
+
+
+                            Please Print on Recycled Paper.
+

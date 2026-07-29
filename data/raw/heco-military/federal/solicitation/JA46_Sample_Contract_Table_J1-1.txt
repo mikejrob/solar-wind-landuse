@@ -1,0 +1,54 @@
+Attachment JA46                                                                          Sample Contract Table J.1-1
+
+
+
+TABLE J.1-1, List of Attachments, Exhibits, and Reference Documents
+
+   Attachments                                                  Title
+
+        JA01       Installation, XX – Electrical Distribution System
+
+        JA38       Federal Equivalents
+
+        JA39       Past Performance Information
+
+        JA40       Example Completion of Schedules for FP-EPA Type Contracts
+
+        JA41       Wage Determinations
+
+        JA42       B Schedules and Price Data Sheets
+
+        JA43       Reserved
+
+        JA44       Quality Assurance Surveillance Plan (QASP)
+
+        JA45       Subcontracting Plan
+
+        JA46       Sample Contract Table J.1-1
+
+      Exhibits                                                  Title
+
+        JE1       Vol. I – Service Interruption/Contingency and Catastrophic Loss Plan (Month DD, 20YY)
+
+        JE2       Vol. I – Operations and Maintenance/Quality Management Plan (Month DD, 20YY)
+
+        JE3       Vol. I – Initial System Deficiency Corrections/Upgrades/Connections and Renewals and
+                  Replacements Plan (Month DD 20YY)
+        JE4       Vol. I – Operational Transition Plan (Month DD, 20YY)
+
+        JE5       Vol. III – Representations and Certifications (Month DD, 20YY)
+
+        JE6       Vol. III – Socioeconomic Plan (Month DD, 20YY)
+
+        JE7       Vol. III – Subcontracting Plan (Month DD, 20YY)
+
+        JE8       Vol. IV – Price Proposal (Month DD, 20YY)
+
+    Reference
+                                                                Title
+    Documents
+
+        JR1        Sample Bill of Sale
+
+        JR2        Technical Evaluation Categories
+

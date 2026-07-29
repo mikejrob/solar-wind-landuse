@@ -1,0 +1,211 @@
+TECHNICAL EVALUATION CATEGORIES                                              UTILITY SYSTEM PRIVATIZATION
+Version June 2012
+
+
+
+ATTACHMENT JR2
+Technical Evaluation Categories
+
+JR2.1 Technical Evaluation Overview
+The following are general categories of information that are reasonably and logically related to or
+encompassed within the evaluation factors stated in Section M of the solicitation and that the
+Government may look at when evaluating offerors’ Volume I, Technical Proposals. This non-
+exhaustive set of information is provided solely for informational purposes to assist offerors in
+understanding the level of detail the Government seeks and is subject to change, without notice, as
+circumstances for a given procurement/installation warrant.
+
+JR2.1.1 Technical Capability
+
+
+JR2.1.1.1 Service Interruption/Contingency and Catastrophic Loss Plan
+Ability (during normal daily operations and during disaster/contingency situations) to receive service
+requests; to classify their severity; to appropriately respond to those requests; to provide status to the
+customer; and to access proper manning, materials, equipment, and vehicles.
+JR2.1.1.1.1 Service Call/Dispatch Procedures and Material, Equipment, and Vehicle
+Availability during Normal Daily Operations
+The level of effectiveness of service call/dispatch procedures to support Installation utility
+requirements during normal daily operations, taking into account the following:
+
+     •    Communication Line -- nature of line and level of line dedication to Government customer
+     •    Ease of Submitting Service Requests
+     •    Service Call Classification -- process accuracy and consistency
+     •    Response and Remedy/Downgrade Times
+     •    Service Call Status/Feedback to Government Customer
+     •    Service Call Data Collection -- detail and sufficiency
+     •    Location of Service Call Center
+     •    Expected Causes of Service Interruption
+     •    Coordination of Scheduled Outages
+     •    Rescheduling of Work -- level of flexibility
+     •    Real-Time System Monitoring/Controlling Capability
+     •    Qualifications of Initial Responder
+     •    Availability of Management
+     •    Availability of Materials
+     •    Availability of Vehicles and Equipment
+
+JR2.1.1.1.2 Service Call/Dispatch Procedures and Manpower, Material, Equipment, and
+Vehicle Availability during Disaster/Contingency Operations
+The level of effectiveness of service call/dispatch procedures to support Installation utility
+requirements during Installation disaster/exercise/contingency operations, taking into account the
+following:
+
+     •    Emergency Operations Center (EOC) -- availability of, or capability of establishing, an EOC
+TECHNICAL EVALUATION CATEGORIES                                             UTILITY SYSTEM PRIVATIZATION
+Version June 2012
+
+
+
+     •    Capability/Plans for Handling an Increased Volume of Service Requests -- receipt,
+          processing, and maintenance/provision of status
+     •    Management of Resources
+     •    Availability of Management
+     •    In-House Communication -- capability and effectiveness
+     •    Availability of Manpower
+     •    Availability of Materials
+     •    Availability of Vehicles and Equipment
+     •    Experience with Disaster/Contingency Operations
+     •    Catastrophic Loss -- plans for bringing system back into operational status after a catastrophic
+          loss
+
+JR2.1.1.2 Operations and Maintenance/Quality Management Plan
+Overall quality philosophy and the adequacy of procedures used to ensure that contract requirements
+are met (or exceeded) and that the system is being operated and maintained in a manner consistent
+with its long-term ability to provide reliable, cost-effective, and compliant service; ability to modify
+service practices and Quality Management Plan as necessary to accommodate changes in legal
+requirements or industry standards.
+
+JR2.1.1.2.1 Performance and Service Standards
+Performance standards and/or specifications that the offeror will comply with for construction,
+operation, maintenance, management, environmental, disaster recovery, and safety of the utility
+system; detailed discussion of the standards, procedures, and/or specifications that must be complied
+with to meet each of the service standards criteria listed in Table L-1 of the RFP. Take into account
+the following:
+
+     •    Federal, State, Local, Installation-Specific, and Industry Performance Standards
+     •    Discussion of Specific Offeror-proposed Performance Standards and Associated Procedures
+
+JR2.1.1.2.2 Planned Maintenance Activities
+Detailed description of operations and maintenance policies and procedures, including:
+
+     •    Policies and Procedures -- effectiveness of specific polices/procedures
+     •    Activities, Tests, and Inspections
+
+JR2.1.1.2.3 Staffing Plan
+Proposed workforce, position by position (from apprentice through Installation Project Manager) and
+the qualifications (training, certifications, experience, and education) that a new hire is required to
+have to fill each position, including:
+
+     •    In-House Staff
+     •    Subcontractors
+
+JR2.1.1.2.4 Advanced Operational System Planning/Analysis
+Advanced planning/analysis techniques to help determine future operations, maintenance, and
+upgrade activities that may be required on the utility system, including:
+TECHNICAL EVALUATION CATEGORIES                                              UTILITY SYSTEM PRIVATIZATION
+Version June 2012
+
+
+
+     •    Determining Current and Future System Capacity
+     •    Identifying Component Malfunctions in Advance
+
+JR2.1.1.2.5 Obtaining Feedback/Measuring Job Performance/Continuous Improvement
+Methods of obtaining, reviewing, and implementing customer feedback; detailed description of
+policies, procedures, and techniques for ensuring quality work is performed, including:
+
+     •    Customer Feedback
+     •    Measuring Job Performance/Continuous Improvement
+
+JR2.1.1.2.6 Quality/Performance Awards and Certificates
+Discussion of widely recognized awards or certificates the Offeror has received and the significance
+of these awards or certificates, including:
+
+     •    Significance of Awards/Certificates – level, number of times received
+     •    Applicability of Awards/Certificates to the specific utility service(s) required
+
+JR2.1.1.2.7 Specialty Skills Training for Military Personnel
+Plan for providing Specialty Skills Training for military personnel (if required by the Solicitation),
+including:
+
+     •    Levels of Training -- skill level provided, scheduling, trainer qualifications, training demand,
+          currency of curriculum
+     •    Location of Training
+
+JR2.1.1.2.8 Service Connections/Disconnections
+Expected process for submitting and supporting requirements for adding service points and/or for
+deleting any service points that are no longer required, including:
+
+     •    Coordination/Notification Process for Service Connections/Disconnections
+     •    Level of Involvement in Planning -- meeting attendance, field inspections, etc.
+
+JR2.1.1.2.9 Environmental Compliance
+Approach and responsibilities to ensure environmental compliance in the ownership, management,
+operation, maintenance, and upgrade of the utility system, including:
+
+     •    Permits
+     •    Spill Plan
+     •    Hazardous Waste Minimization and Handling of Hazardous Materials
+     •    Other Environmental Plans and Assessments (including status of ownership of wastewater
+          treatment facilities, if applicable)
+
+JR2.1.1.3 Initial System Deficiency Corrections/Upgrades/Connections and Renewals and
+Replacements Plan
+The comprehensiveness, feasibility, and effectiveness to which upgrade, renewal, and replacement
+activities are identified, planned, and executed to ensure a long-term efficient utility system.
+TECHNICAL EVALUATION CATEGORIES                                              UTILITY SYSTEM PRIVATIZATION
+Version June 2012
+
+
+
+JR2.1.1.3.1 Initial Plan for System Deficiency Corrections
+The comprehensiveness, feasibility, and effectiveness to which the Initial System Deficiency
+Corrections Plan addresses the initial repair, replacement, and improvement activities (to be
+completed within the first 5 years of the contract) that are required to bring the utility system up to all
+applicable requirements and standards imposed by law, as well as the standards typically applied by
+the Offeror to its other utility systems, taking into account the following:
+
+     •    Government-Identified Deficiencies
+     •    Offeror-Recommended System Upgrades -- identification and rationale
+     •    Initial System Deficiency Corrections Schedule
+
+JR2.1.1.3.2 Renewals and Replacements (R&R) Plan
+The comprehensiveness, feasibility, and effectiveness to which the Renewals and Replacements Plan
+addresses the continuing maintenance, repairs, and upgrades that will be required to permit the long-
+term safe and reliable operation of the utility system once the system has been brought up to standards
+by the initial system deficiency corrections, taking into account the following:
+
+     •    Conceptual Methodology for R&R
+     •    Life-Cycle Replacement of Major Components
+     •    Addressing System Condition at Beginning of Contract
+
+JR2.1.1.3.3 Addressing New or Revised Requirements and Standards
+Comprehensiveness, feasibility, and effectiveness of the process used to identify, assess, and
+implement any new or revised standards that may require system upgrades or modification or affect
+system operation, including:
+
+     •    Identifying and Determining Potential Effect of New or Revised Standards/Technologies
+     •    Implementation of New or Revised Standards/Technologies
+
+JR2.1.1.4 Operational Transition Plan
+Adequacy and effectiveness in maintaining continuous utility service and minimizing service impacts,
+while smoothly and effectively transferring responsibility and accountability for utility system capital
+assets, permits, personnel resources, administration, and other system responsibilities.
+JR2.1.1.4.1 Length of Transition Period
+Clarity and appropriateness of the length of the Transition Plan, for both the overall transition period,
+as well as for individual transition-related activities. Take into account the following:
+
+     •    Clarity of the Defined Length of the Transition Period
+     •    Sufficiency of the Length of the Transition Period – Is overall length appropriate for required
+          transition activities?
+     •    Sufficiency of Allotted Time for Individual Transition Activities
+
+JR2.1.1.4.2 Transition Activities
+Effectiveness of the description of transition activities to which the Government has confidence that
+the Transition Plan will result in a “seamless” transition, taking into account the following:
+TECHNICAL EVALUATION CATEGORIES                                            UTILITY SYSTEM PRIVATIZATION
+Version June 2012
+
+
+
+     •    Overall Schedule of Transition Activities – Are they clearly defined and logically arranged?
+     •    Description of Individual Transition Activities
+

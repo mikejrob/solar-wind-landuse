@@ -1,0 +1,376 @@
+B.2.1 Schedule B-1 Regulated Tariff a
+Available to offerors proposing regulated rates.
+           Utility System: ________________
+
+    CLIN                                     Supplies/Services                                            Qty            Unit             Unit Price
+    0001     Utility Services Charge                                                                      12            Months              $10,000.00
+             FP
+             The unit price is the Applicable Tariff(s) less the monthly credit as payment
+             for the purchase price plus the recoverable portion of the purchase price.
+
+
+             Applicable Tariff                  $ 10,000.00
+
+             Monthly Credit for PP              $ (2,000.00)
+             # of Months                             240
+             Interest Rate                          4.5%
+
+             Recoverable Portion of PP          $ 2,000.00
+             # of Months                            240
+             Interest Rate                        4.5%
+
+             Unit Price                        $ 10,000.00
+
+    0002                                                                                     b
+             Initial System Deficiency Corrections/ Upgrades/Connection Charges
+             FFP
+
+    0003     Transition Period                                                                              1            Each                 $50,000.00
+             FP
+
+
+a
+ Utility system to be filled in by the Offeror. A Schedule B-1 must be completed for each utility system offered. Utility systems are shown in paragraph
+Privatized . Offerors shall provide a comprehensive description of proposed tariffs in their Price Proposals.
+
+b
+ CLIN 0002 is required only if the tariff provides for separate identification of initial system deficiency corrections and connection charges. If separate i
+provided, it will be assumed the tariff rate includes these costs.
+          Total
+          $120,000.00
+
+
+
+
+           $50,000.00
+
+
+
+B.1, Systems to be
+
+
+
+identification is not
+B.2.2 Schedule B-2 Fixed Price Economic Price Adjustment a
+Available to offerors proposing a Fixed Price Economic Price Adjustment (FPEPA)
+           Utility System: ________________
+
+    CLIN                                     Supplies/Services                                          Qty            Unit            Unit Price
+    0001    Utility Services Charge                                                                     12            Months             $10,000.00
+            FPEPA
+            The unit price is the Utility Services Charge less the monthly credit as
+            payment for the purchase price (PP) plus the recoverable portion of the
+            purchase price.
+
+            Utility Services Charge             $ 10,000.00
+
+            Monthly Credit for PP               $ (2,000.00)
+            # of Months                             240
+            Interest Rate                          4.5%
+
+            Recoverable Portion of PP           $ 2,000.00
+            # of Months                            240
+            Interest Rate                         4.5%
+
+            Unit Price                         $ 10,000.00
+
+    0002                                                                                    b
+            Initial System Deficiency Corrections/ Upgrades/Connection Charges
+            FFP
+
+    0003    Transition Period                                                                             1            Each                $50,000.00
+            FFP
+a
+  Utility system to be filled in by the Offeror. A Schedule B-2 must be completed for each utility system offered. Utility systems are shown in paragraph B
+Privatized .
+b
+  The offeror should enter the Utility Services Charge, as computed in Price Data Sheet 1.
+        Total
+        $120,000.00
+
+
+
+
+          $50,000.00
+
+
+B.1, Systems to be
+B.3.1 Price Data Sheet 1 – Utility Services Charge
+                               Component                         Monthly Charge
+
+1. Operations and Maintenance (O&M)
+
+
+2. Renewals and Replacements (R&R)
+
+
+Total Utility Services Charge
+(to be entered into CLIN 0001 for Schedule B-1 (if applicable)
+ and Schedule B-2)
+B.3.2 Price Data Sheet 2 – Renewals and Replacements – 50-YEAR Plan
+Notes: For each inventory component/item listed in the utility specific attachment, clearly show the $ value of the planned R&R (if any) for each year 1-
+This Plan represents the offeror’s conceptual methodology that will be used for evaluation purposes.
+
+                                                                   Existing First Expected
+                                            Approx Year Existing Item Service Replacement                                  New Item        New Unit
+  Item        Size    Quantity      Unit     Installed  Unit RCN     Life        Date                      New Item       Service Life     Cost RCN
+
+
+
+
+                                                                                                                                         Total
+-50
+
+
+                             Planned Renewals & Replacements                   Residual
+  New Item   Next Replace Year 1 (Const Year XX        Year 50    Cumulative Value in Year
+    RCN         Dates          $)       (Const $)     (Const $)     Total     50 (Const $)
+B.3.3 Price Data Sheet 3 – Initial System Deficiency Correction(s) / Upgrade(s) / Connection Charge(s) / Transition Perio
+                                                   First Full
+                                                                Amortization
+Project   Interest   Project Cost   Project Start Month Project                Monthly
+                                                                  Period
+ Name      Rate      (Current $)       Month       will Be In                  Charge
+                                                                 (Months)
+                                                    Service
+od
+B.3.4 Price Data Sheet 4 – Recoverable Portion of Purchase Price
+
+                                                           Amortization
+               Item            Interest Rate   Amount                     Monthly Charge
+                                                          Period (Months)
+
+Recoverable Portion of
+Purchase Price
+US ARMY GARRISON - HAWAII                                                                                                    SOLICITATION NUMBER
+DLA ENERGY UTILITIES PRIVATIZATION                                                                                           UTILITIES PRIVATIZATION
+
+B.7.5 Price Data Sheet 5 – Proposal 50-Year Charges to the Government
+                                                                      Contract Items
+                                                                              CLIN 0002 - Initial System
+                                                                                                                   CLIN 0003 - Transition Period
+                         CLIN 0001 - Utility Service Charge                   Deficiency Corrections /
+                                                                                                                             Charges
+                                                                                Connection Charges
+    a           b            c           d           e            f           g           h           i              j           k            l
+                                                Recoverable
+            Applicable    FIT for    Credit for  Portion of    Subtotal     ISDC        FIT for    Subtotal    Transition     FIT for      Subtotal
+ Contract   Tariff less Applicable   Purchase    Purchase     CLIN 0001   Projects      ISDC      CLIN 0002    Charges       Transition   CLIN 0003
+  Year         FIT         Tariff      Price       Price      (b+c+d+e)   less FIT     Projects     (g+h)       less FIT     Charges        (j+k)
+             Nominal     Nominal     Nominal     Nominal                  Nominal      Nominal                 Nominal       Nominal
+
+    1       $        -   $       -   $       -   $       -    $       -   $       -   $       -   $        -   $         -   $        -   $        -
+    2       $        -   $       -   $       -   $       -    $       -   $       -   $       -   $        -   $         -   $        -   $        -
+    3       $        -   $       -   $       -   $       -    $       -   $       -   $       -   $        -   $         -   $        -   $        -
+    4       $        -   $       -   $       -   $       -    $       -   $       -   $       -   $        -   $         -   $        -   $        -
+    5       $        -   $       -   $       -   $       -    $       -   $       -   $       -   $        -   $         -   $        -   $        -
+    6       $        -   $       -   $       -   $       -    $       -   $       -   $       -   $        -   $         -   $        -   $        -
+    7       $        -   $       -   $       -   $       -    $       -   $       -   $       -   $        -   $         -   $        -   $        -
+    8       $        -   $       -   $       -   $       -    $       -   $       -   $       -   $        -   $         -   $        -   $        -
+    9       $        -   $       -   $       -   $       -    $       -   $       -   $       -   $        -   $         -   $        -   $        -
+   10       $        -   $       -   $       -   $       -    $       -   $       -   $       -   $        -   $         -   $        -   $        -
+   11       $        -   $       -   $       -   $       -    $       -   $       -   $       -   $        -   $         -   $        -   $        -
+   12       $        -   $       -   $       -   $       -    $       -   $       -   $       -   $        -   $         -   $        -   $        -
+   13       $        -   $       -   $       -   $       -    $       -   $       -   $       -   $        -   $         -   $        -   $        -
+   14       $        -   $       -   $       -   $       -    $       -   $       -   $       -   $        -   $         -   $        -   $        -
+   15       $        -   $       -   $       -   $       -    $       -   $       -   $       -   $        -   $         -   $        -   $        -
+   16       $        -   $       -   $       -   $       -    $       -   $       -   $       -   $        -   $         -   $        -   $        -
+   17       $        -   $       -   $       -   $       -    $       -   $       -   $       -   $        -   $         -   $        -   $        -
+   18       $        -   $       -   $       -   $       -    $       -   $       -   $       -   $        -   $         -   $        -   $        -
+   19       $        -   $       -   $       -   $       -    $       -   $       -   $       -   $        -   $         -   $        -   $        -
+   20       $        -   $       -   $       -   $       -    $       -   $       -   $       -   $        -   $         -   $        -   $        -
+   21       $        -   $       -   $       -   $       -    $       -   $       -   $       -   $        -   $         -   $        -   $        -
+    22         $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+    23         $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+    24         $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+    25         $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+    26         $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+    27         $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+    28         $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+    29         $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+    30         $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+    31         $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+    32         $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+    33         $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+    34         $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+    35         $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+    36         $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+    37         $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+    38         $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+    39         $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+    40         $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+    41         $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+    42         $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+    43         $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+    44         $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+    45         $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+    46         $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+    47         $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+    48         $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+    49         $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+    50         $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+   Totals      $          -   $         -   $         -   $           -   $           -   $         -   $          -   $          -   $         -   $          -    $         -
+
+Notes:
+1. Regulated offerors shall fill in each contract item for Years 1-50.
+2. The nominal dollar estimates are applicable to the specific years of the Contract and reflect the inflation rate assumption to be provided by the Government..
+3. Column d: Enter the sum of the monthly amortized costs (i.e., principal and interest) of the Credit for Purchase Price associated with the applicable contract year detailed in
+4. Column e: If Recoverable Portion of the Purchase Price is included in the Applicable Tariff less FIT, enter "Column b".
+5. Column e: If Recoverable Portion of the Purchase Price is not included in the Applicable Tariff less FIT, enter the sum of the monthly amortized costs (i.e., the principal and
+the applicable contract year.
+6. Column g: If the ISDC Project price is included in the Applicable Tariff less FIT, enter "Column b".
+7. Column h: If the FIT for ISDC Project price is included in the FIT for Applicable Tariff, enter "Column c".
+8. Column i: If the ISDC Project price and FIT for ISDC Project price are included in the Applicable Tariff and Applicable Tariff Less FIT, enter "Columns b & c".
+N
+
+
+
+
+       m          n
+     Total
+    Contract   Assumed
+     Costs     Inflation
+     (f+i+l)   Rate (%)
+
+
+$          -
+$          -
+$          -
+$          -
+$          -
+$          -
+$          -
+$          -
+$          -
+$          -
+$          -
+$          -
+$          -
+$          -
+$          -
+$          -
+$          -
+$          -
+$          -
+$          -
+$          -
+  $          -
+  $          -
+  $          -
+  $          -
+  $          -
+  $          -
+  $          -
+  $          -
+  $          -
+  $          -
+  $          -
+  $          -
+  $          -
+  $          -
+  $          -
+  $          -
+  $          -
+  $          -
+  $          -
+  $          -
+  $          -
+  $          -
+  $          -
+  $          -
+  $          -
+  $          -
+  $          -
+  $          -
+  $          -
+  $          -
+
+
+
+
+n Schedule 4.
+
+
+d interest) in
+US ARMY GARRISON - HAWAII                                                                                                                                                                                                                        SOLICITATION NUMBER
+DLA ENERGY UTILITIES PRIVATIZATION                                                                                                                                                                                                               UTILITIES PRIVATIZATION
+
+B.7.5 Price Data Sheet 6 – Proposal 50-Year Charges to the Government
+                                                                                                                                         Contract Items
+                                                                                                                                                                              CLIN 0002 - Initial System Deficiency
+                                                                      CLIN 0001 - Utility Service Charge                                                                                                                            CLIN 0003 - Transition Period Charges
+                                                                                                                                                                                Corrections / Connection Charges
+    (a)           (b)               (c)               (d)     (e)                         (f)             (g)              (h)                (i)               (j)              (k)             (l)          (m)                   (n)                  (o)              (p)               (q)
+             Operations &                                 Non Federal                  Purchase                        Renewals &                                          ISDC Projects                                         Transition            FIT for                             Total
+Contract     Maintenance                   Other Costs & Income Taxes                    Price         Purchase       Replacements                          Subtotal        Amortization FIT for ISDC      Subtotal             Charges less         Transition        Subtotal           Contract
+ Year          less FIT        FIT for O&M Credits, Net     & Fees                     Recovery       Price Credit      less FIT         FIT for R&R       CLIN 0001          less FIT       Projects     CLIN 0002                 FIT               Charges         CLIN 0003            Costs
+                 Real              Real        Real          Real                      Nominal         Nominal            Real               Real              --            Nominal         Nominal       Nominal                Nominal            Nominal           Nominal               --
+
+    1        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+    2        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+    3        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+    4        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+    5        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+    6        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+    7        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+    8        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+    9        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   10        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   11        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   12        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   13        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   14        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   15        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   16        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   17        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   18        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   19        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   20        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   21        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   22        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   23        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   24        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   25        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   26        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   27        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   28        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   29        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   30        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   31        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   32        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   33        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   34        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   35        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   36        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   37        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   38        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   39        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   40        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   41        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   42        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   43        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   44        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   45        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   46        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   47        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   48        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   49        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+   50        $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+  Totals     $            -   $             -   $            -   $             -   $              -   $           -   $             -   $             -   $            -   $             -   $            -   $             -   $            -   $                -   $           -   $              -
+
+Notes:
+1. Offerors shall fill in each contract item for Years 1-50.
+2. The real dollars estimates are applicable to the initial two years of the Contract and exclude the effects of inflation beyond the initial two-year pricing period.
+3. The nominal dollars are applicable to the actual contract year in which the credit / charges / amortization will be invoiced under the Contract.
+4. Column (b) should include all O&M and G&A related costs expenses including the O&M related profit (if any) and excluding the federal income tax (FIT) related to the O&M related profit (coumn (c).
+5. Column (d) should include all other costs and credits on a net basis, including capital credits, etc.
+6. Column (e) should include all non-federal taxes, such as state income tax, property taxes, any local taxes, etc.
+7. Column (f) should equal the sum of the monthly amortized costs (i.e., the principal and interest) associated with the recoverable portion of the purchase price in the applicable contract year detailed in Schedule 4.
+8. Column (g) should equal the sum of the monthly amortized costs (i.e., the principal and interest) associated with the purchase price credit in the applicable contract year.
+9. The sum of columns (b) through and including column (g) should equal the total operation and maintenance (O&M) costs detailed in Schedule 1. The total O&M costs should include all costs including O&M related profit, income taxes, general and administrative (G&A), other costs and
+credits, non-federal income taxes, the pruchase price recovery and purchase price credit, etc. necessary to provide the utility service.
+10. Column (h) plus column (i) should equal the total levelized R&R component costs detailed in Schedules 1 and 2.
+11. Column (j), Subtotal CLIN 0001, should equal the sum of columns (b) through column (i).
+12. Column (k) plus column (l) should equal the annual summation of the monthly amortized costs (i.e., the principal and interest) associated with the ISDC / connection charges in the applicable contract year detailed in Schedule 3. TH sum of which is totalled in Column (m), Subtotal CLIN
+13. Column (n) plus column (o) should equal the annual summation of the monthly amortized costs (i.e., the principal and interest) associated with the transition related expenses included in column (p), Subtotal CLIN 0003.
+
