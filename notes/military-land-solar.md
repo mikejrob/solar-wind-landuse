@@ -630,6 +630,14 @@ about the true resilience target beyond the published 99.9% §2920 floor is
 speculation. The land-availability question this repo cares about is answerable;
 the mission-dependency question is not.
 
+## Branch-level rollup
+
+Installed-to-date by branch (grid-scale vs rooftop, ownership decomposition)
+and potential-by-branch tables: `notes/dod-solar-installed-by-branch.md`.
+Short version: all ~77 MW of grid-scale solar on Hawaii military land is on
+NAVY land; the Army has zero grid-scale and ~27-35 MW of housing/rooftop PV;
+the services themselves own ~6% of the ~130-137 MW total.
+
 ## Caveats
 
 - §7 tiers as marked; the reframed-not-cancelled finding is a documented

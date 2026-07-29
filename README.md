@@ -115,6 +115,8 @@ Each note is a self-contained investigation with its own sources.
   2024–27 project pipeline, and the 2025–26 policy environment.
 - `notes/heco-military-relationship.md` — the HECO–Army utilities-privatization
   contract and how the military buys power.
+- `notes/dod-solar-installed-by-branch.md` — installed and potential solar by
+  service branch.
 - `notes/golf-course-solar.md` — golf-course acreage.
 - `notes/state-land-solar.md` — state-land leasing authority and history.
 - `notes/available-land-map.md` — the three-layer available-land map, its
