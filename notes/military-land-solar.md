@@ -420,8 +420,16 @@ near ~1 GW. Both bounds are estimates; the exact DoD load is UNVERIFIED.
 
 ### 6e. The DS tariff and the rate-base question (open — no conclusion drawn)
 
+DEEPENED AND CORRECTED 2026-07-28: see `notes/heco-military-relationship.md`,
+which verifies the DLA utilities-privatization contract, the Schedule DS terms,
+and the generation ownership below against primary sources. Two earlier claims
+here were corrected: Schedule DS carries no minimum contract term (the tariff's
+threshold is loads ≥300 kW served directly from a substation; an earlier "at
+least five years" statement was wrong), and the DLA contract sits outside the
+general rate base (below).
+
 The military buys power under HECO Schedule DS (Large Power Directly Served
-Service), a large-power tariff requiring a contract of at least five years
+Service), applicable to loads ≥300 kW served directly from a substation
 ([HECO Schedule DS](https://www.hawaiianelectric.com/Documents/my_account/rates/hawaiian_electric_rates/heco_rates_sch_ds.pdf);
 HECO Docket 2016-0328, Order 35721, 2018). DoD is a large HECO ratepayer.
 
@@ -429,13 +437,17 @@ Whether HECO's rate-base interest shapes military generation outcomes is an open
 question. No conclusion is drawn here. This requires careful scrutiny that the
 public record may not support. Revealed conduct on the record:
 
-- HECO owns two military-serving generation assets in its rate base: the ~20 MW
-  West Loch PV array and the 50 MW Schofield Generating Station on an Army lease
-  (§3). Utility ownership adds these to HECO's rate base. An IPP military
-  self-build would not.
-- HECO holds a 50-year, $638.5M Defense Logistics Agency contract to distribute
-  power at 12 Army installations
-  ([Army Technology](https://www.army-technology.com/news/dla-hawaiian-electric-us-army-system/)).
+- HECO owns two military-serving generation assets in its general rate base: the
+  ~20 MW West Loch PV array and the 50 MW Schofield Generating Station on an
+  Army lease (§3). Utility ownership adds these to HECO's rate base. An IPP
+  military self-build would not.
+- HECO holds a 50-year, $638.5M Defense Logistics Agency utilities-privatization
+  contract (10 U.S.C. §2688) under which it OWNS and operates the on-base
+  electric distribution systems at 12 Army installations — billed to the Army
+  separately and walled off from the general rate base by PUC condition (PUC
+  Docket 2019-0349; ownership transferred 2022-03-01;
+  [Army Technology](https://www.army-technology.com/news/dla-hawaiian-electric-us-army-system/);
+  full sourcing in `notes/heco-military-relationship.md`).
 - Kupono is a Navy enhanced-use lease with an IPP developer (Ameresco / Bright
   Canyon) and a HECO PPA; HECO does not own it (§3).
 
@@ -446,8 +458,184 @@ military self-generation in any proceeding is **UNVERIFIED** and would require
 review of PUC dockets and EUL/interconnection records. Draw no conclusion until
 that review is done.
 
+## 7. Current plans and the 2025-26 policy environment (compiled 2026-07-28)
+
+Extends §§3, 6, 6d, 6e. Scope: what DoD is ANNOUNCING or building for added
+solar / storage / microgrid resilience in Hawaii for 2024-2027, whether the
+2025 change of administration cut or reframed it, and what is knowable from
+open sources. Reports revealed conduct (awards, NEPA, dockets, published
+policy); asserts no intent. Tiers: **[V]** verified w/ primary or strong
+secondary source + URL; **[P]** plausible / awaiting confirmation; **[U]**
+unverified.
+
+### 7a. The 2024-2027 project pipeline (added / planned)
+
+New or in-progress since the note's §3 baseline (Kupono, West Loch, Schofield,
+Pu'uloa microgrid). Nothing here changes the §5 finding that military land adds
+~0 near-grid flat acres to the *civilian* solar supply — these are on-base
+resilience assets (§6c-a), except Pu'uloa Solar's small export.
+
+| project | service / site | capacity | mechanism | status (2026-07) | tier |
+|---|---|---|---|---|---|
+| **Pu'uloa Energy** (firm) | Navy, JBPHH, ~10 ac (TMK 1-9-9-001-008) | ~99 MW firm, 11 dual-fuel (biofuel-capable) recip engines, 14-day fuel, black-start | Ameresco 30-yr operating term; HECO grid interconnect; DOE **GRIP** grant (BIL) | online 2027-2033; GRIP selected Oct 2024 | [V] |
+| **Pu'uloa Solar** | Navy, JBPHH | **6 MW PV + 30 MWh storage** | HECO Amended/Restated PPA; overhead 46 kV line ext. **PUC Docket 2025-0436** | active PUC proceeding, public hearing 2026-03-09 | [V] |
+| **H2MG hydrogen microgrid** (expands PEARL) | Air Force / HI Air National Guard, 154th Wing, JBPHH-Hickam | adds 1 MW electrolyzer + 600 kg H2 storage + 600 kW PEM fuel cells to the existing **1.5 MW PV / 500 kWh** PEARL microgrid | Global Connective Center prime, BWR Innovations sub, 2-yr subcontract; AFRL / HCATT / NAVFAC / INDOPACOM / NGB | subcontract awarded ~May 2024 | [V] |
+| **Holu Hou / Lendlease residential** | Army (privatized housing), Island Palm Communities, Aliamanu Mil. Res. + others | **10 kW PV + 25 kWh storage per home**, ~200 homes phase, 6-home "EnergyShare" networks; meets 75-80% of home load, **no grid export** | military housing-privatization ground lease (Lendlease), Holu Hou HoluPower | construction from summer 2023, expanding through 2026 | [V] |
+| **PMRF Kauai microgrid** (existing, context) | Navy, Barking Sands, Kauai | ~14-19.3 MW PV + 70 MWh storage, 100% clean islanding | Navy land lease w/ KIUC; AES built | operational since 2021 (not new) | [V] |
+| **MCBH Kaneohe resilience microgrid** | Marine Corps, Kaneohe Bay | not public (RFI 2023, RFP to HECO ~Feb 2024) | HECO utility-agreement path | RFI/RFP stage; award not confirmed | [P] |
+| INDOPACOM / PDI installation resilience | Indo-Pacific bases (Hawaii among) | not itemized | FY2026 PDI infrastructure line | budget request stage | [P] |
+
+Sources: Pu'uloa Energy specs — [puuloaenergy.com/projects](https://www.puuloaenergy.com/projects/);
+Pu'uloa Solar 6 MW/30 MWh + docket — [PUC Docket 2025-0436 notice](https://puc.hawaii.gov/public-notice/notice-of-public-hearing-hawaiian-electric-overhead-line-extension-for-puuloa-solar-at-joint-base-pearl-harbor-hickam-docket-no-2025-0436/),
+[puuloasolar.com](https://www.puuloasolar.com/); GRIP selection —
+[Ameresco / BusinessWire 2024-10-18](https://www.businesswire.com/news/home/20241018683144/en/The-U.S.-Department-of-Energy-Selected-Amerescos-Puuloa-Microgrid-Energy-Asset-for-the-Grid-Resilience-and-Innovation-Partnerships-Program),
+GRIP federal grant for Oahu military+civilian grid reported ~$40M by
+[Rep. Case](https://case.house.gov/news/documentsingle.aspx?DocumentID=3454)
+(exact Pu'uloa allocation and post-2025 obligation status **[U]**);
+H2MG — [Microgrid Knowledge 2024-05](https://www.microgridknowledge.com/generation-fuels/article/55036626/bwr-innovations-chose-to-deliver-pem-fuel-cells-for-hawaii-base-microgrid-h2-integration);
+Holu Hou/Lendlease — [Lendlease media release](https://www.lendlease.com/us/media-center/media-releases/lendlease-and-holu-hou-energy-sign-contract/),
+[Army 2026](https://www.army.mil/article/281977/) (title verified via search;
+page 403 to bot fetch); PMRF — [AES](https://www.aes.com/energy-insights/first-its-kind-clean-energy-microgrid-us-navy-and-kiuc);
+MCBH RFI/RFP — [DVIDS 2023-12](https://www.dvidshub.net/news/458123/marine-corps-base-hawaii-seeks-enhance-energy-resiliency),
+[HECO IGP RFP appx F](https://www.hawaiianelectric.com/documents/clean_energy_hawaii/selling_power_to_the_utility/competitive_bidding/igp_rfp/appx_f.pdf);
+PDI — [FY2026 PDI budget](https://comptroller.war.gov/Portals/45/Documents/defbudget/FY2026/FY2026_Pacific_Deterrence_Initiative.pdf).
+
+Notes: the biggest 2024-27 items are firm/microgrid (Pu'uloa Energy 99 MW
+dual-fuel; H2 storage; residential storage), not new utility-scale PV. Net new
+military solar in the pipeline is modest — Pu'uloa Solar 6 MW is the only new
+grid-tied PV array found, and it is small. This is consistent with §6c: the
+mandate drives *islanding/firm* capacity for base critical load, not export PV.
+Pu'uloa Solar (small) and Pu'uloa Energy (via HECO interconnect) are the only
+new pieces that touch the civilian grid; both run through HECO (cross-ref §6e:
+HECO stays the interconnection/PPA counterparty — rate-base implication still
+**[U]**, unexamined in dockets here). FY2026 **ERCIP** ($722.9M DoD-wide) lists
+no Hawaii project in the returned budget tables **[P]** (CA, Guam, Japan, etc.
+appear; Hawaii absent) — [FY2026 ERCIP MILCON](https://comptroller.war.gov/Portals/45/Documents/defbudget/FY2026/budget_justification/pdfs/07_Military_Construction/14-Energy_Resilience_and_Conservation_Investment_Program.pdf).
+
+### 7b. Red Hill aftermath and JBPHH resilience
+
+The 2021 Red Hill fuel spill and the completed 2024 defueling reoriented JBPHH
+toward energy (not fuel) resilience, but no document was found that *ties a named
+solar/storage project to Red Hill closure as cause*. What is on the record:
+
+- Red Hill defueling completed ~June 2024; permanent closure targeted 2027;
+  Navy Closure Task Force-Red Hill leads decommissioning/aquifer cleanup **[V]**
+  ([EPA Red Hill closure](https://www.epa.gov/red-hill/closure);
+  [Navy Times 2023](https://www.navytimes.com/news/your-navy/2023/05/17/pentagon-accelerates-timeline-to-defuel-red-hill-facilities/)).
+- The JBPHH energy-resilience buildout (Pu'uloa Energy/Solar microgrid, PEARL
+  H2MG, Kupono islanding) is the electricity-side analogue to losing bulk fuel
+  storage, but sponsors frame these as grid-outage resilience / mission
+  assurance, **not** explicitly as Red Hill replacements **[P]**. Treat "Red
+  Hill drove the microgrid push" as plausible narrative, not documented
+  causation — the microgrid program (PEARL 2016, Pu'uloa GRIP 2024) predates and
+  postdates Red Hill and rests on the §6a statutory mandate.
+
+### 7c. The Trump-era policy effect: reframed, not (visibly) cancelled
+
+The clearest finding: **climate-labeled DoD work was cut; energy-resilience /
+mission-assurance work for Indo-Pacific bases continued and was re-branded under
+the "warfighting" and "unleashing American energy" banners.** No specific Hawaii
+military solar/microgrid project was found cancelled; the flagship JBPHH project
+shows revealed conduct of *continuation*.
+
+Policy actions (revealed conduct):
+- **"Unleashing American Energy" EO (Jan 2025)** paused IRA/IIJA disbursements
+  ~90 days — the funding stream behind GRIP (BIL) that backs Pu'uloa **[V]**
+  ([Canary Media](https://www.canarymedia.com/articles/policy-regulation/trump-orders-freeze-on-inflation-reduction-act-infrastructure-law-funding);
+  [Microgrid Knowledge](https://www.microgridknowledge.com/microgrid-policy/article/55262952/president-trumps-eo-to-freeze-the-ira-how-will-it-impact-microgrids-and-ders)).
+- **March 2025:** Trump rescinded the Defense Production Act §303 determinations
+  (2022-15/-18) that had labeled solar PV modules critical to national defense
+  **[V]** ([Columbia Climate Law](https://climate.law.columbia.edu/content/president-trump-issues-executive-order-rescinding-additional-biden-era-presidential-actions)).
+- **OBBBA + EO 14315 (July 2025)** repealed/curtailed wind & solar tax credits
+  **[V]** ([Columbia Climate Law](https://climate.law.columbia.edu/content/president-trump-orders-swift-implementation-budget-bill-end-renewable-tax-credits)).
+- **Hegseth SecDef memo (Mar 17 2025):** eliminate "climate change"-framed
+  programs/mission-statement references; DOGE/DoD cancelled ~90 studies, ~$800M
+  cuts (~$100M climate-related). **Carve-out kept:** hardening installations
+  against extreme weather, mission assurance, weather-risk mitigation **[V]**
+  ([Scientific American](https://www.scientificamerican.com/article/hegseth-orders-elimination-of-pentagon-climate-planning-but-wants-extreme/);
+  [E&E News](https://www.eenews.net/articles/hegseth-ditch-climate-distraction-but-prepare-for-extreme-weather/)).
+  DoDI 4715.28 (Military Installation Resilience) reissued to comply while
+  retaining energy-hardening requirements **[V]**
+  ([DoDI 4715.28](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/471528p.PDF)).
+
+The reframing, in DoD's own new words:
+- **Navy energy-resilience solicitation (Aug 7 2025)** — issued THROUGH the CEED
+  Consortium (OTA), seeking execution-ready prototypes (small modular nuclear,
+  geothermal, battery storage, generation) to power Navy/Marine Corps
+  installations at **99.9% availability** "even if the public grid goes dark."
+  Explicitly "about warfighting readiness, mission assurance, and making sure
+  our bases remain operational," framed under **"President Trump's commitment to
+  unleashing American energy innovation."** Same 99.9% §2920 target as before,
+  new vocabulary **[V]** ([Navy.mil press release](https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/4268360/department-of-the-navy-announces-solicitation-for-innovative-energy-resilience/);
+  [Seapower](https://seapowermagazine.org/department-of-the-navy-announces-solicitation-for-innovative-energy-resilience-solutions-to-power-navy-and-marine-corps-installations/)).
+- **Pacific Deterrence Initiative FY2026** = $10.0B request; infrastructure
+  $2.7B, which OSD says covers energy-resilience improvements at Indo-Pacific
+  bases — a China-deterrence budget line surviving the climate cuts **[V/P]**
+  ([FY2026 PDI](https://comptroller.war.gov/Portals/45/Documents/defbudget/FY2026/FY2026_Pacific_Deterrence_Initiative.pdf);
+  itemization to Hawaii not public — **[P]**).
+- The 2025 **Military Installation Resilience Report to Congress** (May 2025)
+  continued under the new administration **[V]**
+  ([2025 report](https://www.acq.osd.mil/eie/imr/mc/Downloads/2025-Report-to-Congress-on-Military-Installation-Resilience.pdf)).
+
+Revealed conduct that the Hawaii flagship CONTINUED, not cancelled:
+- Pu'uloa Solar's HECO PPA/line-extension is in an **active PUC proceeding with
+  a public hearing set for March 2026** (Docket 2025-0436) — the project is
+  advancing, not shelved **[V]**.
+- Ameresco's Hawaii (Pu'uloa) infrastructure project was named to **Fortune's
+  2025 "Change the World" list (Oct 2025)** — sponsor-side signal of an
+  ongoing, not paused, project **[V/P]**
+  ([BusinessWire 2025-10-08](https://www.businesswire.com/news/home/20251008868412/en/Ameresco-Named-to-Fortunes-2025-Change-the-World-List-for-Energy-Infrastructure-Project-in-Hawaii)).
+- **May 2026:** joint Army/State "Energy Cluster" resilience showcase (Lt. Gov.
+  Luke, USAG-HI Cdr Col. Sullivan, State CEO Glick) — the on-base resilience
+  program still publicly active in 2026 **[V/P]** (Army release via search).
+
+**What is NOT verifiable:** whether the Jan-2025 IRA/IIJA pause delayed the GRIP
+obligation for Pu'uloa, or reduced its federal share, is **[U]** — the funding
+freeze was national and litigated; the project's own filings continue, but no
+document confirms its GRIP dollars were released, cut, or restructured. Do not
+assert either "Trump killed it" or "fully funded as planned." State the freeze,
+state the continued project conduct, and mark the reconciliation unverified.
+
+### 7d. Confidentiality — what open sources can and cannot show
+
+The "what is the military planning" question is **substantially, but not fully,
+answerable from open sources.**
+
+Public (used above): contract/OT awards and consortium solicitations (Navy CEED,
+Ameresco/GRIP), enhanced-use leases (10 USC 2667), NEPA EAs/EISs, PUC dockets
+and PPAs (interconnection is a civilian-regulated act, so it surfaces),
+congressional press releases, service energy-office and DVIDS releases, and
+budget line items (PDI, ERCIP, MILCON justification books). Nameplate capacity,
+site, developer, and mechanism are generally disclosed because a grid-tied
+military project must interconnect through HECO/KIUC and clear NEPA — both open
+processes.
+
+Withheld / not in open sources (OPSEC): the **critical-load lists** (which
+specific missions must stay powered), the **resilience architecture** (islanding
+switchgear topology, black-start sequencing, cyber design), **specific mission
+dependencies**, and any classified requirement driving sizing. DoD guidance
+(UFC 3-550-04; PNNL/Lincoln Lab microgrid studies) discusses critical-vs-
+noncritical load classification in the abstract but installation-specific lists
+are not published **[V]** ([UFC 3-550-04](https://www.wbdg.org/FFC/DOD/UFC/ufc_3_550_04_2024.pdf)).
+DoD total electricity load on Oahu and its share of island demand remain
+UNVERIFIED / likely sensitive (§6d).
+
+Bottom line for the research question: the *existence, location, size, and
+commercial mechanism* of DoD Hawaii energy projects are open-source knowable
+(this note's tables are built entirely from public records). The *why-this-size,
+which-missions, how-hardened* layer is deliberately withheld, so any inference
+about the true resilience target beyond the published 99.9% §2920 floor is
+speculation. The land-availability question this repo cares about is answerable;
+the mission-dependency question is not.
+
 ## Caveats
 
+- §7 tiers as marked; the reframed-not-cancelled finding is a documented
+  PATTERN (climate cut + resilience/mission-assurance carve-out kept + Navy Aug
+  2025 solicitation language + continued Pu'uloa PUC proceeding), not a project
+  memo saying "continued because reframed." No Hawaii DoD energy project was
+  found affirmatively cancelled; absence of a cancellation record is not proof
+  none occurred.
 - Tenure not deed-resolved (fee vs ceded); constraint tiers are screen-level,
   not DoD findings; every parcel-level exclusion is UNVERIFIED.
 - Layer-34 polygons include some internal overlap (~1,093 ac); dissolved totals

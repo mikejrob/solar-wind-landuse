@@ -111,7 +111,10 @@ Each note is a self-contained investigation with its own sources.
   — terrain, slope cost, the 15–30% band, and steep-slope precedent worldwide.
 - `notes/oahu-ownership.md` — parcel ownership and concentration.
 - `notes/oahu-nonag-solar.md` — urban-district and damaged-land supply.
-- `notes/military-land-solar.md` — DoD land, the 2029 lease question.
+- `notes/military-land-solar.md` — DoD land, the 2029 lease question, the
+  2024–27 project pipeline, and the 2025–26 policy environment.
+- `notes/heco-military-relationship.md` — the HECO–Army utilities-privatization
+  contract and how the military buys power.
 - `notes/golf-course-solar.md` — golf-course acreage.
 - `notes/state-land-solar.md` — state-land leasing authority and history.
 - `notes/available-land-map.md` — the three-layer available-land map, its
