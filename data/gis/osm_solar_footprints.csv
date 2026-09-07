@@ -1,0 +1,27 @@
+name,lat,lon,footprint_ac,layer,category,acres
+Kawailoa Solar,21.6192,-158.0551,284.3,slud,A,284.3
+Kawailoa Solar,21.6192,-158.0551,284.3,lsb,B,252.6
+Kawailoa Solar,21.6192,-158.0551,284.3,lsb,C,30.0
+Kawailoa Solar,21.6192,-158.0551,284.3,lsb,E,1.7
+Waiawa Phase 2 Solar + Storage,21.43,-157.9825,271.3,slud,U,270.8
+Waiawa Phase 2 Solar + Storage,21.43,-157.9825,271.3,slud,A,0.5
+Waiawa Phase 2 Solar + Storage,21.43,-157.9825,271.3,lsb,A,1.2
+Waipio Solar,21.4562,-157.9813,245.4,slud,A,245.4
+Waipio Solar,21.4562,-157.9813,245.4,lsb,B,243.4
+Waipio Solar,21.4562,-157.9813,245.4,lsb,E,2.0
+Waipio Solar,21.4562,-157.9813,245.4,lsb,C,0.1
+Eurus Waianae Solar Project,21.457,-158.1903,143.8,slud,U,92.2
+Eurus Waianae Solar Project,21.457,-158.1903,143.8,slud,A,51.6
+Eurus Waianae Solar Project,21.457,-158.1903,143.8,lsb,E,52.0
+Lanikuhana Solar,21.4191,-158.0184,106.3,slud,A,106.3
+Lanikuhana Solar,21.4191,-158.0184,106.3,lsb,D,61.4
+Lanikuhana Solar,21.4191,-158.0184,106.3,lsb,E,44.9
+Lanikuhana Solar,21.4191,-158.0184,106.3,lsb,A,0.0
+West Loch Solar One,21.3377,-158.0102,100.9,slud,A,100.9
+West Loch Solar One,21.3377,-158.0102,100.9,lsb,C,100.2
+West Loch Solar One,21.3377,-158.0102,100.9,lsb,E,0.6
+Waipio Peninsula,21.367,-157.9855,41.4,slud,A,41.4
+Waipio Peninsula,21.367,-157.9855,41.4,lsb,D,33.4
+Waipio Peninsula,21.367,-157.9855,41.4,lsb,B,7.6
+Waipio Peninsula,21.367,-157.9855,41.4,lsb,C,0.4
+Kalaeloa Solar Two,21.3188,-158.0868,27.4,slud,U,27.4

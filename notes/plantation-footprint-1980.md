@@ -5,12 +5,14 @@ Three quarters of it is still agricultural today (74% county AG-1/AG-2,
 72% state agricultural district). Of the acreage the Land Study Bureau
 rated, 78% is class A or B — the classes HRS § 205-4.5 excludes from
 as-of-right solar or caps at 10%-of-parcel/20 acres. The utility-scale
-solar record matches the statute's geometry: of 311 MW built on Oahu,
-107 MW reached B-bearing parcels through the SUP pathway, 114-150 MW
-sits outside the agricultural district entirely (urban district, federal
-land), and the D/E as-of-right category — the bulk of every published
-land screen — has zero verified built MW. All computations:
-`analysis/plantation_footprint.py` → `data/gis/alum_plantation_crosstabs.csv`.
+solar record matches the statute's geometry: of ~339 MW built on Oahu,
+107 MW reached B-bearing parcels through the SUP pathway, 114-178 MW
+sits partly or wholly outside the agricultural district (urban district,
+federal land), and the D/E as-of-right category — the bulk of every
+published land screen — holds one verified project, Lanikuhana
+(14.7 MW). Computations: `analysis/plantation_footprint.py` →
+`data/gis/alum_plantation_crosstabs.csv`; per-array footprints:
+`analysis/osm_footprint_check.py` → `data/gis/osm_solar_footprints.csv`.
 
 ## 1. The footprint [V]
 
@@ -63,16 +65,31 @@ entirely outside the old plantation core.
 
 Soil classes for the SUP tier come from the LUC dockets
 (`data/sup_census.csv`); routes for the rest from
-[[sup-census]] ("dogs that didn't bark" table) and
-[[project-pipeline-mortality]].
+[[sup-census]] ("dogs that didn't bark" table),
+[[project-pipeline-mortality]], and OSM-mapped array footprints
+intersected with the SLUD and LSB layers
+(`analysis/osm_footprint_check.py`, snapshot 2026-09-07). Footprint
+checks confirm the SUP-tier docket soils: Waipiʻo array 243 of 245 ac
+class B; Kawailoa array 253 of 284 ac class B.
 
-| bucket | projects | MW | share of 311 MW built |
+| bucket | projects | MW | share of ~339 MW built |
 |---|---|---|---|
-| Ag district, B/C via SUP [V] | Waipiʻo (B, ALISH prime/unique), Kawailoa (majority B, panel areas on A and B, IAL), AES West Oʻahu (B 46 ac of 96) | 107.4 | 35% |
-| Urban district, ex-plantation [V] | Hoʻohana (A92-683 boundary-amendment route) | 52 | 17% |
-| Federal land, ch. 205 inapplicable [V] | Kūpono, West Loch (Navy West Loch Annex) | 62 | 20% |
-| Ag district, mechanism unresolved [U] | Mililani I, Lanikuhana (D/E soils or parcel structuring — flagged in [[sup-census]]) | 53.7 | 17% |
-| District unverified [U] | Waiawa (KS master-plan lands, possibly urban) | 36 | 12% |
+| Ag district, B/C via SUP [V] | Waipiʻo (B, ALISH prime/unique), Kawailoa (majority B, panel areas on A and B, IAL), AES West Oʻahu (B 46 ac of 96) | 107.4 | 32% |
+| Urban district, ex-plantation [V] | Hoʻohana (A92-683 boundary-amendment route) | 52 | 15% |
+| Federal land, ch. 205 inapplicable [V] | Kūpono, West Loch (Navy West Loch Annex; West Loch's footprint carries a nominal ag-district code and LSB class C — ch. 205 does not bind the federal landlord) | 62 | 18% |
+| Ag district, D/E as-of-right [V] | Lanikuhana (footprint 106 ac: D 61, E 45) — the one verified D/E build | 14.7 | 4% |
+| Mixed urban / ag-E [V] | Eurus Waianae (2017, pre-RFP; footprint 144 ac: urban 92, ag-district class E 52) | 27.6 | 8% |
+| Ag district, mechanism unresolved [U] | Mililani I (D/E soils or parcel structuring — flagged in [[sup-census]]; sits in the ex-pineapple belt this note maps at 76% class B, 2 km from Lanikuhana's D/E footprint) | 39 | 12% |
+| District unverified [P] | Waiawa (KS master-plan lands; the adjacent Waiawa Phase 2 footprint is 271 of 271 ac urban district) | 36 | 11% |
+
+Floors for the "share off D/E" claim, counting every unresolved MW as
+D/E and attributing Eurus proportionally (52/144 of its footprint on
+class E → 10 MW): built capacity off D/E ≥ (339 − 14.7 − 39 − 10)/339
+= 81%. Adding withdrawn capacity (Kupehau 60 D/E-verified, Mehana 6.6,
+Barbers Point 15, Kaukonahua 6 unknown): ≥ 296.6/426.3 = 69.6%,
+i.e. roughly 70%. An unidentified 41-ac array on Navy Waipiʻo
+Peninsula (OSM "Waipio Peninsula", ~11 MW [U]) would push the combined
+floor to 70.3% if counted as federal.
 
 Mahi (120 MW, PPA approved, construction expected 2026) is 65% class B
 with 69.5 acres IAL (SP21-412), extending the SUP tier. The one project
@@ -99,10 +116,16 @@ a cost map.
 
 ## Open items
 
-- Mililani I and Lanikuhana footprint soils [U]: settle with array
-  footprints (imagery digitization) over `data/gis/lsb.parquet`; host
-  parcels sit in the ex-pineapple belt this note maps at 76% class B,
-  which cuts against the D/E-soils explanation for the missing SP docket.
-- Waiawa (Clearway, 36 MW) state district [U]: one SLUD lookup once the
-  footprint or TMK is in hand.
+- Mililani I footprint soils [U]: no OSM footprint as of the 2026-09-07
+  snapshot; settle with imagery digitization over `data/gis/lsb.parquet`.
+  Lanikuhana, 2 km away on the same ex-pineapple lands, resolved to
+  D 61 / E 45 ac, which supports the D/E-soils explanation for the
+  missing SP docket. (Resolved 2026-09-07: Lanikuhana, via OSM footprint.)
+- Waiawa (Clearway, 36 MW) state district [P]: adjacent Waiawa Phase 2
+  footprint is 100% urban district; Phase 1 needs its own footprint or
+  TMK to move to [V].
+- OSM "Waipio Peninsula" array (41 ac, ~11 MW, Navy Waipiʻo Peninsula)
+  [U]: identify the project and operator; unmapped in the project census.
 - Kaukonahua Solar (6 MW, cancelled) parcel [U].
+- Hoʻohana, AES West Oʻahu, Kūpono, Mililani I, Waiawa Phase 1 lack OSM
+  footprints; the census rows for them rest on dockets and permit records.

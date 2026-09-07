@@ -204,9 +204,10 @@ The 1978-80 ALUM sugar+pineapple footprint on Oahu (50,700 mapped ac):
 74% still county-zoned AG, 72% still state ag district; of LSB-rated acres
 **78% is class A or B** (sugar 47% A; pineapple 76% B) — the classes
 § 205-4.5 excludes or caps. Cross-referenced against the built solar
-record: 107 MW on B-bearing parcels via SUP, 114-150 MW outside the ag
-district, zero verified built MW on as-of-right D/E. Kupehau host parcel
-(the one verified D/E project, cancelled) computed 96% D/E. Feeds
+record (~339 MW built): 107 MW on B-bearing parcels via SUP, 114-178 MW
+partly or wholly outside the ag district, one verified D/E build
+(Lanikuhana, 14.7 MW, OSM footprint D 61 / E 45 ac). Kupehau host parcel
+(withdrawn, D/E-verified) computed 96% D/E. Feeds
 `data/gis/alum_plantation_crosstabs.csv`; script
 `analysis/plantation_footprint.py`. Verification: GIS computations [V];
 Mililani I / Lanikuhana / Waiawa buckets remain [U].
