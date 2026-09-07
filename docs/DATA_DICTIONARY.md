@@ -282,6 +282,7 @@ Large layers here (`*.parquet`, `*.tif`, `*.geojson`, `*.json`, `pages_*/`,
 | oahu_ring_1_3km_summary.csv | 4 | corridor_candidates.py | Buildable acres in the 1–3 km "cheap upgrade" ring, B/C vs D/E |
 | expansion_curve.csv | 154 | transmission_expansion.py | Greedy expansion frontier: per step, segment km, cumulative km, cumulative buildable acres (≤30 and ≤15% slope), marginal ac/km, segment WKT (EPSG:26904), 5-step smoothed ac/km |
 | wind_setback_oahu.csv | 2 | wind_setback_oahu.py | Viable AG-zoned acres under Honolulu Ord 25-2 (1.25 mi) vs pre-2025 (~200 m) setback rules; totals and shares for AG+C and AG-1/2 |
+| alum_plantation_crosstabs.csv | 4 | plantation_footprint.py | 1978-80 ALUM sugar/pineapple footprint (Oahu) crossed with LSB class, state district, county zoning; long format, tables incl. lsb_x_district |
 | wind_viable_areas.csv | 10 | wind_viable_map.py | Summary + named-region rows of Oahu land where large wind remains geometrically permitted under Ord 25-2 (AG-1/AG-2 beyond the 1.25 mi floor), split ≤30% vs >30% slope, with centroids |
 | nonag_top_parcels.csv | 20 | session-built (see notes/oahu-nonag-solar.md) | Top non-ag candidate parcels/sites: owner, flat acres (≤15%), assessed land value per acre, 138 kV distance, durable-vs-pipeline viability class |
 
@@ -313,6 +314,7 @@ artifacts for far clusters.
 | dockets/ (~251 MB) | LUC SUP dockets (`sp15-405/` … `sp26-417/`: D&Os, staff reports, minutes), Hawaii Supreme Court opinions (SCOT-*.pdf + .txt), Kahana/WMPA settlement, `lobbyist_registrations.csv` (Ethics Commission extract), `luc-annual-reports/` |
 | edgar/ (~16 MB) | HEI DEF 14A proxy statements (2006–…), .htm + .txt pairs |
 | lurf/ (192 KB) | LURF membership/officer/board rosters via Wayback (2005–2024) |
+| alum/ (3.7 MB) | `alum.shp.zip` — State ALUM 1978-80 field boundaries (files.hawaii.gov/dbedt/op/gis/data/alum.shp.zip, fetched 2026-09-07, sha256 74ae4883…) |
 | rpad/ (~2.5 MB) | `ownall_oahu_ag_rows.csv` (OWNALL rows for ag TMKs), `govlands_detailed_oahu.csv` |
 | wind-setbacks/ (~18 MB) | Honolulu Ord 25-2, Bill 10/64 records, DPP status memos |
 

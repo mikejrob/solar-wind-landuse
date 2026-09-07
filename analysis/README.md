@@ -12,7 +12,9 @@ Supporting: `corridor_candidates.py` (corridor "unlock" ranking),
 `fetch_ownall.py` + `resolve_owners.py` (RPAD ownership build),
 `campaign_finance_extract.py` (CSC donor classification),
 `wind_setback_oahu.py` (Ord. 25-2 wind setback geometry),
-`wind_viable_map.py` (map of wind-viable land under Ord. 25-2).
+`wind_viable_map.py` (map of wind-viable land under Ord. 25-2),
+`plantation_footprint.py` (1978-80 ALUM footprint vs zoning/district/LSB;
+`--parcel` mode for single-parcel composition).
 
 Scripts hardcode the repo root path (`ROOT`/`PROJECT` constants) and re-run
 offline from `data/gis/` caches. Figures land in `figs/` (screen figures) and
