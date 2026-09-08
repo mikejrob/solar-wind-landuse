@@ -1,0 +1,1418 @@
+=== PAGE 1 ===
+Ryan Perroy & Eszter Collier 
+ 
+2020 Update to the Hawaiʻi Statewide 
+Agricultural Land Use Baseline 
+ 
+ 
+Prepared for 
+Hawaiʻi Department of Agriculture 
+ 
+Prepared by 
+University of Hawaiʻi at Hilo 
+Spatial Data Analysis & Visualization Research Laboratory 
+ 
+ 
+ 
+ 
+  
+
+=== PAGE 2 ===
+1 
+ 
+ 
+Table of Contents 
+Acknowledgments ................................... 2 
+Executive Summary ................................. 3 
+Introduction .......................................... 6 
+Kauaʻi 2020 Agricultural Footprint ................ 8 
+Important Agricultural Lands: Kauaʻi Island .... 13 
+Agricultural Parks: Kauaʻi Island ................. 14 
+Oʻahu Island 2020 Agricultural Footprint ....... 15 
+Important Agricultural Lands: Oʻahu ............ 20 
+Agricultural Parks: Oʻahu ......................... 22 
+Molokaʻi 2020 Agricultural Footprint ............ 23 
+Lānaʻi 2020 Agricultural Footprint ............... 26 
+Maui 2020 Agricultural Footprint ................ 28 
+Hawaiʻi Island 2020 Agricultural Footprint ..... 32 
+Important Agricultural Lands: Hawaiʻi Island .. 40 
+Agricultural Parks: Hawaiʻi Island................ 41 
+Bibliography ......................................... 42 
+Appendix ............................................ 43 
+A1. Crop Mapping Protocols .................... 43 
+A2. Crop Categories & Considerations ........ 45 
+A3. Kaua‘i 2015 and 2020 Comparison........ 47 
+A4. O‘ahu 2015 and 2020 Comparison ........ 48 
+A5. Molokaʻi 2015 and 2020 Comparison ..... 49 
+A6. Lānaʻi 2015 and 2020 Comparison ........ 50 
+A7. Maui 2015 and 2020 Comparison .......... 51 
+A8. Hawai‘i 2015 and 2020 Comparison ...... 52 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 3 ===
+2 
+ 
+ 
+Acknowledgments 
+This report is dedicated to the memory of Jeffrey 
+Melrose and the farmers, ranchers, and other members 
+of the agricultural community in Hawaiʻi that have been 
+impacted by the COVID-19 Pandemic.   
+We would like to acknowledge Department of 
+Agriculture Director Phyllis Shimabukuro-Geiser for her 
+commitment to update the 2015 statewide agricultural 
+land use baseline and make this project a reality, and to 
+her staff for their generous assistance and support. 
+We would also like to specifically thank Doug Beaton, 
+Darrell Bueno, Ed Boteilho, Roberta Chun, Sylvie Cares, 
+Sharon Dansereau, Chris English, Noland Eskaran, Nicole 
+Galase, Hunter Heaivilin, Amy Koch, Natalie Kurashima, 
+Bruce Mathews, Brian Miyamoto, Ben Nyberg, Jesse 
+Potter, William Stormont, Julie Tulang, Chantal Vos, 
+Erin Weingarten, Heath Williams, and the many other 
+people and organizations that provided assistance, 
+insights, and information for this report. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 4 ===
+3 
+ 
+ 
+Executive Summary 
+This report, along with the associated maps and 
+geospatial data layers for the islands of Kauaʻi, Oʻahu, 
+Molokaʻi, Lānaʻi, Maui, and Hawaiʻi, provides an update 
+to the more exhaustive 2015 statewide agricultural land 
+use baseline (Melrose et al. 2015). 
+In the five years between the 2015 statewide 
+agricultural land use baseline and this report, the 
+overall acreage of planted crops on the Hawaiian islands 
+decreased by 21% (-31,207 acres) (Table 1). This overall 
+decline is primarily due to the 2016 closure of the 
+Hawaiian Commercial & Sugar Company (HC&S) on Maui, 
+which removed 38,810 acres of sugarcane production 
+from the state.  
+Statewide, outside of the major decline in sugarcane, 
+there was an overall 7% increase in planted acres for all 
+other crop types from 2015 to 2020 (+7,588 acres). Of 
+these statewide gains, the largest was in diversified 
+agriculture, which rose 22% (+3,695 acres), with 
+approximately half of that increase coming from Maui 
+alone, which more than doubled its planted acreage in 
+diversified crops.  
+The statewide gains in diversified agriculture are an 
+important step forward in food self-sufficiency, but 
+more substantial increases in cropland acreage will be 
+needed to make significant progress towards stated 
+local food production targets (Act 151, Session Laws of 
+Hawaiʻi 2019), particularly in the face of climate 
+change. 
+Papaya, tropical fruit, and taro also saw double digit 
+percentage increases statewide, while the remaining 
+crop types saw either more modest increases or 
+relatively minor decreases, with the exception of dairy 
+which dropped 53% (-990 acres) due to a closure on 
+Hawaiʻi Island.  
+Kauaʻi, with 23,191 mapped cropped acres in 2020, saw 
+overall increases, largely driven by activity in seed 
+production (+956 acres, or 7.2%) and commercial 
+forestry (+816 acres, or 47%). The remaining crop types 
+on Kauaʻi experienced a mixture of modest changes, 
+including minor losses in diversified crops (-53 acres).  
+Oʻahu, with 23,277 cropped acres in 2020, saw increases 
+across all crop categories (minus papaya) during this 
+period, with the largest gains in diversified crops (+730 
+acres, or 7.4%).  
+Molokaʻi, with 3,874 cropped acres in 2020, was largely 
+stable between 2015-2020, with an overall change of 
+<1% in cropped and pasture areas. The largest gain was 
+
+=== PAGE 5 ===
+4 
+ 
+ 
+in tropical fruits (+174 acres, or 405%), while the largest 
+loss was in pasture (-390 acres, or -1%).  
+Lānaʻi, with just 105 cropped acres in 2020, saw an 
+increase of 40 acres in diversified crops relative to 
+2015. Increases in agricultural productivity due to a new 
+indoor hydroponics project associated with Sensei Farms 
+Lānaʻi are not captured in this report. 
+Maui, with 7,718 cropped acres in 2020 (-82% from 
+2015), saw the most agricultural change of any of the 
+Hawaiian Islands during the period between 2015-2020. 
+The loss of sugarcane production drove an overall 
+decrease that was partially offset by gains in other crop 
+types, notably diversified crop (+1,823 acres, or 115%), 
+macadamia nuts (+606 acres, or 325%), and tropical 
+fruits (+508 acres, or 488%). Seed production (-107 
+acres) and pineapple (-134 acres) both decreased on 
+Maui, while pasture was up 6,794 acres (6%).  
+The situation on Hawaiʻi Island, with 62,436 cropped 
+acres mapped in 2020, is also mixed. Gains in most crop 
+types, led by diversified crops (+1,077 acres, or 33%), 
+were offset by losses in four crop categories 
+(aquaculture, commercial forestry, dairy, and 
+flowers/foliage/landscape). Some of these losses were a 
+direct result of the 2018 lower east rift zone volcanic 
+eruption, which engulfed a number of important 
+agricultural holdings. Sugarcane, absent on Hawaiʻi 
+Island in recent years due to past sugarcane plantation 
+closures, has returned in the form of a 14 acre planting 
+for rum production in the Hāwī area. 
+Pasture, which makes up 83% of the overall agricultural 
+footprint in the state, rose by 4,132 acres (1%), with 
+gains on Maui and Kauaʻi offsetting losses on Oʻahu and 
+Hawaiʻi Island. These losses to pasture are due to a 
+combination of reasons including inactivity (indicated by 
+significant natural vegetation regrowth), conversion to 
+other agricultural uses, residential development, and 
+minor reclassifications and adjustments relative to the 
+2015 baseline study.  
+Most recently, the COVID-19 pandemic has been 
+devastating for agriculture statewide. Demand for fresh 
+produce dropped dramatically with mandated stay-at-
+home orders and closures to the tourism industry, 
+seriously affecting farming operations and the 
+agricultural workforce across Hawaiʻi. COVID-19 impacts 
+are not reflected in this report, as the imagery used in 
+our analysis was collected prior to any pandemic-
+related changes or closures, but are worth mentioning 
+as the pandemic is reshaping the economy and will 
+certainly affect the stateʻ s agricultural footprint in the 
+near future.   
+
+=== PAGE 6 ===
+5 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 1. Summary of 2020 Agricultural Footprint for the major Hawaiian Islands. 
+Crop Type Hawai‘i Kaua‘i Maui Moloka‘i Lāna‘i O‘ahu 2020 2015 Acres %
+Aquaculture 162 183 - 26 - 300 670 651 19 3
+Banana 599 30 64 - - 360 1,053 969 84 9
+Coffee 6,028       3,806 944 122 - 169 11,068 10,149 919 9
+Commercial Forestry 20,921     2,559 36 2 - 27 23,546 22,864 682 3
+Dairy 865 - - - - - 865 1,855 -990 -53
+Diversified Crop 4,343       1,146 3,405 1,017 95 10,595 20,601 16,904 3,697 22
+Flowers / Foliage / Landscape 1,538 150 144 26 10 510 2,378 2,432 -54 -2
+Macadamia Nuts 21,405 - 793 7 - 2 22,207 21,545 662 3
+Papaya 3,207 - - 109 - 164 3,480 2,824 656 23
+Pineapple - - 959 - - 3,437 4,396 4,508 -112 -2
+Seed Production - 14,255 647 2,352 - 7,376 24,630 23,728 902 4
+Sugarcane 14 - - - - - 14 38,810 -38,796 -100
+Taro 67 546 113 2 - 77 805 612 193 32
+Tropical Fruits 3,311 516 612 216 - 260 4,915 3,980 935 23
+Crop Total: 62,461 23,191 7,718 3,880 105 23,277 120,632 151,831 -31,199 -21
+Pasture 552,091 42,345 115,241 37,867 - 18,035 765,579 761,429 4,150 1
+Total Agriculture: 614,552 65,536 122,959 41,747 105 41,312 886,211 913,261 -27,050 -3
+2020 Crop Summary by Acreage State Total Change from 2015
+
+=== PAGE 7 ===
+6 
+ 
+ 
+Introduction 
+This report was prepared for the Hawaiʻi State 
+Department of Agriculture (DOA) by the University of 
+Hawaiʻi at Hilo Spatial Data Analysis and Visualization 
+(SDAV) research laboratory. It accompanies a 
+comprehensive set of digital spatial data that depict the 
+2020 footprint of agriculture crops and pasture lands on 
+the islands of Kauaʻi, Oʻahu, Molokaʻi, Lānaʻi, Maui, and 
+Hawaiʻi. These data layers are hosted by the Hawaiʻi 
+Statewide Planning and Geographic Information System 
+(GIS) Program portal at 
+https://planning.hawaii.gov/gis/. 
+The purpose of the project was to document changes to 
+Hawaiʻi’s agricultural footprint since the 2015 report 
+was released to better inform state policy makers, 
+managers and the broader agricultural community 
+regarding recent changes and trends. The five year 
+interval between the 2015 baseline and this report is a 
+major improvement over the 35 year gap between the 
+2015 report and the prior statewide assessment in 1980.  
+In addition to documenting changes over the past five 
+year period, we also examined the agricultural footprint 
+on Oʻahu, Hawaiʻi, and Kauaʻi, as it relates to lands 
+designated as Important Agricultural Lands by the State 
+Land Use Commission, pursuant to Hawaiʻi Revised  
+Statutes ("HRS") §§ 205-44 and -45 and Hawai'i 
+Administrative Rules ("HAR") §§ 15-15-98, -99, -120, and 
+-121. We also examined the agricultural footprint 
+related to active leases in the Hawaiʻi Department of 
+Agricultureʻs Agricultural Park Program. 
+The report was created from an assemblage of 
+geospatial datasets, primarily high-resolution (2018-
+2020) satellite imagery used as a base layer for 
+digitization (Figure 1). Additional datasets include 
+existing GIS layers provided by the State of Hawai‘i’s 
+Office of Planning Statewide GIS Program 
+(https://geoportal.hawaii.gov) and other data 
+generously provided by landowners and managers. 
+Digitized crop locations and boundaries were verified 
+through a combination of on-the-ground site visits, 
+video meetings and presentations of draft layers with 
+agricultural stakeholders and landowners, and 
+solicitations for comments and feedback through a 
+publicly accessible online web mapping portal. In 
+several cases, private landowners shared their own 
+digital data of crop use on their properties and/or were 
+helpful in reviewing draft maps to confirm or correct 
+mapped crop boundaries. 
+
+=== PAGE 8 ===
+7 
+ 
+ 
+These data layers represent our best efforts to capture 
+the scale and diversity of commercial agricultural 
+activity on Kauaʻi, Oʻahu, Molokaʻi, Lānaʻi, Maui, and 
+Hawaiʻi in 2020 and should be used for information 
+purposes only. The digital crop and pasture layer data 
+are provided for public use. 
+In this 2020 assessment, as in the 2015 baseline report, 
+in-field roads, field edges, warehouses, and related 
+farm structures are all part of farm related uses. 
+Gulches and unused lands were generally not counted. 
+As a result, the crop acreage numbers provided in this 
+report may be 10% or more than what industries might 
+report. That difference is not intended to correct 
+industry numbers but rather to express a broader metric 
+of the area of land that is deployed to support a given 
+agricultural use. 
+A complete description of the Crop Mapping Protocols 
+used in this study is included in the Appendix and 
+attached to the metadata associated with the provided 
+digital geospatial layer. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1. Satellite imagery from 2015 and 2020 showing the 
+establishment and digitized outline of a new 10 acre plot of 
+intensive diversified crops on the Waiʻanae Coast of Oʻahu. 
+Sources: Esri, DigitalGlobe, and Maxar. 
+
+
+=== PAGE 9 ===
+8 
+ 
+ 
+Kauaʻi 2020 Agricultural Footprint 
+The island of Kauaʻi (Figure 2) has seen a mixture of 
+gains and losses across crop categories since 2015, with 
+an increase of 1,882 acres (8.8%) in overall cropped 
+area. Seed production continues to have the largest 
+footprint on the island, with 14,255 acres mapped in 
+active use (61% of the total cropped area on Kauaʻi).  
+   
+Coffee continues to be the second largest crop on Kauaʻi 
+(3,806 acres), followed by commercial forestry (2,559 
+acres). Seed production, commercial forestry, and taro 
+all saw acreage increases >100 acres between 2015-
+2020, with the remaining crop categories holding steady 
+or showing slight decreases (Table 2). Pasture continues 
+to make up the majority (65%) of agricultural acreage 
+on Kauaʻi at 42,345 acres. 
+Table 2. Summary of 
+Kauaʻ i Island Agricultural 
+Footprint and changes 
+between 2015 (Melrose et 
+al. 2015) and 2020. 
+Kauai
+Crop Type 2015 2020 Acres %
+Aquaculture 183 183 0 0.0
+Banana 26 30 4 15.8
+Coffee 3,788 3,806 18 0.5
+Commercial Forestry 1,743 2,559 816 46.8
+Diversified Crop 1,199 1,146 -53 -4.4
+Flowers / Foliage / Landscape 165 150 -15 -9.1
+Seed Production 13,299 14,255 956 7.2
+Taro 443 546 103 23.3
+Tropical Fruits 463 516 53 11.4
+Crop Total 21,309 23,191 1,882 8.8
+Pasture 41,933 42,345 412 1.0
+Total 63,242 65,536 2,294 3.6
+Acreage Change (2015 to 2020)
+
+=== PAGE 10 ===
+9 
+ 
+ 
+  
+Figure 2. Kauaʻi 
+Island Agricultural 
+Footprint in 2020. 
+
+=== PAGE 11 ===
+10 
+ 
+ 
+The southwestern shore of Kauaʻi, stretching from the 
+Mānā coastal plain to the fertile fields below Kalāheo, 
+contains the largest concentrated areas of seed 
+production, coffee, and pasture on the island (Figure 3). 
+While coffee plantings and pasture lands in this region 
+have remained largely stable, areas in seed production 
+show significant changes relating to crop rotations and 
+buffer areas (Figure 4).  
+ 
+ 
+ 
+Figure 3. Agricultural footprint from the Mānā coastal plain 
+to Hanaʻpēpē. 
+Figure 4. Satellite images from 2014 and 2019 showing 
+extensive changes to seed production plantings north of 
+Kekaha. Sources: Esri, DigitalGlobe, and Maxar. 
+
+=== PAGE 12 ===
+11 
+ 
+ 
+Southeastern Kauaʻi, from the southern point of Poʻipū 
+up past Hanamāulu in the moku of Līhu‘e, contains a 
+variety of agricultural crops intermixed with large areas 
+of pasture. Seed production, diversified agriculture, and  
+ 
+flowers/foliage/landscape are all present in this area 
+(Figure 5). This region also holds the greatest amount of 
+commercial forestry plantings on the island and saw 
+extensive harvesting and planting activities between 
+2014 to 2020 (Figure 6).  
+ 
+ 
+ 
+ 
+Figure 5. Agricultural footprint for southeastern Kauaʻi. 
+Figure 6. Satellite images from 2014, 2019, and 2020 
+showing extensive changes to commercial forestry 
+plantings south of Highway 50 above Kōloa. Sources: Esri, 
+DigitalGlobe, and Maxar. 
+
+=== PAGE 13 ===
+12 
+ 
+ 
+Continuing up the eastern shore of Kauaʻi, from Wailua 
+to Keālia, there are smaller plantings of various crops 
+situated within a larger matrix of pasture lands (Figure 
+7). The north shore of Kauaʻi, from Moloaʻa stretching 
+west, presents a sequence of different crop types that 
+shift from diversified crops and tropical fruits to 
+commercial forestry to the largest concentration of 
+wetland taro agriculture in the state of Hawaiʻi, located 
+around Hanalei (Figure 8). 
+ 
+ 
+ 
+Figure 7. Agricultural 
+footprint for eastern 
+Kauaʻi. 
+Figure 8. Agricultural 
+footprint for the north 
+shore of Kauaʻi. 
+
+=== PAGE 14 ===
+13 
+ 
+ 
+Important Agricultural Lands: 
+Kauaʻi Island 
+On the island of Kauaʻi there are 37,410 acres 
+designated as Important Agricultural Lands (IAL) by the 
+State Land Use Commission (Figure 9). Within the IALs, 
+51% (19,200 acres) were in active agricultural use in 
+2020. Pasture makes up slightly more than two-thirds of 
+these lands (13,173 acres) and the remaining land is 
+used for crops (5,763 acres) and commercial forestry 
+(264 acres). Of the cropped IAL land, 51% is used to 
+grow coffee (2,916 acres), 48% is used for seed 
+production (2,776 acres), and the remaining 1% is used 
+to grow taro, diversified crop, and banana.  
+Figure 9. Agricultural 
+footprint and Important 
+Agricultural Land designation 
+areas (yellow outline)  on the 
+island of Kauaʻi.   
+
+=== PAGE 15 ===
+14 
+ 
+ 
+Agricultural Parks: Kauaʻi Island 
+On the island of Kauaʻi, there is one active Agricultural 
+Park (Kekaha) totaling 160 leased acres as of 2020, 
+based on GIS data provided by the Department of 
+Agriculture (Figure 10). Of these leased acres, 94% (150 
+acres) were mapped as being in active cultivation in 
+2020. The vast majority of these (140 acres) were in 
+aquaculture for Kauaʻi shrimp, with the remaining 10 
+acres in tropical fruit.  
+ 
+Figure 10. Active Agricultural Park leases (red outline) on Kauaʻi.  
+
+=== PAGE 16 ===
+15 
+ 
+ 
+Oʻahu Island 2020 Agricultural 
+Footprint 
+The island of Oʻahu (Figure 11) has seen slight gains 
+across almost all crop categories since 2015, and 
+continues to produce the majority of diversified crops in 
+the state, with 10,595 acres in production in 2020 
+(Table 3). Diversified crop, which gained over 700 acres 
+between 2015-2020, is followed by seed production 
+(7,376 acres in 2020) and pineapple (3,437 acres in 
+2020) as the next largest crop categories, with most 
+other crops composing <500 acres islandwide.   
+In the central plain of Oʻahu, from ʻEwa Beach (Figure 
+12) up to Waimea Bay on the North Shore (Figure 13), 
+diversified crops (8,000 acres) and seed production 
+(7,400 acres) continue to play major roles, with 
+scattered smaller plantings of banana, pineapple, and 
+other crop types.  
+Table 3. Summary of Oʻahu 
+agricultural footprint and 
+changes between 2015 (Melrose 
+et al. 2015) and 2020.  
+Oʻahu
+Crop Type 2015 2020 Acres %
+Aquaculture 274 300 26 9.5
+Banana 345 360 15 4.3
+Coffee 168 169 1 0.6
+Commercial Forestry 26 27 0.2 0.8
+Diversified Crop 9,865 10,595 730 7.4
+Flowers / Foliage / Landscape 484 510 26 5.4
+Macadamia Nuts 0 2 2 NA
+Papaya 166 164 -2 -1.2
+Pineapple 3,414 3,437 23 0.7
+Seed Production 7,333 7,376 43 0.6
+Taro 51 77 26 51
+Tropical Fruits 227 260 33 14.5
+Crop Total 22,353 23,277 924 4.1
+Pasture 18,464 18,035 -429 -2.3
+Total 40,817 41,312 495 1.2
+Acreage Change (2015 to 2020)
+
+=== PAGE 17 ===
+16 
+ 
+ 
+ 
+Figure 11. Oʻahu 
+Agricultural 
+Footprint in 2020. 
+
+
+=== PAGE 18 ===
+17 
+ 
+ 
+ 
+Two notable agricultural losses in the central plain are 
+located alongside the H-2 Highway: a subdivision 
+development, occurring on what had been 359 acres of 
+diversified crop lands, and the creation of the Waipio  
+ 
+ 
+Solar project on 515 acres of former cattle pasture 
+owned by NRG in Central Oʻahu (Figure 12).  
+ 
+Figure 12. (Left) 
+Agricultural 
+footprint in the 
+lower Central 
+Plain, pink inset 
+box depicts area 
+shown in satellite 
+imagery at right. 
+(Right) Satellite 
+images from 2015 
+and 2019 showing 
+development of the 
+Waipio Solar 
+project on former 
+pasture. Sources: 
+Esri, DigitalGlobe, 
+and Maxar. 
+
+
+=== PAGE 19 ===
+18 
+ 
+ 
+Although limited sheep grazing is planned for a portion 
+of the Waipio Solar to manage vegetation, these two 
+cases provide good examples of the competing interests 
+for land that continue to impact agriculture in Hawaiʻi. 
+ 
+ 
+ 
+ 
+ 
+Figure 13. Agricultural footprint in the upper Central Plain of Oʻ ahu.  
+
+=== PAGE 20 ===
+19 
+ 
+ 
+On the Waiʻanae Coast, diversified crop continues to be 
+an important crop category and has reached 562 acres, 
+an expansion of over 40 acres from the 2015 
+assessment. Flowers/foliage/landscape, tropical fruit, 
+and pasture also remain active in this area (Figure 14). 
+In northern Oʻahu, along the windward coast from Turtle 
+Bay to Kahaluʻu, there are 1,544 acres in diversified 
+crop, the dominant crop category in this area. 
+Aquaculture, banana, and flowers/foliage/landscape all 
+saw minor (<10 acres) increases in acreage in this area 
+between 2015-2020. 
+The Waimānalo area was largely unchanged, adding ~20 
+new acres of flowers/foliage/landscape, raising this 
+crop category up to 212 acres in this region.  
+ 
+Figure 14. 
+Agricultural 
+footprint on the 
+Waiʻanae Coast.  
+
+=== PAGE 21 ===
+20 
+ 
+ 
+Important Agricultural Lands: 
+Oʻahu 
+On the island of Oʻahu there are 15,205 acres 
+designated as Important Agricultural Lands (IAL) by the 
+State Land Use Commission (Figures 15, 16, and 17). Of 
+these, 60% (9,150 acres) were in active agriculture in 
+2020. Pasture makes up a bit more than half of these 
+lands (4,957 acres) and cropped farmland (4,188 acres) 
+the remainder. Of the cropped IAL areas, two-thirds 
+(2,787 acres) is made up of seed production, followed 
+by 952 acres in diversified crops. 
+Figure 15. Agricultural footprint 
+and Important Agricultural Land 
+designation areas (yellow outline) 
+on upper Central Plain of Oʻ ahu.  
+
+=== PAGE 22 ===
+21 
+ 
+ 
+ 
+ 
+Figure X. Important 
+Agricultural Lands on the  
+Figure 16. Agricultural footprint and Important Agricultural 
+Land designation areas (yellow outline) on Windward coast of 
+Oʻ ahu.  
+Figure 17. Agricultural footprint and Important Agricultural Land 
+designation areas (yellow outline) on the lower Central Plain of Oʻ ahu.  
+
+=== PAGE 23 ===
+22 
+ 
+ 
+Agricultural Parks: Oʻahu 
+The Hawaiʻi Department of Agriculture Division of 
+Agricultural Resource Management operates the 
+Agricultural Park Program, where lands are set aside 
+specifically for agriculture-related activities. On the 
+island of Oʻahu, there are four active Agricultural Parks 
+(Kahuku, Kalaeloa, Waiʻanae, and Waimānalo) totaling 
+637 leased acres as of 2020, based on GIS data provided 
+by the Department of Agriculture (Figure 18). Of these 
+leased acres, 368 acres were mapped as being in active 
+cultivation in 2020, with the vast majority of these (327 
+acres) being in diversified crops. It is worth noting that 
+not all of the agricultural-related activities occurring on 
+these lands, specifically some agricultural plots less 
+than three acres in size, fallow lands, and the meat 
+processing operation in Kalaeloa, were mapped under 
+the Crop Mapping Protocols used in this study (see 
+Appendix). 
+Figure 18. Active Agricultural 
+Park Program leases (red outline) 
+on Oʻ ahu.  
+
+
+=== PAGE 24 ===
+23 
+ 
+ 
+Molokaʻi 2020 Agricultural 
+Footprint 
+ Since 2015, agriculture on Molokaʻi has remained 
+largely stable (Table 4, Figure 19). Minor losses in 
+aquaculture and pasture have been offset by increases 
+in other crop types, including diversified agriculture and 
+tropical fruits. The increased acreage in tropical fruit 
+(+174 acres) is the result of new planting in the 
+Hoʻolehua plain (Figure 20). Seed production continues 
+to be the largest crop on Molokaʻi (2,352 acres), 
+followed by diversified agriculture (1,017 acres). 
+Pasture continues to comprise the vast majority (91%) of 
+agricultural acreage on Molokaʻi at 37,867 acres, 
+covering an area roughly double that dedicated to 
+pasture on the island of Oʻahu. 
+ 
+Table 4. 
+Summary of 
+Molokaʻi  
+agricultural 
+footprint and 
+changes 
+between 2015 
+(Melrose et al. 
+2015) and 2020.  
+Moloka‘i
+Crop Type 2015 2020 Acres %
+Aquaculture 28 26 -3 -9.6
+Coffee 123 122 0 0.0
+Commercial Forestry 0 2 2 100.0
+Diversified Crop 937 1,017 80 8.5
+Flowers / Foliage / Landscape 26 26 0 0
+Macadamia Nuts - 7 7 NA
+Papaya 93 109 16 17.6
+Seed Production 2,342 2,352 10 0.4
+Taro 2 2 0 0.0
+Tropical Fruits 43 216 174 405.4
+Crop Total 3,593 3,880 286 8.0
+Pasture 38,261 37,867 -394 -1.0
+Total 41,854 41,747 -108 -0.3
+Change (2015 to 2020)Acreage
+
+=== PAGE 25 ===
+24 
+ 
+ 
+ 
+Figure 19. 
+Molokaʻi  Island 
+Agricultural 
+Footprint in 
+2020. 
+
+
+=== PAGE 26 ===
+25 
+ 
+ 
+ 
+Figure 20. Agricultural Footprint in the Hoʻolehua plain on the island of Molokaʻi.  
+
+
+=== PAGE 27 ===
+26 
+ 
+ 
+Lānaʻi 2020 Agricultural Footprint 
+ The island of Lanaʻi continues to have a relatively small 
+agricultural footprint, but showed a significant increase 
+in diversified crop acreage, rising from 54 acres in 2015 
+to 95 acres in 2020 (Table 5). Beyond these increases in 
+conventionally cropped agriculture (Figure 21, 22), an 
+ambitious hydroponic facility began commercial 
+production in 2020. Sensei Farms Lānaʻi is producing 
+vegetables for resorts on Lānaʻi, with plans to expand 
+production to help meet consumer demand across the 
+state. 
+Table 5. Summary of 
+Lānaʻi  agricultural 
+footprint and changes 
+between 2015 (Melrose et 
+al. 2015) and 2020.  
+Figure 21. Lānaʻi  
+Island Agricultural 
+Footprint in 2020. 
+Sources: Esri, 
+DigitalGlobe, and 
+Maxar. 
+Lāna‘i
+Crop Type 2015 2020 Acres %
+Diversified Crop 54 95 40 74
+Flowers/Foliage/Landscape 10 10 0 0
+Total 65 105 40 62
+Acreage Change (2015 to 2020)
+
+=== PAGE 28 ===
+27 
+ 
+ 
+  
+Figure 22. Lānaʻi  
+Island Agricultural 
+Footprint in 2020. 
+
+
+=== PAGE 29 ===
+28 
+ 
+ 
+Maui 2020 Agricultural Footprint 
+ Of all the Hawaiian islands, the island of Maui has seen 
+the most dramatic changes to its agricultural landscape 
+between 2015-2020 (Table 6, Figure 23). The final 
+closure of the Hawaiian Commercial & Sugar Company 
+(HC&S) in 2016 removed 38,810 acres of sugarcane 
+production from the island, contributing to an overall 
+decline in cropped acreage of 82%. These overall losses 
+have been partially offset by the largest documented 
+increase in diversified crop observed on any of the 
+Hawaiian Islands over this time period, rising from 1,582 
+acres to 3,405 acres, an increase of 115%. Diversified 
+agriculture is now the largest crop on Maui, followed by 
+pineapple, which dropped 12% down to 959 acres.  
+Table 6. Summary 
+of Maui agricultural 
+footprint and 
+changes between 
+2015 (Melrose et al. 
+2015) and 2020.  
+Maui
+Crop Type 2015 2020 Acres %
+Banana 62 64 2 3
+Coffee 545 944 399 73
+Commercial Forestry 33 36 3 10
+Diversified Crop 1,582 3,405 1,823 115
+Flowers / Foliage / Landscape 134 144 10 8
+Macadamia Nuts 186 793 606 325
+Pineapple 1,094 959 -134 -12
+Seed Production 754 647 -107 -14
+Sugarcane 38,810 0 -38,810 -100
+Taro 54 113 59 109
+Tropical Fruits 104 612 508 488
+Crop Total 43,359 7,718 -35,640 -82
+Pasture 108,447 115,241 6,794 6
+Total 151,806 122,959 -28,847 -19
+Change (2015 to 2020)Acreage
+
+=== PAGE 30 ===
+29 
+ 
+ 
+ 
+Figure 23. Maui 
+Island Agricultural 
+Footprint in 2020. 
+
+=== PAGE 31 ===
+30 
+ 
+ 
+Coffee and macadamia nut, the next two largest 
+plantings saw significant increases during this period, as 
+did tropical fruits. These increases are occurring not 
+only on former sugarcane lands (Figure 24, Figure 25), 
+but also with new plantings across the island (Figure 
+26). 
+Figure 24. New 
+plantings and 
+former sugarcane 
+lands in the area of 
+Kahului on Maui  
+Island. 
+
+=== PAGE 32 ===
+31 
+ 
+ 
+ 
+Figure 25. (Left) Satellite image showing 
+sugarcane plantings in the western central 
+plain in 2015. (Right) Satellite image 
+showing the same area converted to 
+diversified crop or fallow fields. Sources: 
+Esri, DigitalGlobe, and Maxar. 
+Figure 26. Agricultural change, 
+including new plantings, in the 
+upcountry area of Kēōkea on 
+Maui Island. 
+
+=== PAGE 33 ===
+32 
+ 
+ 
+Hawaiʻi Island 2020 Agricultural 
+Footprint 
+ Since 2015, Hawaiʻi Island agriculture (Figure 27) has 
+faced a number of trials, from a volcanic eruption in the 
+Puna district and flooding and losses from Hurricane 
+Lane in 2018 to the recent discovery of coffee leaf rust 
+in October 2020. These events, along with ongoing 
+issues impacting pastures and cropland, such as the 
+spread of invasive pests like the coffee-berry borer 
+(Johnson and Manoukis, 2020) and Two-Lined Spittlebug 
+(Thorne et al. 2018), all contribute to the challenges 
+experienced by Hawaiʻi Island ranchers and farmers.  
+Despite these and other challenges, Hawaiʻi Island 
+continues to be the stateʻ s primary producer for a 
+number of important crops, including coffee, 
+flowers/foliage/landscape, macadamia nuts, papaya, 
+and tropical fruit. Hawaiʻi Island also holds the vast 
+majority of the stateʻ s acreage in commercial forestry 
+(20,921 acres) and pasture (552,091), though acreage in 
+these categories dropped slightly from 2015  (Table 7).  
+Table 7. Summary of 
+Hawaiʻ i Island Agricultural 
+Footprint and changes 
+between 2015 (Melrose et 
+al. 2015) and 2020. 
+Crop Type 2015 2020 Acres %
+Aquaculture 165 162 -3 -2
+Banana 536 599 63 12
+Coffee 5,525 6,028 503 9
+Commercial Forestry 21,061 20,921 -140 -1
+Dairy 1,855 865 -990 -53
+Diversified Crop 3,266 4,343 1077 33
+Flowers / Foliage / Landscape 1,612 1,538 -74 -5
+Macadamia Nuts 21,359 21,405 46 0
+Papaya 2,566 3,207 641 25
+Sugarcane - 14 14 N/A
+Taro 61 67 6 10
+Tropical Fruits 3,144 3,311 167 5
+Crop Total 61,150 62,460 1310 2
+Pasture 554,324 552,091 -2,233 0
+Total 615,474 614,551 -923 0
+Acreage Change (2015 to 2020)
+
+=== PAGE 34 ===
+33 
+ 
+ 
+ 
+Figure 27. 
+Hawaiʻi Island 
+Agricultural 
+Footprint in 
+2020. 
+
+=== PAGE 35 ===
+34 
+ 
+ 
+The South Hilo District continues to be one of the more 
+productive agricultural areas in the state (Figure 28). 
+Macadamia nut, commercial forestry, banana, and 
+tropical fruit plots were largely unchanged from 2015-
+2020, while diversified crops displayed much more 
+variability, driven in part by Okinawan sweet potato 
+planting practices.  
+Further north, the Hāmākua coast is home to the 
+majority of the stateʻ s commercial forestry acreage and 
+a patchwork of highly productive agricultural lands 
+(Figure 29). This area saw the closure of the Big Island 
+Dairy facility in 2019, leaving the Clover Leaf Dairy in 
+Hāwī as the last remaining large-scale dairy in the 
+state. Other changes since the 2015 baseline assessment 
+include a slight increase in taro cultivation in the 
+Waipiʻ o Valley, and minor changes in actively cropped 
+areas for tropical fruit and diversified crop categories, 
+including the establishment of a number of newly active 
+plots mauka of Pāpaʻ aloa.  
+Figure 29. Agricultural footprint on the Hāmākua Coast. 
+Figure 28. Agricultural footprint for South Hilo District. 
+
+=== PAGE 36 ===
+35 
+ 
+ 
+The agricultural footprint of North and South Kohala 
+remained largely stable between 2015-2020 and 
+continues to be dominated by pasture lands for cattle 
+production. In the Hāwī area, one notable new change 
+was the addition of 14 acres of irrigated sugarcane 
+cultivation as part of a distillery operation (Figure 30).  
+This marks the first return of commercial sugarcane 
+plantings on Hawaiʻi Island since the sugarcane 
+plantation closures in the twentieth century (Jones and 
+Osgood, 2015; Melrose et al. 2015).  
+ 
+Figure 30. Agricultural footprint in North Kohala. 
+
+=== PAGE 37 ===
+36 
+ 
+ 
+Around the town of Waimea, a concentration of 
+diversified agriculture plots totaling 509 acres produce a 
+variety of truck crops (Figure 31).  
+ 
+ 
+ 
+ 
+Figure 31. Agricultural footprint around the town of Waimea. 
+
+=== PAGE 38 ===
+37 
+ 
+ 
+The agricultural lands of North and South Kona remain 
+largely in coffee and macadamic nut cultivation, with 
+pockets of tropical fruit, flowers/foliage/landscape, 
+and banana. One notable change from the 2015 baseline 
+in this area is the addition of a new large-scale coffee 
+farming operation in Kealakekua (Figure 32). As of early 
+2020, Kona Hills, LLC, had opened ~230 acres for coffee 
+planting, with additional clearing and planting 
+underway. 
+In the Kaʻ ū district in the southern portion of Hawaiʻi 
+Island, there was essentially no change in the pasture or 
+cropped area between 2015 and 2020. Minor additions 
+to diversified crop acreage were mapped around 
+Volcano Village. In the Keaʻ au area, there were slightly 
+expanded plantings in banana, papaya, and diversified 
+crops, with stable footprints in macadamia nut and 
+tropical fruit.  
+ 
+ 
+Figure 32. Agricultural footprint 
+in South Kona near Kealakekua, 
+white box indicates location of 
+a new large-scale coffee farm.  
+
+=== PAGE 39 ===
+38 
+ 
+ 
+Some of the most dramatic changes on Hawaiʻi Island 
+occurred in the Puna district, where lava from the 2018 
+eruption of the Lower East Rift Zone covered almost 
+9,000 acres (Neal et al. 2019).  
+Impacted farmers have had to contend with the loss of 
+cropped areas and severe access issues, as a number of 
+fields not engulfed by lava, particularly papaya and 
+tropical fruit, were cut off from transportation routes. 
+These affected fields collectively total ~ 1,000 acres 
+and include diversified crop, flowers/foliage/landscape, 
+macadamia nut, papaya, and tropical fruit crop 
+categories (Figures 33 and 34).  
+Figure 33. 
+Portion of the 
+agricultural 
+footprint in Puna 
+District impacted 
+by the 2018 
+volcanic 
+eruption. Pink 
+inset box depicts 
+area shown in 
+satellite imagery 
+in Figure 34. 
+
+=== PAGE 40 ===
+39 
+ 
+ 
+ 
+Figure 34. Satellite 
+images from 2015 
+and 2020 showing a 
+subset of the 
+agricultural and 
+residential area in 
+the Puna District 
+impacted by the 
+2018 volcanic 
+eruption. Sources: 
+Esri, DigitalGlobe, 
+and Maxar. 
+
+=== PAGE 41 ===
+40 
+ 
+ 
+Important Agricultural Lands: 
+Hawaiʻi Island 
+On the island of Hawaiʻi there are 56,772 acres 
+designated as Important Agricultural Lands by the State 
+Land Use Commission. Of these, 96% (54,555 acres) 
+were in active agriculture in 2020. Pasture makes up 
+over 90% of these lands (49,812 acres) and commercial 
+forestry (4,743 acres) the remainder (Figure 35). There 
+are no cropped fields of any type on Hawaiʻi Island 
+within the Important Agricultural Lands designation 
+zone.  
+Figure 35. Agricultural 
+footprint and Important 
+Agricultural Land designation 
+areas (yellow outline)  on the 
+island of Hawaiʻi.   
+
+=== PAGE 42 ===
+41 
+ 
+ 
+Agricultural Parks: Hawaiʻi Island 
+On the island of Hawaiʻi, there are four active 
+Agricultural Parks (Hāmākua, Keāhole, Pāhoa, and 
+Panaʻewa) totaling 1,571 leased acres as of 2020, based 
+on GIS data provided by the Department of Agriculture 
+(Figure 36). Of these leased acres, more than half (887 
+acres) were mapped as being in active cultivation in 
+2020. Of these, 44% (390 acres) were in 
+flowers/foliage/landscape, 40% (355 acres) in pasture, 
+and the remainder scattered across various other crop 
+types. It is worth noting that not all of the agricultural-
+related activities occurring on these lands, specifically 
+some agricultural plots less than three acres in size and 
+fallow fields, were mapped under the Crop Mapping 
+Protocols used in this study (see Appendix). 
+Figure 36. Active 
+Agricultural Park 
+leases (red outline) on 
+the island of Hawaiʻi.  
+
+
+=== PAGE 43 ===
+42 
+ 
+ 
+Bibliography 
+ 
+Jones, C. A., & Osgood, R. V. (2015). From King Cane to 
+the Last Sugar Mill: Agricultural Technology and the 
+Making of Hawaiʻi's Premier Crop. University of Hawaiʻi 
+Press 
+Melrose, J., Perroy, R., & Cares, S. (2015). Statewide 
+agricultural land use baseline 2015. Hawaiʻi State 
+Department of Agriculture. 
+Neal, C. A., Brantley, S. R., Antolik, L., Babb, J. L., 
+Burgess, M., Calles, K., ... & Dotray, P. (2019). The 
+2018 rift eruption and summit collapse of Kīlauea 
+Volcano. Science, 363(6425), 367-374. 
+Perroy, R. L., Melrose, J., & Cares, S. (2016). The 
+evolving agricultural landscape of post-plantation 
+Hawai‘i. Applied Geography, 76, 154-162. 
+Thorne, M.S., Wright, M., Fukumoto, G., Oishi, D., 
+Wilson, S., Mack, J., and Oshiro, M. 2019. Detection and 
+management of Two-Lined Spittlebug (Prosapia 
+bicincta) on Hawaiʻi Rangelands. 72nd Annual meeting 
+of the Society for Range Management. Minneapolis, MN. 
+February 10-14, 2019. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 44 ===
+43 
+ 
+ 
+Appendix 
+A1. Crop Mapping Protocols 
+The 2020 Update to the Hawaiʻi Statewide Agricultural 
+Land Use Baseline: Kauaʻi, Oʻahu, Molokaʻi, Lānaʻi, Maui, 
+and Hawaiʻi, was created from an assemblage of 
+geospatial datasets, primarily high-resolution (2018-
+2020) satellite imagery used as a base layer for 
+digitization. Every effort was made to use satellite 
+imagery from 2020, but in a few areas with persistent 
+cloud cover or other issues, imagery from 2019 or 2018 
+was used. Additional datasets used in the project 
+include GIS layers provided by the State of Hawai‘i’s 
+Office of Planning Statewide GIS Program and other 
+data provided by major landowners and managers.  
+Digitized crop locations and boundaries were verified 
+through a combination of on-the-ground site visits, 
+video meetings and presentations of draft layers with 
+agricultural stakeholders and landowners, and 
+solicitations for comments and feedback through a 
+publicly accessible online web mapping portal. In 
+several cases, private landowners shared their own 
+digital data of crop use on their properties and/or were 
+helpful in reviewing draft maps to confirm or correct 
+mapped crop boundaries. 
+ 
+In this 2020 update, as in the 2015 baseline report, in-
+field roads, field edges, warehouses, and related farm 
+structures are considered part of farm-related uses. 
+Gulches and unused lands were generally not counted. 
+As a result, the crop acreage numbers provided in this 
+report may be 10% or more than what industries might 
+report. That difference is not intended to correct 
+industry numbers but rather to express a broader metric 
+of the area of land deployed to support a given 
+agricultural use. 
+These data layers represent our best efforts to capture 
+the scale and diversity of commercial agricultural 
+activity on Kauaʻi, Oʻahu, Molokaʻi, Lānaʻi, Maui, and 
+Hawaiʻi in 2020. We have made every effort to make all 
+images, maps, graphs, data, and other information 
+provided accurate and error-free. However, we do not 
+guarantee the accuracy of any images, maps, graphs, 
+data, or other information. All content is provided 
+without warranty of any kind and is not intended for any 
+regulatory use. The digital crop and pasture layer data 
+are provided for public use and for informational 
+purposes only. If you find any errors in this work, please 
+contact Ryan Perroy at rperroy@hawaii.edu so that we 
+can correct them. 
+
+=== PAGE 45 ===
+44 
+ 
+ 
+The University of Hawai‘i at Hilo Spatial Data Analysis 
+and Visualization (SDAV) Laboratory carried out the 
+work under the direction of Dr. Ryan Perroy. Eszter 
+Collier was the primary geospatial analyst and 
+cartographer, and Erin Weingarten, Hunter Heaivilin, 
+and Ben Nyberg provided additional project support.  
+Funding for the 2020 Update to the Hawaiʻi Statewide 
+Agricultural Land Use Baseline: Kauaʻi, Oʻahu, Molokaʻi, 
+Lānaʻi, Maui, and Hawaiʻi was provided by the Hawaiʻi 
+State Department of Agriculture.  
+The following protocols were used to generate the 2020 
+Agricultural Land Use spatial layers: 
+§ This project focused on commercial agricultural 
+operations with a three-acre minimum crop mapping 
+area. In recognition of the importance of smaller scale 
+producers to Hawaiʻi’s agricultural community, 
+commercial operations less than three acres were 
+included where they could be reasonably identified 
+from the satellite imagery. 
+§ Mapped units follow actual cropped areas as identified 
+in satellite imagery, not TMK parcel boundaries. 
+§ Agricultural lands that did not display actual 
+vegetation growth but appeared to be part of an active 
+agricultural rotation (freshly tilled fields, etc.), were 
+included in acreage summaries. 
+§ For papaya and other crops that rotate every three to 
+four years, mapping efforts focused on active 
+production areas and did not include fallowed fields. 
+§ Packing or processing facilities and in-field access 
+roads were generally included in acreage summaries. 
+§ Homes, reservoirs, unfarmable gulches, and major 
+roadways separating field areas were not mapped. 
+§ “Agri-scaping” of private residences was not mapped. 
+§ Small backyard orchards and what appear to be home 
+use vegetable gardens were not mapped. 
+§ Equestrian uses, including arenas and boarding and 
+riding facilities, were not mapped. 
+§ Rooster cultivation was not mapped. 
+§ Piggeries were not mapped.  
+§ Poultry farms were not mapped.  
+§ Industrial meat processing facilities were not mapped.  
+ 
+
+=== PAGE 46 ===
+45 
+ 
+ 
+A2. Crop Categories & Considerations 
+§ Aquaculture includes active shrimp farms, working 
+fishponds, algae raceways, and research/production 
+facilities. 
+§ Bananas include fields in contiguous plantings larger 
+than 2-3 acres. Throughout the state, bananas are also 
+cultivated in gulches, along farm boundaries, and in 
+small patches within smaller, diversified farm 
+operations. These smaller mixed plantings are generally 
+incorporated into the surrounding farm and labeled as 
+Diversified Crops. 
+§ Coffee includes both larger plantation-type scale 
+operations and smaller farm plantings larger than two 
+acres in coffee growing regions like Kona, Kaʻū, and 
+elsewhere. The North and South Kona region on Hawaiʻi 
+Island were difficult to map accurately based on a 
+practice some farmers have adopted to plant both 
+macadamia nuts and coffee on the same ground, making 
+it challenging to confidently discern these coffee-
+macadamia crop boundaries from satellite imagery. 
+§ Commercial Forestry plantings include both short and 
+long rotation tree crops. Plantings include eucalyptus 
+and other species intended for timber, fiber or energy 
+production, and higher value hardwoods like koa and 
+mahogany planted for eventual commercial harvest and 
+not for native forest restoration. 
+§ Dairy includes core milking and on-farm processing 
+facilities, the surrounding pastures, and croplands under 
+active dairy use. 
+§ Diversified Crops includes a wide range of products 
+that are grown either outdoors or in greenhouses. The 
+category includes many of Hawaiʻi’s small farms and 
+much of its local, fresh vegetables including tomato, 
+cucumbers, leaf crops, beans, and asparagus. This 
+category also includes smaller plantings such as banana, 
+tropical fruit, papaya, and coffee that were too small to 
+map out individually. Also included in the category are 
+export crops such as Okinawan sweet potato, basil, and 
+Asian spices. 
+§ Flowers/Foliage/Landscaping includes a wide variety 
+of products including hothouse or shade cloth grown 
+orchids, anthuriums, tropical flowers, potted nursery 
+plants, field stock, sod farms, and landscape trees. 
+§ Macadamia Nuts include orchards that appear to be 
+actively maintained and harvested. Orchards range from 
+hundreds of acres in South Kona, Kaʻ ū, and Puna to 
+small and mid-size plantings throughout Hawaiʻi Island 
+and a new site on Oʻahu. 
+
+=== PAGE 47 ===
+46 
+ 
+ 
+ § Papayas are mapped in areas where significant 
+commercial papaya production occurs. Mapping efforts 
+focused on lands that appeared to be planted and in 
+active production. Fallow lands that might be available 
+for future papaya planting were not mapped but are an 
+important part of what the papaya industry needs to 
+produce in a sustainable fashion. Smaller plantings of 
+papaya on mixed-crop farms are mapped as Diversified 
+Crops. 
+§ Pasture includes areas in active commercial cattle 
+operation where fencing is apparent and water troughs 
+and/or cattle trails can be identified. Small pasture 
+plots in diverse, rural homesteads were not the focus of 
+this mapping effort but were included where larger 
+parcels and contiguous pasture areas were present. 
+Lands that were formerly in pasture use but have now 
+been purchased by the military, the National Park 
+Service, or withdrawn from pasture in favor of native 
+forest restoration were not included in the pasture 
+layer. Rangelands that are fenced and grazed only 
+seasonally were mapped as pastureland. 
+§ Pineapples include areas planted in large to mid-size 
+operations primarily on Oʻahu. Smaller plantings mixed 
+within smaller diversified farm operations are mapped 
+and labeled as Diversified Crops. 
+§ Seed Production includes all arable lands in use by the 
+seed companies at the time of this survey. Areas 
+depicted include in-field roads, pollen drift buffers, and 
+areas managed for future crop rotation. Net acres 
+actually planted in corn or other seed crops will be 
+substantially less than the gross acres depicted. The 
+industry estimates that they use approximately 25% of 
+their farmable land at any time for active growing. 
+§ Taro includes crops grown in wetland settings only. 
+Dryland taro is included in the Diversified Crops 
+category. 
+§ Tropical Fruit includes a range of products such as 
+breadfruit, rambutan, avocado, longan, lychee, citrus, 
+cacao, and other orchard fruit trees planted for 
+commercial harvest. Small backyard orchards were not 
+mapped and are not counted in the summary of tropical 
+fruit acreage. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 48 ===
+47 
+ 
+ 
+A3. Kaua‘i 2015 and 2020 Comparison 
+ 
+Sources: Melrose et al. 
+2015 and this report. 
+
+=== PAGE 49 ===
+48 
+ 
+ 
+A4. O‘ahu 2015 and 2020 Comparison 
+Sources: Melrose et al. 
+2015 and this report. 
+
+=== PAGE 50 ===
+49 
+ 
+ 
+A5. Molokaʻi 2015 and 2020 Comparison  
+ 
+ 
+Sources: Melrose et al. 
+2015 and this report. 
+
+=== PAGE 51 ===
+50 
+ 
+ 
+A6. Lānaʻi 2015 and 2020 Comparison 
+
+
+=== PAGE 52 ===
+51 
+ 
+ 
+A7. Maui 2015 and 2020 Comparison 
+Sources: Melrose et al. 
+2015 and this report. 
+Sources: Melrose et al. 
+2015 and this report. 
+
+=== PAGE 53 ===
+52 
+ 
+ 
+ 
+A8. Hawai‘i 2015 and 2020 Comparison 
+Sources: Melrose et al. 
+2015 and this report. 

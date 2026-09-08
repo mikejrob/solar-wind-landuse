@@ -8,3 +8,9 @@ data/gis/*
 !data/gis/*.csv
 data/raw/procurement/
 deposit/
+# large raw caches -> Zenodo deposit, not git (see docs/DATA_DEPOSIT.md)
+data/raw/hcdl/*.zip
+data/raw/hcdl/unz/*.tif
+data/raw/hcdl/unz/*.aux
+data/raw/hdoa-baseline/StateAgLandUseBaseline2015.pdf
+data/raw/hdoa-baseline/Statewide-Ag-Footprint-2015.pdf

@@ -123,6 +123,23 @@ Context (verified):
   "landowners oppose solar" framing. Keep this straight.
 - HECO Oahu Stage procurement: 20–29 IPP contracts, $2.5–4B investment,
   ~3,000 acres (Civil Beat 2020 reporting).
+- Ag use of the district (HDOA 2020 Agricultural Land Use Baseline, Perroy &
+  Collier 2022, latest HDOA product; notes/ag-land-use-baseline.md): 30% of
+  Oahu's ag district in mapped commercial ag; B/C 43%, D/E 15% (87%
+  pasture); 65% of by-right S0 and 62% of S3 acreage unmapped. Seed land is
+  a gross rotating footprint (~25% planted) — treat as fully in use.
+- NASS/UH Hawaii Cropland Data Layer 2023–25 (notes/hcdl-2023-2025.md):
+  annual 10 m; crop totals agree with HDOA within ~10% (B/C within 6%);
+  HCDL grassland ≠ pasture; 21% of HDOA cropland never HCDL-crop (seed/
+  pineapple rotation); built solar reads "Developed"; 135 candidate-change
+  parcels are UNVERIFIED until imagery-checked (sample file + plan in note).
+- Reviewer screen 2026-09-07 (B. Plasch; notes/review-plasch-2026-09.md):
+  park/refuge/HHFDC/Pupukea-reserve exclusions ≈6% of modeled D/E; Kahuku motocross = Army-retained TMK 158002002 (already carved out); Waianae "upper mountains" is
+  moot (interior = Conservation; flat ag D/E above 300 m = 61 ac; the box
+  screen caught valley floors because 46 kV is under-mapped); NB27
+  resolutions 2020 (renewables on prime ag limited to farm-serving) and
+  2013 (no more wind) — organic community positions. Map/paper regeneration
+  pending (available_land_map.py hardcodes /Users/michaelroberts).
 - Genuine organic opposition exists (Kahuku / Na Pua Makani wind: ~200
   arrests 2019). Contrast pattern: mass mobilization vs wind; professionalized
   legal intervention vs solar. Countable, reportable contrast.

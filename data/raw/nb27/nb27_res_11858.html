@@ -1,0 +1,2674 @@
+<?xml version="1.0"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
+>
+
+
+    
+    
+      
+      
+      
+      
+         
+          
+              <html xmlns="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1">
+    <head>
+      
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="shortcut icon" href="/docushare/favicon.ico?v=7.0.0.C1.609" type="image/x-icon" />
+    <link rel="apple-touch-icon" sizes="57x57" href="/docushare/apple-icon-57x57.png?v=7.0.0.C1.609" />
+    <link rel="apple-touch-icon" sizes="60x60" href="/docushare/apple-icon-60x60.png?v=7.0.0.C1.609" />
+    <link rel="apple-touch-icon" sizes="72x72" href="/docushare/apple-icon-72x72.png?v=7.0.0.C1.609" />
+    <link rel="apple-touch-icon" sizes="76x76" href="/docushare/apple-icon-76x76.png?v=7.0.0.C1.609" />
+    <link rel="apple-touch-icon" sizes="114x114" href="/docushare/apple-icon-114x114.png?v=7.0.0.C1.609" />
+    <link rel="apple-touch-icon" sizes="120x120" href="/docushare/apple-icon-120x120.png?v=7.0.0.C1.609" />
+    <link rel="apple-touch-icon" sizes="144x144" href="/docushare/apple-icon-144x144.png?v=7.0.0.C1.609" />
+    <link rel="apple-touch-icon" sizes="152x152" href="/docushare/apple-icon-152x152.png?v=7.0.0.C1.609" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/docushare/apple-icon-180x180.png?v=7.0.0.C1.609" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/docushare/android-icon-192x192.png?v=7.0.0.C1.609" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/docushare/favicon-32x32.png?v=7.0.0.C1.609" />
+    <link rel="icon" type="image/png" sizes="96x96" href="/docushare/favicon-96x96.png?v=7.0.0.C1.609" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/docushare/favicon-16x16.png?v=7.0.0.C1.609" />
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta name="msapplication-TileImage" content="/docushare/ms-icon-144x144.png?v=7.0.0.C1.609" />
+    <meta name="theme-color" content="#ffffff" />
+    <meta name="viewport" content="width=1100" />
+    
+    <link rel="stylesheet" type="text/css" href="/docushare/themes/blue/docushare.css?v=7.0.0.C1.609" />
+    <link rel="stylesheet" type="text/css" href="/docushare/themes/blue/xsltforms.css?v=7.0.0.C1.609" /> 
+    
+    
+    
+
+    
+    
+    
+        
+        
+
+    
+    
+    
+    
+
+    
+    
+      <link rel="stylesheet" type="text/css" href="/docushare/themes/blue/docushare_quicksearch.css?v=7.0.0.C1.609" />
+    
+
+
+
+
+    
+
+      
+  <link rel="stylesheet" href="/docushare/themes/blue/popups_and_tooltips.css?v=7.0.0.C1.609" />
+  <link rel="stylesheet" href="/docushare/bower_components/alertifyjs/dist/css/alertify.css?v=7.0.0.C1.609" />
+  <script type="text/javascript">//<![CDATA[
+    var baseUrl = "/docushare/";
+  //]]>
+</script>
+  <script type="text/javascript">//<![CDATA[
+    var docushareServerConfiguration = {
+      dateFormatShort : "MM/dd/yyyy",
+      dateLocale : "en"
+    }
+    var dsDatePickerConfig = {
+      nextYear_label : "Next Year",
+      prevYear_label : "Previous Year"
+    }
+    var alertifyConfig = {
+      favoriteAdded : "Item was successfully added to Favorites",
+      favoriteRemoved : "Item was successfully removed from Favorites"
+    }
+    var genericPopupConfig = {
+      loading : "Loading, please wait…"
+    }
+  //]]>
+</script>
+  
+  
+  
+    
+    <script src="/docushare/bower_components/jquery/dist/jquery.min.js?v=7.0.0.C1.609" > </script>
+  
+
+  <script src="/docushare/bower_components/jquery-ui/ui/minified/core.min.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/bower_components/jquery-ui/ui/minified/widget.min.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/bower_components/jquery-ui/ui/minified/mouse.min.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/bower_components/jquery-ui/ui/minified/position.min.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/bower_components/jquery-ui/ui/minified/draggable.min.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/bower_components/jquery-ui/ui/minified/resizable.min.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/bower_components/jquery-ui/ui/minified/button.min.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/bower_components/jquery-ui/ui/minified/dialog.min.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/bower_components/jquery-ui/ui/minified/datepicker.min.js?v=7.0.0.C1.609" > </script>
+  
+  
+  
+    
+  
+  <script src="/docushare/bower_components/alertifyjs/dist/js/alertify.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/bower_components/qtip2/jquery.qtip.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/bower_components/bpopup/jquery.bpopup.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/bower_components/urljs/url.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/bower_components/throttle-debounce/dist/throttle-debounce.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/bower_components/infect/infect.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/javascript/common/jquery.selectbox.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/javascript/common/checkboxradio.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/javascript/common/popups/bpopup-popup-provider.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/javascript/common/popups/popup-utils.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/javascript/common/popups/core.js?v=7.0.0.C1.609" > </script>
+  
+  <script src="/docushare/javascript/common/popups/plugins/fix-errors-background.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/javascript/common/popups/plugins/handle-close-button.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/javascript/common/popups/plugins/hide-parent-popup.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/javascript/common/popups/plugins/hide-until-loaded.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/javascript/common/popups/plugins/duplicates-handler.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/javascript/common/popups/plugins/fix-popup-height.js?v=7.0.0.C1.609" > </script>
+  
+  <script src="/docushare/javascript/common/popups/data-attributes-interface.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/javascript/common/popups/window-open-replacer.js?v=7.0.0.C1.609" > </script>
+  
+  <script src="/docushare/javascript/common/popups/injections.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/javascript/common/popups/main.js?v=7.0.0.C1.609" > </script>
+
+  <script src="/docushare/javascript/common/multiselect/main.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/javascript/common/tooltips/main.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/javascript/common/favorites/main.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/javascript/common/select-dropdown-menus/reset-position.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/javascript/common/select-dropdown-menus/refresh.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/javascript/common/search/main.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/javascript/common/search/bottom-navigation-fix.js?v=7.0.0.C1.609" > </script>
+  <script src="/docushare/javascript/common/download/main.js?v=7.0.0.C1.609" > </script>
+
+  <script type="text/javascript">//<![CDATA[
+    if (typeof $ !== "undefined") {
+      $.noConflict();
+    }
+  //]]>
+</script>
+
+
+      <script type="text/javascript" src="/docushare/javascript/common/dsutils.js?v=7.0.0.C1.609" > </script>
+      <script type="text/javascript" src="/docushare/javascript/common/dropdown2.js?v=7.0.0.C1.609" > </script>
+      <script type="text/javascript" src="/docushare/javascript/common/webex_functions.js?v=7.0.0.C1.609" > </script>
+
+      <script language="javascript" type="text/javascript" defer="defer">//<![CDATA[
+        var ckeditor_lang="en",
+            ckeditor_runwysiwyg = "Yes";
+      //]]>
+</script>
+
+      
+        
+        
+        
+        
+        
+        
+        
+        
+
+        
+        <script type="text/javascript" src="/docushare/javascript/ckeditor/ckeditor.js?v=7.0.0.C1.609" data-uri="http://ckeditor.com" data-version="4.4.0" > </script>
+        <script type="text/javascript" src="/docushare/javascript/ckeditor/adapters/jquery.js?v=7.0.0.C1.609" > </script>
+        
+        
+		
+	    <script type="text/javascript" src="/docushare/Honolulu/js/scriptForHeader.js" > </script>
+	    <script type="text/javascript" src="/docushare/Honolulu/js/scriptForFooter.js" > </script>	    
+	    
+      
+    
+
+  
+      <title>2011</title>
+      <link rel="alternate" type="application/atom+xml" title="Atom" href="/docushare/dsweb/ApplyListNew/Collection-11858?vdf_results=AtomSummary&amp;mediatype=application/xml&amp;days=7&amp;=sort_key0=date" />
+      
+    <style type="text/css">
+      body {
+      background-color: #FFFFFF;
+      
+      }
+    </style>
+  
+      
+    
+      
+      
+    
+  
+    </head>
+    <body>
+      
+  
+  
+      
+
+    
+
+      
+    
+    
+    
+    
+   
+    
+    
+    
+        <div id="headerForHonoluluBanner">
+	      
+	    </div>
+	
+    <div class="header">
+
+    
+    
+      
+      
+        <form action="/docushare/dsweb/ApplySimpleSearch" method="post" name="Search">
+        <div class="header__top">
+        
+
+          
+    
+      <script type="text/javascript" src="/docushare/javascript/common/ds_routing.js?v=7.0.0.C1.609" > </script>
+    
+  
+
+          
+          
+              <a href="#contents" title="Skip to Contents" class="skipnav_header">Skip to Contents</a>
+            
+
+          
+          <h1><a href="/docushare/dsweb/Home" title="Home">DocuShare</a></h1>
+
+          <ul role="navigation" class="accountlinks">
+            
+              <li class="accountlinks__login"><a href="/docushare/dsweb/MyHomePage" title="Click to view personal home page " class="accountslinks__home"><i class="icon-home"> </i></a><a href="/docushare/dsweb/Services/User-1" title="Click to view properties ">Guest</a></li>
+            
+            
+
+              
+              
+                <li class="accountlinks__logout"><a href="/docushare/dsweb/Login" title="Click to login">Login</a></li>
+              
+              
+
+            
+            
+          </ul>
+        
+
+        
+          <div class="search__wrapper">
+            <div role="search" id="subheader_search" class="search">
+              
+                
+
+                    <input type="text" size="26" class="headersearchbox search__input" placeholder="Search the Entire Site" name="value1" />
+                    
+                       <span title="Click to hide search options" style="display: none;" id="searchOptionsHide" class="search__options is-active icon-settings" onclick="showSearchOptions('search_windowshade'); return(false);">
+                        
+                      </span>
+                      <span style="display: ;" id="searchOptionsShow" title="Click to show search options" class="search__options icon-settings" onclick="showSearchOptions('search_windowshade'); return(false);">
+                        
+                      </span>
+                    
+                    <input type="hidden" name="SimpleSearch" value="SimpleSearch" />
+                    <input hidden="hidden" type="submit" value="Search" name="SearchButton" style="display:none" />
+                    <button name="SearchButton" class="search__submit" value="Search"><i class="icon-search"><span /></i></button>
+
+                    
+                      
+                      <div class="search__insideof">
+                      <i class="icon icon-arrdown"> </i>
+                      <span>In:</span>
+                      <select size="1" name="D1" id="search__insideof__D1">
+                        <option value="Collection-11858" data-placeholder="Search this Collection">This Collection</option>
+                        
+                        <option value="Site" data-placeholder="Search the Entire Site">This Entire Site</option>
+
+                        
+                      </select>
+                      </div>
+                      
+                      
+                    
+
+                  
+              
+            </div> 
+            
+            
+            <div class="search__advanced__cell">
+              
+                <a class="search__advanced" href="/docushare/dsweb/SearchForm/Collection-11858" title="Click for advanced search">Advanced</a>
+                
+              
+            </div>
+
+          </div> 
+        </div> 
+
+        
+        <div role="search" class="search__expanded" id="search_windowshade" style="display:none">
+          <div class="search__close icon-x" onclick="showSearchOptions('search_windowshade'); return(false);"> </div>
+          <h2 class="search__title">Extended search</h2>
+        
+
+          <div class="column1">
+            <span class="labelwrapper"><label for="string_prop">
+    
+    
+    
+    <a rel="help" href="/docushare/dsweb/PropHelp/search_text_contains" class="fieldname labelHelpLink" target="_parent">Search Text Contained In:</a>
+  </label></span>
+            <select name="string_prop" size="1" tabindex="1">
+              <option value="any" selected="selected">Any Part</option>
+              <option value="Object.title,Object.summary,Object.description,Object.keywords,content">Title, Summary, Description, Keywords, Content</option>
+              <option value="Object.title,Object.summary,Object.description,Object.keywords">Title, Summary, Description, Keywords</option>
+              
+                <option value="content">Document Content Only</option>
+              
+              <option value="Object.keywords">Keywords Only</option>
+              <option value="owner">Owner Only</option>
+              
+            </select>
+
+            <span class="labelwrapper"><label for="date_value">
+    
+    
+    
+    <a rel="help" href="/docushare/dsweb/PropHelp/search_last_modified" class="fieldname labelHelpLink" target="_parent">Last Modified:</a>
+  </label></span>
+            <select name="date_value" size="1" tabindex="1">
+              <option value="none" selected="selected">None</option>
+              <option value="86400">Today</option>     
+              <option value="172800">Since Yesterday</option>   
+              <option value="604800">Within the last week</option> 
+              <option value="1209600">Within the last 2 weeks</option>
+              <option value="2592000">Within the last month</option> 
+              <option value="5270400">Within the last 2 months</option>
+              <option value="15811200">Within the last 6 months</option>
+              <option value="31536000">Within the last year</option> 
+            </select>
+          </div>
+
+          <div class="column2">
+            <span class="labelwrapper"><label for="date_value">
+    
+    
+    
+    <a rel="help" href="/docushare/dsweb/PropHelp/object_type" class="fieldname labelHelpLink" target="_parent">Object Types:</a>
+  </label></span>
+            <select name="object_type" size="1" tabindex="1">
+              <option value="any" selected="selected">All Object Types</option>
+              
+                <option value="Document,Collection">Documents &amp; Collections</option>
+              
+              
+                <option value="Calendar,Event">Calendars &amp; Events</option>
+              
+              
+                <option value="Weblog,WeblogEntry,Wiki,WikiPage">Weblogs &amp; Wikis</option>
+                
+                
+              
+              
+                <option value="BulletinBoard,Bulletin">Discussions &amp; Topics</option>
+              
+              
+                <option value="Group,User">Users &amp; Groups</option>
+              
+              
+                <option value="Collection">Collections Only</option>
+              
+              
+                <option value="Document">Documents Only</option>
+              
+            </select>
+
+            <span class="labelwrapper"><label for="document_type">
+    
+    
+    
+    <a rel="help" href="/docushare/dsweb/PropHelp/document_type" class="fieldname labelHelpLink" target="_parent">Document Types:</a>
+  </label></span>
+            <select name="document_type" size="1" tabindex="1">
+              <option value="any" selected="selected">All Document Types</option>
+              <option value="                 application/msword,                 application/vnd.ms-powerpoint,                 application/vnd.ms-excel,                 application/vnd.ms-word.document.macroEnabled.12,                 application/vnd.openxmlformats-officedocument.wordprocessingml.document,                 application/vnd.ms-word.template.macroEnabled.12,                 application/vnd.openxmlformats-officedocument.wordprocessingml.template,                 application/vnd.ms-powerpoint.template.macroEnabled.12,                 application/vnd.openxmlformats-officedocument.presentationml.template,                 application/vnd.ms-powerpoint.addin.macroEnabled.12,                 application/vnd.ms-powerpoint.slideshow.macroEnabled.12,                 application/vnd.openxmlformats-officedocument.presentationml.slideshow,                 application/vnd.ms-powerpoint.presentation.macroEnabled.12,                 application/vnd.openxmlformats-officedocument.presentationml.presentation,                 application/vnd.ms-excel.addin.macroEnabled.12,                 application/vnd.ms-excel.sheet.binary.macroEnabled.12,                 application/vnd.ms-excel.sheet.macroEnabled.12,                 application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,                 application/vnd.ms-excel.template.macroEnabled.12,                 application/vnd.openxmlformats-officedocument.spreadsheetml.template               ">Microsoft Office (Word, Excel, Powerpoint)</option>
+              <option value="                 application/msword,                 application/vnd.ms-word.document.macroEnabled.12,                 application/vnd.openxmlformats-officedocument.wordprocessingml.document,                 application/vnd.ms-word.template.macroEnabled.12,                 application/vnd.openxmlformats-officedocument.wordprocessingml.template                 ">Microsoft Word</option>
+              <option value="                 application/vnd.ms-powerpoint,                 application/vnd.ms-powerpoint.template.macroEnabled.12,                 application/vnd.openxmlformats-officedocument.presentationml.template,                 application/vnd.ms-powerpoint.addin.macroEnabled.12,                 application/vnd.ms-powerpoint.slideshow.macroEnabled.12,                 application/vnd.openxmlformats-officedocument.presentationml.slideshow,                 application/vnd.ms-powerpoint.presentation.macroEnabled.12,                 application/vnd.openxmlformats-officedocument.presentationml.presentation                 ">Microsoft PowerPoint</option>
+              <option value="                 application/vnd.ms-excel,                 application/vnd.ms-excel.addin.macroEnabled.12,                 application/vnd.ms-excel.sheet.binary.macroEnabled.12,                 application/vnd.ms-excel.sheet.macroEnabled.12,                 application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,                 application/vnd.ms-excel.template.macroEnabled.12,                 application/vnd.openxmlformats-officedocument.spreadsheetml.template                 ">Microsoft Excel</option>
+              <option value="application/pdf">Adobe PDF (.pdf)</option>
+              <option value="image/gif,image/jpeg,image/png,image/tiff,image/ico">Any Image Document</option>
+            </select>
+          </div>
+
+          <div class="column3">
+            <span class="labelwrapper"><label for="nresults">
+    
+    
+    
+    <a rel="help" href="/docushare/dsweb/PropHelp/maximum_results_query" class="fieldname labelHelpLink" target="_parent">Maximum Results:</a>
+  </label></span>
+            <select name="nresults" size="1" tabindex="1">
+              <option value="5">5</option>
+              <option value="20">20</option>
+              <option value="50">50</option>
+              <option value="100" selected="selected">100</option>
+              <option value="250">250</option>
+              <option value="500">500</option>
+              <option value="1000">1000</option>
+            </select>
+
+            <span class="labelwrapper"><label for="sort_key0">
+    
+    
+    
+    <a rel="help" href="/docushare/dsweb/PropHelp/sort_results_query" class="fieldname labelHelpLink" target="_parent">Sort Results:</a>
+  </label></span>
+
+            <select name="sort_key0" size="1" tabindex="1">
+              <option value="no_sort" selected="selected">Ranked Order</option>
+              <option value="title">By Title</option>
+              <option value="date">By Date</option>
+              <option value="date_ascending">By Date Ascending</option>
+              <option value="type_and_title">By Type and Title</option>
+              <option value="type_and_date">By Type and Date</option>
+              <option value="title_reversed">By Title Reversed</option>
+              <option value="owner">By Owner</option>
+              
+            </select>
+          </div>
+          <input type="hidden" name="SimpleSearch" value="SimpleSearch" />
+          <div class="buttonbar">
+            <input type="submit" class="search__realsubmit" value="Search" name="goButton" />
+            <button name="goButton" value="Search"><span> </span></button>
+          </div>
+        </div>
+        </form>
+
+        
+        
+        <div class="header__bottom">
+          
+          <ul role="navigation" class="nav">
+            
+            
+            
+                <li class="nav__classichomepage"><a href="/docushare/dsweb/Home" title="Home" target="_parent">
+            
+          Home</a></li>
+              
+            
+            
+
+
+            
+
+
+
+            
+            
+           
+           
+            
+
+            
+               <li>
+                  <a href="/docushare/dsweb/QuickSearchHome" title="Click to go to Quick Search Home"><i class="icon-search"> </i>Quick Search</a>
+              </li>
+            
+
+            
+            
+            
+           
+            
+          </ul>
+        </div>
+        
+        <div hidden="hidden" style="display:none">
+          
+          
+            not imageManager!
+          
+          
+          
+            is valid user!
+          
+          
+        </div>
+
+        
+        
+    
+  
+
+        
+
+        
+        
+    
+    
+    
+  
+  
+
+  <script type="text/javascript">//<![CDATA[
+    if (typeof $ !== "undefined") {
+      $.noConflict();
+    }
+    jQuery(document).ready(function($){
+
+    $('.showhide').click(function(e) {
+      $('#maindiv').toggle();
+      e.preventDefault(); 
+    });
+    });
+  //]]>
+</script>
+ 
+    
+  
+      
+      
+    
+    
+
+    
+      
+
+ 
+  
+
+ <script type="text/javascript">//<![CDATA[
+   if (typeof $ !== "undefined") {
+    $.noConflict();
+   }
+jQuery(document).ready(function($){
+ $(".cookieCloseBtn").click(function(e){
+ e.preventDefault();
+ var link = $(this).attr('href');
+  $.ajax({url: link});
+ $("#cookie_notice").fadeOut();
+});
+
+});
+
+//]]>
+</script>
+
+      <div id="cookie_notice" class="notice notice_blue">
+        <i class="notice__icon icon-info"> </i>
+          This site uses cookies for its functions. By continuing to browse the site, you agree to allow cookies to be set on your computer.
+          <a href="/docushare/dsweb/AcceptCookie" id="accept_cookie" class="cookieButton cookieCloseBtn notice__button" title="Close the Notice"> OK </a>
+          <a href="/docushare/dsweb/CookiesInfo" id="more_cookie_info" class="cookieButton notice__more" title="View More Cookies Information"> More Information</a>
+          <a href="/docushare/dsweb/AcceptCookie" id="close_cookie_notice" class="notice__close cookieCloseBtn " title="Close the Notice"><span class="icon-close"> </span></a>
+      </div>
+    
+  </div>
+  
+
+
+  
+  
+  
+  
+
+  
+
+  
+      
+    
+    
+      
+      
+      
+
+      
+
+      <div class="breadcrumbs">
+        
+            
+    
+      <table class="breadcrumbs__list">
+        <tr><td>Location:&#160;</td><td><a href='/docushare/dsweb/HomePage'>Home</a>&#160;&#160;<img src='/docushare/images/small/breadsep.gif' alt='Contains' title='Contains'/>&#160;&#160;<a target="" href="/docushare/dsweb/View/Collection-10852">Neighborhood Commission Office</a>&#160;&#160;<img src='/docushare/images/small/breadsep.gif' alt='Contains' title='Contains'/>&#160;&#160;<a target="" href="/docushare/dsweb/View/Collection-11083">27 North Shore Neighborhood Board</a>&#160;&#160;<img src='/docushare/images/small/breadsep.gif' alt='Contains' title='Contains'/>&#160;&#160;<a target="" href="/docushare/dsweb/View/Collection-11466">Adopted Resolutions</a>&#160;&#160;<img src='/docushare/images/small/breadsep.gif' alt='Contains' title='Contains'/>&#160;&#160;<a target="" href="/docushare/dsweb/View/Collection-11858">2011</a>&#160;Listing</td ></tr>
+      </table>
+      
+        
+        
+      
+    
+  
+          
+      </div>
+
+
+      <div id="contents_anchor">
+        <table width="0" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="0"><a name="contents"><img src="/docushare/images/small/spacesep.gif" border="0" height="1" width="1" /></a></td>
+          </tr>
+        </table>
+      </div>
+    
+    
+
+  
+
+      <div id="pageheader_wrapper" class=" clearfix">
+      
+         
+	      <div id="titleicon">     
+		      
+            
+          <a href="/docushare/dsweb/View/Collection-11858" target="_top">
+            
+              <img src="/docushare/images/large/folder.png?v=7.0.0.C1.609" border="0" width="38" height="38" alt="Collection" title="Collection" class="midalign"></img>
+            
+	        </a> 
+
+	        
+	      </div>
+			
+			
+      
+      
+          
+              
+
+    
+
+    <div id="actions" class="dropdown">
+
+        <div class="dropdown-more">
+            <span class="icon icon-more" />
+        </div>
+
+        
+    <ul class="dropdown-items">
+        
+        
+    
+    
+            
+        <li>
+            <a href="/docushare/dsweb/Services/Collection-11858" title="Properties">
+                
+                    Properties
+                
+                <span class="icon icon-properties" />
+            </a>
+        </li>
+    
+      
+  
+
+        
+          
+          
+    
+    
+      
+      
+    
+  
+        
+
+         
+
+        
+        
+          
+          
+    
+  
+        
+
+        
+
+      
+      
+    
+
+    
+      
+          
+            
+            
+                
+
+        <li class="action-disabled">
+          <a> 
+            
+                Delete Collection
+            
+            <span class="icon icon-delete" />
+          </a>
+        </li>
+
+    
+              
+          
+          
+        
+      
+    
+  
+
+      
+      
+    
+    
+      
+        
+        <li>
+            <a href="/docushare/dsweb/ServicesLib/Collection-11858/Permissions" title="Permissions">
+                
+                    Permissions
+                
+                <span class="icon icon-permissions" />
+            </a>
+        </li>
+    
+        
+      
+      
+    
+  
+
+      
+      
+    
+    
+      
+      
+    
+  
+
+      
+      
+      
+    
+    
+      
+      
+    
+  
+
+      
+
+      
+      
+    
+    
+  
+
+      
+      
+    
+    
+  
+
+      
+      
+        
+    </ul>
+  
+
+    </div>
+
+  
+            
+        
+
+
+      <div id="pageheader" class="">
+        
+        
+        	
+        	<h1>2011</h1>
+        
+				
+
+        
+          
+            
+          
+        
+
+
+        
+
+        
+        
+
+          
+          <p style="overflow:hidden"></p>
+          
+            
+          
+
+        
+       
+      
+      </div>
+     	</div>   
+
+			
+	
+    
+  
+
+      <div id="content">
+
+          <div id="addFileProgress">
+            <div class="progress-title">
+              <i class="icon icon-uploading"> </i>
+              Uploading
+            </div>
+            <div class="progressbar">
+              <div class="progressbar__progress">
+
+              </div>
+            </div>
+            <button class="progressbar__cancel">Cancel</button>
+      </div>
+
+        <div class="collection-wrapper">
+      <form id="ToolbarMulti" name="ToolbarMulti" method="post" action="/docushare/dsweb/ProcessMultipleCommand">
+        <input type="hidden" name="application" value="Paging" />
+
+        
+        
+        
+
+        
+        
+        
+    
+    
+      <script src="/docushare/javascript/common/tables/toolbar-selection-system.js?v=7.0.0.C1.609">//<![CDATA[
+      //]]>
+</script>
+      <script type="text/javascript">//<![CDATA[
+        ToolbarSelectionSystem.initialize("ToolbarMulti");
+
+      //]]>
+</script>
+    
+
+    <div id="pref_propSelector" class="view-options-wrapper" style="display: none;">
+
+      <div class="view-options">
+
+        <h1>View Options</h1>
+
+    <table>
+    <tr>
+            <td>
+              <div class="view-options-title">Available</div>
+              <select id="pref_available_props" name="search_available_props" size="15" tabindex="1" multiple="multiple" class="multiselect">
+            
+            <optgroup label="Default Properties">
+              <option value="Object.type">Type</option>
+              <option value="Object.title">Title</option>
+              <option value="Object.owner">Owner </option>
+              <option value="Object.modified_date">Modified Date</option>
+              <option value="Object.size">Size</option>
+              <option value="Object.action">Actions</option>
+            </optgroup>
+            
+            <optgroup label="Global Properties">
+              
+                <option value="Object.summary">Summary</option>
+              
+                <option value="Object.readyForDeclare">Ready for Declare</option>
+              
+                <option value="Object.keywords">Keywords</option>
+              
+                <option value="Object.lastSynchronized">Last Synchronized</option>
+              
+                <option value="Object.description">Description</option>
+              
+                <option value="Object.title">Title</option>
+              
+                <option value="Object.modified_date">Modified Date</option>
+              
+                <option value="Object.expiration_date">Expiration Date</option>
+              
+                <option value="Object.space">Space</option>
+              
+                <option value="Object.copiedFrom">Copied From</option>
+              
+                <option value="Object.create_date">Create Date</option>
+              
+           </optgroup>
+           
+            <optgroup label="Collection">
+                
+            
+              <option value="Collection.bg_image">Background Image</option>
+              
+              <option value="Collection.spamControl">Spam Control</option>
+              
+              <option value="Collection.attachmentsOnly">Attachments Only</option>
+              
+              <option value="Collection.view_format">View Format</option>
+              
+              <option value="Collection.logo">Logo</option>
+              
+              <option value="Collection.external_docid">External Handle</option>
+              
+              <option value="Collection.sort_order">Sort Order</option>
+              
+              <option value="Collection.emailAlias">Email Alias</option>
+              
+              <option value="Collection.add_as_draft">Route Before Publishing</option>
+              
+            </optgroup>
+           
+            <optgroup label="Document">
+                
+            
+              <option value="Document.content_type">Content Type</option>
+              
+              <option value="Document.original_file_name">File name</option>
+              
+              <option value="Document.external_docid">External Handle</option>
+              
+              <option value="Document.max_versions">Max Versions</option>
+              
+              <option value="Document.author">Author</option>
+              
+              <option value="Document.canAddVersions">Add Versions</option>
+              
+              <option value="Document.abstract">Abstract</option>
+              
+              <option value="Document.agenda">Hyperlinked Document</option>
+              
+              <option value="Document.size">Size</option>
+              
+              <option value="Document.isPlaceholder">Is Placeholder</option>
+              
+              <option value="Document.add_as_draft">Routing Required</option>
+              
+            </optgroup>
+           
+            <optgroup label="URL">
+                
+            
+              <option value="URL.url">URL</option>
+              
+              <option value="URL.displayInNewWindow">Display in New Window</option>
+              
+            </optgroup>
+           
+            <optgroup label="Discussion">
+                
+            
+              <option value="BulletinBoard.showHierarchy">Display Hierarchy</option>
+              
+              <option value="BulletinBoard.bg_image">Background Image</option>
+              
+              <option value="BulletinBoard.expire">Topics Expire In</option>
+              
+              <option value="BulletinBoard.logo">Logo</option>
+              
+            </optgroup>
+           
+            <optgroup label="Calendar">
+                
+            
+              <option value="Calendar.default_scale">Default View</option>
+              
+            </optgroup>
+           
+            <optgroup label="SavedQuery">
+                
+            
+            </optgroup>
+           
+            <optgroup label="MailMessage">
+                
+            
+              <option value="MailMessage.originally_encrypted">Originally Encrypted</option>
+              
+              <option value="MailMessage.references">References</option>
+              
+              <option value="MailMessage.subject">Subject</option>
+              
+              <option value="MailMessage.messageID">Message-ID</option>
+              
+              <option value="MailMessage.body">Message</option>
+              
+              <option value="MailMessage.postedDate">Sent</option>
+              
+              <option value="MailMessage.from">From</option>
+              
+              <option value="MailMessage.contentType">Content-Type Header</option>
+              
+              <option value="MailMessage.cc">Cc</option>
+              
+              <option value="MailMessage.headers">Internet Headers</option>
+              
+              <option value="MailMessage.originally_signed">Originally Signed</option>
+              
+              <option value="MailMessage.inReplyTo">In-Reply-To</option>
+              
+              <option value="MailMessage.received">Received</option>
+              
+              <option value="MailMessage.size">Size</option>
+              
+              <option value="MailMessage.signed_by">Signed By</option>
+              
+              <option value="MailMessage.replyTo">Reply-To</option>
+              
+              <option value="MailMessage.to">To</option>
+              
+            </optgroup>
+           
+            <optgroup label="Weblog">
+                
+            
+              <option value="Weblog.isModerated">Moderated</option>
+              
+              <option value="Weblog.emailAlias">Email Alias</option>
+              
+            </optgroup>
+           
+            <optgroup label="Wiki">
+                
+            
+            </optgroup>
+           
+        </select>
+        </td>
+            <td class="select-option-group">
+
+              <i onclick="addProp()" class="move-right-action"> </i>
+        <br />
+        <br />
+              <i onclick="removeProp()" class="move-left-action"> </i>
+
+       </td>
+            <td>
+              <div class="view-options-title">Visible</div>
+              <select id="pref_selected_props" name="search_selected_props" size="15" tabindex="1" multiple="multiple" class="multiselect">
+          
+               <option value="Object.type">Type</option>
+               <option value="Object.title">Title</option>
+               <option value="Object.owner">Owner</option>
+               <option value="Object.modified_date">Modified Date</option>
+               <option value="Object.size"> Size</option>
+               
+               <option value="Object.action">Actions</option>
+             
+            </select>
+        </td>
+            <td class="sort-option-group">
+              <i class="move-up-action" title="Move Up ↑" onclick="SearchPropertiesmoveUpSelected(document.getElementById('pref_selected_props'));"> </i>
+           <br />
+           <br />
+              <i class="move-down-action" title="Move Down ↓" onclick="SearchPropertiesmoveDownSelected(document.getElementById('pref_selected_props'));"> </i>
+        </td>
+      </tr>
+      <tr>
+      <td />
+      <td />
+      <td align="right" class="submit-group">
+        
+          <input type="submit" name="prefApplyButton" value="Apply (for me)" class="submit submit_white" onclick="changePref()" />
+          
+            
+          
+        
+      </td>
+      <td />
+      </tr>
+    </table>
+    <input type="hidden" id="prefPropsStr" name="prefPropsStr" value="" />
+      </div>
+    </div>
+
+
+
+    <table border="0" cellspacing="0" cellpadding="2" class="toolbar_multi" width="100%">
+
+  <tr>
+    <td>
+      
+
+            
+  
+     
+      <script type="text/javascript">//<![CDATA[
+      		function checkAllDocuments(){
+		   		var i;
+				n = document.ToolbarMulti.elements.length;
+				for (i=0; i < n ; i++) {
+					if (document.ToolbarMulti.elements[i].type=='checkbox' &&
+					     document.ToolbarMulti.elements[i].name != 'selectcheckbox') {
+						 if (document.ToolbarMulti.elements[i].checked == true)
+							return;					
+					}
+				}
+				for (i=0; i < n ; i++){
+					if (document.ToolbarMulti.elements[i].type=='checkbox'){
+						document.ToolbarMulti.elements[i].checked = true;
+						//document.ToolbarMulti.elements[i].click();
+					}
+			        }
+		 	}
+  	  //]]>
+</script>
+    
+    
+   		  <script type="text/javascript">//<![CDATA[
+                  var caller = '';
+              //]]>
+</script>
+ 		
+
+     
+  
+
+              
+                
+                  
+                
+
+    
+         
+    </td>
+
+    
+      
+              <td>
+                  <div class="presentation">
+                    
+                    
+                    
+                    
+                    
+          
+
+          
+                      <a href="/docushare/dsweb/ProcessMultipleCommand?goRangeButton=refresh&amp;container=Collection-11858&amp;application=Paging&amp;collection=Collection-11858" title="Refresh">
+                            <span class="icon icon-refresh" />
+                      </a>
+          
+
+          
+            
+          
+
+          
+
+          
+                            <a href="/docushare/dsweb/ProcessMultipleCommand?view=view_list&amp;container=Collection-11858&amp;application=Paging&amp;collection=Collection-11858" class="active" title="View List">
+                                <span class="icon icon-rectangle" />
+                              </a>
+              
+                            <a href="/docushare/dsweb/ProcessMultipleCommand?view=view_email&amp;container=Collection-11858&amp;application=Paging&amp;collection=Collection-11858" class="" title="View Email Messages">
+                                <span class="icon icon-mail" />
+                              </a>
+              
+                                  <a style="cursor:pointer" onclick="showHideViewOption();" title="Change View Options">
+                                    <span class="icon icon-column" />
+                                  </a>
+              
+            
+
+                  
+                  </div>
+                  
+        </td>
+      
+  </tr>
+   </table>
+  
+  
+
+              
+
+    
+
+  
+
+        
+          <div id="uploader">
+            
+    
+    
+    
+    <ul class="dropzones" style="display:none">
+      
+
+      
+
+    </ul>
+    
+  
+            <a id="selectFiles" href="#" style="display:none">[browse]</a>
+
+            
+                      <div class="table-wrapper">
+                        <table class="table table-collection">
+                            <thead>
+                <tr>
+                    
+     
+        
+          <th class="nospace checkbox">
+            
+                 
+              
+          </th>
+        
+      
+      
+        <th class="icon"><a href="
+    
+    
+    /docushare/dsweb/View/Collection-11858?sort=TypeAndTitle&order=descending
+  " title="Click to sort by Type and Title" target="_parent">Type <i class="icon icon-arrup"> </i></a></th>
+        <th class="name"><a href="
+    
+    
+    /docushare/dsweb/View/Collection-11858?sort=Title&order=ascending
+  " title="Click to sort by Title" target="_parent">Title </a></th>
+        <th class="generic"><a href="
+    
+    
+    /docushare/dsweb/View/Collection-11858?sort=Owner&order=ascending
+  " title="Click to sort by Owner" target="_parent">Owner </a></th>
+        
+        <th class="generic"><a href="
+    
+    
+    /docushare/dsweb/View/Collection-11858?sort=Date&order=ascending
+  " title="Click to sort by Date" target="_parent">Modified Date </a></th>
+        <th class="generic"><a href="
+    
+    
+    /docushare/dsweb/View/Collection-11858?sort=TypeAndSize&order=ascending
+  " title="Click to sort by Size" target="_parent">Size </a></th>
+        <th class="actions_th_nomore">Actions</th>
+        
+     
+      
+
+      
+  
+                    <col class="col_actions " />
+                    <col class="col_actions " />
+                    <col class="col_actions " />
+                </tr>
+                            </thead>
+                
+                
+                  
+
+      
+
+      
+      <tr about="/docushare/dsweb/Get/Document-319280/2011-10_Resolution_Relating_to_Food_Safety.pdf" id="row0">
+
+      
+      
+      
+            
+    
+        <td class="nospace"> </td>
+      
+  
+      
+
+      
+      
+
+    
+    
+
+    
+    <td class="icon">
+      
+          
+          
+            <a href="/docushare/dsweb/Get/Document-319280/2011-10_Resolution_Relating_to_Food_Safety.pdf" target="_top">
+        <img src="/docushare/images/small/pdfsmall.png?v=7.0.0.C1.609" width="30" height="30" border="0" alt="Document" class="midalign" title="Document" />
+            </a>
+          
+          
+        
+      
+        
+           
+            
+          
+        
+      
+      
+        
+          
+        
+      
+    </td>
+  
+
+      
+      
+    
+    <td class="name">
+
+      
+        
+        
+        
+
+          
+            
+              
+                
+                <a href="/docushare/dsweb/Get/Document-319280/2011-10_Resolution_Relating_to_Food_Safety.pdf" xmlns="http://www.w3.org/1999/xhtml"><b property="dc:title">2011-10_Resolution_Relating_to_Food_Safety.pdf</b></a>
+              
+          
+        
+      
+
+      
+      
+        
+        
+      
+      
+      
+      
+    </td>
+  
+
+      
+      <td class="generic">
+  
+    
+        
+    
+        <a href="/docushare/dsweb/Services/User-159" target="_parent" title="Click to view properties">ncowebeditor</a>
+      
+  
+      
+  
+      </td>
+
+      
+      
+
+      
+      
+          <td property="dc:date" class="generic">05/17/23</td>
+        
+      
+      <td class="nospace summaryText">39 KB</td>
+
+      
+
+      
+    
+  
+
+      
+      
+        
+            <td class="actions">
+              
+
+
+    <ul class="open-actions">
+      
+          
+        <li>
+            <a href="/docushare/dsweb/Services/Document-319280" title="Properties">
+                
+                <span class="icon icon-properties" />
+            </a>
+        </li>
+    
+      
+
+      
+      
+        
+          
+    
+    
+      
+      
+    
+  
+        
+      
+    </ul>
+
+
+    
+
+      
+      <div class="dropdown dropdown-inline">
+        <div class="dropdown-more active dropdown-more_left">
+          <span class="icon icon-more" title="More actions..." />
+        </div>
+
+        
+
+    <ul role="menu" class="dropdown-items">
+
+      
+
+        
+
+
+        
+          
+          
+            
+            
+            
+            
+    
+      
+        
+            
+        <li>
+            <a href="/docushare/dsweb/Get/Document-319280/2011-10_Resolution_Relating_to_Food_Safety.pdf" title="Download">
+                
+                    Download
+                
+                <span class="icon icon-download" />
+            </a>
+        </li>
+    
+          
+        
+        
+      
+    
+  
+            
+            
+          
+          
+          
+              
+              
+    
+      
+          
+
+        <li class="action-disabled">
+          <a> 
+            
+                Upload a New Version
+            
+            <span class="icon icon-upload" />
+          </a>
+        </li>
+
+    
+        
+    
+  
+            
+          
+          
+    
+    
+      
+        
+        <li>
+            <a href="/docushare/dsweb/ServicesLib/Document-319280/Comments" title="Comments">
+                
+                    Comments
+                
+                <span class="icon icon-comments" />
+            </a>
+        </li>
+    
+        
+      
+      
+    
+  
+        
+
+      
+      
+    
+
+    
+      
+          
+            
+            
+                
+
+        <li class="action-disabled">
+          <a> 
+            
+                Delete Document
+            
+            <span class="icon icon-delete" />
+          </a>
+        </li>
+
+    
+              
+          
+          
+        
+      
+    
+  
+
+      
+      
+    
+    
+      
+        
+        <li>
+            <a href="/docushare/dsweb/ServicesLib/Document-319280/Permissions" title="Permissions">
+                
+                    Permissions
+                
+                <span class="icon icon-permissions" />
+            </a>
+        </li>
+    
+        
+      
+      
+    
+  
+
+      
+        
+        
+    
+    
+      
+      
+    
+  
+        
+        
+    
+    
+      
+      
+    
+  
+        
+        
+    
+
+    
+  
+        
+        
+    
+    
+  
+
+        
+	<li class="a_dividerline"><hr /></li>
+	
+        
+            
+            
+    
+    
+    
+  
+          
+        
+        
+    
+      
+      
+    
+  
+        
+        
+    
+      
+      
+    
+  
+        
+		
+    
+  
+
+        
+        
+        
+        
+          
+      
+   
+        
+      
+
+      
+      
+    
+    
+  
+
+      
+      
+    
+    
+  
+
+      
+      
+
+    </ul>
+  
+      </div>
+
+     
+
+  
+            </td>
+          
+      
+
+      </tr>
+
+  
+                
+                
+                
+                
+                  
+
+      
+
+      
+      <tr about="/docushare/dsweb/Get/Document-319278/2011-11_Resolution_Relating_to_Food_Sovereignty.pdf" id="row1">
+
+      
+      
+      
+            
+    
+        <td class="nospace"> </td>
+      
+  
+      
+
+      
+      
+
+    
+    
+
+    
+    <td class="icon">
+      
+          
+          
+            <a href="/docushare/dsweb/Get/Document-319278/2011-11_Resolution_Relating_to_Food_Sovereignty.pdf" target="_top">
+        <img src="/docushare/images/small/pdfsmall.png?v=7.0.0.C1.609" width="30" height="30" border="0" alt="Document" class="midalign" title="Document" />
+            </a>
+          
+          
+        
+      
+        
+           
+            
+          
+        
+      
+      
+        
+          
+        
+      
+    </td>
+  
+
+      
+      
+    
+    <td class="name">
+
+      
+        
+        
+        
+
+          
+            
+              
+                
+                <a href="/docushare/dsweb/Get/Document-319278/2011-11_Resolution_Relating_to_Food_Sovereignty.pdf" xmlns="http://www.w3.org/1999/xhtml"><b property="dc:title">2011-11_Resolution_Relating_to_Food_Sovereignty.pdf</b></a>
+              
+          
+        
+      
+
+      
+      
+        
+        
+      
+      
+      
+      
+    </td>
+  
+
+      
+      <td class="generic">
+  
+    
+        
+    
+        <a href="/docushare/dsweb/Services/User-159" target="_parent" title="Click to view properties">ncowebeditor</a>
+      
+  
+      
+  
+      </td>
+
+      
+      
+
+      
+      
+          <td property="dc:date" class="generic">05/17/23</td>
+        
+      
+      <td class="nospace summaryText">37 KB</td>
+
+      
+
+      
+    
+  
+
+      
+      
+        
+            <td class="actions">
+              
+
+
+    <ul class="open-actions">
+      
+          
+        <li>
+            <a href="/docushare/dsweb/Services/Document-319278" title="Properties">
+                
+                <span class="icon icon-properties" />
+            </a>
+        </li>
+    
+      
+
+      
+      
+        
+          
+    
+    
+      
+      
+    
+  
+        
+      
+    </ul>
+
+
+    
+
+      
+      <div class="dropdown dropdown-inline">
+        <div class="dropdown-more active dropdown-more_left">
+          <span class="icon icon-more" title="More actions..." />
+        </div>
+
+        
+
+    <ul role="menu" class="dropdown-items">
+
+      
+
+        
+
+
+        
+          
+          
+            
+            
+            
+            
+    
+      
+        
+            
+        <li>
+            <a href="/docushare/dsweb/Get/Document-319278/2011-11_Resolution_Relating_to_Food_Sovereignty.pdf" title="Download">
+                
+                    Download
+                
+                <span class="icon icon-download" />
+            </a>
+        </li>
+    
+          
+        
+        
+      
+    
+  
+            
+            
+          
+          
+          
+              
+              
+    
+      
+          
+
+        <li class="action-disabled">
+          <a> 
+            
+                Upload a New Version
+            
+            <span class="icon icon-upload" />
+          </a>
+        </li>
+
+    
+        
+    
+  
+            
+          
+          
+    
+    
+      
+        
+        <li>
+            <a href="/docushare/dsweb/ServicesLib/Document-319278/Comments" title="Comments">
+                
+                    Comments
+                
+                <span class="icon icon-comments" />
+            </a>
+        </li>
+    
+        
+      
+      
+    
+  
+        
+
+      
+      
+    
+
+    
+      
+          
+            
+            
+                
+
+        <li class="action-disabled">
+          <a> 
+            
+                Delete Document
+            
+            <span class="icon icon-delete" />
+          </a>
+        </li>
+
+    
+              
+          
+          
+        
+      
+    
+  
+
+      
+      
+    
+    
+      
+        
+        <li>
+            <a href="/docushare/dsweb/ServicesLib/Document-319278/Permissions" title="Permissions">
+                
+                    Permissions
+                
+                <span class="icon icon-permissions" />
+            </a>
+        </li>
+    
+        
+      
+      
+    
+  
+
+      
+        
+        
+    
+    
+      
+      
+    
+  
+        
+        
+    
+    
+      
+      
+    
+  
+        
+        
+    
+
+    
+  
+        
+        
+    
+    
+  
+
+        
+	<li class="a_dividerline"><hr /></li>
+	
+        
+            
+            
+    
+    
+    
+  
+          
+        
+        
+    
+      
+      
+    
+  
+        
+        
+    
+      
+      
+    
+  
+        
+		
+    
+  
+
+        
+        
+        
+        
+          
+      
+   
+        
+      
+
+      
+      
+    
+    
+  
+
+      
+      
+    
+    
+  
+
+      
+      
+
+    </ul>
+  
+      </div>
+
+     
+
+  
+            </td>
+          
+      
+
+      </tr>
+
+  
+                
+                
+                
+                
+                  
+
+      
+
+      
+      <tr about="/docushare/dsweb/Get/Document-319279/2011-11_Resolution_Relating_to_Local_Food_Procuction_and_Consumption.pdf" id="row2">
+
+      
+      
+      
+            
+    
+        <td class="nospace"> </td>
+      
+  
+      
+
+      
+      
+
+    
+    
+
+    
+    <td class="icon">
+      
+          
+          
+            <a href="/docushare/dsweb/Get/Document-319279/2011-11_Resolution_Relating_to_Local_Food_Procuction_and_Consumption.pdf" target="_top">
+        <img src="/docushare/images/small/pdfsmall.png?v=7.0.0.C1.609" width="30" height="30" border="0" alt="Document" class="midalign" title="Document" />
+            </a>
+          
+          
+        
+      
+        
+           
+            
+          
+        
+      
+      
+        
+          
+        
+      
+    </td>
+  
+
+      
+      
+    
+    <td class="name">
+
+      
+        
+        
+        
+
+          
+            
+              
+                
+                <a href="/docushare/dsweb/Get/Document-319279/2011-11_Resolution_Relating_to_Local_Food_Procuction_and_Consumption.pdf" xmlns="http://www.w3.org/1999/xhtml"><b property="dc:title">2011-11_Resolution_Relating_to_Local_Food_Procuction_and_Consumption.pdf</b></a>
+              
+          
+        
+      
+
+      
+      
+        
+        
+      
+      
+      
+      
+    </td>
+  
+
+      
+      <td class="generic">
+  
+    
+        
+    
+        <a href="/docushare/dsweb/Services/User-159" target="_parent" title="Click to view properties">ncowebeditor</a>
+      
+  
+      
+  
+      </td>
+
+      
+      
+
+      
+      
+          <td property="dc:date" class="generic">05/17/23</td>
+        
+      
+      <td class="nospace summaryText">36 KB</td>
+
+      
+
+      
+    
+  
+
+      
+      
+        
+            <td class="actions">
+              
+
+
+    <ul class="open-actions">
+      
+          
+        <li>
+            <a href="/docushare/dsweb/Services/Document-319279" title="Properties">
+                
+                <span class="icon icon-properties" />
+            </a>
+        </li>
+    
+      
+
+      
+      
+        
+          
+    
+    
+      
+      
+    
+  
+        
+      
+    </ul>
+
+
+    
+
+      
+      <div class="dropdown dropdown-inline">
+        <div class="dropdown-more active dropdown-more_left">
+          <span class="icon icon-more" title="More actions..." />
+        </div>
+
+        
+
+    <ul role="menu" class="dropdown-items">
+
+      
+
+        
+
+
+        
+          
+          
+            
+            
+            
+            
+    
+      
+        
+            
+        <li>
+            <a href="/docushare/dsweb/Get/Document-319279/2011-11_Resolution_Relating_to_Local_Food_Procuction_and_Consumption.pdf" title="Download">
+                
+                    Download
+                
+                <span class="icon icon-download" />
+            </a>
+        </li>
+    
+          
+        
+        
+      
+    
+  
+            
+            
+          
+          
+          
+              
+              
+    
+      
+          
+
+        <li class="action-disabled">
+          <a> 
+            
+                Upload a New Version
+            
+            <span class="icon icon-upload" />
+          </a>
+        </li>
+
+    
+        
+    
+  
+            
+          
+          
+    
+    
+      
+        
+        <li>
+            <a href="/docushare/dsweb/ServicesLib/Document-319279/Comments" title="Comments">
+                
+                    Comments
+                
+                <span class="icon icon-comments" />
+            </a>
+        </li>
+    
+        
+      
+      
+    
+  
+        
+
+      
+      
+    
+
+    
+      
+          
+            
+            
+                
+
+        <li class="action-disabled">
+          <a> 
+            
+                Delete Document
+            
+            <span class="icon icon-delete" />
+          </a>
+        </li>
+
+    
+              
+          
+          
+        
+      
+    
+  
+
+      
+      
+    
+    
+      
+        
+        <li>
+            <a href="/docushare/dsweb/ServicesLib/Document-319279/Permissions" title="Permissions">
+                
+                    Permissions
+                
+                <span class="icon icon-permissions" />
+            </a>
+        </li>
+    
+        
+      
+      
+    
+  
+
+      
+        
+        
+    
+    
+      
+      
+    
+  
+        
+        
+    
+    
+      
+      
+    
+  
+        
+        
+    
+
+    
+  
+        
+        
+    
+    
+  
+
+        
+	<li class="a_dividerline"><hr /></li>
+	
+        
+            
+            
+    
+    
+    
+  
+          
+        
+        
+    
+      
+      
+    
+  
+        
+        
+    
+      
+      
+    
+  
+        
+		
+    
+  
+
+        
+        
+        
+        
+          
+      
+   
+        
+      
+
+      
+      
+    
+    
+  
+
+      
+      
+    
+    
+  
+
+      
+      
+
+    </ul>
+  
+      </div>
+
+     
+
+  
+            </td>
+          
+      
+
+      </tr>
+
+  
+                
+                
+                  
+                
+                
+                </table>
+            </div>
+
+                      
+
+                      
+
+    
+
+  
+
+                <input type="hidden" name="total_cbx" value="3" />
+            
+
+          </div> 
+
+         
+
+        <input type="hidden" name="container" value="Collection-11858" />
+        <input type="hidden" name="collection" value="Collection-11858" />
+        <input type="hidden" name="TheCollection" value="Collection-11858" />
+        <input type="hidden" name="vdf_results" value="View/Collection-11858" />
+        <input type="hidden" name="nakedness" value="" />
+        <input type="hidden" name="page" value="View" />
+        <input type="hidden" name="prefApplication" value="colPreference" />
+
+        
+        <input type="hidden" name="bookmark" value="View/Collection-11858" />
+
+      </form>
+          </div>
+
+      </div>
+
+      
+    
+    
+      
+      
+    
+    
+   
+    
+    
+  
+      
+    
+    
+
+      <div id="siteFooter_noline" class="footer">
+        <div class="footer__pre">
+          <div class="footersitelinks">
+            
+            
+            <ul class="footer__column">
+              
+              
+                <li><a href="/docushare/dsweb/Registry" target="_parent">Users &amp; Groups</a></li>
+              
+              
+            </ul>
+            
+            <ul class="footer__column">
+              
+                 <li><a href="/docushare/dsweb/QuickSearchHome" title="Click to go to Quick Search Home" target="_parent">
+            
+          Quick Search Home</a></li>
+              
+              
+                <li><a href="/docushare/dsweb/ClassicHome" title="Click to go to Classic DocuShare Home" target="_parent">
+            
+          Classic Home</a></li>
+              
+            </ul>
+
+            <ul class="footer__column">
+              
+              
+                <li><a href="/docushare/dsweb/helpdesk">Help</a></li>
+              
+              
+                <li><a href="/docushare/dsweb/Index/Collection-11858?init=true">
+                  
+            
+          
+                
+                    Content Map
+                  
+
+                </a></li>
+              
+            </ul>
+            <ul class="footer__column">
+              
+                  <li><a href="/docushare/dsweb/About">About DocuShare</a></li>                  
+                
+              
+              <li><a href="/docushare/dsweb/Stats">Site Statistics</a></li>
+              
+            </ul>
+            <ul class="footer__column">
+              
+              
+                
+                
+              
+              
+              <li><a href="/docushare/dsweb/CookiesInfo">Cookies</a></li>
+              
+              
+            </ul>
+            
+          </div>
+          
+        </div>
+        
+
+
+
+          
+          
+
+          
+          
+		<div id="subfooter" class="footer__sub">
+          	<div id="subfooter_inner">
+		  		<div class="footerbranding">
+	              <p rel="copyright" id="copyright_text">© 2002-2019 City and County of Honolulu, Hawaii</p>
+	            </div>
+	        </div>
+	    </div>
+	    
+
+
+    
+      </div>
+
+      
+
+ 
+
+
+    
+    
+    
+    
+    	<div id="footerForHonoluluPages">
+	      
+	    </div>
+  
+      
+  <link rel="stylesheet" href="/docushare/bower_components/jquery-ui/themes/base/core.css?v=7.0.0.C1.609" />
+  <link rel="stylesheet" href="/docushare/bower_components/jquery-ui/themes/base/base.css?v=7.0.0.C1.609" />
+  <link rel="stylesheet" href="/docushare/bower_components/jquery-ui/themes/base/theme.css?v=7.0.0.C1.609" />
+  <link rel="stylesheet" href="/docushare/bower_components/jquery-ui/themes/base/button.css?v=7.0.0.C1.609" />
+  <link rel="stylesheet" href="/docushare/bower_components/jquery-ui/themes/base/dialog.css?v=7.0.0.C1.609" />
+  
+  <link rel="stylesheet" href="/docushare/javascript/plupload/js/jquery.plupload.queue/css/jquery.plupload.queue.css?v=7.0.0.C1.609" type="text/css" media="screen" />
+
+  
+  
+
+  
+
+  
+  <script type="text/javascript" src="/docushare/javascript/plupload/js/moxie.js?v=7.0.0.C1.609" > </script>
+  <script type="text/javascript" src="/docushare/javascript/plupload/js/plupload.dev.js?v=7.0.0.C1.609" > </script>
+  <script type="text/javascript" src="/docushare/javascript/plupload/js/jquery.plupload.queue/jquery.plupload.queue.js?v=7.0.0.C1.609" > </script>
+
+  
+  
+
+  <script type="text/javascript">//<![CDATA[
+    var pluploadVars = { cmd_base : "/docushare/dsweb/",
+                         abs_path : "/docushare/",
+                         addMsg : "Add",
+                         cancelMsg : "Cancel",
+                         fileLimit : "200",
+                         dropOnlyFiles : "You can drag and drop only files.",
+                         handle : "Collection-11858",
+                         route_document : "no"}
+  //]]>
+</script>
+  <script type="text/javascript" src="/docushare/javascript/common/jquery.dsRequiredFieldValidation.js?v=7.0.0.C1.609" > </script>
+  <script type="text/javascript" src="/docushare/javascript/common/jquery.dragster.js?v=7.0.0.C1.609" > </script>
+  <script type="text/javascript" src="/docushare/javascript/common/pluploadInit.js?v=7.0.0.C1.609" > </script>
+
+
+      <div style="display:none">
+        
+
+    <script type="html/template" id="doctype-props-template">
+      <div>
+        
+        <div class="header-message-template notice notice_red" style="display:none" role="alert">
+          <i class="notice__icon icon-info" />
+          <p>Please provide values for all required fields.</p>
+        </div>
+        
+      
+      <div id="doctype-props-template-wrapper" class="filecontainer file-item-template">
+      <div class="filecontainer-header">
+        <h3 class="fileinfo">­</h3>
+        
+        <div class="tabs-wrapper">
+          <select class="tabs" size="1">
+            
+          </select>
+        </div>
+      </div>
+      
+      
+    </div>
+      </div>
+    </script>
+  
+        <div id="uploader_hidden" /> 
+      </div>
+
+    </body>
+  </html>
+            
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    
+
+    	
+  

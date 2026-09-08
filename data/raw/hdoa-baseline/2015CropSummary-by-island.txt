@@ -1,0 +1,20 @@
+=== PAGE 1 ===
+Crop Types Hawaiʻi Kauaʻi Maui Molokaʻi Lānaʻi Oʻahu State Total
+Aquaculture 165 183 - 28 - 274 651
+Banana 536 26 62 - - 345 969
+Coﬀee 5,525 3,788 545 123 - 168 10,149
+Commercial Forestry 21,061 1,743 33 - - 26 22,864
+Dairy 1,855 - - - - - 1,855
+Diversiﬁed Crop 3,266 1,199 1,582 937 54 9,865 16,904
+Flowers / Foliage / Landscape 1,612 165 134 26 10 484 2,432
+Macadamia Nuts 21,359 - 186 - - - 21,545
+Papaya 2,566 - - 93 - 166 2,824
+Pineapple - - 1,094 - - 3,414 4,508
+Seed Production - 13,299 754 2,342 - 7,333 23,728
+Sugar - - 38,810 - - - 38,810
+Taro 61 443 54 2 - 51 612
+Tropical Fruit 3,144 463 104 43 - 227 3,980
+Crop Total: 61,149 21,310 43,360 3,593 65 22,354 151,831
+Pasture 554,324 41,934 108,447 38,261 - 18,464 761,429
+Total Agriculture 615,473 63,244 151,808 41,854 65 40,818 913,261
+2015 Crop Summary by Acreage

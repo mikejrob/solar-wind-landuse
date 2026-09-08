@@ -261,6 +261,117 @@ paper improvements imperfectly; single-parcel screening basis noted per row.
 
 ---
 
+## data/ — HDOA 2020 ag-use overlay and reviewer screen (2026-09-07)
+
+Producer: `analysis/ag_baseline_overlay.py` unless noted. Source layer:
+geodata.hawaii.gov `LandUseLandCover/MapServer/19` ("2020 Agricultural Land
+Use", HDOA / UH Hilo SDAV; imagery 2018–2020), cached as
+`data/gis/aglanduse_2020.geojson` (gitignored). Crop columns use the
+report's categories (`diversified_crop`, `seed_production`, `pineapple`,
+`pasture`, `flowers_foliage_landscape`, `banana`, `aquaculture`,
+`tropical_fruits`, `coffee`, `papaya`, `taro`, `commercial_forestry`,
+`macadamia_nuts`); `crop_acres` excludes pasture; `ag_use_acres` includes
+it. Areas in EPSG:26904. Note: `seed_production` is gross land under
+seed-company control (buffers and rotation; ~25% planted).
+
+### oahu_ag_use_2020_by_soil.csv — 6 rows
+LSB class (A–E, `unrated`) × 2020 use acres inside the Oʻahu ag district,
+plus `class_total_ag_district_acres` (from `data/gis/lsb_in_ag_district_totals.csv`),
+`not_in_mapped_ag_acres`, `share_in_mapped_ag`.
+
+### oahu_ag_use_2020_by_district.csv — 3 rows
+State land-use district (`slud_district` A/U/C) × 2020 use acres, all Oʻahu.
+
+### oahu_parcel_ag_use_2020.csv — 6274 rows
+One row per Oʻahu ag-district parcel (same set as `cap_scenarios_by_parcel.csv`).
+`parcel_acres` (full parcel), `ag_district_rated_acres` (LSB-rated area in
+district), per-crop acres, `bc_acres`/`de_acres`, `bc_in_ag_use_acres`,
+`bc_in_pasture_acres`, `de_in_ag_use_acres`, `de_in_pasture_acres`,
+`share_parcel_in_ag_use`, `dominant_use` (`none_mapped` if none),
+`S0_current_10pct_20ac`, `S3_20pct_nocap`, `owner_resolved`, `owner_type`.
+
+### oahu_ag_use_2020_by_owner_type.csv — 12 rows
+Owner type × use acres; `share_of_rated_ag_land_in_use` = ag_use_acres /
+ag_district_rated_acres.
+
+### oahu_eligible_by_use_2020.csv — 4 rows
+Scenario (S0, S3, S4, D/E) × 2020 use. B/C eligibility is attributed in
+proportion to each parcel's B/C use mix; `not_in_mapped_ag` is the
+remainder.
+
+### oahu_eligible_by_parcel_size.csv — 20 rows
+Producer: `analysis/review_area_screen.py`. Scenario × per-parcel eligible-acreage
+bin (<5, 5–20, 20–30, 30–100, ≥100): `parcels`, `acres`,
+`share_of_scenario_acres`. D/E ≤15% is parcel D/E scaled by the parcel's
+≤15%-slope share (approximation to the raster basis).
+
+### oahu_review_area_screen.csv — 10 rows; oahu_review_area_parcels.csv — 2382 rows
+Producer: `review_area_screen.py`. Areas named by the 2026-09-07 reviewer
+(`docs/reviews/plasch-2026-09-07.md`), matched by owner regex and/or WGS84
+box (`how_identified`): parcel count, ag-district acres, B/C, D/E,
+`de_le15_acres_approx`, S0/S3 eligible acres, 2020 use, parcels in the
+modeled B/C draw, median 138 kV distance, top owners. The parcel file
+carries the per-parcel rows (`area`, `tmk`, soils, slope bands, use,
+distances, owner, `in_bc_selection`, centroid `lon`/`lat`). Boxes for
+Pūpūkea and Kahuku are coarse.
+
+### oahu_waianae_screen_by_elevation.csv — 6 rows
+Producer: `analysis/waianae_screen_map.py`. Elevation band (USGS 3DEP, 10 m)
+× acres of D/E ≤15% and 15–30% slope inside the Waiʻanae-screen parcels,
+plus all ag-district D/E ≤15% in the screening box and island-wide.
+
+### oahu_existing_solar_osm.csv — 47 rows
+Producer: `review_area_screen.py`. OpenStreetMap `power=plant` /
+`plant:source=solar` polygons on Oʻahu (Overpass pull 2026-09-07,
+`data/gis/osm_solar_plants_oahu.json`): `osm_id`, `name`, `mw`,
+`operator`, `acres`, `lsb_A…lsb_E`, `slud_A/U/C/R`, `ag_district_tmks`
+(top 5 by overlap). Incomplete: several plants are unnamed or absent.
+
+## data/ — Hawaiʻi Cropland Data Layer overlay (2026-09-07)
+
+Producer: `analysis/hcdl_overlay.py`. Source: USDA NASS / UH Mānoa HCDL V2.1
+(2023, 2024, 2025; EPSG:3857 10 m; `data/raw/hcdl/`), warped by nearest
+neighbour to the 10 m EPSG:26904 grid of `data/gis/dem/oahu_slope_bands.tif`
+(`data/gis/hcdl/*.tif`, gitignored). Crop groups follow the crosswalk in the
+script docstring (`grassland` is the HCDL Grassland/Pasture class, not HDOA
+pasture; `non_ag` = forest, shrub, barren, developed, water).
+
+### oahu_hcdl_class_acres.csv — 108 rows
+`year`, `scope` (oahu_all / ag_district), `cdl_code`, `class`, `group`, `acres`.
+
+### oahu_hcdl_by_soil.csv — 270 rows
+`year` × `group` × `lsb_class` (A–E, unrated) acres inside the ag district.
+
+### oahu_hcdl_vs_hdoa2020.csv — 420 rows
+`hdoa_2020` category (incl. `not_mapped_2020`) × `hcdl_group` × `year`
+(2024, 2025) acres, ag district.
+
+### oahu_hcdl_stability.csv — 14 rows
+Per HDOA 2020 category: `acres`, `crop_all_3yr`, `crop_same_class_3yr`,
+`crop_any_yr`, `noncrop_all_3yr`, `grassland_all_3yr`.
+
+### oahu_parcel_hcdl.csv — 6,274 rows
+Per ag-district parcel: `parcel_cells_acres`, `hcdl_crop_{yr}`,
+`hcdl_grass_{yr}`, `hcdl_corn_{yr}`, `hcdl_crop_all3`, `hcdl_crop_any`,
+`hdoa2020_crop`, `hdoa2020_pasture`, `hdoa_crop_x_hcdl_noncrop3`
+(HDOA crop cells never HCDL crop), `hdoa_unmapped_x_hcdl_crop3`, the 2024
+composition of those cells (`loss_cells_grass_2024`,
+`loss_cells_developed_barren_2024`, `loss_cells_forest_shrub_2024`,
+`gain_cells_other_crops_2024`), soils, owner, centroid `lon`/`lat`.
+
+### oahu_hcdl_change_candidates.csv — 135 rows
+Parcels with ≥5 ac of 3-year-consistent disagreement; `candidate_type`,
+`candidate_acres`, `verification_status` (all UNVERIFIED), `verification_note`.
+
+### oahu_hcdl_verification_sample.csv — 28 rows
+Stratified check list (A crop→developed/barren; B crop→grassland; C
+unmapped→crop) with `google_earth_url` and blank checker columns
+(`verified_by`, `imagery_dates_checked`, `finding`).
+
+### oahu_existing_solar_hcdl.csv — 12 rows
+OSM solar footprints ≥10 ac: `acres`, `hdoa2020_mapped_ac`, top two HCDL
+classes per year.
+
 ## data/gis/ — derived summary CSVs (tracked)
 
 Large layers here (`*.parquet`, `*.tif`, `*.geojson`, `*.json`, `pages_*/`,
@@ -307,6 +418,12 @@ artifacts for far clusters.
 ---
 
 ## data/raw/ — primary-source caches (gitignored, ~390 MB)
+
+`hdoa-baseline/` (2026-09-07): HDOA 2015/2020 Agricultural Land Use Baseline
+reports, 2020 GIS metadata, text extracts, HDOA project pages (~45 MB;
+deposit candidate). `hcdl/`: NASS Hawaiʻi CDL V2.1 zip (28 MB), rasters,
+metadata, method papers with text extracts (deposit candidate). `nb27/`: North Shore Neighborhood Board resolutions
+(2013 wind, 2020 agriculture) with text.
 
 | subdir | contents |
 |---|---|

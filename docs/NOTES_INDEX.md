@@ -268,3 +268,34 @@ realized Oʻahu deployment ~25–45 MW/yr vs ~200 MW/yr required [V]/[P]; the
 ex-ante risk-premium stack from the PPA terms [V]; the Mahi Stage-2→Stage-3
 re-procurement as the cleanest delay-cost experiment (price pull pending,
 Docket 2025-0414); the >5 MW RFP floor stranding as-of-right B/C parcels [V].
+
+### ag-land-use-baseline.md
+The HDOA 2020 Agricultural Land Use Baseline (Perroy & Collier 2022, UH
+Hilo SDAV; latest HDOA product, no update since) overlaid on the Oʻahu ag
+district, LSB classes, parcels, owners, and cap scenarios. 36,139 ac of
+mapped commercial use in a ~120,800-ac district [V]; B/C 43% in use, D/E
+15% and 87% of that pasture [V]; 65% of S0 and 62% of S3 acreage unmapped
+[V]; seed-production acreage is a gross rotating footprint (~25% planted)
+[V]; existing solar footprints from OSM (incomplete) sit on B soils [V/P].
+Points to the NASS/UH Cropland Data Layer (2023–25) as the update path.
+
+### review-plasch-2026-09.md
+Point-by-point investigation of reviewer comments (B. Plasch, Plasch Econ
+Pacific, 2026-09-07; letter in `docs/reviews/`). Quantifies each named
+exclusion against the available-land map [V]; a per-parcel ≥30-ac floor
+[V]; existing-solar overlap [P, OSM incomplete]; agrivoltaic cost caveat
+added to paper §7 [V, NREL]; state North Shore ag commitments (Galbraith,
+Whitmore, Wahiawā system, food hub) [V]; NB27 resolutions 2020 (renewables
+on prime ag limited to farm-serving) and 2013 (no more wind) [V]; rent
+claims [U]. Lists the map/paper regeneration steps not yet done.
+
+### hcdl-2023-2025.md
+The USDA NASS / UH Mānoa Hawaiʻi Cropland Data Layer (annual 10 m, V2.1,
+2023–25; AlphaEarth embeddings + random forest, 2024 F1 0.90–1.00 by
+class, 2025 unassessed) warped onto the repo grid and crossed with the
+HDOA 2020 polygons. Crop totals agree within ~10% and within 6% on B/C
+[V]; HCDL grassland ≠ HDOA pasture [V]; 21% of HDOA cropland never crop in
+HCDL, mostly seed/pineapple rotation [P]; built solar = "Developed" [V];
+crop→developed 619 ac on 7 parcels matching known projects [P]; 135
+candidate-change parcels and a 28-parcel stratified verification sample
+[U until imagery-checked]. Verification plan in the note.

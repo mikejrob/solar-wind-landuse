@@ -1,0 +1,556 @@
+=== PAGE 1 ===
+Layer Name: 2020 Update to the Hawaiʻi Statewide Agricultural Land Use Baseline 
+ 
+File Name: aglanduse_2020_haw.shp 
+ 
+Layer Type: Polygon 
+ 
+Status: Complete 
+ 
+Geog. Extent: Island of Hawaii 
+ 
+Projection: Universal Trans Mercator, Zone 4 (Meters) 
+ 
+Datum: NAD 83 HARN (** see below) 
+ 
+Description: The 2015 Hawaii Statewide Agricultural Land Use Baseline layer was created to 
+provide a snapshot of contemporary commercial agricultural land use activity in 
+Hawaii. The purpose of this layer was to help define the areas, circumstances, 
+and resources that drive the agricultural production taking place throughout the 
+state. 
+ 
+Source: The University of Hawaii at Hilo Spatial Data Analysis & Visualization (SDAV) 
+Laboratory in conjunction with the Hawaii State Department of Agriculture, 
+2021. https://hdoa.hawaii.gov/salubreports/ 
+ 
+Please acknowledge Perroy, R., & Collier, E. (2021). 2020 Update to the Hawaiʻi 
+Statewide Agricultural Land Use Baseline. Hawaii State Department of Agriculture, 
+as a source when this data is used in the preparation of reports, papers, 
+publications, maps, and other products. 
+ 
+History: The 2020 Update to the Hawaiʻi Statewide Agricultural Land Use Baseline layer was 
+created to provide a snapshot of contemporary commercial agricultural land use 
+activity in Hawaiʻi. It is based upon an assemblage of geospatial datasets, primarily 
+high-resolution WorldView-2 and WorldView-3 satellite imagery (2018 – 2020) used as a 
+base layer for digitization. Additional datasets used in this work include GIS layers 
+provided by the state of Hawaiʻi, Office of Planning Statewide GIS Program and other 
+data provided by major land owners and managers. County Real Property Tax and 
+Agricultural Water Use data were also used to identify commercial farm operations. Not 
+all properties that receive County agricultural tax assessment rates or reduced water 
+cost for agricultural uses were mapped due to the small scale of some of their 
+operations. These data sources were used to verify mapped commercial farms and 
+identify operations that might have been missed using the imagery alone. 
+ 
+Digitized crop locations and boundaries were verified through a combination of on- the-
+ground site visits, meetings and presentations of draft layers with agricultural 
+stakeholders and landowners, solicitations through a publicly accessible online web 
+mapping portal, and spot- checking using Google Earth™ and other high resolution 
+imagery sources. 
+ 
+The 2020 Update to the Hawaiʻi Statewide Agricultural Land Use Baseline layer 
+represents our best efforts to capture the scale and diversity of commercial 
+agricultural activity in Hawaiʻi in 2020 and should be used for informational purposes 
+only. 
+ 
+ 
+
+=== PAGE 2 ===
+Note: January 2022:  Islands of Lanai, Maui and Molokai added to statewide layer update; minor 
+corrections made to other islands (Hawaii, Kauai, Oahu). 
+ 
+ 
+Note:   April 2022:   Several users of the data discovered that the original 2015 Hawaiʻi Statewide Agricultural 
+Land Use Baseline layer and the 2020 Update to the Hawaiʻi Statewide Agricultural Land Use Baseline layer did 
+not overlay properly, with an offset between the layers of 10 feet to 40 feet, depending on the area. As a result, 
+both the original and the updated layers have been republished, and now overlay as they should.  The 
+underlying data itself has not changed. 
+ 
+Please note:  If you download data from the State's geoportal (https://geoportal.hawaii.gov/), the data is 
+exported in WGS84 coordinates, although it is stored internally (in the State’s geodatabase), served in the 
+State's web services (https://geodata.hawaii.gov/arcgis/rest/services) and made available in the State's legacy 
+download site (https://planning.hawaii.gov/gis/download-gis-data-expanded/) in UTM / NAD 83 coordinates.  
+ 
+ 
+Attributes: Polygons: 
+ 
+Crops_2020 Crop Category 
+Aquaculture 
+Banana Coffee 
+Commercial Forestry 
+Dairy 
+Diversified Crop 
+Flowers/Foliage/Landscape Macadamia 
+Nuts 
+Papaya 
+Pasture 
+Sugar 
+Taro 
+Tropical Fruits 
+ 
+Island Island 
+Acreage Acreage 
+ 
+ 
+ 
+For more information about this dataset, please refer to the full metadata, found in AgLandUse2020.xml and 
+to AgLandUse2020_protocols.pdf.  
+ 
+ 
+ 
+Contact: Hawaii Statewide GIS Program 
+Office of Planning and Sustainable Development 
+State of Hawaii  
+PO Box 2359, Honolulu, HI 96804 
+Phone: (808) 587-2846 
+email: gis@hawaii.gov 
+
+=== PAGE 3 ===
+Layer Name: 2020 Update to the Hawaiʻi Statewide Agricultural Land Use Baseline 
+ 
+File Name: aglanduse_2020_kau.shp 
+ 
+Layer Type: Polygon 
+ 
+Status: Complete 
+ 
+Geog. Extent: Island of Kauai 
+ 
+Projection: Universal Trans Mercator, Zone 4 (Meters) 
+ 
+Datum: NAD 83 HARN (** see below) 
+ 
+Description: The 2015 Hawaii Statewide Agricultural Land Use Baseline layer was created to 
+provide a snapshot of contemporary commercial agricultural land use activity in 
+Hawaii. The purpose of this layer was to help define the areas, circumstances, 
+and resources that drive the agricultural production taking place throughout the 
+state. 
+ 
+Source: The University of Hawaii at Hilo Spatial Data Analysis & Visualization (SDAV) 
+Laboratory in conjunction with the Hawaii State Department of Agriculture, 
+2021. https://hdoa.hawaii.gov/salubreports/ 
+ 
+Please acknowledge Perroy, R., & Collier, E. (2021). 2020 Update to the Hawaiʻi 
+Statewide Agricultural Land Use Baseline. Hawaii State Department of Agriculture, 
+as a source when this data is used in the preparation of reports, papers, 
+publications, maps, and other products. 
+ 
+History: The 2020 Update to the Hawaiʻi Statewide Agricultural Land Use Baseline layer was 
+created to provide a snapshot of contemporary commercial agricultural land use 
+activity in Hawaiʻi. It is based upon an assemblage of geospatial datasets, primarily 
+high-resolution WorldView-2 and WorldView-3 satellite imagery (2018 – 2020) used as a 
+base layer for digitization. Additional datasets used in this work include GIS layers 
+provided by the state of Hawaiʻi, Office of Planning Statewide GIS Program and other 
+data provided by major land owners and managers. County Real Property Tax and 
+Agricultural Water Use data were also used to identify commercial farm operations. Not 
+all properties that receive County agricultural tax assessment rates or reduced water 
+cost for agricultural uses were mapped due to the small scale of some of their 
+operations. These data sources were used to verify mapped commercial farms and 
+identify operations that might have been missed using the imagery alone. 
+ 
+Digitized crop locations and boundaries were verified through a combination of on- the-
+ground site visits, meetings and presentations of draft layers with agricultural 
+stakeholders and landowners, solicitations through a publicly accessible online web 
+mapping portal, and spot- checking using Google Earth™ and other high resolution 
+imagery sources. 
+ 
+The 2020 Update to the Hawaiʻi Statewide Agricultural Land Use Baseline layer 
+represents our best efforts to capture the scale and diversity of commercial 
+agricultural activity in Hawaiʻi in 2020 and should be used for informational purposes 
+only. 
+ 
+ 
+
+=== PAGE 4 ===
+Note: January 2022:  Islands of Lanai, Maui and Molokai added to statewide layer update; minor corrections 
+made to other islands (Hawaii, Kauai, Oahu). 
+ 
+ 
+Note:   April 2022:   Several users of the data discovered that the original 2015 Hawaiʻi Statewide Agricultural 
+Land Use Baseline layer and the 2020 Update to the Hawaiʻi Statewide Agricultural Land Use Baseline layer did 
+not overlay properly, with an offset between the layers of 10 feet to 40 feet, depending on the area. As a result, 
+both the original and the updated layers have been republished, and now overlay as they should.  The 
+underlying data itself has not changed. 
+ 
+Please note:  If you download data from the State's geoportal (https://geoportal.hawaii.gov/), the data is 
+exported in WGS84 coordinates, although it is stored internally (in the State’s geodatabase), served in the 
+State's web services (https://geodata.hawaii.gov/arcgis/rest/services) and made available in the State's legacy 
+download site (https://planning.hawaii.gov/gis/download-gis-data-expanded/) in UTM / NAD 83 coordinates.  
+ 
+ 
+Attributes: Polygons: 
+ 
+Crops_2020 Crop Category 
+Aquaculture 
+Banana Coffee 
+Commercial Forestry 
+Diversified Crop 
+Flowers/Foliage/Landscape 
+Pasture 
+Seed Production 
+Taro 
+Tropical Fruits 
+ 
+Island Island 
+Acreage Acreage 
+ 
+ 
+ 
+For more information about this dataset, please refer to the full metadata, found in AgLandUse2020.xml and 
+to AgLandUse2020_protocols.pdf. 
+ 
+ 
+ 
+Contact: Hawaii Statewide GIS Program 
+Office of Planning and Sustainable Development  
+State of Hawaii   
+PO Box 2359, Honolulu, HI 96804 
+Phone: (808) 587-2846 
+email: gis@hawaii.gov 
+
+=== PAGE 5 ===
+Layer Name: 2020 Update to the Hawaiʻi Statewide Agricultural Land Use Baseline 
+ 
+File Name: aglanduse_2020_mau.shp 
+ 
+Layer Type: Polygon 
+ 
+Status: Complete 
+ 
+Geog. Extent: Islands of Maui, Molokai and Lanai 
+ 
+Projection: Universal Trans Mercator, Zone 4 (Meters) 
+ 
+Datum: NAD 83 HARN (** see below) 
+ 
+Description: The 2015 Hawaii Statewide Agricultural Land Use Baseline layer was created to 
+provide a snapshot of contemporary commercial agricultural land use activity in 
+Hawaii. The purpose of this layer was to help define the areas, circumstances, 
+and resources that drive the agricultural production taking place throughout the 
+state. 
+ 
+Source: The University of Hawaii at Hilo Spatial Data Analysis & Visualization (SDAV) 
+Laboratory in conjunction with the Hawaii State Department of Agriculture, 
+2021. https://hdoa.hawaii.gov/salubreports/ 
+ 
+Please acknowledge Perroy, R., & Collier, E. (2021). 2020 Update to the Hawaiʻi 
+Statewide Agricultural Land Use Baseline. Hawaii State Department of Agriculture, 
+as a source when this data is used in the preparation of reports, papers, 
+publications, maps, and other products. 
+ 
+History: The 2020 Update to the Hawaiʻi Statewide Agricultural Land Use Baseline layer was 
+created to provide a snapshot of contemporary commercial agricultural land use 
+activity in Hawaiʻi. It is based upon an assemblage of geospatial datasets, primarily 
+high-resolution WorldView-2 and WorldView-3 satellite imagery (2018 – 2020) used as a 
+base layer for digitization. Additional datasets used in this work include GIS layers 
+provided by the state of Hawaiʻi, Office of Planning Statewide GIS Program and other 
+data provided by major land owners and managers. County Real Property Tax and 
+Agricultural Water Use data were also used to identify commercial farm operations. Not 
+all properties that receive County agricultural tax assessment rates or reduced water 
+cost for agricultural uses were mapped due to the small scale of some of their 
+operations. These data sources were used to verify mapped commercial farms and 
+identify operations that might have been missed using the imagery alone. 
+ 
+Digitized crop locations and boundaries were verified through a combination of on- the-
+ground site visits, meetings and presentations of draft layers with agricultural 
+stakeholders and landowners, solicitations through a publicly accessible online web 
+mapping portal, and spot- checking using Google Earth™ and other high resolution 
+imagery sources. 
+ 
+The 2020 Update to the Hawaiʻi Statewide Agricultural Land Use Baseline layer 
+represents our best efforts to capture the scale and diversity of commercial 
+agricultural activity in Hawaiʻi in 2020 and should be used for informational purposes 
+only. 
+ 
+ 
+
+=== PAGE 6 ===
+Note: January 2022:  Islands of Lanai, Maui and Molokai added to statewide layer update; minor corrections 
+made to other islands (Hawaii, Kauai, Oahu). 
+ 
+ 
+Note:   April 2022:   Several users of the data discovered that the original 2015 Hawaiʻi Statewide Agricultural 
+Land Use Baseline layer and the 2020 Update to the Hawaiʻi Statewide Agricultural Land Use Baseline layer did 
+not overlay properly, with an offset between the layers of 10 feet to 40 feet, depending on the area. As a result, 
+both the original and the updated layers have been republished, and now overlay as they should.  The 
+underlying data itself has not changed. 
+ 
+Please note:  If you download data from the State's geoportal (https://geoportal.hawaii.gov/), the data is 
+exported in WGS84 coordinates, although it is stored internally (in the State’s geodatabase), served in the 
+State's web services (https://geodata.hawaii.gov/arcgis/rest/services) and made available in the State's legacy 
+download site (https://planning.hawaii.gov/gis/download-gis-data-expanded/) in UTM / NAD 83 coordinates.  
+ 
+ 
+Attributes: Polygons: 
+ 
+Crops_2020 Crop Category 
+Aquaculture 
+Banana  
+ Coffee 
+Commercial Forestry  
+Diversified Crop 
+Flowers/Foliage/Landscape  
+Macadamia Nuts 
+Papaya  
+Pasture  
+Pineapple 
+Seed Production 
+Taro 
+Tropical Fruits 
+ 
+Island Island 
+Acreage Acreage 
+ 
+ 
+ 
+For more information about this dataset, please refer to the full metadata, found in AgLandUse2020.xml and 
+to AgLandUse2020_protocols.pdf.  
+ 
+ 
+ 
+Contact: Hawaii Statewide GIS Program 
+Office of Planning and Sustainable Development 
+State of Hawaii  
+PO Box 2359, Honolulu, HI 96804 
+Phone: (808) 587-2846 
+email: gis@hawaii.gov 
+
+=== PAGE 7 ===
+Layer Name: 2020 Update to the Hawaiʻi Statewide Agricultural Land Use Baseline 
+ 
+File Name: aglanduse_2020_oah.shp 
+ 
+Layer Type: Polygon 
+ 
+Status: Complete 
+ 
+Geog. Extent: Island of Oahu 
+ 
+Projection: Universal Trans Mercator, Zone 4 (Meters) 
+ 
+Datum: NAD 83 HARN (** see below) 
+ 
+Description: The 2015 Hawaii Statewide Agricultural Land Use Baseline layer was created to 
+provide a snapshot of contemporary commercial agricultural land use activity in 
+Hawaii. The purpose of this layer was to help define the areas, circumstances, 
+and resources that drive the agricultural production taking place throughout the 
+state. 
+ 
+Source: The University of Hawaii at Hilo Spatial Data Analysis & Visualization (SDAV) 
+Laboratory in conjunction with the Hawaii State Department of Agriculture, 
+2021. https://hdoa.hawaii.gov/salubreports/ 
+ 
+Please acknowledge Perroy, R., & Collier, E. (2021). 2020 Update to the Hawaiʻi 
+Statewide Agricultural Land Use Baseline. Hawaii State Department of Agriculture, 
+as a source when this data is used in the preparation of reports, papers, 
+publications, maps, and other products. 
+ 
+History: The 2020 Update to the Hawaiʻi Statewide Agricultural Land Use Baseline layer was 
+created to provide a snapshot of contemporary commercial agricultural land use 
+activity in Hawaiʻi. It is based upon an assemblage of geospatial datasets, primarily 
+high-resolution WorldView-2 and WorldView-3 satellite imagery (2018 – 2020) used as a 
+base layer for digitization. Additional datasets used in this work include GIS layers 
+provided by the state of Hawaiʻi, Office of Planning Statewide GIS Program and other 
+data provided by major land owners and managers. County Real Property Tax and 
+Agricultural Water Use data were also used to identify commercial farm operations. Not 
+all properties that receive County agricultural tax assessment rates or reduced water 
+cost for agricultural uses were mapped due to the small scale of some of their 
+operations. These data sources were used to verify mapped commercial farms and 
+identify operations that might have been missed using the imagery alone. 
+ 
+Digitized crop locations and boundaries were verified through a combination of on- the-
+ground site visits, meetings and presentations of draft layers with agricultural 
+stakeholders and landowners, solicitations through a publicly accessible online web 
+mapping portal, and spot- checking using Google Earth™ and other high resolution 
+imagery sources. 
+ 
+The 2020 Update to the Hawaiʻi Statewide Agricultural Land Use Baseline layer 
+represents our best efforts to capture the scale and diversity of commercial 
+agricultural activity in Hawaiʻi in 2020 and should be used for informational purposes 
+only. 
+ 
+  
+
+=== PAGE 8 ===
+ 
+Note: January 2022:  Islands of Lanai, Maui and Molokai added to statewide layer update; minor 
+corrections made to other islands (Hawaii, Kauai, Oahu). 
+ 
+ 
+Note:   April 2022:   Several users of the data discovered that the original 2015 Hawaiʻi Statewide Agricultural 
+Land Use Baseline layer and the 2020 Update to the Hawaiʻi Statewide Agricultural Land Use Baseline layer did 
+not overlay properly, with an offset between the layers of 10 feet to 40 feet, depending on the area. As a result, 
+both the original and the updated layers have been republished, and now overlay as they should.  The 
+underlying data itself has not changed. 
+ 
+Please note:  If you download data from the State's geoportal (https://geoportal.hawaii.gov/), the data is 
+exported in WGS84 coordinates, although it is stored internally (in the State’s geodatabase), served in the 
+State's web services (https://geodata.hawaii.gov/arcgis/rest/services) and made available in the State's legacy 
+download site (https://planning.hawaii.gov/gis/download-gis-data-expanded/) in UTM / NAD 83 coordinates.  
+ 
+Attributes: Polygons: 
+ 
+Crops_2020 Crop Category 
+Aquaculture 
+Banana Coffee 
+Commercial Forestry 
+Diversified Crop 
+Flowers/Foliage/Landscape 
+Macadamia Nuts 
+Papaya 
+Pasture 
+Pineapple  
+Seed Production 
+Taro 
+Tropical Fruits 
+ 
+Island Island 
+Acreage Acreage 
+ 
+ 
+ 
+For more information about this dataset, please refer to the full metadata, found in AgLandUse2020.xml and to 
+AgLanduse2020_protocols.pdf. 
+ 
+ 
+ 
+Contact: Hawaii Statewide GIS Program 
+Office of Planning and Sustainable 
+Development  
+State of Hawaii   
+PO Box 2359, Honolulu, HI 96804 
+Phone: (808) 587-2846 
+email: gis@hawaii.gov 
+
+=== PAGE 9 ===
+ 
+ 
+ 
+ 
+2020 Update to the Hawaiʻi Statewide Agricultural Land Use Baseline 
+ 
+Metadata and Crop Mapping Protocols 
+ 
+The 2020 Update to the Hawaiʻi Statewide Agricultural Land Use Baseline layer was created to 
+provide a snapshot of contemporary commercial agricultural land use activity in Hawaiʻi. It is 
+based upon an assemblage of geospatial datasets, primarily high-resolution WorldView-2 and 
+WorldView-3 satellite imagery (2018 – 2020) used as a base layer for digitization. Additional 
+datasets used in this work include GIS layers provided by the state of Hawaiʻi, Office of 
+Planning Statewide GIS Program and other data provided by major land owners and managers. 
+County Real Property Tax and Agricultural Water Use data were also used to identify 
+commercial farm operations. Not all properties that receive County agricultural tax assessment 
+rates or reduced water cost for agricultural uses were mapped due to the small scale of some of 
+their operations. These data sources were used to verify mapped commercial farms and identify 
+operations that might have been missed using the imagery alone. 
+ 
+Digitized crop locations and boundaries were verified through a combination of on-the-ground 
+site visits, meetings and presentations of draft layers with agricultural stakeholders and 
+landowners, solicitations through a publicly accessible online web mapping portal, and spot- 
+checking using Google Earth™ and other high resolution imagery sources. 
+The 2020 Update to the Hawaiʻi Statewide Agricultural Land Use Baseline layer represents our 
+best efforts to capture the scale and diversity of commercial agricultural activity in Hawaiʻi in 
+2020 and should be used for informational purposes only. 
+ 
+Sponsor of the 2020 Update to the Hawaiʻi Statewide Agricultural Land Use Baseline layer. 
+Funding for the 2020 Update to the Hawaiʻi Statewide Agricultural Land Use Baseline layer was 
+provided by the Hawai’i State Department of Agriculture. 
+ 
+Authors of the 2020 Update to the Hawaiʻi Statewide Agricultural Land Use Baseline layer. 
+The University of Hawai’i at Hilo Spatial Data Analysis and Visualization (SDAV) Laboratory 
+carried out the work under the direction of Dr. Ryan Perroy and Cartographer and Geospatial 
+Analyst Eszter Collier. Erin Weingarten, Hunter Heaivilin, and Ben Nyberg provided additional 
+project support. 
+ 
+No Warranty. We have made every effort to make all images, maps, graphs, data, and other 
+information provided as a result of this project as accurate and error-free as possible. However, 
+we do not guarantee the accuracy of any images, maps, graphs, data, or other information. All 
+content is provided without warranty of any kind and is not intended for any regulatory use 
+whatsoever. 
+
+=== PAGE 10 ===
+ 
+The following protocols were used to generate the 2020 Update to the Hawaiʻi Statewide 
+Agricultural Land Use Baseline layer. 
+ This project focused on commercial agricultural operations with a three acre minimum 
+crop mapping area. Understanding the importance of smaller scale producers to 
+Hawaiʻi’s agricultural community, commercial operations less than three acres were 
+included where they could be reasonably identified. 
+ Mapped units follow actual cropped areas as identified in satellite imagery, not TMK 
+parcel boundaries. 
+ Agricultural lands which did not display actual vegetation growth but appeared to be part 
+of an active agricultural rotation (freshly tilled fields, etc.) were included in acreage 
+summaries. 
+ For papaya and other crops that rotate every three to four years, mapping efforts were 
+focused on active production areas and did not include fallowed fields. 
+ Packing or processing facilities and in-field access roads were generally included in 
+acreage summaries. 
+ Homes, reservoirs, un-farmable gulches and major roadways separating field areas were 
+not mapped. 
+ “Agri-scaping” of private residences was not mapped. 
+ Small backyard orchards and what appear to be home use vegetable gardens were not 
+mapped 
+ Equestrian uses, including arenas, boarding and riding facilities, were not mapped. 
+ Rooster cultivation was not mapped. 
+ Piggeries were not mapped. 
+ Poultry farms were not mapped. 
+ Industrial meat processing facilities were not mapped. 
+Crops categories and considerations 
+• Aquaculture includes active shrimp farms, working fishponds, algae raceways, and 
+research/production facilities. 
+• Banana includes fields in contiguous plantings larger than two to three acres. Throughout 
+the state, bananas are also cultivated in gulches, along farm boundaries and in small patches 
+within smaller, diversified farm operations. These smaller mixed plantings are generally 
+incorporated into the surrounding farm and labeled as Diversified Crop. 
+• Coffee includes both larger plantation-type scale operations and smaller farm plantings 
+larger than two acres in coffee growing regions like Kona, Ka’u, and elsewhere. The North and 
+South Kona region on Hawaiʻi Island were difficult to map accurately based on a practice some 
+farmers have adopted to plant both macadamia nuts and coffee on the same ground, making it 
+challenging to confidently discern these coffee- macadamia crop boundaries from satellite 
+imagery. 
+• Commercial Forestry plantings include both short and long rotation tree crops. 
+Plantings include eucalyptus and other species intended for timber, fiber or energy production 
+and higher value hardwoods like koa and mahogany that are planted for eventual commercial 
+harvest and not part of native forest restoration efforts 
+
+=== PAGE 11 ===
+ 
+• Dairy includes core milking and on-farm processing facilities and the surrounding 
+pastures and crop lands under active dairy use. 
+• Diversified Crops includes a wide range of products that are grown either outdoors or in 
+greenhouses. The category includes many of Hawaiʻi’s small farms and much of its local, fresh 
+vegetables including tomato, cucumbers, leaf crops, beans, and asparagus. This category also 
+includes smaller plantings such as banana, tropical fruit, papaya, and coffee that were too small 
+to map out individually. Also included in the category are export crops such as Okinawan sweet 
+potato, basil, and Asian spices. 
+• Flowers, Foliage and Landscaping includes a wide variety of products including hot 
+house/shade cloth grown orchids, anthuriums, tropical flowers, potted nursery plants, field stock, 
+sod farms, and landscape trees. 
+• Macadamia Nut includes orchards that appear to be actively maintained and harvested. 
+Orchards range from hundreds of acres in South Kona, Kaʻū and Puna to small and mid-size 
+plantings throughout Hawaiʻi Island and a new site on Oʻahu. 
+• Papaya are mapped in areas where significant commercial papaya production occurs. 
+Mapping efforts focused on just those lands that appeared to be planted and in active production. 
+Fallow lands that might be available for future papaya planting were not mapped but are an 
+important part of what the papaya industry needs to produce in a sustainable fashion. Smaller 
+plantings of papaya on mixed-crop farms are mapped as Diversified Crops. 
+• Pasture includes areas in active commercial cattle operation where fencing is apparent 
+and water troughs and/or cattle trails can be identified. Small pasture plots in diverse rural 
+homestead areas were not the focus of this mapping effort but were included where larger parcels 
+and contiguous pasture areas were present. Lands that were formerly in pasture use but have 
+now been purchased by the military, the National Park Service, or withdrawn from pasture in 
+favor of native forest restoration or other uses were not included in the pasture layer. Range 
+lands that are fenced and grazed only seasonally are mapped as pasture lands. 
+• Pineapples include areas planted in large to mid- size operations primarily on ʻOahu.  
+Smaller pineapple plantings that are mixed within smaller diversified farm operations are 
+mapped and labeled as Diversified Crop. 
+• Seed Production includes all arable lands in use by the seed companies at the time of 
+this survey. Net acres actually planted in corn, or other seed crops, will be substantially less than 
+the gross acres depicted. The industry estimates that they use approximately 25% of their 
+farmable land at any time for growing crops. Areas depicted include in-field roads, pollen drift 
+buffers and areas managed for future crop rotation. 
+• Sugar includes areas planted in sugarcane. 
+• Taro includes crop grown only in wetland settings. Dry land taro is included in the 
+Diversified Crop category. 
+• Tropical Fruit includes a range of products such as rambutan, avocado, longan, 
+lychee, citrus, cacao and other orchard fruit trees, that are planted for commercial harvest. 
+Small backyard orchards were not mapped and are not counted in summary tropical fruit 
+acreage. 

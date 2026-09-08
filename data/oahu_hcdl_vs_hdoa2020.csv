@@ -1,0 +1,421 @@
+hdoa_2020,hcdl_group,acres,year
+not_mapped_2020,seed_production,167.4,2024
+not_mapped_2020,sugar,38.6,2024
+not_mapped_2020,diversified_crop,2624.3,2024
+not_mapped_2020,banana,161.8,2024
+not_mapped_2020,coffee,47.8,2024
+not_mapped_2020,papaya,65.7,2024
+not_mapped_2020,pineapple,64.1,2024
+not_mapped_2020,taro,193.7,2024
+not_mapped_2020,macadamia_nuts,0.0,2024
+not_mapped_2020,tropical_fruits,758.4,2024
+not_mapped_2020,flowers_foliage_landscape,0.0,2024
+not_mapped_2020,commercial_forestry,0.0,2024
+not_mapped_2020,grassland,12193.5,2024
+not_mapped_2020,non_ag,68334.6,2024
+not_mapped_2020,background,0.0,2024
+Diversified Crop,seed_production,167.0,2024
+Diversified Crop,sugar,29.7,2024
+Diversified Crop,diversified_crop,5782.1,2024
+Diversified Crop,banana,308.0,2024
+Diversified Crop,coffee,4.5,2024
+Diversified Crop,papaya,163.5,2024
+Diversified Crop,pineapple,4.1,2024
+Diversified Crop,taro,71.2,2024
+Diversified Crop,macadamia_nuts,0.0,2024
+Diversified Crop,tropical_fruits,308.3,2024
+Diversified Crop,flowers_foliage_landscape,0.0,2024
+Diversified Crop,commercial_forestry,0.0,2024
+Diversified Crop,grassland,635.8,2024
+Diversified Crop,non_ag,1297.3,2024
+Diversified Crop,background,0.0,2024
+Seed Production,seed_production,2904.9,2024
+Seed Production,sugar,16.7,2024
+Seed Production,diversified_crop,911.2,2024
+Seed Production,banana,39.4,2024
+Seed Production,coffee,72.3,2024
+Seed Production,papaya,4.9,2024
+Seed Production,pineapple,0.5,2024
+Seed Production,taro,0.2,2024
+Seed Production,macadamia_nuts,0.0,2024
+Seed Production,tropical_fruits,119.5,2024
+Seed Production,flowers_foliage_landscape,0.0,2024
+Seed Production,commercial_forestry,0.0,2024
+Seed Production,grassland,2750.2,2024
+Seed Production,non_ag,505.8,2024
+Seed Production,background,0.0,2024
+Pineapple,seed_production,13.3,2024
+Pineapple,sugar,0.5,2024
+Pineapple,diversified_crop,368.5,2024
+Pineapple,banana,4.8,2024
+Pineapple,coffee,1.9,2024
+Pineapple,papaya,1.6,2024
+Pineapple,pineapple,2133.3,2024
+Pineapple,taro,0.0,2024
+Pineapple,macadamia_nuts,0.0,2024
+Pineapple,tropical_fruits,10.2,2024
+Pineapple,flowers_foliage_landscape,0.0,2024
+Pineapple,commercial_forestry,0.0,2024
+Pineapple,grassland,498.1,2024
+Pineapple,non_ag,381.8,2024
+Pineapple,background,0.0,2024
+Pasture,seed_production,25.0,2024
+Pasture,sugar,0.1,2024
+Pasture,diversified_crop,68.4,2024
+Pasture,banana,6.8,2024
+Pasture,coffee,7.6,2024
+Pasture,papaya,8.4,2024
+Pasture,pineapple,0.2,2024
+Pasture,taro,31.2,2024
+Pasture,macadamia_nuts,0.0,2024
+Pasture,tropical_fruits,176.0,2024
+Pasture,flowers_foliage_landscape,0.0,2024
+Pasture,commercial_forestry,0.0,2024
+Pasture,grassland,5741.4,2024
+Pasture,non_ag,8846.9,2024
+Pasture,background,0.0,2024
+Flowers / Foliage / Landscape,seed_production,0.0,2024
+Flowers / Foliage / Landscape,sugar,0.8,2024
+Flowers / Foliage / Landscape,diversified_crop,150.8,2024
+Flowers / Foliage / Landscape,banana,5.0,2024
+Flowers / Foliage / Landscape,coffee,0.0,2024
+Flowers / Foliage / Landscape,papaya,0.5,2024
+Flowers / Foliage / Landscape,pineapple,0.0,2024
+Flowers / Foliage / Landscape,taro,1.6,2024
+Flowers / Foliage / Landscape,macadamia_nuts,0.0,2024
+Flowers / Foliage / Landscape,tropical_fruits,24.0,2024
+Flowers / Foliage / Landscape,flowers_foliage_landscape,0.0,2024
+Flowers / Foliage / Landscape,commercial_forestry,0.0,2024
+Flowers / Foliage / Landscape,grassland,16.3,2024
+Flowers / Foliage / Landscape,non_ag,248.5,2024
+Flowers / Foliage / Landscape,background,0.0,2024
+Banana,seed_production,0.0,2024
+Banana,sugar,0.0,2024
+Banana,diversified_crop,148.9,2024
+Banana,banana,114.7,2024
+Banana,coffee,0.2,2024
+Banana,papaya,0.0,2024
+Banana,pineapple,0.0,2024
+Banana,taro,0.9,2024
+Banana,macadamia_nuts,0.0,2024
+Banana,tropical_fruits,14.0,2024
+Banana,flowers_foliage_landscape,0.0,2024
+Banana,commercial_forestry,0.0,2024
+Banana,grassland,36.2,2024
+Banana,non_ag,43.2,2024
+Banana,background,0.0,2024
+Aquaculture,seed_production,0.4,2024
+Aquaculture,sugar,0.0,2024
+Aquaculture,diversified_crop,46.7,2024
+Aquaculture,banana,0.0,2024
+Aquaculture,coffee,0.0,2024
+Aquaculture,papaya,3.2,2024
+Aquaculture,pineapple,0.3,2024
+Aquaculture,taro,87.2,2024
+Aquaculture,macadamia_nuts,0.0,2024
+Aquaculture,tropical_fruits,0.5,2024
+Aquaculture,flowers_foliage_landscape,0.0,2024
+Aquaculture,commercial_forestry,0.0,2024
+Aquaculture,grassland,75.7,2024
+Aquaculture,non_ag,61.3,2024
+Aquaculture,background,0.0,2024
+Tropical Fruits,seed_production,0.6,2024
+Tropical Fruits,sugar,0.0,2024
+Tropical Fruits,diversified_crop,6.9,2024
+Tropical Fruits,banana,3.6,2024
+Tropical Fruits,coffee,0.0,2024
+Tropical Fruits,papaya,0.1,2024
+Tropical Fruits,pineapple,0.2,2024
+Tropical Fruits,taro,0.5,2024
+Tropical Fruits,macadamia_nuts,0.0,2024
+Tropical Fruits,tropical_fruits,166.1,2024
+Tropical Fruits,flowers_foliage_landscape,0.0,2024
+Tropical Fruits,commercial_forestry,0.0,2024
+Tropical Fruits,grassland,10.7,2024
+Tropical Fruits,non_ag,49.5,2024
+Tropical Fruits,background,0.0,2024
+Coffee,seed_production,0.0,2024
+Coffee,sugar,0.0,2024
+Coffee,diversified_crop,2.0,2024
+Coffee,banana,0.0,2024
+Coffee,coffee,143.4,2024
+Coffee,papaya,0.1,2024
+Coffee,pineapple,0.7,2024
+Coffee,taro,0.0,2024
+Coffee,macadamia_nuts,0.0,2024
+Coffee,tropical_fruits,2.9,2024
+Coffee,flowers_foliage_landscape,0.0,2024
+Coffee,commercial_forestry,0.0,2024
+Coffee,grassland,3.3,2024
+Coffee,non_ag,15.7,2024
+Coffee,background,0.0,2024
+Papaya,seed_production,13.1,2024
+Papaya,sugar,0.0,2024
+Papaya,diversified_crop,29.9,2024
+Papaya,banana,0.0,2024
+Papaya,coffee,0.1,2024
+Papaya,papaya,74.5,2024
+Papaya,pineapple,0.5,2024
+Papaya,taro,0.2,2024
+Papaya,macadamia_nuts,0.0,2024
+Papaya,tropical_fruits,2.0,2024
+Papaya,flowers_foliage_landscape,0.0,2024
+Papaya,commercial_forestry,0.0,2024
+Papaya,grassland,18.6,2024
+Papaya,non_ag,23.5,2024
+Papaya,background,0.0,2024
+Taro,seed_production,0.0,2024
+Taro,sugar,0.0,2024
+Taro,diversified_crop,1.6,2024
+Taro,banana,0.0,2024
+Taro,coffee,0.0,2024
+Taro,papaya,0.6,2024
+Taro,pineapple,0.0,2024
+Taro,taro,26.2,2024
+Taro,macadamia_nuts,0.0,2024
+Taro,tropical_fruits,1.7,2024
+Taro,flowers_foliage_landscape,0.0,2024
+Taro,commercial_forestry,0.0,2024
+Taro,grassland,0.3,2024
+Taro,non_ag,10.9,2024
+Taro,background,0.0,2024
+Commercial Forestry,seed_production,0.0,2024
+Commercial Forestry,sugar,0.0,2024
+Commercial Forestry,diversified_crop,2.1,2024
+Commercial Forestry,banana,0.0,2024
+Commercial Forestry,coffee,0.0,2024
+Commercial Forestry,papaya,0.0,2024
+Commercial Forestry,pineapple,0.0,2024
+Commercial Forestry,taro,0.0,2024
+Commercial Forestry,macadamia_nuts,0.0,2024
+Commercial Forestry,tropical_fruits,0.0,2024
+Commercial Forestry,flowers_foliage_landscape,0.0,2024
+Commercial Forestry,commercial_forestry,0.0,2024
+Commercial Forestry,grassland,22.1,2024
+Commercial Forestry,non_ag,1.6,2024
+Commercial Forestry,background,0.0,2024
+Macadamia Nuts,seed_production,0.0,2024
+Macadamia Nuts,sugar,0.0,2024
+Macadamia Nuts,diversified_crop,0.4,2024
+Macadamia Nuts,banana,0.0,2024
+Macadamia Nuts,coffee,0.0,2024
+Macadamia Nuts,papaya,0.0,2024
+Macadamia Nuts,pineapple,0.0,2024
+Macadamia Nuts,taro,0.0,2024
+Macadamia Nuts,macadamia_nuts,0.0,2024
+Macadamia Nuts,tropical_fruits,0.1,2024
+Macadamia Nuts,flowers_foliage_landscape,0.0,2024
+Macadamia Nuts,commercial_forestry,0.0,2024
+Macadamia Nuts,grassland,0.5,2024
+Macadamia Nuts,non_ag,0.5,2024
+Macadamia Nuts,background,0.0,2024
+not_mapped_2020,seed_production,178.0,2025
+not_mapped_2020,sugar,2.6,2025
+not_mapped_2020,diversified_crop,2827.9,2025
+not_mapped_2020,banana,119.8,2025
+not_mapped_2020,coffee,102.4,2025
+not_mapped_2020,papaya,71.4,2025
+not_mapped_2020,pineapple,62.8,2025
+not_mapped_2020,taro,197.4,2025
+not_mapped_2020,macadamia_nuts,0.0,2025
+not_mapped_2020,tropical_fruits,781.3,2025
+not_mapped_2020,flowers_foliage_landscape,0.0,2025
+not_mapped_2020,commercial_forestry,0.0,2025
+not_mapped_2020,grassland,11767.4,2025
+not_mapped_2020,non_ag,68538.9,2025
+not_mapped_2020,background,0.0,2025
+Diversified Crop,seed_production,133.6,2025
+Diversified Crop,sugar,20.0,2025
+Diversified Crop,diversified_crop,5860.2,2025
+Diversified Crop,banana,291.0,2025
+Diversified Crop,coffee,16.8,2025
+Diversified Crop,papaya,188.6,2025
+Diversified Crop,pineapple,7.1,2025
+Diversified Crop,taro,78.2,2025
+Diversified Crop,macadamia_nuts,0.0,2025
+Diversified Crop,tropical_fruits,299.9,2025
+Diversified Crop,flowers_foliage_landscape,0.0,2025
+Diversified Crop,commercial_forestry,0.0,2025
+Diversified Crop,grassland,605.1,2025
+Diversified Crop,non_ag,1271.2,2025
+Diversified Crop,background,0.0,2025
+Seed Production,seed_production,3370.1,2025
+Seed Production,sugar,22.8,2025
+Seed Production,diversified_crop,829.9,2025
+Seed Production,banana,5.0,2025
+Seed Production,coffee,99.6,2025
+Seed Production,papaya,1.1,2025
+Seed Production,pineapple,1.9,2025
+Seed Production,taro,2.3,2025
+Seed Production,macadamia_nuts,0.0,2025
+Seed Production,tropical_fruits,125.9,2025
+Seed Production,flowers_foliage_landscape,0.0,2025
+Seed Production,commercial_forestry,0.0,2025
+Seed Production,grassland,2360.7,2025
+Seed Production,non_ag,506.3,2025
+Seed Production,background,0.0,2025
+Pineapple,seed_production,24.2,2025
+Pineapple,sugar,0.0,2025
+Pineapple,diversified_crop,215.7,2025
+Pineapple,banana,1.5,2025
+Pineapple,coffee,9.5,2025
+Pineapple,papaya,5.0,2025
+Pineapple,pineapple,2490.6,2025
+Pineapple,taro,0.0,2025
+Pineapple,macadamia_nuts,0.0,2025
+Pineapple,tropical_fruits,13.0,2025
+Pineapple,flowers_foliage_landscape,0.0,2025
+Pineapple,commercial_forestry,0.0,2025
+Pineapple,grassland,505.6,2025
+Pineapple,non_ag,149.0,2025
+Pineapple,background,0.0,2025
+Pasture,seed_production,13.2,2025
+Pasture,sugar,0.0,2025
+Pasture,diversified_crop,62.7,2025
+Pasture,banana,0.4,2025
+Pasture,coffee,11.6,2025
+Pasture,papaya,6.5,2025
+Pasture,pineapple,0.0,2025
+Pasture,taro,25.2,2025
+Pasture,macadamia_nuts,0.0,2025
+Pasture,tropical_fruits,160.0,2025
+Pasture,flowers_foliage_landscape,0.0,2025
+Pasture,commercial_forestry,0.0,2025
+Pasture,grassland,5828.2,2025
+Pasture,non_ag,8804.4,2025
+Pasture,background,0.0,2025
+Flowers / Foliage / Landscape,seed_production,0.0,2025
+Flowers / Foliage / Landscape,sugar,0.0,2025
+Flowers / Foliage / Landscape,diversified_crop,150.5,2025
+Flowers / Foliage / Landscape,banana,2.4,2025
+Flowers / Foliage / Landscape,coffee,0.0,2025
+Flowers / Foliage / Landscape,papaya,0.3,2025
+Flowers / Foliage / Landscape,pineapple,0.0,2025
+Flowers / Foliage / Landscape,taro,1.3,2025
+Flowers / Foliage / Landscape,macadamia_nuts,0.0,2025
+Flowers / Foliage / Landscape,tropical_fruits,26.7,2025
+Flowers / Foliage / Landscape,flowers_foliage_landscape,0.0,2025
+Flowers / Foliage / Landscape,commercial_forestry,0.0,2025
+Flowers / Foliage / Landscape,grassland,19.2,2025
+Flowers / Foliage / Landscape,non_ag,247.1,2025
+Flowers / Foliage / Landscape,background,0.0,2025
+Banana,seed_production,0.0,2025
+Banana,sugar,0.0,2025
+Banana,diversified_crop,87.3,2025
+Banana,banana,169.4,2025
+Banana,coffee,0.5,2025
+Banana,papaya,0.0,2025
+Banana,pineapple,0.0,2025
+Banana,taro,1.1,2025
+Banana,macadamia_nuts,0.0,2025
+Banana,tropical_fruits,16.0,2025
+Banana,flowers_foliage_landscape,0.0,2025
+Banana,commercial_forestry,0.0,2025
+Banana,grassland,30.2,2025
+Banana,non_ag,53.5,2025
+Banana,background,0.0,2025
+Aquaculture,seed_production,5.0,2025
+Aquaculture,sugar,0.0,2025
+Aquaculture,diversified_crop,101.7,2025
+Aquaculture,banana,0.0,2025
+Aquaculture,coffee,0.0,2025
+Aquaculture,papaya,0.5,2025
+Aquaculture,pineapple,0.1,2025
+Aquaculture,taro,19.0,2025
+Aquaculture,macadamia_nuts,0.0,2025
+Aquaculture,tropical_fruits,0.4,2025
+Aquaculture,flowers_foliage_landscape,0.0,2025
+Aquaculture,commercial_forestry,0.0,2025
+Aquaculture,grassland,74.6,2025
+Aquaculture,non_ag,74.0,2025
+Aquaculture,background,0.0,2025
+Tropical Fruits,seed_production,0.1,2025
+Tropical Fruits,sugar,0.0,2025
+Tropical Fruits,diversified_crop,6.2,2025
+Tropical Fruits,banana,2.8,2025
+Tropical Fruits,coffee,0.2,2025
+Tropical Fruits,papaya,0.0,2025
+Tropical Fruits,pineapple,0.0,2025
+Tropical Fruits,taro,0.1,2025
+Tropical Fruits,macadamia_nuts,0.0,2025
+Tropical Fruits,tropical_fruits,160.8,2025
+Tropical Fruits,flowers_foliage_landscape,0.0,2025
+Tropical Fruits,commercial_forestry,0.0,2025
+Tropical Fruits,grassland,14.6,2025
+Tropical Fruits,non_ag,53.5,2025
+Tropical Fruits,background,0.0,2025
+Coffee,seed_production,0.0,2025
+Coffee,sugar,0.0,2025
+Coffee,diversified_crop,2.6,2025
+Coffee,banana,0.0,2025
+Coffee,coffee,141.6,2025
+Coffee,papaya,0.2,2025
+Coffee,pineapple,0.1,2025
+Coffee,taro,0.0,2025
+Coffee,macadamia_nuts,0.0,2025
+Coffee,tropical_fruits,2.4,2025
+Coffee,flowers_foliage_landscape,0.0,2025
+Coffee,commercial_forestry,0.0,2025
+Coffee,grassland,3.7,2025
+Coffee,non_ag,17.5,2025
+Coffee,background,0.0,2025
+Papaya,seed_production,38.7,2025
+Papaya,sugar,0.0,2025
+Papaya,diversified_crop,17.7,2025
+Papaya,banana,0.0,2025
+Papaya,coffee,0.1,2025
+Papaya,papaya,73.6,2025
+Papaya,pineapple,0.8,2025
+Papaya,taro,0.2,2025
+Papaya,macadamia_nuts,0.0,2025
+Papaya,tropical_fruits,2.4,2025
+Papaya,flowers_foliage_landscape,0.0,2025
+Papaya,commercial_forestry,0.0,2025
+Papaya,grassland,7.5,2025
+Papaya,non_ag,21.3,2025
+Papaya,background,0.0,2025
+Taro,seed_production,0.0,2025
+Taro,sugar,0.0,2025
+Taro,diversified_crop,2.2,2025
+Taro,banana,0.0,2025
+Taro,coffee,0.0,2025
+Taro,papaya,0.5,2025
+Taro,pineapple,0.0,2025
+Taro,taro,26.3,2025
+Taro,macadamia_nuts,0.0,2025
+Taro,tropical_fruits,1.9,2025
+Taro,flowers_foliage_landscape,0.0,2025
+Taro,commercial_forestry,0.0,2025
+Taro,grassland,0.1,2025
+Taro,non_ag,10.2,2025
+Taro,background,0.0,2025
+Commercial Forestry,seed_production,0.0,2025
+Commercial Forestry,sugar,0.0,2025
+Commercial Forestry,diversified_crop,3.5,2025
+Commercial Forestry,banana,0.0,2025
+Commercial Forestry,coffee,1.1,2025
+Commercial Forestry,papaya,0.0,2025
+Commercial Forestry,pineapple,0.0,2025
+Commercial Forestry,taro,0.0,2025
+Commercial Forestry,macadamia_nuts,0.0,2025
+Commercial Forestry,tropical_fruits,0.0,2025
+Commercial Forestry,flowers_foliage_landscape,0.0,2025
+Commercial Forestry,commercial_forestry,0.0,2025
+Commercial Forestry,grassland,20.0,2025
+Commercial Forestry,non_ag,1.0,2025
+Commercial Forestry,background,0.0,2025
+Macadamia Nuts,seed_production,0.0,2025
+Macadamia Nuts,sugar,0.0,2025
+Macadamia Nuts,diversified_crop,0.3,2025
+Macadamia Nuts,banana,0.0,2025
+Macadamia Nuts,coffee,0.0,2025
+Macadamia Nuts,papaya,0.0,2025
+Macadamia Nuts,pineapple,0.0,2025
+Macadamia Nuts,taro,0.0,2025
+Macadamia Nuts,macadamia_nuts,0.0,2025
+Macadamia Nuts,tropical_fruits,0.1,2025
+Macadamia Nuts,flowers_foliage_landscape,0.0,2025
+Macadamia Nuts,commercial_forestry,0.0,2025
+Macadamia Nuts,grassland,0.7,2025
+Macadamia Nuts,non_ag,0.5,2025
+Macadamia Nuts,background,0.0,2025

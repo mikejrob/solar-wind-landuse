@@ -334,3 +334,20 @@ zoning-lot boundaries proxy for property lines; C&C Honolulu open-data LUO layer
 - HB2188 text/status/testimony: capitol.hawaii.gov (see inline links)
 - SB957 text/status: capitol.hawaii.gov (see inline links)
 - SB2805: https://legiscan.com/HI/text/SB2805/id/2131745 and capitol status page
+
+## Addendum 2026-09-07: North Shore Neighborhood Board resolution (2013)
+
+North Shore Neighborhood Board No. 27 adopted a "Resolution Regarding
+Windmill Farms" on 2013-02-26 (chair Mike Lyons), after Kawailoa Wind's 30
+turbines: it resolves "that no more windmill projects be built in Hawaii"
+and asks that the EIS process require visual simulations for affected
+properties. Grounds stated: visual blight above Waimea Valley, tourism,
+wildlife, noise and lights, and the 480-ft turbine height against a 90-ft
+resort height limit. Source:
+https://www4.honolulu.gov/docushare/dsweb/Get/Document-319277/2013-02_Resolution_Relating_to_Windmill_Farms.pdf
+(scanned; transcript at `data/raw/nb27/2013-02_Resolution_Relating_to_Windmill_Farms.txt`).
+This predates Res 19-305 (2019) and is the earliest community-body
+anti-wind position found; it is organic (a neighborhood board), consistent
+with the Kahuku record. The same board's 2020-02-25 agriculture resolution
+limits renewable projects on prime ag land to farm-serving ones
+(`notes/review-plasch-2026-09.md` §5).

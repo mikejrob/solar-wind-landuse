@@ -1,0 +1,723 @@
+
+Hawaii Cropland Data Layer
+    /* These CSS rules can be modified to apply different styles to your outline-format metadata. */
+    .major-section { border-top: 1px solid black; padding-top: 0.5em; }
+    .child { margin-left: 2em; margin-bottom: 0.5em; }
+    .element-name { font-style: italic; }
+    .element-value { }
+    .blank { margin-top: 1em; }
+    #page-bottom { visibility: hidden; display: none; }
+    #generated-by { font-size: small; }
+Hawaii Cropland Data Layer
+Metadata also available as
+Metadata:
+Identification_Information
+Data_Quality_Information
+Spatial_Data_Organization_Information
+Spatial_Reference_Information
+Entity_and_Attribute_Information
+Distribution_Information
+Metadata_Reference_Information
+Identification_Information:
+Citation:
+Citation_Information:
+Originator:
+United States Department of Agriculture (USDA) National Agricultural Statistics Service (NASS)
+Publication_Date:
+20260612
+Title:
+Hawaii Cropland Data Layer
+Edition:
+2025 Edition
+Geospatial_Data_Presentation_Form:
+raster digital data
+Publication_Information:
+Publication_Place:
+USDA NASS Marketing and Information Services Office, Washington, D.C.
+Publisher:
+USDA NASS
+Other_Citation_Details:
+Data available free for download at <
+https://www.nass.usda.gov/Research_and_Science/Cropland/Release/index.php
+>. Li, Z., Chen, Q., Yang, Z., Mueller, R., Willis, P., Chen, H., Lincoln, N.K., and Cao, C., 2026, Hawaii Cropland Data Layers (HCDL) v2.1: A Satellite Embedding Approach to Crop Mapping, IGARSS 2026 - 2026 IEEE International Geoscience and Remote Sensing Symposium, Washington D.C., United States, August 9 - 14, 2026.
+Online_Linkage:
+<
+https://agriwatch.projects.earthengine.app/view/hcdl-viewer
+>
+Description:
+Abstract:
+The USDA National Agricultural Statistics Service (NASS) Cropland Data Layer (CDL) is an annual raster, geo-referenced, crop-specific land cover data layer produced for the COntinental United States (CONUS) using satellite imagery and extensive agricultural ground reference data. The Hawaii Cropland Data Layer (HCDL) is the first-ever raster, geo-referenced, crop-specific land cover data layer for Hawaii at a 10-meter spatial resolution for the years 2023, 2024 and 2025. Both years of data were released to the public August 25, 2025, on the official download website: <
+https://www.nass.usda.gov/Research_and_Science/Cropland/Release/index.php
+>. Please note that no farmer reported data are derivable from the Cropland Data Layer. This paper contains more information: Li, Z., Chen, Q., Yang, Z., Chen, H., Lincoln, N.K., Cao, C., Mueller, R., and Willis, P., 2024, Innovative Crop Mapping in Hawaii: The First 10-Meter Resolution Cropland Data Layers for 2023, The 12th International Conference on Agro-Geoinformatics. Novi Sad, Serbia, 2024, pp. 1-6, 10.1109/Agro-Geoinformatics262780.2024.10660811.
+The HCDL leveraged the 64-dimensional geospatial embeddings from the Satellite Embedding dataset developed by Google DeepMind's new geospatial AI model, AlphaEarth Foundations. This dataset was derived from multiple datastreams, including optical, radar, LiDAR, and other sources. Ground-reference data for crop type classification was developed based on satellite/aerial imagery interpretation and field surveys conducted by the University of Hawaii at Manoa beginning December 2023. Fieldwork covered the islands of Kauai, Oahu, Maui, Molokai, and the Big Island. HCDL 2025 was derived from 2025 embeddings using the SmileRandomForest classifier in Google Earth Engine, based on the 2025 ground-reference data. Since the embedding space is consistent across years, it can be used for condition change detection. Due to the limited ground- reference data available in 2023, HCDL 2023 was derived from 2023 embeddings solely based on the trained 2024 models, thus reducing uncertainties caused by the subjective human-involved training data labeling process. More information available in this paper: Li, Z., Chen, Q., Yang, Z., Mueller, R., Willis, P., Chen, H., Lincoln, N.K., and Cao, C., 2026, Hawaii Cropland Data Layers (HCDL) v2.1: A Satellite Embedding Approach to Crop Mapping, IGARSS 2026 - 2026 IEEE International Geoscience and Remote Sensing Symposium, Washington D.C., United States, August 9 - 14, 2026.
+HCDL was a collaborative effort between USDA NASS and the University of Hawaii at Manoa. This research is part of AgriWatch: Innovating Agricultural Disaster Response with AI-Empowered Real- Time Monitoring project supported by the USDA National Institute of Food and Agriculture (NIFA) Agriculture and Food Research Initiative Competitive Grants Program under award number [2024- 68016-41561].
+Note on spelling: The plain ASCII spelling Hawaii is used in this metadata for system compatibility.
+Purpose:
+The purpose of the Cropland Data Layer Program is to use satellite imagery to (1) provide supplemental acreage estimates to the Agricultural Statistics Board for the state's major commodities and (2) produce digital, crop-specific, categorized geo-referenced output products.
+Supplemental_Information:
+The data is available free for download at <
+https://www.nass.usda.gov/Research_and_Science/Cropland/Release/index.php
+>.
+Time_Period_of_Content:
+Time_Period_Information:
+Range_of_Dates/Times:
+Beginning_Date:
+20250101
+Ending_Date:
+20251231
+Currentness_Reference:
+2025 growing season
+Status:
+Progress:
+Complete
+Maintenance_and_Update_Frequency:
+annual updates
+Spatial_Domain:
+Bounding_Coordinates:
+West_Bounding_Coordinate:
+-160.2497
+East_Bounding_Coordinate:
+-154.8083
+North_Bounding_Coordinate:
+22.2324
+South_Bounding_Coordinate:
+18.9173
+Keywords:
+Theme:
+Theme_Keyword_Thesaurus:
+NGDA Portfolio Themes
+Theme_Keyword:
+National Geospatial Data Asset
+Theme_Keyword:
+Land Use Land Cover Theme
+Theme_Keyword:
+NGDA
+Theme_Keyword:
+NGDA109
+Theme:
+Theme_Keyword_Thesaurus:
+ISO 19115 Topic Category
+Theme_Keyword:
+farming, 001
+Theme_Keyword:
+environment, 007
+Theme_Keyword:
+imageryBaseMapsEarthCover, 010
+Theme:
+Theme_Keyword_Thesaurus:
+Global Change Master Directory (GCMD) Science Keywords
+Theme_Keyword:
+Earth Science > Biosphere > Terrestrial Ecosystems > Agricultural Lands
+Theme_Keyword:
+Earth Science > Land Surface > Land Use/Land Cover > Land Cover
+Theme:
+Theme_Keyword_Thesaurus:
+None
+Theme_Keyword:
+crop cover
+Theme_Keyword:
+cropland
+Theme_Keyword:
+agriculture
+Theme_Keyword:
+farming
+Theme_Keyword:
+land cover
+Theme_Keyword:
+crop estimates
+Theme_Keyword:
+ESA SENTINEL-2
+Theme_Keyword:
+Landsat
+Place:
+Place_Keyword_Thesaurus:
+Global Change Master Directory (GCMD) Location Keywords
+Place_Keyword:
+Continent > North America > United States of America
+Place:
+Place_Keyword_Thesaurus:
+None
+Place_Keyword:
+United States
+Place_Keyword:
+USA
+Place_Keyword:
+Hawaii
+Temporal:
+Temporal_Keyword_Thesaurus:
+None
+Temporal_Keyword:
+2025
+Access_Constraints:
+none
+Use_Constraints:
+The USDA NASS Cropland Data Layer is provided to the public as is and is considered public domain and free to redistribute. The USDA NASS does not warrant any conclusions drawn from these data.
+Point_of_Contact:
+Contact_Information:
+Contact_Organization_Primary:
+Contact_Organization:
+USDA NASS, Spatial Analysis Research Section
+Contact_Person:
+USDA NASS, Spatial Analysis Research Section staff
+Contact_Address:
+Address_Type:
+mailing and physical address
+Address:
+1400 Independence Avenue, SW, Room 5029 South Building
+City:
+Washington
+State_or_Province:
+District of Columbia
+Postal_Code:
+20250-2001
+Country:
+USA
+Contact_Voice_Telephone:
+800-727-9540
+Contact_Facsimile_Telephone:
+855-493-0447
+Contact_Electronic_Mail_Address:
+SM.NASS.RDD.GIB@usda.gov
+Data_Set_Credit:
+USDA National Agricultural Statistics Service
+Security_Information:
+Security_Classification_System:
+None
+Security_Classification:
+Unclassified
+Security_Handling_Description:
+None
+Native_Data_Set_Environment:
+Microsoft Windows 10 Enterprise; Google Earth Engine <
+https://earthengine.google.com/
+>; ERDAS Imagine Version 2018 <
+https://www.hexagongeospatial.com/
+>; ESRI ArcGIS Version 10.8 and ArcGIS Pro 3.1.3 <
+https://www.esri.com/
+>.
+The Hawaii CDL uses Google Earth Engine to produce the land cover classification. ERDAS Imagine is used in the pre- and post- processing of all raster-based data. ESRI ArcGIS is used to prepare the vector-based data.
+Data_Quality_Information:
+Attribute_Accuracy:
+Attribute_Accuracy_Report:
+If the following table does not display properly, then please visit the CDL Metadata webpage at <
+https://www.nass.usda.gov/Research_and_Science/Cropland/metadata/meta.php
+> to view the original file. Accuracy at the individual state-level can be viewed at the CDL Metadata webpage.
+The accuracy metrics below are for the 2024 Hawaii CDL as a general reference. An accuracy assessment has not yet been run for the 2025 Hawaii CDL.
+USDA National Agricultural Statistics Service, 2024 Hawaii Cropland Data Layer
+STATEWIDE AGRICULTURAL ACCURACY REPORT
+Cover                   Attribute        F-1
+Type                         Code      Score
+----                         ----     ------
+Corn                            1      0.965
+Sunflower                       6      0.999
+Sugarcane                      45      0.998
+Sweet Potatoes                 46      0.992
+Misc Vegs and Fruits           47      0.985
+Forest                         63      0.953
+Citrus                         72      0.991
+Developed                      82      0.935
+Banana                         93      0.974
+Other Exotic                   94      0.922
+Coffee                         95      0.950
+Macadamia                      96      0.924
+Papaya                         97      0.975
+Pineapple                      98      0.998
+Commercial Forest              99      0.913
+Taro                          100      0.985
+Sweet Basil                   101      0.995
+Coconut                       102      0.899
+Plumeria                      103      0.999
+Noni Fruit                    104      0.985
+Dracaena                      105      0.990
+Other Crops                   106      0.901
+Open Water                    111      0.999
+Barren                        131      0.981
+Shrubland                     152      0.936
+Grassland/Pasture             176      0.920
+Avocados                      215      0.995
+The accuracy of the non-agricultural land cover classes within the Cropland Data Layer is entirely dependent upon the USGS, National Land Cover Database. Thus, the USDA NASS recommends that users consider the NLCD for studies involving non-agricultural land cover. For more information on the accuracy of the NLCD please reference <
+https://www.mrlc.gov/
+>.
+Quantitative_Attribute_Accuracy_Assessment:
+Attribute_Accuracy_Value:
+Classification accuracy for the CONUS CDL is generally 85% to 95% correct for the major crop-specific land cover categories.
+Attribute_Accuracy_Explanation:
+The strength and emphasis of the CDL is crop-specific land cover categories. The accuracy of the CDL non-agricultural land cover classes is entirely dependent upon the USGS, National Land Cover Database. Thus, the USDA NASS recommends that users consider the NLCD for studies involving non-agricultural land cover.
+An F-1 score provides a single measure of classification accuracy by combining how often the model correctly identifies a class and how reliably those identified results are correct. Higher F-1 scores indicate stronger overall performance for that category. This metric helps users quickly assess the quality of the classification without needing to interpret precision and recall separately.
+Logical_Consistency_Report:
+The Hawaii Cropland Data Layer (HCDL) was produced using ground reference and validation data developed based on satellite/aerial imagery interpretation and field surveys conducted by the University of Hawaii at Manoa beginning December 2023. Fieldwork covered the islands of Kauai, Oahu, Maui, Molokai, and the Big Island.
+Completeness_Report:
+The Hawaii CDL covers the entire State of Hawaii.
+Positional_Accuracy:
+Horizontal_Positional_Accuracy:
+Horizontal_Positional_Accuracy_Report:
+The Cropland Data Layer retains the spatial attributes of the input imagery. The Landsat 8 and 9 OLI/TIRS imagery uses the Collection 2 Level-1 specifications. Please reference the metadata on the USGS Glovis website for the positional accuracy of each Landsat scene. The Sentinel 2A and 2B imagery uses using the S2MSI1C product type which is orthorectified Top-of-Atmosphere reflectance. Please reference the metadata on the Copernicus website for positional accuracy details.
+Lineage:
+Source_Information:
+Source_Citation:
+Citation_Information:
+Originator:
+Google DeepMind
+Publication_Date:
+2025
+Title:
+AlphaEarth Foundations Satellite Embedding
+Geospatial_Data_Presentation_Form:
+derived data product
+Publication_Information:
+Publication_Place:
+London, United Kingdom
+Publisher:
+Google DeepMind
+Other_Citation_Details:
+AlphaEarth Foundations Satellite Embedding is a machine-learning-derived representation built from multi-sensor satellite observations. Additional information about the AlphaEarth platform and related products is available at <
+https://deepmind.google/
+>.
+Source_Scale_Denominator:
+10000
+Type_of_Source_Media:
+online access
+Source_Time_Period_of_Content:
+Time_Period_Information:
+Range_of_Dates/Times:
+Beginning_Date:
+20230101
+Ending_Date:
+20251231
+Source_Currentness_Reference:
+model-derived representation
+Source_Citation_Abbreviation:
+AlphaEarth Embedding
+Source_Contribution:
+Machine-learning-generated satellite embeddings used as ancillary inputs supporting the classification process.
+Source_Information:
+Source_Citation:
+Citation_Information:
+Originator:
+USDA Forest Service
+Publication_Date:
+2021
+Title:
+Hawaii TreeCanopy GIS Layer
+Geospatial_Data_Presentation_Form:
+vector digital data
+Publication_Information:
+Publication_Place:
+Vallejo, California
+Publisher:
+USDA Forest Service, Region 5
+Other_Citation_Details:
+Additional information and access to the Hawaii TreeCanopy GIS Layer are available at <
+https://www.fs.usda.gov/detail/r5/communityforests/?cid=fseprd1009698
+>.
+Source_Scale_Denominator:
+1200
+Type_of_Source_Media:
+online access
+Source_Time_Period_of_Content:
+Time_Period_Information:
+Range_of_Dates/Times:
+Beginning_Date:
+20200101
+Ending_Date:
+20201231
+Source_Currentness_Reference:
+publication date
+Source_Citation_Abbreviation:
+Hawaii TreeCanopy
+Source_Contribution:
+Ancillary canopy extent and density information used to support classification refinement.
+Source_Information:
+Source_Citation:
+Citation_Information:
+Originator:
+USDA Farm Service Agency (FSA)
+Publication_Date:
+2022
+Title:
+National Agriculture Imagery Program (NAIP) 2022 60 cm CIR Imagery
+Geospatial_Data_Presentation_Form:
+remote-sensing image
+Publication_Information:
+Publication_Place:
+Salt Lake City, Utah
+Publisher:
+USDA-FSA Aerial Photography Field Office
+Other_Citation_Details:
+NAIP imagery is publicly available through USDA public imagery distribution platforms and state GIS clearinghouses.
+Source_Scale_Denominator:
+5000
+Type_of_Source_Media:
+online access
+Source_Time_Period_of_Content:
+Time_Period_Information:
+Range_of_Dates/Times:
+Beginning_Date:
+20220101
+Ending_Date:
+20221231
+Source_Currentness_Reference:
+ground condition
+Source_Citation_Abbreviation:
+NAIP 2022
+Source_Contribution:
+Source imagery used for visual interpretation and classification input support.
+Source_Information:
+Source_Citation:
+Citation_Information:
+Originator:
+Planet Labs PBC
+Publication_Date:
+2025
+Title:
+PlanetScope Ortho Scene Imagery (2023-2025)
+Geospatial_Data_Presentation_Form:
+remote-sensing image
+Publication_Information:
+Publication_Place:
+San Francisco, California
+Publisher:
+Planet Labs PBC
+Other_Citation_Details:
+PlanetScope imagery was accessed under an institutional license. Additional information on PlanetScope products is available at <
+https://www.planet.com/
+>.
+Source_Scale_Denominator:
+1200
+Type_of_Source_Media:
+online access
+Source_Time_Period_of_Content:
+Time_Period_Information:
+Range_of_Dates/Times:
+Beginning_Date:
+20230101
+Ending_Date:
+20251231
+Source_Currentness_Reference:
+ground condition
+Source_Citation_Abbreviation:
+PlanetScope TS
+Source_Contribution:
+Multi-temporal imagery used to evaluate crop phenology and improve classification separability.
+Source_Information:
+Source_Citation:
+Citation_Information:
+Originator:
+Google LLC
+Publication_Date:
+2025
+Title:
+Google Earth High-Resolution Imagery
+Geospatial_Data_Presentation_Form:
+remote-sensing image
+Publication_Information:
+Publication_Place:
+Mountain View, California
+Publisher:
+Google LLC
+Other_Citation_Details:
+Google Earth imagery is a composite of multiple commercial and governmental sources. More information is available within the Google Earth platform.
+Source_Scale_Denominator:
+1000
+Type_of_Source_Media:
+online visualization
+Source_Time_Period_of_Content:
+Time_Period_Information:
+Range_of_Dates/Times:
+Beginning_Date:
+20200101
+Ending_Date:
+20251231
+Source_Currentness_Reference:
+imagery acquisition date varies by location
+Source_Citation_Abbreviation:
+Google Earth Imagery
+Source_Contribution:
+High-resolution visual reference used to support manual review and verification of classification features.
+Source_Information:
+Source_Citation:
+Citation_Information:
+Originator:
+Hawaii Department of Agriculture
+Publication_Date:
+2020
+Title:
+2020 Update to the Hawaii Statewide Agricultural Land Use Baseline
+Geospatial_Data_Presentation_Form:
+report and associated spatial data
+Publication_Information:
+Publication_Place:
+Honolulu, Hawaii
+Publisher:
+Hawaii Department of Agriculture
+Other_Citation_Details:
+Report and spatial data are available at <
+https://hdoa.hawaii.gov/wp-content/uploads/2022/01/2020_Update_Ag_Baseline_all_Hawaiian_Islands_v5.pdf
+>.
+Source_Scale_Denominator:
+24000
+Type_of_Source_Media:
+online report and GIS data
+Source_Time_Period_of_Content:
+Time_Period_Information:
+Range_of_Dates/Times:
+Beginning_Date:
+20190101
+Ending_Date:
+20201231
+Source_Currentness_Reference:
+publication date
+Source_Citation_Abbreviation:
+HI Ag Baseline 2020
+Source_Contribution:
+Baseline agricultural land-use information used to support interpretation of land cover categories.
+Process_Step:
+Process_Description:
+OVERVIEW: The HawaiiCropland Data Layer (HCDL) is the first-ever raster, geo-referenced, crop-specific land cover data layer for Hawaii. Unlike the 10-meter resolution CDL for CONUS or HCDL V1.x, which utilized 10-day image composites of surface reflectance data across multiple spectral bands and NDVI, crop classification for HCDL 2023, 2024 and 2025 V2.1 leveraged the 64-dimensional geospatial embeddings from the Satellite Embedding dataset developed by Google DeepMind's new geospatial AI model, AlphaEarth Foundations. This dataset was derived from multiple datastreams, including optical, radar, LiDAR, and other sources. Ground-reference data for crop type classification was developed based on satellite/aerial imagery interpretation and field surveys conducted by the University of Hawaii at Manoa beginning December 2023. Fieldwork covered the islands of Kauai, Oahu, Maui, Molokai, and the Big Island. HCDL 2025 was derived from 2025 embeddings using the SmileRandomForest classifier in Google Earth Engine, based on the 2025 ground-reference data. Since the embedding space is consistent across years, it can be used for condition change detection. Due to the limited groundreference data available in 2023, HCDL 2023 was derived from 2023 embeddings solely based on the trained 2024 models, thus reducing uncertainties caused by the subjective human-involved training data labeling process. The following citations contain additional information.
+Li, Z., Chen, Q., Yang, Z., Chen, H., Lincoln, N.K., Cao, C., Mueller, R., and Willis, P., 2024, Innovative Crop Mapping in Hawaii: The First 10-Meter Resolution Cropland Data Layers for 2023, The 12th International Conference on Agro-Geoinformatics. Novi Sad, Serbia, 2024, pp. 1-6, 10.1109/Agro-Geoinformatics262780.2024.10660811.
+Li, Z., Chen, Q., Yang, Z., Mueller, R., Willis, P., Chen, H., Lincoln, N.K., and Cao, C., 2026, Hawaii Cropland Data Layers (HCDL) v2.1: A Satellite Embedding Approach to Crop Mapping, IGARSS 2026 - 2026 IEEE International Geoscience and Remote Sensing Symposium, Washington D.C., United States, August 9 - 14, 2026.
+PUBLIC RELEASE: The USDA NASS Cropland Data Layer is considered public domain and free to redistribute. The official website is <
+https://www.nass.usda.gov/Research_and_Science/Cropland/SARS1a.php
+>. The data is available free for download through the Geospatial Data Gateway <
+https://datagateway.nrcs.usda.gov/
+>. Please note that in no case are farmer reported data revealed or derivable from the public use Cropland Data Layer.
+Process_Date:
+2025
+Process_Contact:
+Contact_Information:
+Contact_Organization_Primary:
+Contact_Organization:
+USDA NASS, Spatial Analysis Research Section
+Contact_Person:
+USDA NASS, Spatial Analysis Research Section staff
+Contact_Address:
+Address_Type:
+mailing and physical address
+Address:
+1400 Independence Avenue, SW, Room 5029 South Building
+City:
+Washington
+State_or_Province:
+District of Columbia
+Postal_Code:
+20250-2001
+Country:
+USA
+Contact_Voice_Telephone:
+800-727-9540
+Contact_Facsimile_Telephone:
+855-493-0447
+Contact_Electronic_Mail_Address:
+SM.NASS.RDD.GIB@usda.gov
+Cloud_Cover:
+0
+Spatial_Data_Organization_Information:
+Indirect_Spatial_Reference:
+Hawaii, United States
+Direct_Spatial_Reference_Method:
+Raster
+Raster_Object_Information:
+Raster_Object_Type:
+Pixel
+Row_Count:
+40485
+Column_Count:
+61603
+Spatial_Reference_Information:
+Horizontal_Coordinate_System_Definition:
+Planar:
+Map_Projection:
+Map_Projection_Name:
+Albers Conical Equal Area as used by mrlc.gov (NLCD)
+Albers_Conical_Equal_Area:
+Standard_Parallel:
+29.500000
+Standard_Parallel:
+45.500000
+Longitude_of_Central_Meridian:
+-96.000000
+Latitude_of_Projection_Origin:
+23.000000
+False_Easting:
+0.000000
+False_Northing:
+0.000000
+Planar_Coordinate_Information:
+Planar_Coordinate_Encoding_Method:
+row and column
+Coordinate_Representation:
+Abscissa_Resolution:
+10
+Ordinate_Resolution:
+10
+Planar_Distance_Units:
+meters
+Geodetic_Model:
+Horizontal_Datum_Name:
+North American Datum of 1983
+Ellipsoid_Name:
+Geodetic Reference System 80
+Semi-major_Axis:
+6378137.000000
+Denominator_of_Flattening_Ratio:
+298.257223563
+Entity_and_Attribute_Information:
+Overview_Description:
+Entity_and_Attribute_Overview:
+The strength and emphasis of the CDL is crop-specific land cover categories. The accuracy of the CDL non-agricultural land cover classes are entirely dependent upon the NLCD. Thus, the USDA NASS recommends that users consider the NLCD for studies involving non-agricultural land cover. The Hawaii CDL aims to map major, specialty, and culturally significant crops in Hawaii. The "Other Exotic Fruits" category encompasses a variety of tropical fruits such as mango, litchi, longan, cacao, dragon fruit, jackfruit, breadfruit, and rambutan. The " Misc Vegs & Fruits " category includes tomato, pumpkin, turmeric, mustard, eggplant and others.
+Entity_and_Attribute_Detail_Citation:
+NOTE: Codes 93 to 106 are specific to the Hawaii CDL. All other categories and codes are standardized to the existing Continential United States version of the CDL.
+ Data Dictionary: USDA National Agricultural Statistics Service, Hawaii Cropland Data Layer
+ Source: USDA National Agricultural Statistics Service
+ The following is a cross reference list of the categorization codes and land covers.
+ Note that not all land cover categories listed below will appear in an individual state.
+ Raster
+ Attribute Domain Values and Definitions: NO DATA, BACKGROUND 0
+ Categorization Code   Land Cover
+           "0"       Background
+ Raster
+ Attribute Domain Values and Definitions: HCDL Land Cover Codes
+ Categorization Code   Land Cover
+           "1"       Corn
+           "6"       Sunflower
+          "45"       Sugarcane
+          "46"       Sweet Potatoes
+          "47"       Misc Vegs & Fruits
+          "63"       Forest
+          "72"       Citrus
+          "82"       Developed
+          "93"       Banana (Hawaii Only)
+          "94"       Other Exotic Fruits (Hawaii Only)
+          "95"       Coffee (Hawaii Only)
+          "96"       Macadamia (Hawaii Only)
+          "97"       Papaya (Hawaii Only)
+          "98"       Pineapple (Hawaii Only)
+          "99"       Commercial Forest (Hawaii Only)
+         "100"       Taro (Hawaii Only)
+         "101"       Sweet Basil (Hawaii Only)
+         "102"       Coconut (Hawaii Only)
+         "103"       Plumeria (Hawaii Only)
+         "104"       Noni Fruit (Hawaii Only)
+         "105"       Dracaena (Hawaii Only)
+         "106"       Other Crops (Hawaii Only)
+         "111"       Open Water
+         "131"       Barren
+         "152"       Shrubland
+         "176"       Grassland/Pasture
+         "215"       Avocados
+Distribution_Information:
+Distributor:
+Contact_Information:
+Contact_Organization_Primary:
+Contact_Organization:
+USDA NASS Customer Service
+Contact_Person:
+USDA NASS Customer Service Staff
+Contact_Address:
+Address_Type:
+mailing and physical address
+Address:
+1400 Independence Avenue, SW, Room 5038-S
+City:
+Washington
+State_or_Province:
+District of Columbia
+Postal_Code:
+20250-9410
+Country:
+USA
+Contact_Voice_Telephone:
+800-727-9540
+Contact_Facsimile_Telephone:
+855-493-0447
+Contact_Electronic_Mail_Address:
+SM.NASS.RDD.GIB@usda.gov
+Contact_Instructions:
+Please visit the official website <
+https://www.nass.usda.gov/Research_and_Science/Cropland/SARS1a.php
+> for distribution details. The Cropland Data Layer is available free for download at the Geospatial Data Gateway <
+https://datagateway.nrcs.usda.gov/
+>. Distribution issues can also be directed to the NASS Customer Service Hotline at 1-800-727-9540.
+Resource_Description:
+2025 Hawaii Cropland Data Layer
+Distribution_Liability:
+Disclaimer: Users of the Cropland Data Layer (CDL) are solely responsible for interpretations made from these products. The CDL is provided 'as is' and the USDA NASS does not warrant results you may obtain using the Cropland Data Layer. Contact our staff at (SM.NASS.RDD.GIB@usda.gov) if technical questions arise in the use of the CDL. NASS maintains a Frequently Asked Questions (FAQ's) section at <
+https://www.nass.usda.gov/Research_and_Science/Cropland/SARS1a.php
+>.
+Standard_Order_Process:
+Digital_Form:
+Digital_Transfer_Information:
+Format_Name:
+GEOTIFF
+Format_Version_Date:
+2025
+Format_Information_Content:
+GEOTIFF
+Digital_Transfer_Option:
+Online_Option:
+Computer_Contact_Information:
+Network_Address:
+Network_Resource_Name:
+<
+https://www.nass.usda.gov/Research_and_Science/Cropland/Release/
+>
+Access_Instructions:
+The data is available free for download at <
+https://www.nass.usda.gov/Research_and_Science/Cropland/Release/
+> and the Geospatial Data Gateway <
+https://datagateway.nrcs.usda.gov/
+>.
+Fees:
+The data is available free for download at <
+https://www.nass.usda.gov/Research_and_Science/Cropland/Release/
+> and the Geospatial Data Gateway <
+https://datagateway.nrcs.usda.gov/
+>. Distribution questions can be directed to the NASS Customer Service Hotline at 1-800-727-9540.
+Ordering_Instructions:
+The data is available free for download at <
+https://www.nass.usda.gov/Research_and_Science/Cropland/Release/
+> and the Geospatial Data Gateway <
+https://datagateway.nrcs.usda.gov/
+>. Distribution questions can be directed to the NASS Customer Service Hotline at 1-800-727-9540.
+Technical_Prerequisites:
+Software capable of viewing GEOTIF (.tif) file formats.
+Metadata_Reference_Information:
+Metadata_Date:
+20260612
+Metadata_Contact:
+Contact_Information:
+Contact_Organization_Primary:
+Contact_Organization:
+USDA NASS, Spatial Analysis Research Section
+Contact_Person:
+USDA NASS, Spatial Analysis Research Section Staff
+Contact_Address:
+Address_Type:
+mailing and physical address
+Address:
+1400 Independence Avenue, SW, Room 5029 South Building
+City:
+Washington
+State_or_Province:
+District of Columbia
+Postal_Code:
+20250-2001
+Country:
+USA
+Contact_Voice_Telephone:
+800-727-9540
+Contact_Facsimile_Telephone:
+855-493-0447
+Contact_Electronic_Mail_Address:
+SM.NASS.RDD.GIB@usda.gov
+Metadata_Standard_Name:
+FGDC Content Standards for Digital Geospatial Metadata
+Metadata_Standard_Version:
+FGDC-STD-001-1998
+Metadata_Access_Constraints:
+No restrictions on the distribution or use of the metadata file
+Metadata_Use_Constraints:
+No restrictions on the distribution or use of the metadata file
+Generated by 
+mp
+ version 2.9.50 on Wed Apr 01 12:01:44 2026

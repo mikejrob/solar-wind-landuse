@@ -1,0 +1,21 @@
+scenario,parcel_eligible_acres_bin,parcels,acres,share_of_scenario_acres
+S0 by-right B/C,<5,6080,814.4,0.226
+S0 by-right B/C,5-20,109,1086.6,0.302
+S0 by-right B/C,20-30,85,1700.0,0.472
+S0 by-right B/C,30-100,0,0.0,0.0
+S0 by-right B/C,>=100,0,0.0,0.0
+S3 20% no cap B/C,<5,6029,1066.2,0.068
+S3 20% no cap B/C,5-20,120,1176.8,0.075
+S3 20% no cap B/C,20-30,33,767.3,0.049
+S3 20% no cap B/C,30-100,63,3633.6,0.232
+S3 20% no cap B/C,>=100,29,9012.7,0.576
+all B/C,<5,5820,1679.8,0.049
+all B/C,5-20,275,2381.9,0.069
+all B/C,20-30,25,615.1,0.018
+all B/C,30-100,86,4733.5,0.138
+all B/C,>=100,68,24960.1,0.726
+D/E <=15% slope (uncapped),<5,5857,2149.7,0.081
+D/E <=15% slope (uncapped),5-20,241,2350.9,0.088
+D/E <=15% slope (uncapped),20-30,37,933.1,0.035
+D/E <=15% slope (uncapped),30-100,83,4216.1,0.158
+D/E <=15% slope (uncapped),>=100,56,17050.7,0.639

@@ -1,0 +1,84 @@
+Hawaii Cropland Data Layers (HCDL) V2.0 
+Zhe Li 
+Abstract: 
+The Hawaii Cropland Data Layer (HCDL) is the first-ever raster, geo-referenced, crop-specific land 
+cover data layer for Hawaii. Unlike the 10-meter resolution CDL for CONUS or HCDL V1.x, which 
+utilized 10-day image composites of surface reflectance data across multiple spectral bands and 
+NDVI, crop classification for HCDL 2023 and 2024 V2.0 leveraged the 64-dimensional geospatial 
+"embeddings" from the Satellite Embedding dataset developed by Google DeepMind's new 
+geospatial AI model, AlphaEarth Foundations. This dataset was derived from multiple datastreams, 
+including optical, radar, LiDAR, and other sources. 
+Ground-reference data for crop type classification was developed based on satellite/aerial imagery 
+interpretation and field surveys conducted by the University of Hawaii at Manoa from December 
+2023 through October 2024. Fieldwork covered the islands of Kauai, Oahu, Maui, Molokai, and the 
+Big Island. HCDL 2024 was derived from 2024 embeddings using the SmileRandomForest classifier 
+in Google Earth Engine, based on the 2024 ground-reference data. Since the embedding space is 
+consistent across years, it can be used for condition change detection. Due to the limited ground- 
+reference data available in 2023, HCDL 2023 was derived from 2023 embeddings solely based on 
+the trained 2024 models, thus reducing uncertainties caused by the subjective human-involved 
+training data labeling process. 
+ 
+ 
+Figure 1. Hawaii Cropland Data Layers (HCDL) displayed by AgriWatch V1.7 
+(https://agriwatch.projects.earthengine.app/view/hcdl-viewer) 
+HCDL aims to map major, specialty, and culturally significant crops in Hawaii, as shown in Table 1. 
+The "Other Exotic Fruits" category encompasses a variety of tropical fruits such as mango, litchi, 
+longan, cacao, dragon fruit, jackfruit, breadfruit, and rambutan. The " Misc Vegs & Fruits " category 
+includes tomato, pumpkin, turmeric, mustard, eggplant and others. 
+ 
+ 
+Table 1. HCDL Legend 
+ 
+HCDL Class Value CDL Class Value Class Name Color Code 
+1 111 Open Water #4D70A3 
+2 63 Forest #93CC93 
+5 106 Other Crops* #E3A12B 
+7 82 Developed #9A9A9A 
+8 131 Barren #CCBFA3 
+11 176 Grassland/Pasture #E8FFBF 
+12 152 Shrubland #C6D69E 
+14 93 Banana* #D1FF00 
+17 94 Other Exotic Fruits* #FF2626 
+19 72 Citrus #FFFF7E 
+21 95 Coffee* #702600 
+22 99 Commercial Forest* #007777 
+34 96 Macadamia* #54FF00 
+40 97 Papaya* #336600 
+42 98 Pineapple* #B5705B 
+48 45 Sugarcane #757EFF 
+52 100 Taro* #A05989 
+56 47 Misc Vegs & Fruits #FF6666 
+57 101 Sweet Basil* #267000 
+58 6 Sunflower #FFFF00 
+59 1 Corn #FFD300 
+60 215 Avocados #66994D 
+62 102 Coconut* #999900 
+64 103 Plumeria* #FF6600 
+65 104 Noni Fruit* #FF3399 
+66 105 Dracaena* #DFB9D1 
+67 46 Sweet Potatoes #732600 
+“Red” indicates classes that are not available in CONUS CDL 
+HCDL can be viewed using following web platforms including 
+• AgriWatch (https://agriwatch.projects.earthengine.app/view/hcdl-viewer) 
+• CroplandCROS (https://croplandcros.scinet.usda.gov/) 
+• CropScape (https://nassgeodata.gmu.edu/CropScape/) 
+ 
+ 
+Acknowledgement: 
+HCDL was a collaborative effort between USDA NASS and the University of Hawaii at Manoa. This 
+research is part of AgriWatch: Innovating Agricultural Disaster Response with AI-Empowered Real- 
+Time Monitoring project supported by the USDA National Institute of Food and Agriculture (NIFA) 
+“Agriculture and Food Research Initiative Competitive Grants Program” under award number [2024- 
+68016-41561]. 
+ 
+ 
+Citations: 
+Brown, C. F., Kazmierski, M. R., Pasquarella, V J., Rucklidge, W. J., Samsikova, M., Zhang, C., 
+Shelhamer, E., Lahera, E., Wiles, O., Ilyushchenko, S., Gorelick, N., Zhang, L. L., Alj, S., Schechter, 
+E., Askay, S., Guinan, O., Moore, R., Boukouvalas, A., & Kohli, P., 2025, AlphaEarth Foundations: An 
+embedding field model for accurate and efficient global mapping from sparse label data. arXiv 
+preprint arXiv.2507.22291. doi:10.48550/arXiv.2507.22291 
+Li, Z., Chen, Q., Yang, Z., Chen, H., Lincoln, N.K., Cao, C., Mueller, R., and Willis, P., 2024, 
+Innovative Crop Mapping in Hawaii: The First 10-Meter Resolution Cropland Data Layers for 2023, 
+The 12th International Conference on Agro-Geoinformatics. Novi Sad, Serbia, 2024, pp. 1-6, 
+10.1109/Agro-Geoinformatics262780.2024.10660811 

@@ -1,0 +1,112 @@
+year,scope,cdl_code,class,group,acres
+2023,oahu_all,0,background,background,473655.6
+2023,oahu_all,1,Corn,seed_production,3388.8
+2023,oahu_all,45,Sugarcane,sugar,43.1
+2023,oahu_all,47,Misc Vegs & Fruits,diversified_crop,596.4
+2023,oahu_all,63,Forest,non_ag,229836.9
+2023,oahu_all,82,Developed,non_ag,79679.2
+2023,oahu_all,93,Banana,banana,592.8
+2023,oahu_all,94,Other Exotic Fruits,tropical_fruits,1412.4
+2023,oahu_all,95,Coffee,coffee,289.7
+2023,oahu_all,97,Papaya,papaya,352.7
+2023,oahu_all,98,Pineapple,pineapple,2544.9
+2023,oahu_all,100,Taro,taro,571.1
+2023,oahu_all,101,Sweet Basil,diversified_crop,352.5
+2023,oahu_all,102,Coconut,tropical_fruits,316.7
+2023,oahu_all,106,Other Crops,diversified_crop,10494.0
+2023,oahu_all,111,Open Water,non_ag,327830.0
+2023,oahu_all,131,Barren,non_ag,9376.6
+2023,oahu_all,152,Shrubland,non_ag,10957.9
+2023,oahu_all,176,Grassland/Pasture,grassland,33174.7
+2023,ag_district,1,Corn,seed_production,3378.6
+2023,ag_district,45,Sugarcane,sugar,43.0
+2023,ag_district,47,Misc Vegs & Fruits,diversified_crop,244.1
+2023,ag_district,63,Forest,non_ag,65735.5
+2023,ag_district,82,Developed,non_ag,7202.8
+2023,ag_district,93,Banana,banana,568.8
+2023,ag_district,94,Other Exotic Fruits,tropical_fruits,1297.3
+2023,ag_district,95,Coffee,coffee,289.7
+2023,ag_district,97,Papaya,papaya,346.3
+2023,ag_district,98,Pineapple,pineapple,2544.7
+2023,ag_district,100,Taro,taro,349.6
+2023,ag_district,101,Sweet Basil,diversified_crop,13.1
+2023,ag_district,102,Coconut,tropical_fruits,244.2
+2023,ag_district,106,Other Crops,diversified_crop,9736.2
+2023,ag_district,111,Open Water,non_ag,418.4
+2023,ag_district,131,Barren,non_ag,3212.4
+2023,ag_district,152,Shrubland,non_ag,3139.8
+2023,ag_district,176,Grassland/Pasture,grassland,22027.0
+2024,oahu_all,0,background,background,473655.6
+2024,oahu_all,1,Corn,seed_production,3304.9
+2024,oahu_all,45,Sugarcane,sugar,86.5
+2024,oahu_all,47,Misc Vegs & Fruits,diversified_crop,620.0
+2024,oahu_all,63,Forest,non_ag,229888.8
+2024,oahu_all,82,Developed,non_ag,79950.7
+2024,oahu_all,93,Banana,banana,674.1
+2024,oahu_all,94,Other Exotic Fruits,tropical_fruits,1434.1
+2024,oahu_all,95,Coffee,coffee,277.7
+2024,oahu_all,97,Papaya,papaya,334.9
+2024,oahu_all,98,Pineapple,pineapple,2204.5
+2024,oahu_all,100,Taro,taro,680.7
+2024,oahu_all,101,Sweet Basil,diversified_crop,394.4
+2024,oahu_all,102,Coconut,tropical_fruits,320.4
+2024,oahu_all,106,Other Crops,diversified_crop,10662.6
+2024,oahu_all,111,Open Water,non_ag,327778.6
+2024,oahu_all,131,Barren,non_ag,9690.0
+2024,oahu_all,152,Shrubland,non_ag,10711.4
+2024,oahu_all,176,Grassland/Pasture,grassland,32795.9
+2024,ag_district,1,Corn,seed_production,3291.9
+2024,ag_district,45,Sugarcane,sugar,86.4
+2024,ag_district,47,Misc Vegs & Fruits,diversified_crop,269.5
+2024,ag_district,63,Forest,non_ag,65633.0
+2024,ag_district,82,Developed,non_ag,7098.0
+2024,ag_district,93,Banana,banana,644.1
+2024,ag_district,94,Other Exotic Fruits,tropical_fruits,1324.7
+2024,ag_district,95,Coffee,coffee,277.7
+2024,ag_district,97,Papaya,papaya,323.0
+2024,ag_district,98,Pineapple,pineapple,2204.0
+2024,ag_district,100,Taro,taro,413.0
+2024,ag_district,101,Sweet Basil,diversified_crop,16.1
+2024,ag_district,102,Coconut,tropical_fruits,259.1
+2024,ag_district,106,Other Crops,diversified_crop,9858.2
+2024,ag_district,111,Open Water,non_ag,397.3
+2024,ag_district,131,Barren,non_ag,3527.2
+2024,ag_district,152,Shrubland,non_ag,3165.5
+2024,ag_district,176,Grassland/Pasture,grassland,22002.8
+2025,oahu_all,0,background,background,473655.6
+2025,oahu_all,1,Corn,seed_production,3783.7
+2025,oahu_all,45,Sugarcane,sugar,45.5
+2025,oahu_all,47,Misc Vegs & Fruits,diversified_crop,608.2
+2025,oahu_all,63,Forest,non_ag,229684.6
+2025,oahu_all,82,Developed,non_ag,80199.4
+2025,oahu_all,93,Banana,banana,610.5
+2025,oahu_all,94,Other Exotic Fruits,tropical_fruits,1461.0
+2025,oahu_all,95,Coffee,coffee,383.5
+2025,oahu_all,97,Papaya,papaya,357.1
+2025,oahu_all,98,Pineapple,pineapple,2563.8
+2025,oahu_all,100,Taro,taro,598.0
+2025,oahu_all,101,Sweet Basil,diversified_crop,444.1
+2025,oahu_all,102,Coconut,tropical_fruits,335.5
+2025,oahu_all,106,Other Crops,diversified_crop,10633.1
+2025,oahu_all,111,Open Water,non_ag,327926.9
+2025,oahu_all,131,Barren,non_ag,9262.3
+2025,oahu_all,152,Shrubland,non_ag,11081.8
+2025,oahu_all,176,Grassland/Pasture,grassland,31831.2
+2025,ag_district,1,Corn,seed_production,3763.0
+2025,ag_district,45,Sugarcane,sugar,45.4
+2025,ag_district,47,Misc Vegs & Fruits,diversified_crop,281.1
+2025,ag_district,63,Forest,non_ag,65758.9
+2025,ag_district,82,Developed,non_ag,7221.5
+2025,ag_district,93,Banana,banana,592.3
+2025,ag_district,94,Other Exotic Fruits,tropical_fruits,1316.9
+2025,ag_district,95,Coffee,coffee,383.4
+2025,ag_district,97,Papaya,papaya,347.7
+2025,ag_district,98,Pineapple,pineapple,2563.3
+2025,ag_district,100,Taro,taro,351.2
+2025,ag_district,101,Sweet Basil,diversified_crop,20.9
+2025,ag_district,102,Coconut,tropical_fruits,274.0
+2025,ag_district,106,Other Crops,diversified_crop,9866.4
+2025,ag_district,111,Open Water,non_ag,403.1
+2025,ag_district,131,Barren,non_ag,3186.9
+2025,ag_district,152,Shrubland,non_ag,3177.9
+2025,ag_district,176,Grassland/Pasture,grassland,21237.7

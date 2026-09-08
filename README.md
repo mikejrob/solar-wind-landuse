@@ -45,6 +45,12 @@ estimates, not survey.*
   by slope (`notes/oahu-transmission-screen.md`, `notes/oahu-slope-screen.md`).
 - Government owns ~50% of the district. Kamehameha Schools owns ~13% (a quarter
   of private ag land) (`notes/oahu-ownership.md`).
+- Most of the district is not farmed. The HDOA 2020 Agricultural Land Use
+  Baseline maps 36,100 ac of commercial crops and pasture in the district
+  (30%). B/C soils are 43% in mapped use; D/E soils 15%, mostly pasture.
+  About 65% of by-right B/C acreage and 62% of the 20%-no-cap acreage
+  carried no mapped commercial use in 2018–20 imagery
+  (`notes/ag-land-use-baseline.md`).
 - Non-agricultural supply is small. ~11,900 ac of low-improvement urban land is
   physically suitable; the durable slice is ~5,700 ac. Military land and closed
   golf courses add ~0 new near-grid buildable acreage
@@ -121,6 +127,13 @@ Each note is a self-contained investigation with its own sources.
 - `notes/state-land-solar.md` — state-land leasing authority and history.
 - `notes/available-land-map.md` — the three-layer available-land map, its
   slope bands, and the modeled-subset selection (`analysis/available_land_map.py`).
+- `notes/ag-land-use-baseline.md` — what the district is used for: the HDOA
+  2020 ag-use layer by soil class, parcel, owner, and cap scenario.
+- `notes/hcdl-2023-2025.md` — the annual NASS/UH Cropland Data Layer
+  against the HDOA 2020 baseline; candidate changes and a verification plan.
+- `notes/review-plasch-2026-09.md` — reviewer-named exclusions, minimum farm
+  size, existing farms, agrivoltaic costs, North Shore policy (letter in
+  `docs/reviews/`).
 
 **Process to build**
 - `notes/sup-census.md` — every solar special use permit and its outcome.
@@ -152,6 +165,18 @@ Each note is a self-contained investigation with its own sources.
 - `notes/synthesis-2026-07-11.md` — cross-thread synthesis.
 - `docs/ACCURACY_REVIEW.md` — internal-consistency and verification audit.
 - `docs/ASSUMPTIONS.md` — every exogenous parameter with its justification.
+
+## Interactive map
+
+`site/` is a static Leaflet web map of Oʻahu land use: the 6,274 ag-district
+parcels with every compiled attribute (owner, soils, cap eligibility, HDOA
+2020 use, HCDL 2024 crop cover, slope, grid distance, reviewer flags), LSB
+classes, state districts, HDOA 2020 crop polygons, Cropland Data Layer
+rasters (2024, 2025), transmission lines, existing solar, military land, and
+wind turbines; all Oʻahu parcels load live from the state GIS at zoom 15+.
+Build data with `analysis/build_webmap.py`; preview with
+`python3 -m http.server -d site 8000`; `.github/workflows/pages.yml` deploys
+to GitHub Pages (set Pages → Source → GitHub Actions). See `site/README.md`.
 
 ## The paper
 
@@ -220,6 +245,9 @@ that file) to run the full GIS pipeline.
 | Honolulu RPAD | Ownership, assessed values | Fee-owner of record; entity resolution in `resolve_owners.py` |
 | HIFLD + OpenStreetMap | Transmission lines | 46 kV under-mapped; distance figures conservative |
 | USGS 3DEP | Slope | 10 m grid |
+| HDOA / UH Hilo SDAV 2020 Ag Land Use Baseline | Current commercial ag use by crop | geodata.hawaii.gov layer 19; 2018–20 imagery; latest HDOA product |
+| USDA NASS / UH Mānoa Hawaiʻi Cropland Data Layer | Annual crop cover 2023–25 | 10 m raster; 2025 unassessed; grassland ≠ pasture |
+| OpenStreetMap (Overpass) | Existing solar-plant footprints | Incomplete; several Oʻahu plants unnamed or absent |
 | luc.hawaii.gov, PUC CDMS | Dockets | CDMS is JS-only; PDFs linked where not fetchable |
 | SEC EDGAR | HEI proxies | Cached |
 | MISO MTEP guides | Transmission costs | Mainland values × Hawaiʻi multiplier (flagged UNVERIFIED) |
