@@ -13,8 +13,8 @@ live from the state GIS service at zoom 15+.
 - Deploy: `.github/workflows/pages.yml` publishes `site/` on pushes to `main`.
   In the repository settings, set Pages → Source → "GitHub Actions". The
   map then serves at `https://mikejrob.github.io/solar-wind-landuse/`.
-  GitHub Pages on a private repository needs a Pro/Team/Enterprise plan;
-  otherwise make the repo public or publish `site/` to a separate public repo.
+  The repository is public, so the site and everything in `site/data/`
+  (including owners of record) are world-readable by design.
 - Local preview: `python3 -m http.server -d site 8000` then open
   http://localhost:8000/.
 
