@@ -189,7 +189,11 @@ I/II, Mountain View, Barbers Point, Kupono, Waiawa Phase 1, and Mahi are
 unnamed or missing. The named farms sit on B soils, consistent with the SUP
 census (`notes/sup-census.md`): utility-scale solar has been built on the
 capped classes through the SUP tier, on legacy-landholder parcels that were
-in pasture or cane rotation.
+in pasture or cane rotation. An independent pass over the same OSM
+snapshot (`analysis/osm_footprint_check.py`,
+`data/gis/osm_solar_footprints.csv`, `notes/plantation-footprint-1980.md`)
+reproduces these class splits and places the plants against the 1978–80
+plantation footprint.
 
 ## What this changes
 
