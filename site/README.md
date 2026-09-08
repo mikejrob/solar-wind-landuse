@@ -1,5 +1,7 @@
 # Oʻahu Land Use Explorer (static web map)
 
+Deployed at https://mikejrob.github.io/solar-wind-landuse/ (GitHub Pages, from `site/`).
+
 Interactive Leaflet map of Oʻahu agricultural land: parcels with compiled
 attributes, LSB soil classes, state land-use districts, HDOA 2020 crop
 polygons, USDA/UH Cropland Data Layer rasters (2024, 2025), transmission
