@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Oʻahu Land Use Explorer</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<link rel="stylesheet" href="style.css?v=3">
+</head>
+<body>
+<div id="map"></div>
+<div id="panel">
+  <h1>Oʻahu Land Use Explorer</h1>
+  <p class="sub">Agricultural land, soils, crops, parcels, grid, and solar on Oʻahu. Companion to <a href="https://github.com/mikejrob/solar-wind-landuse" target="_blank" rel="noopener">solar-wind-landuse</a>. <a href="#" id="about-link">About the data</a>.</p>
+  <div class="row"><label for="tmk">Find TMK</label><input id="tmk" placeholder="e.g. 161006001" size="12"><button id="tmk-go">Go</button></div>
+  <h2>Basemap</h2>
+  <div id="basemaps"></div>
+  <h2>Parcels (state Agricultural District)</h2>
+  <div class="row"><input type="checkbox" id="chk-parcels" checked><label for="chk-parcels">Ag-district parcels (6,274)</label></div>
+  <div class="row"><label for="color-by">Color by</label>
+    <select id="color-by">
+      <option value="owner_type">Owner type</option>
+      <option value="use2020">Dominant use, HDOA 2020</option>
+      <option value="lsb_dom">Dominant LSB soil class</option>
+      <option value="elig">Solar eligibility (current cap)</option>
+      <option value="s3_share">20%-no-cap eligible share of parcel</option>
+      <option value="slope">Share of parcel ≤15% slope</option>
+      <option value="hcdl">HCDL 2024 crop share of parcel</option>
+      <option value="flags">Reviewer issue flags</option>
+      <option value="chg">HDOA 2020 vs HCDL change candidate</option>
+      <option value="none">Outline only</option>
+    </select></div>
+  <div id="legend"></div>
+  <div class="row"><input type="checkbox" id="chk-allparcels"><label for="chk-allparcels">All Oʻahu parcels (live from state GIS; zoom ≥ 15)</label></div>
+  <h2>Land classification</h2>
+  <div class="row"><input type="checkbox" id="chk-slud"><label for="chk-slud">State land-use districts</label></div>
+  <div class="row"><input type="checkbox" id="chk-lsb"><label for="chk-lsb">LSB soil productivity class A–E</label></div>
+  <div id="lsb-legend" class="minilegend" style="display:none"></div>
+  <div class="row"><input type="checkbox" id="chk-military"><label for="chk-military">Military land (fee / 2029 lease)</label></div>
+  <h2>Agricultural use</h2>
+  <div class="row"><input type="checkbox" id="chk-hdoa" checked><label for="chk-hdoa">HDOA 2020 baseline: crops and pasture</label></div>
+  <div class="row"><input type="checkbox" id="chk-hcdl24"><label for="chk-hcdl24">Cropland Data Layer 2024 (10 m)</label></div>
+  <div class="row"><input type="checkbox" id="chk-hcdl25"><label for="chk-hcdl25">Cropland Data Layer 2025 (10 m)</label></div>
+  <div class="row"><label for="hcdl-op">CDL opacity</label><input type="range" id="hcdl-op" min="0" max="100" value="80"></div>
+  <div id="hcdl-legend" class="minilegend"></div>
+  <h2>Energy</h2>
+  <div class="row"><input type="checkbox" id="chk-lines" checked><label for="chk-lines">Transmission lines (138 kV, 46 kV+)</label></div>
+  <div class="row"><input type="checkbox" id="chk-solar" checked><label for="chk-solar">Existing solar farms (OSM)</label></div>
+  <div class="row"><input type="checkbox" id="chk-wind"><label for="chk-wind">Wind turbines (OSM)</label></div>
+  <div id="status"></div>
+</div>
+<div id="about" style="display:none" onclick="if(event.target.id==='about')this.style.display='none'">
+  <div class="about-inner">
+    <button id="about-close" type="button" onclick="document.getElementById('about').style.display='none'">×</button>
+    <h2>About the data</h2>
+    <ul>
+      <li><b>Ag-district parcels</b>: TMK parcels intersecting the State Agricultural District (geodata.hawaii.gov), with attributes compiled in the repository: owner of record (Honolulu RPAD, tax year 2027, entity-resolved), LSB soil-class acres, solar-eligible acres under HRS §205-4.5(a)(20) (S0: min(10% of parcel, 20 ac, B/C area)) and a 20%-no-hard-cap counterfactual (S3), HDOA 2020 use, HCDL 2024 crop cover, slope shares (USGS 3DEP), distance to mapped 46 kV and 138 kV lines (HIFLD/OSM; 46 kV under-mapped), reviewer issue flags, and HDOA-vs-HCDL change-candidate status (UNVERIFIED).</li>
+      <li><b>LSB classes</b>: Land Study Bureau overall productivity ratings A (best) to E. Solar is banned on A; capped on B/C; uncapped on D/E.</li>
+      <li><b>HDOA 2020 baseline</b>: Perroy &amp; Collier (2022), UH Hilo SDAV for the Hawaiʻi Dept. of Agriculture; commercial operations digitized from 2018–20 imagery. Seed-production polygons are gross operational footprints (about a quarter planted at any time).</li>
+      <li><b>Cropland Data Layer</b>: USDA NASS / UH Mānoa Hawaiʻi CDL V2.1, 10 m annual classification (AlphaEarth embeddings + random forest). 2024 class F1 0.90–1.00; 2025 unassessed. Grassland/pasture is a cover class, not fenced pasture.</li>
+      <li><b>Existing solar</b>: OpenStreetMap plant polygons (incomplete). <b>Military</b>: DoD fee land and 2029 state-lease parcels. <b>All parcels</b>: fetched live from the state ParcelsZoning service at zoom 15+.</li>
+      <li>Acreages are GIS estimates. Nothing here is a survey or a regulatory determination. Issue flags are labels, not exclusions.</li>
+    </ul>
+  </div>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/esri-leaflet@3.0.12/dist/esri-leaflet.js"></script>
+<script src="app.js?v=7"></script>
+</body>
+</html>

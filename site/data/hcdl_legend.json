@@ -1,0 +1,110 @@
+{
+ "1": {
+  "name": "Corn (seed)",
+  "color": "#FFD300"
+ },
+ "6": {
+  "name": "Sunflower",
+  "color": "#FFFF00"
+ },
+ "45": {
+  "name": "Sugarcane",
+  "color": "#757EFF"
+ },
+ "46": {
+  "name": "Sweet potatoes",
+  "color": "#732600"
+ },
+ "47": {
+  "name": "Misc vegs & fruits",
+  "color": "#FF6666"
+ },
+ "63": {
+  "name": "Forest",
+  "color": "#93CC93"
+ },
+ "72": {
+  "name": "Citrus",
+  "color": "#FFFF7E"
+ },
+ "82": {
+  "name": "Developed",
+  "color": "#9A9A9A"
+ },
+ "93": {
+  "name": "Banana",
+  "color": "#D1FF00"
+ },
+ "94": {
+  "name": "Other exotic fruits",
+  "color": "#FF2626"
+ },
+ "95": {
+  "name": "Coffee",
+  "color": "#702600"
+ },
+ "96": {
+  "name": "Macadamia",
+  "color": "#54FF00"
+ },
+ "97": {
+  "name": "Papaya",
+  "color": "#336600"
+ },
+ "98": {
+  "name": "Pineapple",
+  "color": "#B5705B"
+ },
+ "99": {
+  "name": "Commercial forest",
+  "color": "#007777"
+ },
+ "100": {
+  "name": "Taro",
+  "color": "#A05989"
+ },
+ "101": {
+  "name": "Sweet basil",
+  "color": "#267000"
+ },
+ "102": {
+  "name": "Coconut",
+  "color": "#999900"
+ },
+ "103": {
+  "name": "Plumeria",
+  "color": "#FF6600"
+ },
+ "104": {
+  "name": "Noni",
+  "color": "#FF3399"
+ },
+ "105": {
+  "name": "Dracaena",
+  "color": "#DFB9D1"
+ },
+ "106": {
+  "name": "Other crops",
+  "color": "#E3A12B"
+ },
+ "111": {
+  "name": "Open water",
+  "color": "#4D70A3"
+ },
+ "131": {
+  "name": "Barren",
+  "color": "#CCBFA3"
+ },
+ "152": {
+  "name": "Shrubland",
+  "color": "#C6D69E"
+ },
+ "176": {
+  "name": "Grassland/pasture",
+  "color": "#E8FFBF"
+ },
+ "215": {
+  "name": "Avocados",
+  "color": "#66994D"
+ }
+}
