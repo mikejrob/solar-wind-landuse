@@ -16,7 +16,7 @@
   <h2>Basemap</h2>
   <div id="basemaps"></div>
   <h2>Parcels (state Agricultural District)</h2>
-  <div class="row"><input type="checkbox" id="chk-parcels" checked><label for="chk-parcels">Ag-district parcels (6,274)</label></div>
+  <div class="row"><input type="checkbox" id="chk-parcels"><label for="chk-parcels">Ag-district parcels (6,274)</label></div>
   <div class="row"><label for="color-by">Color by</label>
     <select id="color-by">
       <option value="owner_type">Owner type</option>
@@ -31,22 +31,22 @@
       <option value="none">Outline only</option>
     </select></div>
   <div id="legend"></div>
-  <div class="row"><input type="checkbox" id="chk-allparcels"><label for="chk-allparcels">All Oʻahu parcels (live from state GIS; zoom ≥ 15)</label></div>
+  <div class="row"><input type="checkbox" id="chk-allparcels" checked><label for="chk-allparcels">All Oʻahu parcels (live from state GIS; zoom ≥ 15)</label></div>
   <h2>Land classification</h2>
-  <div class="row"><input type="checkbox" id="chk-slud"><label for="chk-slud">State land-use districts</label></div>
+  <div class="row"><input type="checkbox" id="chk-slud" checked><label for="chk-slud">State land-use districts</label></div>
   <div class="row"><input type="checkbox" id="chk-lsb"><label for="chk-lsb">LSB soil productivity class A–E</label></div>
   <div id="lsb-legend" class="minilegend" style="display:none"></div>
   <div class="row"><input type="checkbox" id="chk-military"><label for="chk-military">Military land (fee / 2029 lease)</label></div>
   <h2>Agricultural use</h2>
-  <div class="row"><input type="checkbox" id="chk-hdoa" checked><label for="chk-hdoa">HDOA 2020 baseline: crops and pasture</label></div>
+  <div class="row"><input type="checkbox" id="chk-hdoa"><label for="chk-hdoa">HDOA 2020 baseline: crops and pasture</label></div>
   <div class="row"><input type="checkbox" id="chk-hcdl24"><label for="chk-hcdl24">Cropland Data Layer 2024 (10 m)</label></div>
-  <div class="row"><input type="checkbox" id="chk-hcdl25"><label for="chk-hcdl25">Cropland Data Layer 2025 (10 m)</label></div>
+  <div class="row"><input type="checkbox" id="chk-hcdl25" checked><label for="chk-hcdl25">Cropland Data Layer 2025 (10 m)</label></div>
   <div class="row"><label for="hcdl-op">CDL opacity</label><input type="range" id="hcdl-op" min="0" max="100" value="80"></div>
   <div id="hcdl-legend" class="minilegend"></div>
   <h2>Energy</h2>
   <div class="row"><input type="checkbox" id="chk-lines" checked><label for="chk-lines">Transmission lines (138 kV, 46 kV+)</label></div>
   <div class="row"><input type="checkbox" id="chk-solar" checked><label for="chk-solar">Existing solar farms (OSM)</label></div>
-  <div class="row"><input type="checkbox" id="chk-wind"><label for="chk-wind">Wind turbines (OSM)</label></div>
+  <div class="row"><input type="checkbox" id="chk-wind" checked><label for="chk-wind">Wind turbines (OSM)</label></div>
   <div id="status"></div>
 </div>
 <div id="about" style="display:none" onclick="if(event.target.id==='about')this.style.display='none'">
@@ -65,6 +65,6 @@
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/esri-leaflet@3.0.12/dist/esri-leaflet.js"></script>
-<script src="app.js?v=7"></script>
+<script src="app.js?v=8"></script>
 </body>
 </html>
