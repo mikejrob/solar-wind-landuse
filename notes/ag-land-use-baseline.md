@@ -188,11 +188,20 @@ ac, C 138, D 224, E 173, A 1. (The 2026-09-07 pull matched
 now listed: Mililani I, Waiawa Phase 1, AES West Oʻahu, Hoʻohana.) Kawailoa Solar (49 MW) covers 284 ac (253 ac
 class B); Waipio Solar (45.9 MW) 245 ac (243 ac B); West Loch (20 MW) 101
 ac (class C); Lanikuhana (14.7 MW) 106 ac (D/E). OSM is incomplete: Mountain View and Kupono
-are missing (Barbers Point and Mahi are unbuilt). Waiawa Phase 1 and
-Hoʻohana sit in the Urban district; Mililani I on D/E. The named farms sit on B soils, consistent with the SUP
-census (`notes/sup-census.md`): utility-scale solar has been built on the
-capped classes through the SUP tier, on legacy-landholder parcels that were
-in pasture or cane rotation. An independent pass over the same OSM
+are missing (Barbers Point and Mahi are unbuilt). Most built
+utility-scale solar sits outside ag-district D/E, the uncapped, permit-free
+class that land-availability screens treat as the available supply. Of the
+12 mapped plants over 20 ac (1,697 ac of footprint), 342 ac (20%) is
+ag-district D/E (Mililani I, Lanikuhana, most of Waipio Peninsula, the ag
+part of Eurus Waiʻanae). 675 ac (40%) is ag-district B/C, built through the
+capped tier and the SUP (Kawailoa, Waipio Solar, West Loch, most of AES West
+Oʻahu), consistent with the SUP census (`notes/sup-census.md`): legacy-
+landholder parcels that were in pasture or cane rotation. 679 ac (40%) is
+outside the ag district entirely, all in the Urban district (Waiawa Phase 1
+and 2, Hoʻohana, Kalaeloa Solar Two, most of Eurus Waiʻanae). Kupono (Navy
+land) and Mountain View are unmapped and not counted. Computed 2026-10-06 by
+intersecting the OSM footprints with SLUD and LSB (D/E share = footprint ∩
+ag district ∩ LSB D/E). An independent pass over the same OSM
 snapshot (`analysis/osm_footprint_check.py`,
 `data/gis/osm_solar_footprints.csv`, `notes/plantation-footprint-1980.md`)
 reproduces these class splits and places the plants against the 1978–80
