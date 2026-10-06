@@ -2,9 +2,13 @@ osm_id,name,mw,operator,acres,lsb_A,lsb_B,lsb_C,lsb_D,lsb_E,slud_A,slud_U,slud_C
 relation/11815227,Kawailoa Solar,49 MW,"Kawailoa Solar, LLC",284.3,0.0,252.6,30.0,0.0,1.7,284.3,0.0,0.0,0.0,161006001;161005001
 relation/19251113,Waiawa Phase 2 Solar + Storage,yes,AES Corporation,271.3,1.2,0.0,0.0,0.0,0.0,0.5,270.8,0.0,0.0,196005013;196004031
 relation/11815229,Waipio Solar,45.9 MW,"Waipio PV, LLC",245.4,0.0,243.4,0.1,0.0,2.0,245.4,0.0,0.0,0.0,195003017;195003019;195003018
+way/1161246454,Waiawa Solar Power Hybrid,72 MW,Waiawa Solar Power LLC,149.3,0.0,0.0,0.0,0.0,0.1,0.1,149.1,0.0,0.0,196005013;196004008;196004031
 way/836930787,Eurus Waianae Solar Project,27.6 MW,Eurus Energy America,143.8,0.0,0.0,0.0,0.0,52.0,51.6,92.2,0.0,0.0,185002052;185003030
+way/1560177092,Ho'Ohana Solar 1,117.3 MW,Ho'Ohana Solar 1 LLC,139.9,0.1,0.0,0.0,0.0,7.2,0.4,139.5,0.0,0.0,194002052;194002080;194172001
+relation/17393661,Mililani South Solar Farm,78 MW,Mililani I Solar LLC,131.1,0.0,0.0,0.0,118.4,12.8,131.1,0.0,0.0,0.0,194005096;194005091;194005090;194005092;194005097
 relation/11501993,Lanikuhana Solar,14.7 MW,Lanikuhana Solar LLC,106.3,0.0,0.0,0.0,61.4,44.9,106.3,0.0,0.0,0.0,194005097;194005091;194005096
 way/836931513,West Loch Solar One,20 MW,Hawaiian Electric Company,100.9,0.0,0.0,100.2,0.0,0.6,100.9,0.0,0.0,0.0,191010123;191010122
+way/1175181473,AES West Oahu Solar Hybrid,25 MW,AES Corporation,55.7,0.0,40.3,0.0,10.0,5.5,55.7,0.0,0.0,0.0,192002007
 way/836931515,Waipio Peninsula,11 MW,"Pacific Energy Solutions, LLC",41.4,0.0,7.6,0.4,33.4,0.0,41.4,0.0,0.0,0.0,193002001
 way/865515561,Kalaeloa Solar Two,5 MW,Kalaeloa Solar Two LLC,27.4,0.0,0.0,0.0,0.0,0.0,0.0,27.4,0.0,0.0,
 way/865515560,Kalaeloa Renewable Energy Park,5 MW,Hanwha Q CELLS USA,19.7,0.0,0.0,0.0,0.0,0.0,0.0,19.7,0.0,0.0,

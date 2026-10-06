@@ -320,9 +320,10 @@ Producer: `analysis/waianae_screen_map.py`. Elevation band (USGS 3DEP, 10 m)
 × acres of D/E ≤15% and 15–30% slope inside the Waiʻanae-screen parcels,
 plus all ag-district D/E ≤15% in the screening box and island-wide.
 
-### oahu_existing_solar_osm.csv — 47 rows
-Producer: `review_area_screen.py`. OpenStreetMap `power=plant` /
-`plant:source=solar` polygons on Oʻahu (Overpass pull 2026-09-07,
+### oahu_existing_solar_osm.csv — 51 rows
+Producer: `review_area_screen.py`. OpenStreetMap `power=plant` polygons
+with `plant:source` containing `solar` (incl. `solar;battery` hybrids) on
+Oʻahu (Overpass pull 2026-10-06 via `osm_footprint_check.py --refresh`,
 `data/gis/osm_solar_plants_oahu.json`): `osm_id`, `name`, `mw`,
 `operator`, `acres`, `lsb_A…lsb_E`, `slud_A/U/C/R`, `ag_district_tmks`
 (top 5 by overlap). Incomplete: several plants are unnamed or absent.

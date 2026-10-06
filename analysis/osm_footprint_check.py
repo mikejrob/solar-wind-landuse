@@ -7,10 +7,14 @@ QUESTION
   Feeds the by-project table in notes/plantation-footprint-1980.md.
 
 SOURCES
-  data/raw/osm/oahu_solar_plants_20260907.json - Overpass API snapshot
-    (fetched 2026-09-07, sha256 6c9eca32...): every way/relation tagged
-    power=plant + plant:source=solar in the Oahu bounding box
-    (21.2,-158.35,21.75,-157.6), full geometry. --refresh re-queries.
+  data/raw/osm/oahu_solar_plants_20261006.json - Overpass API snapshot
+    (fetched 2026-10-06): every way/relation tagged power=plant with
+    plant:source containing "solar" (so hybrids tagged "solar;battery"
+    are included) in the Oahu bounding box (21.2,-158.35,21.75,-157.6),
+    full geometry. --refresh re-queries and also writes the copy at
+    data/gis/osm_solar_plants_oahu.json read by build_webmap.py,
+    review_area_screen.py and hcdl_overlay.py. The 2026-09-07 snapshot
+    matched plant:source=solar exactly and so missed every hybrid plant.
   data/gis/slud.parquet, data/gis/lsb.parquet - as in
     analysis/plantation_footprint.py.
 
@@ -18,9 +22,10 @@ METHOD
   Assemble each plant's outer polygons, keep plants over 20 GIS acres
   (screens out rooftop/FIT arrays), intersect with SLUD and LSB, report
   acres by district code and soil class. OSM coverage is partial: as of
-  the snapshot, Mililani I, Ho'ohana, AES West O'ahu, Kupono, and Waiawa
-  Phase 1 have no mapped footprint; their rows in the note come from LUC
-  dockets and permit records instead.
+  the 2026-10-06 snapshot, Kupono and Mountain View have no mapped
+  footprint. (The 2026-09-07 snapshot also lacked Mililani I, Ho'ohana,
+  AES West O'ahu, and Waiawa Phase 1, an artifact of its exact-match
+  filter; their rows in the note come from LUC dockets and permit records.)
 
 OUTPUT
   data/gis/osm_solar_footprints.csv - one row per (plant, layer,
@@ -40,11 +45,12 @@ from shapely.geometry import Polygon
 from shapely.ops import unary_union
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
-SNAP = ROOT / 'data/raw/osm/oahu_solar_plants_20260907.json'
+SNAP = ROOT / 'data/raw/osm/oahu_solar_plants_20261006.json'
+GIS_COPY = ROOT / 'data/gis/osm_solar_plants_oahu.json'
 OUT = ROOT / 'data/gis/osm_solar_footprints.csv'
 QUERY = ('[out:json][timeout:90];('
-         'way["power"="plant"]["plant:source"="solar"](21.2,-158.35,21.75,-157.6);'
-         'relation["power"="plant"]["plant:source"="solar"](21.2,-158.35,21.75,-157.6);'
+         'way["power"="plant"]["plant:source"~"solar"](21.2,-158.35,21.75,-157.6);'
+         'relation["power"="plant"]["plant:source"~"solar"](21.2,-158.35,21.75,-157.6);'
          ');out geom;')
 EQ = 26904
 ACRE = 4046.8564224
@@ -84,9 +90,13 @@ def main():
     if args.refresh or not SNAP.exists():
         url = ('https://overpass-api.de/api/interpreter?data='
                + urllib.parse.quote(QUERY))
-        with urllib.request.urlopen(url, timeout=180) as r:
+        req = urllib.request.Request(url, headers={
+            'User-Agent': 'solar-wind-landuse research (UH Manoa)'})
+        with urllib.request.urlopen(req, timeout=180) as r:
             SNAP.parent.mkdir(parents=True, exist_ok=True)
-            SNAP.write_bytes(r.read())
+            body = r.read()
+        SNAP.write_bytes(body)
+        GIS_COPY.write_bytes(body)
     g = plants(json.load(open(SNAP)))
 
     layers = {'slud': ('ludcode', gpd.read_parquet(ROOT / 'data/gis/slud.parquet')),

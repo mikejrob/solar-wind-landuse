@@ -177,16 +177,19 @@ landholders' B/C land is where the farming is.
 
 ## Existing solar farms
 
-OpenStreetMap `power=plant` / `plant:source=solar` polygons for Oʻahu
-(Overpass pull 2026-09-07, `data/gis/osm_solar_plants_oahu.json`; table
+OpenStreetMap `power=plant` polygons with `plant:source` containing
+`solar` for Oʻahu (Overpass pull 2026-10-06,
+`data/gis/osm_solar_plants_oahu.json`; table
 `data/oahu_existing_solar_osm.csv`, built by
-`analysis/review_area_screen.py`): 47 features, 1,373 ac of mapped
-footprint, 925 ac inside the ag district. LSB mix of the footprint: B 542
-ac, C 138, D 96, E 148, A 1. Kawailoa Solar (49 MW) covers 284 ac (253 ac
+`analysis/review_area_screen.py`): 51 features, 1,849 ac of mapped
+footprint, 1,112 ac inside the ag district. LSB mix of the footprint: B 583
+ac, C 138, D 224, E 173, A 1. (The 2026-09-07 pull matched
+`plant:source=solar` exactly and dropped the four `solar;battery` hybrids
+now listed: Mililani I, Waiawa Phase 1, AES West Oʻahu, Hoʻohana.) Kawailoa Solar (49 MW) covers 284 ac (253 ac
 class B); Waipio Solar (45.9 MW) 245 ac (243 ac B); West Loch (20 MW) 101
-ac (class C); Lanikuhana (14.7 MW) 106 ac (D/E). OSM is incomplete: Mililani
-I/II, Mountain View, Barbers Point, Kupono, Waiawa Phase 1, and Mahi are
-unnamed or missing. The named farms sit on B soils, consistent with the SUP
+ac (class C); Lanikuhana (14.7 MW) 106 ac (D/E). OSM is incomplete: Mountain View and Kupono
+are missing (Barbers Point and Mahi are unbuilt). Waiawa Phase 1 and
+Hoʻohana sit in the Urban district; Mililani I on D/E. The named farms sit on B soils, consistent with the SUP
 census (`notes/sup-census.md`): utility-scale solar has been built on the
 capped classes through the SUP tier, on legacy-landholder parcels that were
 in pasture or cane rotation. An independent pass over the same OSM

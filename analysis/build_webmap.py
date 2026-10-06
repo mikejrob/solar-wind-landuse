@@ -120,6 +120,14 @@ def main():
             outers = [Polygon([(q["lon"], q["lat"]) for q in mm["geometry"]]) for mm in e.get("members", []) if mm.get("role") in ("outer", "") and "geometry" in mm and len(mm["geometry"]) >= 4]
             if outers: feats.append({"name": tg.get("name") or "", "mw": tg.get("plant:output:electricity") or "", "operator": tg.get("operator") or "", "osm": f"{e['type']}/{e['id']}", "geometry": unary_union([make_valid(o) for o in outers])})
     sol = fix(gpd.GeoDataFrame(feats, crs=4326).to_crs(CRS)); sol["acres"] = (sol.geometry.area / M2AC).round(1)
+    # OSM output tags on solar+battery hybrids sum PV and battery MW; show PV MW
+    # (MWh storage) from HECO's renewable project status board / developer releases.
+    HYBRID_MW = {"relation/17393661": "39 MW PV + 156 MWh (Mililani I)",
+                 "way/1161246454": "36 MW PV + 144 MWh",
+                 "way/1175181473": "12.5 MW PV + 50 MWh",
+                 "way/1560177092": "52 MW PV + 208 MWh",
+                 "relation/19251113": "30 MW PV + 240 MWh"}
+    sol["mw"] = sol["osm"].map(HYBRID_MW).fillna(sol["mw"])
     sizes["solar_osm.geojson"] = write(sol, "solar_osm.geojson", tol=2)
 
     mil = gpd.read_parquet(GIS / "military" / "oahu_military_screen.parquet").to_crs(CRS); mil = fix(mil)

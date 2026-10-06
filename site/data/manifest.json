@@ -1,5 +1,5 @@
 {
- "built": "2026-09-07",
+ "built": "2026-10-06",
  "layers": {
   "slud.geojson": {
    "features": 3,
@@ -22,8 +22,8 @@
    "bytes": 82554
   },
   "solar_osm.geojson": {
-   "features": 47,
-   "bytes": 42906
+   "features": 51,
+   "bytes": 48216
   },
   "military.geojson": {
    "features": 59,

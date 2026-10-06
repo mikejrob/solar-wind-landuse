@@ -8,8 +8,9 @@ Each named area is identified by owner-of-record (data/oahu_ag_owners.csv)
 and/or a lat/lon box (WGS84) around the place. For every matching
 ag-district parcel the script reports LSB class acres, slope-band acres,
 2020 ag use, grid distance, and whether it sits in the modeled B/C draw.
-Existing solar plants come from OpenStreetMap (power=plant, plant:source=
-solar; Overpass pull 2026-09-07, data/gis/osm_solar_plants_oahu.json).
+Existing solar plants come from OpenStreetMap (power=plant, plant:source
+containing "solar"; Overpass pull 2026-10-06 by osm_footprint_check.py
+--refresh, data/gis/osm_solar_plants_oahu.json).
 
 Outputs: data/oahu_review_area_screen.csv (per area totals),
          data/oahu_review_area_parcels.csv (per parcel),
