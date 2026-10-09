@@ -10,6 +10,9 @@ analyses, kept in-repo (unlike the bulk scrape caches under the gitignored
   `notes/community-resistance-cases.md`. Organized by island; see its
   `MANIFEST.md` for each file's provenance and the link-only sources (PUC
   Salesforce dockets, paywalled news) that could not be downloaded.
+- **`official-land-screens/`** — HSEO's 2026 review of the Hartley/Roberts
+  report, plus links to the NREL, HECO IGP, and HSEO documents behind
+  `notes/official-land-screens.md`; see its `MANIFEST.md`.
 - **`procurement/`** — PUC/Environment-Hawaii pages behind
   `notes/project-pipeline-mortality.md`; see its `MANIFEST.md`.
 

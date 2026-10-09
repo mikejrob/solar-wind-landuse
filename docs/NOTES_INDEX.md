@@ -260,6 +260,17 @@ carries a [V]/[P]/[U] status tag pointing back to the per-thread notes.
 
 > Grid-thread notes (oahu-bulk-delivery, oahu-grid-public-record) are frozen copies as of 2026-07-12; development continues in the `oahu-grid` repository.
 
+### official-land-screens.md
+How Hawaiian Electric and HSEO estimate Oʻahu land for utility solar. Every
+official estimate since 2021 adopts NREL's PV-Alt-1 screen (3,810 MW on about
+24,700 acres), which excludes state and federal land, the Urban district, and
+90% of B/C soils, and counts D/E in full to 30% slope. Built Oʻahu solar sits
+mostly on the excluded land (40% Urban district, 40% ag B/C, 20% ag D/E).
+HECO's plan of record assumes land is limited by current policy and names no
+solar beyond the pipeline. Quotes with page numbers from the IGP Report,
+Supplemental Response, PUC I&A modifications, HSEO Pathways, the 2026 fuels
+study, and HSEO's 2026 review of the Hartley/Roberts report.
+
 ### process-cost-channel.md
 Synthesis of the procurement notes into the price record. Key figures: award
 prices $0.08–0.10/kWh (Stage 1, [V]) to ~$0.21–0.23 (Stage 3, [P] pending
